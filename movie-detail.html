@@ -1,0 +1,37 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="movie-detail.css">
+    <title>Movie Detail</title>
+</head>
+<body>
+    <nav>
+        <a href="movie.html">Home</a>
+    </nav>
+    <div id="movie-detail"></div>
+
+    <script>
+        const movieDetail = document.getElementById('movie-detail');
+        const movie = JSON.parse(localStorage.getItem('selectedMovie'));
+
+        console.log('Fetched Movie:', movie); // Debug line
+
+        if (movie) {
+            movieDetail.innerHTML = `
+                <h1>${movie.title} (${movie.year})</h1>
+                <img src="${movie.image}" alt="${movie.title}">
+                <p><strong>Genre:</strong> ${movie.genre}</p>
+                <p><strong>Rating:</strong> ${movie.rating}</p>
+                <p><strong>Cast:</strong> ${movie.cast.join(', ')}</p>
+                <p><strong>Plot:</strong> ${movie.plot}</p>
+            `;
+        } else {
+            movieDetail.innerHTML = '<p>No movie selected.</p>'; // Fallback message
+        }
+    </script>
+</body>
+</html>
