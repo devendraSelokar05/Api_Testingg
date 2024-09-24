@@ -73,94 +73,27 @@ app.post('/upload/video-from-url', async (req, res) => {
 
 // Movies data (for your movie API)
 let movies = [
-  {
-    "id": 1,
-    "title": "Stree 2",
-    "year": "2024",
-    "genre": "Horror Comedy",
-    "rating": "9/10",
-    "cast": ["Rajkumar Rao", "Shraddha Kapoor", "Pankaj Tripathi", "Aparshakti Khurana"],
-    "plot": "In the small town of Chanderi, a mysterious woman, known as 'Stree,' appears every year during the local festival and kidnaps men, leaving behind only their clothes. The town believes this is the work of a vengeful spirit who seeks revenge on men for wronging her.",
-    "image": "https://res.cloudinary.com/dnp4lqlux/image/upload/v1727065607/fj8hy2bfsxpjwrybpopr.webp"
+ {
+    "id":1,
+    "title": "MUNJYA",
+    "year": 2024,
+    "rank": 5,
+    "rankChange": "▲ +5",
+    "rating": 66,
+    "imdbRating": 6.5,
+    "imdbVotes": "21k",
+    "backdropImage": "https://res.cloudinary.com/dnp4lqlux/image/upload/v1727198436/cz2bv235xugnodkvuqe0.webp",
+    "posterImage": "https://res.cloudinary.com/dnp4lqlux/image/upload/v1727198718/bxihkuajfucczza4ldhc.webp",
+    "duration": "2h 3min",
+    "highestRank": 1,
+    "top10Days": 10,
+    "top100Days": 50,
+    "top1000Days": 100,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "$9.99"},
+      {"platform": "Amazon Prime", "price": "$7.99"}
+    ]
   },
-  {
-    "id": 2,
-    "title": "Fighter",
-    "year":"2024",
-    "genre": "Action",
-    "rating":"7.5/10",
-    "cast" : ["Hrithik Roshan", "Deepika Padukone", "Anil Kapoor", "Karn Singh Grover"],
-    "plot" :"Shamsher Pathania fulfills his lifelong dream and becomes a member of the Indian air force. As he faces rigorous challenges, Patty must rise above his own limitations to become a true hero",
-    "image": "https://res.cloudinary.com/dnp4lqlux/image/upload/v1727065833/wm8c5injxpce2olm2iuv.webp"
-
-},
-
-{
-  "id": 3,
-  "title": "Animal",
-  "year":"2023",
-  "genre": "Action/Thriller",
-  "rating":"6.2/10",
-  "cast" : ["Ranbir Kapoor", "Rashmika Mandanna", "Anil Kapoor", "Tripti Dimri", "Bobby Deol"],
-  "plot" :"The son of a wealthy, powerful industrialist returns to India and undergoes a remarkable transformation as he becomes consumed by a quest for vengeance against those threatening his father's life.",
-  "image": "https://res.cloudinary.com/dnp4lqlux/image/upload/v1727065956/zftinugwxm0rvujf6avw.webp"
-
-
-
-},
-
-{
-"id": 4,
-"title": "KGF CHAPTER-2",
-"year":"2022",
-"genre": "Action/Thriller",
-"rating":"8.5/10",
-"cast" : ["Rocking Star Yash", "Srinidhi Shetty", "Raveena Tandon", "Sanjay Dutt"],
-"plot" :"Rocky successfully rises as the leader and saviour of the people of the Kolar Gold Fields. But, in his goal to fulfil his mother's wishes, Rocky must tackle Adheera, Inayat Khalil and Ramika Sen.",
-"image": "https://res.cloudinary.com/dnp4lqlux/image/upload/v1727066278/sli2ihusjsbojjbmzvpq.webp"
-
-
-},
-
-{
-"id": 5,
-"title": "Pushpa:The Rise Part-01",
-"year":"2021",
-"genre": "Action/Thriller",
-"rating":"8/10",
-"cast" : ["Allu Arjun", "Rashmika Mandanna", "Fahadh Faasil", "Samantha Ruth Prabhu"],
-"plot" :"A labourer named Pushpa makes enemies as he rises in the world of red sandalwood smuggling. However, violence erupts when the police attempt to bring down his illegal business.",
-"image": "https://res.cloudinary.com/dnp4lqlux/image/upload/v1727066387/yowmeivtst88grnvpitb.webp"
-
-
-},
-
-{
-"id": 6,
-"title": "Spider-Man: No Way Home ",
-"year":"2021",
-"genre": "Action/Fantasy",
-"rating":"8/10",
-"cast" : ["Tom Holland", "Zendaya", "Tobey Maguire", "Marisa Tomei", "Andrew Garfield"],
-"plot" :"Spider-Man seeks the help of Doctor Strange to forget his exposed secret identity as Peter Parker. However, Strange's spell goes horribly wrong, leading to unwanted guests entering their universe.",
-"image": "https://res.cloudinary.com/dnp4lqlux/image/upload/v1727066464/jgmlwowspmbziheh2f22.webp"
-
-
-
-},
-
-{
-"id": 7,
-"title": "Doctor Strange In The Multiverse Of Madness",
-"year":"2021",
-"genre": "Action//Horror",
-"rating":"6.9/10",
-"cast" : ["Benedict Cumberbatch", "Elizabeth Olsen", "Xochitl Gomez", "Hayley Atwell", "Benedict Wong"],
-"plot" :"Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple   threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse",
-"image": "https://res.cloudinary.com/dnp4lqlux/image/upload/v1727066553/aviq7psm4llxknywcuvg.webp"
-
-
-},
  
 
 
