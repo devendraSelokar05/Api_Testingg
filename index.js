@@ -90,8 +90,8 @@ let movies = [
     "top100Days": 50,
     "top1000Days": 100,
     "watchOptions": [
-      {"platform": "Netflix", "price": "$9.99"},
-      {"platform": "Amazon Prime", "price": "$7.99"}
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
     ]
   },
  
