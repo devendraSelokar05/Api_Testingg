@@ -161,29 +161,7 @@ let movies = [
 
 
 },
-
-{
-  "id": 8,
-  "title": "MUNJYA",
-  "year": 2024,
-  "rank": 5,
-  "rankChange": "▲ +5",
-  "rating": 66,
-  "imdbRating": 6.5,
-  "imdbVotes": "21k",
-  "backdropImage": "https://images.justwatch.com/backdrop/317639257/s1440/munjha.webp",
-  "posterImage": "https://www.justwatch.com/images/backdrop/319976161/s640/munjha/munjha",
-  "duration": "2h 3min",
-  "highestRank": 1,
-  "top10Days": 10,
-  "top100Days": 50,
-  "top1000Days": 100,
-  "watchOptions": [
-    {"platform": "Netflix", "price": "$9.99"},
-    {"platform": "Amazon Prime", "price": "$7.99"}
-
-  ]
-}
+ 
 
 
 ];
