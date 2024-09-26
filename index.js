@@ -25,7 +25,7 @@ let movies = [
     "rating": 96,
     "imdbRating": 9.2,
     "imdbVotes": "2m",
-    "backgroundImage": "https://images.justwatch.com/backdrop/10043150/s1440/game-of-thrones.webp/game-of-thrones.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/10043150/s1440/game-of-thrones.webp/game-of-thrones.webp",
     "posterImage": "https://images.justwatch.com/poster/297859466/s166/game-of-thrones.webp",
     "duration": "58min",
     "highestRank": 1,
@@ -45,7 +45,7 @@ let movies = [
     "rating": 76,
     "imdbRating": 7,
     "imdbVotes": "7.8k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/319782457/s1440/terminator-zero.webp/terminator-zero.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/319782457/s1440/terminator-zero.webp/terminator-zero.webp",
     "posterImage": "https://images.justwatch.com/poster/319782454/s166/terminator-zero.webp",
     "duration": "50min",
     "highestRank": 1,
@@ -67,7 +67,7 @@ let movies = [
     "rating": 79,
     "imdbRating": 7.6,
     "imdbVotes": "27k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/320515994/s1440/kill-2024.webp/kill-2024.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/320515994/s1440/kill-2024.webp/kill-2024.webp",
     "posterImage": "https://images.justwatch.com/poster/317138629/s166/kill-2024.webp",
     "duration": "1h 45min",
     "highestRank": 1,
@@ -91,7 +91,7 @@ let movies = [
     "rating": 74,
     "imdbRating": 8.6,
     "imdbVotes": "174k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/309349707/s1440/shogun-2024.webp/shogun-2024.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/309349707/s1440/shogun-2024.webp/shogun-2024.webp",
     "posterImage": "https://images.justwatch.com/poster/309349704/s166/shogun-2024.webp",
     "duration": "59min",
     "highestRank": 1,
@@ -114,7 +114,7 @@ let movies = [
     "rating": 79,
     "imdbRating": 7.6,
     "imdbVotes": "24k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/319090905/s1440/stree-2.webp/stree-2.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/319090905/s1440/stree-2.webp/stree-2.webp",
     "posterImage": "https://images.justwatch.com/poster/319603130/s166/stree-2.webp",
     "duration": "  2h 27min",
     "highestRank": 1,
@@ -137,8 +137,8 @@ let movies = [
     "rating": 80,
     "imdbRating": 9.0,
     "imdbVotes": "97k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/306672231/s1440/panchayat.webp/panchayat.webp",
-    "posterImage": "https://images.justwatch.com/poster/316699631/s166/panchayat.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/302477284/s1440/mirzapur.webp/mirzapur.webp",
+    "posterImage": "https://images.justwatch.com/poster/98979565/s166/mirzapur.webp",
     "duration": "35min",
     "highestRank": 1,
     "top10Days": 292,
@@ -157,7 +157,7 @@ let movies = [
     "rating": 95,
     "imdbRating": 8.4,
     "imdbVotes": "446k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/317367735/s1440/house-of-the-dragon.webp/house-of-the-dragon.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/317367735/s1440/house-of-the-dragon.webp/house-of-the-dragon.webp",
     "posterImage": "https://images.justwatch.com/poster/301444667/s166/house-of-the-dragon.webp",
     "duration": "  1h 3min",
     "highestRank": 1,
@@ -180,7 +180,7 @@ let movies = [
     "rating": 88,
     "imdbRating": 6.9,
     "imdbVotes": "380k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/320045052/s1440/the-lord-of-the-rings-the-rings-of-power.webp/the-lord-of-the-rings-the-rings-of-power.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/320045052/s1440/the-lord-of-the-rings-the-rings-of-power.webp/the-lord-of-the-rings-the-rings-of-power.webp",
     "posterImage": "https://images.justwatch.com/poster/260075695/s166/the-lord-of-the-rings-the-rings-of-power.webp",
     "duration": "  1h 8min",
     "highestRank": 1,
@@ -202,7 +202,7 @@ let movies = [
     "rating": 72,
     "imdbRating": 5.7,
     "imdbVotes": "3.7k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/320023808/s1440/harold-and-the-purple-crayon-2024.webp/harold-and-the-purple-crayon-2024.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/320023808/s1440/harold-and-the-purple-crayon-2024.webp/harold-and-the-purple-crayon-2024.webp",
     "posterImage": "https://images.justwatch.com/poster/316496135/s166/harold-and-the-purple-crayon-2024.webp",
     "duration": "  1h 8min",
     "highestRank": 1,
@@ -225,8 +225,8 @@ let movies = [
     "rating": 79,
     "imdbRating": 8.4,
     "imdbVotes": "87k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/302477284/s1440/mirzapur.webp/mirzapur.webp",
-    "posterImage": "https://res.cloudinary.com/dnp4lqlux/image/upload/v1727198718/bxihkuajfucczza4ldhc.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/306672231/s1440/panchayat.webp/panchayat.webp",
+    "posterImage": "https://images.justwatch.com/poster/316699631/s166/panchayat.webp",
     "duration": "50min",
     "highestRank": 1,
     "top10Days": 1003,
@@ -244,8 +244,8 @@ let movies = [
     "rating": 56,
     "imdbRating": 5.1,
     "imdbVotes": "4.8k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/320204860/s1440/they-listen.webp/they-listen.webp",
-    "posterImage": "https://images.justwatch.com/backdrop/320204860/s1440/they-listen.webp/they-listen.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/320204860/s1440/they-listen.webp/they-listen.webp",
+    "posterImage": "https://images.justwatch.com/poster/318949087/s166/they-listen.webp",
     "duration": "  1h 8min",
     "highestRank": 1,
     "top10Days": 47,
@@ -267,7 +267,7 @@ let movies = [
     "rating": 84,
     "imdbRating": 8.2,
     "imdbVotes": "4.9k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/319735385/s1440/gyaarah-gyaarah.webp/gyaarah-gyaarah.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/319735385/s1440/gyaarah-gyaarah.webp/gyaarah-gyaarah.webp",
     "posterImage": "https://images.justwatch.com/poster/320432932/s166/gyaarah-gyaarah.webp",
     "duration": "  1h 8min",
     "highestRank": 1,
@@ -289,7 +289,7 @@ let movies = [
     "rating": 77,
     "imdbRating": 8.2,
     "imdbVotes": "10k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/320002670/s1440/shekhar-home.webp/shekhar-home.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/320002670/s1440/shekhar-home.webp/shekhar-home.webp",
     "posterImage": "https://images.justwatch.com/poster/319810199/s166/shekhar-home.webp",
     "duration": "  1h 8min",
     "highestRank": 1,
@@ -312,7 +312,7 @@ let movies = [
     "rating": 75,
     "imdbRating": 2.5,
     "imdbVotes": "10k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/316456492/s1440/touch-0.webp/touch-0.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/316456492/s1440/touch-0.webp/touch-0.webp",
     "posterImage": "https://images.justwatch.com/poster/314498863/s166/touch-0.webp",
     "duration": "  2h 1min",
     
@@ -327,12 +327,12 @@ let movies = [
     "id":15,
     "title": "Watchmen",
     "year": 2009,
-    "rank":612,
+    "rank":618,
     "rankChange": "+300",
     "rating": 92,
     "imdbRating": 7.6,
     "imdbVotes": "589k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/179879377/s1440/watchmen.webp/watchmen.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/179879377/s1440/watchmen.webp/watchmen.webp",
     "posterImage": "https://images.justwatch.com/poster/211398541/s166/watchmen.webp",
     "duration": "  2h 42min",
     "highestRank": 3,
@@ -354,7 +354,7 @@ let movies = [
     "rating": 81,
     "imdbRating": 7.5,
     "imdbVotes": "4.8k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/320517305/s1440/didi-di-di.webp/didi-di-di.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/320517305/s1440/didi-di-di.webp/didi-di-di.webp",
     "posterImage": "https://images.justwatch.com/poster/320858544/s166/didi-di-di.webp",
     "duration": "  1h 34min",
    
@@ -368,12 +368,12 @@ let movies = [
     "id":17,
     "title": "Watchmen",
     "year": 2009,
-    "rank":612,
+    "rank":618,
     "rankChange": "+300",
     "rating": 92,
     "imdbRating": 7.6,
     "imdbVotes": "589k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/179879377/s1440/watchmen.webp/watchmen.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/179879377/s1440/watchmen.webp/watchmen.webp",
     "posterImage": "https://images.justwatch.com/poster/211398541/s166/watchmen.webp",
     "duration": "  2h 42min",
     "highestRank": 3,
@@ -396,7 +396,7 @@ let movies = [
     "rating": 6.7,
     "imdbRating": 7.6,
     "imdbVotes": "26k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/318955943/s1440/horizon-an-american-saga-chapter-1.webp/horizon-an-american-saga-chapter-1.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/318955943/s1440/horizon-an-american-saga-chapter-1.webp/horizon-an-american-saga-chapter-1.webp",
     "posterImage": "https://images.justwatch.com/poster/317958898/s166/horizon-an-american-saga-chapter-1.webp",
     "duration": "3h 1min",
     "watchOptions": [
@@ -413,7 +413,7 @@ let movies = [
     "rating": 83,
     "imdbRating": 6.2,
     "imdbVotes": "42k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/311602034/s1440/despicable-me-4-2024.webp/despicable-me-4-2024.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/311602034/s1440/despicable-me-4-2024.webp/despicable-me-4-2024.webp",
     "posterImage": "https://images.justwatch.com/poster/317954832/s166/despicable-me-4-2024.webp",
     "duration": "  1h 34min",
     "watchOptions": [
@@ -431,7 +431,7 @@ let movies = [
     "rating": 89,
     "imdbRating": 6.6,
     "imdbVotes": "102k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/311705103/s1440/twisters.webp/twisters.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/311705103/s1440/twisters.webp/twisters.webp",
     "posterImage": "https://images.justwatch.com/poster/315736719/s166/twisters.webp",
     "duration": "  2h 2min",
     "watchOptions": [
@@ -442,7 +442,7 @@ let movies = [
 
 
   {
-    "id":20,
+    "id":21,
     "title": "Trap",
     "year": 2024,
     "rank":78,
@@ -450,7 +450,7 @@ let movies = [
     "rating": 78,
     "imdbRating": 6.0,
     "imdbVotes": "66k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/319859355/s1440/trap-2024.webp/trap-2024.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/319859355/s1440/trap-2024.webp/trap-2024.webp",
     "posterImage": "https://images.justwatch.com/poster/319859347/s166/trap-2024.webp",
     "duration": " 1h 45min",
     "watchOptions": [
@@ -461,7 +461,7 @@ let movies = [
 
   
   {
-    "id":21,
+    "id":22,
     "title": "Inside Out",
     "year": 2015,
     "rank":134,
@@ -469,7 +469,7 @@ let movies = [
     "rating": 97,
     "imdbRating": 8.1,
     "imdbVotes": "829k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/178301399/s1440/inside-out.webp/inside-out.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/178301399/s1440/inside-out.webp/inside-out.webp",
     "posterImage": "https://images.justwatch.com/poster/178301392/s166/inside-out.webp",
     "duration": "  1h 35min",
     "highestRank": 3,
@@ -484,7 +484,7 @@ let movies = [
 
   
   {
-    "id":22,
+    "id":23,
     "title": "Kinds of Kindness",
     "year": 2024,
     "rank":23,
@@ -492,7 +492,7 @@ let movies = [
     "rating": 70,
     "imdbRating": 6.6,
     "imdbVotes": "36k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/319989886/s1440/kinds-of-kindness.webp/kinds-of-kindness.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/319989886/s1440/kinds-of-kindness.webp/kinds-of-kindness.webp",
     "posterImage": "https://images.justwatch.com/poster/316333916/s166/kinds-of-kindness.webp",
     "duration": "  2h 44min",
     "highestRank": 10,
@@ -507,13 +507,13 @@ let movies = [
 
   
   {
-    "id":23,
+    "id":24,
     "title": "The Bikeriders",
     "year": 2024,
     "rating": 82,
     "imdbRating": 6.7,
     "imdbVotes": "46k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/318653942/s1440/the-bikeriders.webp/the-bikeriders.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/318653942/s1440/the-bikeriders.webp/the-bikeriders.webp",
     "posterImage": "https://images.justwatch.com/poster/318653937/s166/the-bikeriders.webp",
     "duration": "  1h 46min",
     "watchOptions": [
@@ -522,7 +522,7 @@ let movies = [
     ]
   },
   {
-    "id":24,
+    "id":25,
     "title": "Harold and the Purple Crayon",
     "year": 2024,
     "rank":18,
@@ -530,7 +530,7 @@ let movies = [
     "rating": 72,
     "imdbRating": 5.7,
     "imdbVotes": "3.7k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/320023808/s1440/harold-and-the-purple-crayon-2024.webp/harold-and-the-purple-crayon-2024.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/320023808/s1440/harold-and-the-purple-crayon-2024.webp/harold-and-the-purple-crayon-2024.webp",
     "posterImage": "https://images.justwatch.com/poster/316496135/s166/harold-and-the-purple-crayon-2024.webp",
     "duration": "  1h 8min",
     "highestRank": 1,
@@ -545,12 +545,12 @@ let movies = [
 
   
   {
-    "id":25,
+    "id":26,
     "title": "Watchers 1: UFOs are Real, Burgeoning, and Not Going Away",
     "year": 2010,
     "imdbRating": 7.2,
     "imdbVotes": "34k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/270361552/s1440/.webp.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/270361552/s1440/.webp.webp",
     "posterImage": "https://images.justwatch.com/poster/270361550/s166/.webp",
     "duration": "  2h 44min",
     "watchOptions": [
@@ -560,12 +560,12 @@ let movies = [
   },
 
   {
-    "id":26,
+    "id":27,
     "title": "You Gotta Believe",
     "year": 2024,
     "imdbRating": 5.4,
     "imdbVotes": "350k",
-    "backgroundImage": "",
+    "backdropImage": "",
     "posterImage": "",
     "duration": "  1h 44min",
     "watchOptions": [
@@ -578,11 +578,11 @@ let movies = [
 
   
   {
-    "id":27,
+    "id":28,
     "title": "Batman: The Dark Knight Returns, Part 1",
     "year": 2012,
     "rating": 88,
-    "backgroundImage": "https://images.justwatch.com/backdrop/320550333/s1440/batman-the-dark-knight-returns-part-1.webp/batman-the-dark-knight-returns-part-1.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/320550333/s1440/batman-the-dark-knight-returns-part-1.webp/batman-the-dark-knight-returns-part-1.webp",
     "posterImage": "https://images.justwatch.com/poster/144994120/s166/batman-the-dark-knight-returns-part-1.webp",
     "duration": "  1h 16min",
     "watchOptions": [
@@ -592,7 +592,7 @@ let movies = [
   },
 
   {
-    "id":28,
+    "id":29,
     "title": "The Fast and the Furious",
     "year": 2001,
     "rank":729,
@@ -600,7 +600,7 @@ let movies = [
     "rating": 92,
     "imdbRating": 6.8,
     "imdbVotes": "426k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/39788434/s1440/the-fast-and-the-furious.webp/the-fast-and-the-furious.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/39788434/s1440/the-fast-and-the-furious.webp/the-fast-and-the-furious.webp",
     "posterImage": "https://images.justwatch.com/poster/216020619/s166/the-fast-and-the-furious.webp",
     "duration": "  1h 46min",
     "highestRank": 25,
@@ -615,7 +615,7 @@ let movies = [
 
 
   {
-    "id":29,
+    "id":30,
     "title": "Extraction",
     "year": 2020,
     "rank":724,
@@ -623,7 +623,7 @@ let movies = [
     "rating": 94,
     "imdbRating": 6.8,
     "imdbVotes": "270k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/177559132/s1440/extraction-2020.webp/extraction-2020.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/177559132/s1440/extraction-2020.webp/extraction-2020.webp",
     "posterImage": "https://images.justwatch.com/poster/176320403/s166/extraction-2020.webp",
     "duration": "  1h 56min",
     "highestRank": 1,
@@ -638,7 +638,7 @@ let movies = [
 
   
   {
-    "id":30,
+    "id":31,
     "title": "MULAN",
     "year": 2020,
     "rank":722,
@@ -646,7 +646,7 @@ let movies = [
     "rating": 74,
     "imdbRating": 5.8,
     "imdbVotes": "160k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/199842629/s1440/mulan-2020.webp/mulan-2020.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/199842629/s1440/mulan-2020.webp/mulan-2020.webp",
     "posterImage": "https://images.justwatch.com/poster/166091963/s166/mulan-2020.webp",
     "duration": "  1h 55min",
     "highestRank": 1,
@@ -661,7 +661,7 @@ let movies = [
 
 
   {
-    "id":31,
+    "id":32,
     "title": "Captain America: The First Avenger",
     "year": 2011,
     "rank":768,
@@ -669,7 +669,7 @@ let movies = [
     "rating": 96,
     "imdbRating": 6.9,
     "imdbVotes": "910k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/198981995/s1440/captain-america-the-first-avenger.webp/captain-america-the-first-avenger.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/198981995/s1440/captain-america-the-first-avenger.webp/captain-america-the-first-avenger.webp",
     "posterImage": "https://images.justwatch.com/poster/8646724/s166/captain-america-the-first-avenger.webp",
     "duration": "  2h 4min",
     "highestRank": 4,
@@ -684,7 +684,7 @@ let movies = [
 
   
   {
-    "id":32,
+    "id":33,
     "title": "Deadpool 2",
     "year": 2018,
     "rank":411,
@@ -692,7 +692,7 @@ let movies = [
     "rating": 96,
     "imdbRating": 7.6,
     "imdbVotes": "683k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/55613628/s1440/deadpool-2.webp/deadpool-2.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/55613628/s1440/deadpool-2.webp/deadpool-2.webp",
     "posterImage": "https://images.justwatch.com/poster/61870323/s166/deadpool-2.webp",
     "duration": "  1h 59min",
     "highestRank": 4,
@@ -708,13 +708,13 @@ let movies = [
 
   
   {
-    "id":33,
+    "id":34,
     "title": "Deadpool & Wolverine",
     "year": 2024,
     "rating": 95,
     "imdbRating": 8.0,
     "imdbVotes": "288k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/319139252/s1440/deadpool-3.webp/deadpool",
+    "backdropImage": "https://images.justwatch.com/backdrop/319139252/s1440/deadpool-3.webp/deadpool",
     "posterImage": "https://images.justwatch.com/poster/318387357/s166/deadpool-3.webp",
     "duration": "  2h 8min",
     "watchOptions": [
@@ -725,7 +725,7 @@ let movies = [
 
   
   {
-    "id":34,
+    "id":35,
     "title": "The Marvels",
     "year": 2023,
     "rank":3046,
@@ -733,7 +733,7 @@ let movies = [
     "rating": 69,
     "imdbRating": 5.5,
     "imdbVotes": "133k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/319480621/s1440/the-marvels.webp/the-marvels.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/319480621/s1440/the-marvels.webp/the-marvels.webp",
     "posterImage": "https://images.justwatch.com/poster/244761547/s166/the-marvels.webp",
     "duration": "  1h 45min",
     "highestRank": 4,
@@ -748,7 +748,7 @@ let movies = [
 
   
   {
-    "id":35,
+    "id":36,
     "title": "The Guardians of the Galaxy Holiday Special",
     "year": 2022,
     "rank":964,
@@ -756,7 +756,7 @@ let movies = [
     "rating": 90,
     "imdbRating": 6.9,
     "imdbVotes": "97k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/301916630/s1440/the-guardians-of-the-galaxy-holiday-special.webp/the-guardians-of-the-galaxy-holiday-special.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/301916630/s1440/the-guardians-of-the-galaxy-holiday-special.webp/the-guardians-of-the-galaxy-holiday-special.webp",
     "posterImage": "https://images.justwatch.com/poster/301774755/s166/the-guardians-of-the-galaxy-holiday-special.webp",
     "duration": "  1h 45min",
     "highestRank": 4,
@@ -771,7 +771,7 @@ let movies = [
 
    
   {
-    "id":36,
+    "id":37,
     "title": "Ant-Man and the Wasp: Quantumania",
     "year": 2023,
     "rank":2819,
@@ -779,7 +779,7 @@ let movies = [
     "rating": 73,
     "imdbRating": 6.0,
     "imdbVotes": "238k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/303438481/s1440/ant-man-3.webp/ant-man-3.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/303438481/s1440/ant-man-3.webp/ant-man-3.webp",
     "posterImage": "https://images.justwatch.com/poster/302408188/s166/ant-man-3.webp",
     "duration": "  2h 5min",
     "highestRank": 1,
@@ -793,7 +793,7 @@ let movies = [
   },
 
   {
-    "id":37,
+    "id":38,
     "title": "Thor: Love and Thunder",
     "year": 2022,
     "rank":903,
@@ -801,7 +801,7 @@ let movies = [
     "rating": 77,
     "imdbRating": 6.2,
     "imdbVotes": "238k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/300409455/s1440/thor-love-and-thunder.webp/thor-love-and-thunder.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/300409455/s1440/thor-love-and-thunder.webp/thor-love-and-thunder.webp",
     "posterImage": "https://images.justwatch.com/poster/300706764/s166/thor-love-and-thunder.webp",
     "duration": "  1h 59min",
     "highestRank": 1,
@@ -816,7 +816,7 @@ let movies = [
 
   
   {
-    "id":38,
+    "id":39,
     "title": "Avengers: Endgame",
     "year": 2019,
     "rank":535,
@@ -824,7 +824,7 @@ let movies = [
     "rating": 97,
     "imdbRating": 8.4,
     "imdbVotes": "1m",
-    "backgroundImage": "https://images.justwatch.com/backdrop/108456304/s1440/avengers-endgame.webp/avengers-endgame.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/108456304/s1440/avengers-endgame.webp/avengers-endgame.webp",
     "posterImage": "https://images.justwatch.com/poster/118339636/s166/avengers-endgame.webp",
     "duration": "  3h 1min",
     "highestRank": 1,
@@ -839,7 +839,7 @@ let movies = [
 
  
   {
-    "id":39,
+    "id":40,
     "title": "Venom",
     "year": 2018,
     "rank":343,
@@ -847,7 +847,7 @@ let movies = [
     "rating": 88,
     "imdbRating": 6.6,
     "imdbVotes": "550k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/83182674/s1440/venom-2018.webp/venom-2018.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/83182674/s1440/venom-2018.webp/venom-2018.webp",
     "posterImage": "https://images.justwatch.com/poster/57745763/s166/venom-2018.webp",
     "duration": "  1h 52min",
     "highestRank": 1,
@@ -862,7 +862,7 @@ let movies = [
 
 
   {
-    "id":40,
+    "id":41,
     "title": "Logan",
     "year": 2017,
     "rank":330,
@@ -870,7 +870,7 @@ let movies = [
     "rating": 96,
     "imdbRating": 8.1,
     "imdbVotes": "861k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/10573557/s1440/logan.webp/logan.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/10573557/s1440/logan.webp/logan.webp",
     "posterImage": "https://images.justwatch.com/poster/76832017/s166/logan.webp",
     "duration": "  2h 17min",
     "highestRank": 6,
@@ -884,7 +884,7 @@ let movies = [
   },
 
   {
-    "id":41,
+    "id":42,
     "title": "The Amazing Spider-Man",
     "year": 2012,
     "rank":406,
@@ -892,7 +892,7 @@ let movies = [
     "rating": 92,
     "imdbRating": 6.9,
     "imdbVotes": "714k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/204659694/s1440/the-amazing-spider-man.webp/the-amazing-spider-man.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/204659694/s1440/the-amazing-spider-man.webp/the-amazing-spider-man.webp",
     "posterImage": "https://images.justwatch.com/poster/300565238/s166/the-amazing-spider-man.webp",
     "duration": "  2h 16min",
     "highestRank": 1,
@@ -906,7 +906,7 @@ let movies = [
   },
 
   {
-    "id":42,
+    "id":43,
     "title": "Ravanasura",
     "year": 2023,
     "rank":605,
@@ -914,7 +914,7 @@ let movies = [
     "rating": 40,
     "imdbRating": 5.7,
     "imdbVotes": "2.6k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/304258843/s1440/ravanasura.webp/ravanasura.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/304258843/s1440/ravanasura.webp/ravanasura.webp",
     "posterImage": "https://images.justwatch.com/poster/316652935/s166/ravanasura.webp",
     "duration": "  2h 22min",
     "highestRank": 1,
@@ -929,60 +929,60 @@ let movies = [
 
   
   {
-    "id":43,
-    "title": "Asthram",
-    "year": 1983,
-    "rank":14844,
-    "rankChange": "+36156",
-    "rating": 70,
-    "imdbRating": 6.7,
-    "imdbVotes": "2.6k",
-    "backgroundImage": "https://images.justwatch.com/poster/320238785/s166/asthram.webp",
-    "posterImage": "https://images.justwatch.com/poster/320238785/s166/asthram.webp",
-    "duration": "  2h 5min",
-    "highestRank": 809,
-    "top10Days": 0,
-    "top100Days": 0,
-    "top1000Days": 1,
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
-  },
-
-
-  
-  {
-    "id":43,
-    "title": "Asthram",
-    "year": 1983,
-    "rank":14844,
-    "rankChange": "+36156",
-    "rating": 70,
-    "imdbRating": 6.7,
-    "imdbVotes": "2.6k",
-    "backgroundImage": "https://images.justwatch.com/poster/320238785/s166/asthram.webp",
-    "posterImage": "https://images.justwatch.com/poster/320238785/s166/asthram.webp",
-    "duration": "  2h 5min",
-    "highestRank": 809,
-    "top10Days": 0,
-    "top100Days": 0,
-    "top1000Days": 1,
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
-  },
-
-  
-  {
     "id":44,
+    "title": "Asthram",
+    "year": 1983,
+    "rank":14844,
+    "rankChange": "+36156",
+    "rating": 70,
+    "imdbRating": 6.7,
+    "imdbVotes": "2.6k",
+    "backdropImage": "https://images.justwatch.com/poster/320238785/s166/asthram.webp",
+    "posterImage": "https://images.justwatch.com/poster/320238785/s166/asthram.webp",
+    "duration": "  2h 5min",
+    "highestRank": 809,
+    "top10Days": 0,
+    "top100Days": 0,
+    "top1000Days": 1,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ]
+  },
+
+
+  
+  {
+    "id":45,
+    "title": "Asthram",
+    "year": 1983,
+    "rank":14844,
+    "rankChange": "+36156",
+    "rating": 70,
+    "imdbRating": 6.7,
+    "imdbVotes": "2.6k",
+    "backdropImage": "https://images.justwatch.com/poster/320238785/s166/asthram.webp",
+    "posterImage": "https://images.justwatch.com/poster/320238785/s166/asthram.webp",
+    "duration": "  2h 5min",
+    "highestRank": 809,
+    "top10Days": 0,
+    "top100Days": 0,
+    "top1000Days": 1,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ]
+  },
+
+  
+  {
+    "id":46,
     "title": "Bholaa",
     "year": 2024,
     "rank":3262,
     "rankChange": "+2513",
     "rating": 53,
-    "backgroundImage": "https://images.justwatch.com/backdrop/304668096/s1440/bholaa-2022.webp/bholaa-2022.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/304668096/s1440/bholaa-2022.webp/bholaa-2022.webp",
     "posterImage": "https://images.justwatch.com/poster/309164504/s166/bholaa-2022.webp",
     "duration": "  2h 24min",
     "highestRank": 1,
@@ -998,10 +998,10 @@ let movies = [
   
   
   {
-    "id":45,
+    "id":47,
     "title": "DEVARA PART 1",
     "year": 2024,
-    "backgroundImage": "https://images.justwatch.com/backdrop/320975332/s1440/ntr-30.webp/ntr-30.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/320975332/s1440/ntr-30.webp/ntr-30.webp",
     "posterImage": "https://images.justwatch.com/backdrop/320975332/s1440/ntr-30.webp/ntr-30.webp",
     "duration": "  2h 50min",
     "watchOptions": [
@@ -1012,13 +1012,13 @@ let movies = [
 
 
   {
-    "id":43,
+    "id":48,
     "title": "Nosferatu the Vampyre ",
     "year": 1979,
     "rating": 81,
     "imdbRating": 7.4,
     "imdbVotes": "4.1k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/305921926/s1440/nosferatu-the-vampyre.webp/nosferatu-the-vampyre.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/305921926/s1440/nosferatu-the-vampyre.webp/nosferatu-the-vampyre.webp",
     "posterImage": "https://images.justwatch.com/poster/202949568/s166/nosferatu-the-vampyre.webp",
     "duration": "  2h 5min",
     "watchOptions": [
@@ -1028,7 +1028,7 @@ let movies = [
   },
 
   {
-    "id":44,
+    "id":49,
     "title": "The Umbrella Academy",
     "year": 2019,
     "rank":143,
@@ -1036,7 +1036,7 @@ let movies = [
     "rating": 92,
     "imdbRating": 7.8,
     "imdbVotes": "293k",
-    "backgroundImage": "https://images.justwatch.com/backdrop/286521525/s1440/the-umbrella-academy.webp/the-umbrella-academy.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/286521525/s1440/the-umbrella-academy.webp/the-umbrella-academy.webp",
     "posterImage": "https://images.justwatch.com/poster/286305959/s166/the-umbrella-academy.webp",
     "duration": "  2h 5min",
     "highestRank": 2,
@@ -1050,24 +1050,14 @@ let movies = [
   },
 
   
-  {
-    "id":45,
-    "title": "They Follow",
-    "backgroundImage": "https://images.justwatch.com/poster/309220933/s166/.webp",
-    "posterImage": "https://images.justwatch.com/poster/309220933/s166/.webp",
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
-  },
 
 
   {
-    "id":46,
+    "id":50,
     "title": "Gladiator II",
     "year": 2024,
     "rating": 85,
-    "backgroundImage": "https://images.justwatch.com/backdrop/318611814/s1440/gladiator-2.webp/gladiator-2.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/318611814/s1440/gladiator-2.webp/gladiator-2.webp",
     "posterImage": "https://images.justwatch.com/poster/318611809/s166/gladiator-2.webp",
     "duration": "  2h 30min",
     "watchOptions": [
@@ -1078,10 +1068,10 @@ let movies = [
 
 
   {
-    "id":47,
+    "id":51,
     "title": "Thunderbolts*",
     "year": 2025,
-    "backgroundImage": "https://images.justwatch.com/backdrop/300660467/s1440/thunderbolts.webp/thunderbolts.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/300660467/s1440/thunderbolts.webp/thunderbolts.webp",
     "posterImage": "https://images.justwatch.com/poster/313902806/s166/thunderbolts.webp",
     "duration": "  2h 0min",
     "watchOptions": [
@@ -1091,7 +1081,7 @@ let movies = [
   },
 
   {
-    "id":48,
+    "id":52,
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "year": 2001,
     "rank":123,
@@ -1099,7 +1089,7 @@ let movies = [
     "rating": 96,
     "imdbRating": 8.9,
     "imdbVotes": "2m",
-    "backgroundImage": "https://images.justwatch.com/backdrop/301567989/s1440/the-lord-of-the-rings-the-fellowship-of-the-ring.webp/the-lord-of-the-rings-the-fellowship-of-the-ring.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/301567989/s1440/the-lord-of-the-rings-the-fellowship-of-the-ring.webp/the-lord-of-the-rings-the-fellowship-of-the-ring.webp",
     "posterImage": "",
     "duration": "  2h 58min",
     "highestRank": 5,
@@ -1113,10 +1103,10 @@ let movies = [
   },
 
   {
-    "id":49,
+    "id":53,
     "title": "Mr. Crocket",
     "year": 2024,
-    "backgroundImage": "https://images.justwatch.com/backdrop/320870614/s1440/mr-crocket.webp/mr-crocket.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/320870614/s1440/mr-crocket.webp/mr-crocket.webp",
     "posterImage": "https://images.justwatch.com/poster/320870611/s166/mr-crocket.webp",
     "duration": "  1h 28min",
     "watchOptions": [
@@ -1128,10 +1118,10 @@ let movies = [
 
   
   {
-    "id":50,
+    "id":54,
     "title": "MAGPIE",
     "year": 2024,
-    "backgroundImage": "https://images.justwatch.com/backdrop/311632079/s1440/.webp.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/311632079/s1440/.webp.webp",
     "posterImage": "https://images.justwatch.com/poster/311632078/s166/.webp",
     "duration": "  1h 30min",
     "watchOptions": [
