@@ -938,56 +938,10 @@ let movies = [
     ]
   },
 
+
   
   {
     "id":44,
-    "title": "Asthram",
-    "year": 1983,
-    "rank":14844,
-    "rankChange": "+36156",
-    "rating": 70,
-    "imdbRating": 6.7,
-    "imdbVotes": "2.6k",
-    "backdropImage": "https://images.justwatch.com/poster/320238785/s166/asthram.webp",
-    "posterImage": "https://images.justwatch.com/poster/320238785/s166/asthram.webp",
-    "duration": "  2h 5min",
-    "highestRank": 809,
-    "top10Days": 0,
-    "top100Days": 0,
-    "top1000Days": 1,
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
-  },
-
-
-  
-  {
-    "id":45,
-    "title": "Asthram",
-    "year": 1983,
-    "rank":14844,
-    "rankChange": "+36156",
-    "rating": 70,
-    "imdbRating": 6.7,
-    "imdbVotes": "2.6k",
-    "backdropImage": "https://images.justwatch.com/poster/320238785/s166/asthram.webp",
-    "posterImage": "https://images.justwatch.com/poster/320238785/s166/asthram.webp",
-    "duration": "  2h 5min",
-    "highestRank": 809,
-    "top10Days": 0,
-    "top100Days": 0,
-    "top1000Days": 1,
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
-  },
-
-  
-  {
-    "id":46,
     "title": "Bholaa",
     "year": 2024,
     "rank":3262,
@@ -1009,7 +963,7 @@ let movies = [
   
   
   {
-    "id":47,
+    "id":45,
     "title": "DEVARA PART 1",
     "year": 2024,
     "backdropImage": "https://images.justwatch.com/backdrop/320975332/s1440/ntr-30.webp/ntr-30.webp",
@@ -1023,7 +977,7 @@ let movies = [
 
 
   {
-    "id":48,
+    "id":46,
     "title": "Nosferatu the Vampyre ",
     "year": 1979,
     "rating": 81,
@@ -1039,7 +993,7 @@ let movies = [
   },
 
   {
-    "id":49,
+    "id":47,
     "title": "The Umbrella Academy",
     "year": 2019,
     "rank":143,
@@ -1064,7 +1018,7 @@ let movies = [
 
 
   {
-    "id":50,
+    "id":48,
     "title": "Gladiator II",
     "year": 2024,
     "rating": 85,
@@ -1079,7 +1033,7 @@ let movies = [
 
 
   {
-    "id":51,
+    "id":49,
     "title": "Thunderbolts*",
     "year": 2025,
     "backdropImage": "https://images.justwatch.com/backdrop/300660467/s1440/thunderbolts.webp/thunderbolts.webp",
@@ -1092,7 +1046,7 @@ let movies = [
   },
 
   {
-    "id":52,
+    "id":50,
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "year": 2001,
     "rank":123,
@@ -1114,7 +1068,7 @@ let movies = [
   },
 
   {
-    "id":53,
+    "id":51,
     "title": "Mr. Crocket",
     "year": 2024,
     "backdropImage": "https://images.justwatch.com/backdrop/320870614/s1440/mr-crocket.webp/mr-crocket.webp",
@@ -1129,7 +1083,7 @@ let movies = [
 
   
   {
-    "id":54,
+    "id":52,
     "title": "MAGPIE",
     "year": 2024,
     "backdropImage": "https://images.justwatch.com/backdrop/311632079/s1440/.webp.webp",
