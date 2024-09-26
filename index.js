@@ -565,8 +565,8 @@ let movies = [
     "year": 2024,
     "imdbRating": 5.4,
     "imdbVotes": "350k",
-    "backdropImage": "",
-    "posterImage": "",
+    "backdropImage": "https://images.justwatch.com/backdrop/320911483/s1440/you-gotta-believe.webp/you-gotta-believe.webp",
+    "posterImage": "https://images.justwatch.com/poster/320060716/s166/you-gotta-believe.webp",
     "duration": "  1h 44min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
