@@ -31,7 +31,11 @@ let movies = [
     "highestRank": 1,
     "top10Days": 2113,
     "top100Days": 3180,
-    "top1000Days": 3191
+    "top1000Days": 3191,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ]
 
   },
  
@@ -143,7 +147,10 @@ let movies = [
     "highestRank": 1,
     "top10Days": 292,
     "top100Days": 702,
-    "top1000Days": 852
+    "top1000Days": 852,
+    "watchOptions": [
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ]
   },
 
 
@@ -231,7 +238,11 @@ let movies = [
     "highestRank": 1,
     "top10Days": 1003,
     "top100Days": 1877,
-    "top1000Days": 2141
+    "top1000Days": 2141,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ]
   },
 
   
@@ -1090,7 +1101,7 @@ let movies = [
     "imdbRating": 8.9,
     "imdbVotes": "2m",
     "backdropImage": "https://images.justwatch.com/backdrop/301567989/s1440/the-lord-of-the-rings-the-fellowship-of-the-ring.webp/the-lord-of-the-rings-the-fellowship-of-the-ring.webp",
-    "posterImage": "",
+    "posterImage": "https://images.justwatch.com/poster/8731868/s166/the-lord-of-the-rings-the-fellowship-of-the-ring.webp",
     "duration": "  2h 58min",
     "highestRank": 5,
     "top10Days": 2,
