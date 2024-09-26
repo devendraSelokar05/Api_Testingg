@@ -1098,7 +1098,7 @@ let movies = [
 ];
 
 // Endpoint to get all movies
-app.get('/api/popular-movies', (req, res) => {
+app.get('/api/New-movies', (req, res) => {
   res.json(movies);
 });
 
