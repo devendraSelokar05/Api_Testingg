@@ -35,7 +35,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "70k",
+    "dislikes": "2.1k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
 
   },
  
@@ -59,7 +64,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "10k",
+    "dislikes": "3k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
@@ -81,7 +91,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "3k",
+    "dislikes": "400",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
  
 
@@ -105,7 +120,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "15k",
+    "dislikes": "959",
+    "watchlistText": "List",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
@@ -128,7 +148,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "200k",
+    "dislikes": "100",
+    "watchlistText": "Watchist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
@@ -150,7 +175,12 @@ let movies = [
     "top1000Days": 852,
     "watchOptions": [
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "4k",
+    "dislikes": "555",
+    "watchlistText": "List",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
@@ -174,7 +204,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "44k",
+    "dislikes": "3k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
  
 
@@ -197,7 +232,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "57k",
+    "dislikes": "2.1",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
  
   {
@@ -219,7 +259,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "51",
+    "dislikes": "10",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
@@ -242,7 +287,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "1.3k",
+    "dislikes": "200",
+    "watchlistText": "List",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   
@@ -265,7 +315,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "51",
+    "dislikes": "23",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
@@ -288,12 +343,17 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "100",
+    "dislikes": "12k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
     "id":13,
-    "title": "Shekhar Home  ",
+    "title": "Shekhar Home",
     "year": 2024,
     "rank":46,
     "rankChange": "+96",
@@ -310,7 +370,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "52",
+    "dislikes": "7",
+    "watchlistText": "List",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   
@@ -330,7 +395,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "36",
+    "dislikes": "9",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   
@@ -353,7 +423,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "17k",
+    "dislikes": "1k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
@@ -372,7 +447,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "64",
+    "dislikes": "8",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
  
@@ -391,7 +471,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "544",
+    "dislikes": "3k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
@@ -409,7 +494,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "28k",
+    "dislikes": "140",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
@@ -427,7 +517,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "1.9k",
+    "dislikes": "310",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
@@ -446,7 +541,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "913",
+    "dislikes": "221",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   
@@ -469,7 +569,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "35k",
+    "dislikes": "1.1k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   
@@ -492,7 +597,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "700",
+    "dislikes": "300",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   
@@ -511,7 +621,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "801",
+    "dislikes": "151",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
@@ -528,7 +643,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "20",
+    "dislikes": "20k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
@@ -545,7 +665,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "500",
+    "dislikes": "1.3k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
  
@@ -564,7 +689,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "1.9k",
+    "dislikes": "235",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
@@ -586,7 +716,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "13k",
+    "dislikes": "1k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
@@ -609,7 +744,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "12k",
+    "dislikes": "648",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   
@@ -632,7 +772,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "8.2k",
+    "dislikes": "2.8k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
@@ -655,7 +800,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "21k",
+    "dislikes": "729",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   
@@ -678,7 +828,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "33k",
+    "dislikes": "1.3k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
@@ -698,7 +853,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "5.3k",
+    "dislikes": "196k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   
@@ -721,7 +881,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "4.4k",
+    "dislikes": "1.9k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   
@@ -744,7 +909,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "8.1k",
+    "dislikes": "876",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
    
@@ -767,7 +937,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "16k",
+    "dislikes": "1k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
@@ -789,7 +964,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "20k",
+    "dislikes": "10k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   
@@ -812,7 +992,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "98k",
+    "dislikes": "1.5k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
  
@@ -835,7 +1020,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "38k",
+    "dislikes": "2.5k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
@@ -858,7 +1048,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "31k",
+    "dislikes": "1.1k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
@@ -880,7 +1075,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "100k",
+    "dislikes": "2.1k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
@@ -902,7 +1102,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "77",
+    "dislikes": "2.1k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
@@ -924,7 +1129,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "159K",
+    "dislikes": "112",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   
@@ -941,7 +1151,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "78k",
+    "dislikes": "3.2k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
@@ -958,7 +1173,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "691",
+    "dislikes": "135",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
@@ -980,7 +1200,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "29k",
+    "dislikes": "2.4k",
+    "watchlistText": "List",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   
@@ -1001,7 +1226,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "79",
+    "dislikes": "6",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
@@ -1021,8 +1251,8 @@ let movies = [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
     ],
-    "likes": "57k",
-    "dislikes": "2.1k",
+    "likes": "38k",
+    "dislikes": "10k",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist"
