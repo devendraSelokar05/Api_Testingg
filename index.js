@@ -1070,9 +1070,21 @@ let movies = [
 
 ];
 
-// Endpoint to get all movies
 app.get('/api/New-movies', (req, res) => {
-  res.json(movies);
+  const titleQuery = req.query.title ? req.query.title.toLowerCase() : null;
+
+  if (titleQuery) {
+    // Search movie by title
+    const movieByTitle = movies.find(movie => movie.title.toLowerCase() === titleQuery);
+    if (movieByTitle) {
+      return res.json(movieByTitle);
+    } else {
+      return res.status(404).json({ message: 'Movie not found by title' });
+    }
+  } else {
+
+    res.json(movies);
+  }
 });
 
 // Endpoint to get a single movie by ID
@@ -1084,27 +1096,6 @@ app.get('/api/New-movies/:id', (req, res) => {
   }
   res.json(movie);
 });
-// Endpoint to get a single movie by title
-app.get('/api/New-movies/:query', (req, res) => {
-  const query = req.params.query.toLowerCase(); // Convert to lowercase for case-insensitive search
-  
-  // Try searching by ID first
-  const movieById = movies.find(movie => movie.id === parseInt(query));
-  
-  // If no movie found by ID, search by title
-  const movieByTitle = movies.find(movie => movie.title.toLowerCase() === query);
-  
-  // If a movie is found by either ID or title, return it
-  if (movieById) {
-    return res.json(movieById);
-  } else if (movieByTitle) {
-    return res.json(movieByTitle);
-  } else {
-    // If neither is found, return 404
-    return res.status(404).json({ message: 'Movie not found' });
-  }
-});
-
 
 // Endpoint to add a new movie
 app.post('/api/movies', (req, res) => {
