@@ -510,31 +510,9 @@ let movies = [
       {"platform": "Amazon Prime", "price": "Rs500/-"}
     ]
   },
+
   {
     "id":24,
-    "title": "Harold and the Purple Crayon",
-    "year": 2024,
-    "rank":18,
-    "rankChange": "+13",
-    "rating": 72,
-    "imdbRating": 5.7,
-    "imdbVotes": "3.7k",
-    "backdropImage": "https://images.justwatch.com/backdrop/320023808/s1440/harold-and-the-purple-crayon-2024.webp/harold-and-the-purple-crayon-2024.webp",
-    "posterImage": "https://images.justwatch.com/poster/316496135/s166/harold-and-the-purple-crayon-2024.webp",
-    "duration": "  1h 8min",
-    "highestRank": 1,
-    "top10Days": 47,
-    "top100Days": 197,
-    "top1000Days": 938,
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
-  },
-
-  
-  {
-    "id":25,
     "title": "Watchers 1: UFOs are Real, Burgeoning, and Not Going Away",
     "year": 2010,
     "imdbRating": 7.2,
@@ -549,7 +527,7 @@ let movies = [
   },
 
   {
-    "id":26,
+    "id":25,
     "title": "You Gotta Believe",
     "year": 2024,
     "imdbRating": 5.4,
@@ -567,7 +545,7 @@ let movies = [
 
   
   {
-    "id":27,
+    "id":26,
     "title": "Batman: The Dark Knight Returns, Part 1",
     "year": 2012,
     "rating": 88,
@@ -581,7 +559,7 @@ let movies = [
   },
 
   {
-    "id":28,
+    "id":27,
     "title": "The Fast and the Furious",
     "year": 2001,
     "rank":729,
@@ -604,7 +582,7 @@ let movies = [
 
 
   {
-    "id":29,
+    "id":28,
     "title": "Extraction",
     "year": 2020,
     "rank":724,
@@ -627,7 +605,7 @@ let movies = [
 
   
   {
-    "id":30,
+    "id":29,
     "title": "MULAN",
     "year": 2020,
     "rank":722,
@@ -650,7 +628,7 @@ let movies = [
 
 
   {
-    "id":31,
+    "id":30,
     "title": "Captain America: The First Avenger",
     "year": 2011,
     "rank":768,
@@ -673,7 +651,7 @@ let movies = [
 
   
   {
-    "id":32,
+    "id":31,
     "title": "Deadpool 2",
     "year": 2018,
     "rank":411,
@@ -697,7 +675,7 @@ let movies = [
 
   
   {
-    "id":33,
+    "id":32,
     "title": "Deadpool & Wolverine",
     "year": 2024,
      "rank":4,
@@ -716,7 +694,7 @@ let movies = [
 
   
   {
-    "id":34,
+    "id":33,
     "title": "The Marvels",
     "year": 2023,
     "rank":3046,
@@ -739,7 +717,7 @@ let movies = [
 
   
   {
-    "id":35,
+    "id":34,
     "title": "The Guardians of the Galaxy Holiday Special",
     "year": 2022,
     "rank":964,
@@ -762,7 +740,7 @@ let movies = [
 
    
   {
-    "id":36,
+    "id":35,
     "title": "Ant-Man and the Wasp: Quantumania",
     "year": 2023,
     "rank":2819,
@@ -784,7 +762,7 @@ let movies = [
   },
 
   {
-    "id":37,
+    "id":36,
     "title": "Thor: Love and Thunder",
     "year": 2022,
     "rank":903,
@@ -807,7 +785,7 @@ let movies = [
 
   
   {
-    "id":38,
+    "id":37,
     "title": "Avengers: Endgame",
     "year": 2019,
     "rank":535,
@@ -830,7 +808,7 @@ let movies = [
 
  
   {
-    "id":39,
+    "id":38,
     "title": "Venom",
     "year": 2018,
     "rank":343,
@@ -853,7 +831,7 @@ let movies = [
 
 
   {
-    "id":40,
+    "id":39,
     "title": "Logan",
     "year": 2017,
     "rank":330,
@@ -875,7 +853,7 @@ let movies = [
   },
 
   {
-    "id":41,
+    "id":40,
     "title": "The Amazing Spider-Man",
     "year": 2012,
     "rank":406,
@@ -897,7 +875,7 @@ let movies = [
   },
 
   {
-    "id":42,
+    "id":41,
     "title": "Ravanasura",
     "year": 2023,
     "rank":605,
@@ -921,7 +899,7 @@ let movies = [
 
   
   {
-    "id":43,
+    "id":42,
     "title": "Bholaa",
     "year": 2024,
     "rank":3262,
@@ -943,7 +921,7 @@ let movies = [
   
   
   {
-    "id":44,
+    "id":43,
     "title": "DEVARA PART 1",
     "year": 2024,
     "rank":1,
@@ -959,7 +937,7 @@ let movies = [
 
 
   {
-    "id":45,
+    "id":44,
     "title": "Nosferatu the Vampyre ",
     "year": 1979,
     "rating": 81,
@@ -975,7 +953,7 @@ let movies = [
   },
 
   {
-    "id":46,
+    "id":45,
     "title": "The Umbrella Academy",
     "year": 2019,
     "rank":143,
@@ -1000,7 +978,7 @@ let movies = [
 
 
   {
-    "id":47,
+    "id":46,
     "title": "Gladiator II",
     "year": 2024,
     "rating": 85,
@@ -1015,7 +993,7 @@ let movies = [
 
 
   {
-    "id":48,
+    "id":47,
     "title": "Thunderbolts*",
     "year": 2025,
     "backdropImage": "https://images.justwatch.com/backdrop/300660467/s1440/thunderbolts.webp/thunderbolts.webp",
@@ -1028,7 +1006,7 @@ let movies = [
   },
 
   {
-    "id":49,
+    "id":48,
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "year": 2001,
     "rank":123,
@@ -1050,7 +1028,7 @@ let movies = [
   },
 
   {
-    "id":50,
+    "id":49,
     "title": "Mr. Crocket",
     "year": 2024,
     "backdropImage": "https://images.justwatch.com/backdrop/320870614/s1440/mr-crocket.webp/mr-crocket.webp",
@@ -1065,7 +1043,7 @@ let movies = [
 
   
   {
-    "id":51,
+    "id":50,
     "title": "MAGPIE",
     "year": 2024,
     "backdropImage": "https://images.justwatch.com/backdrop/311632079/s1440/.webp.webp",
