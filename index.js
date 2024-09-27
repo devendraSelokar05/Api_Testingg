@@ -319,7 +319,7 @@ let movies = [
     "title": "TOUCH",
     "year": 2024,
     "rank":66,
-    "rankChange": "-",
+    "rankChange": "-3",
     "rating": 75,
     "imdbRating": 2.5,
     "imdbVotes": "10k",
@@ -361,7 +361,7 @@ let movies = [
     "title": "Dìdi (弟弟)",
     "year": 2024,
     "rank":81,
-    "rankChange": "-",
+    "rankChange": "-1",
     "rating": 81,
     "imdbRating": 7.5,
     "imdbVotes": "4.8k",
@@ -399,6 +399,7 @@ let movies = [
     "title": "Despicable Me 4",
     "year": 2024,
     "rank":83,
+    "rankChange": "+300",
     "rating": 83,
     "imdbRating": 6.2,
     "imdbVotes": "42k",
@@ -416,7 +417,7 @@ let movies = [
     "title": "Twisters",
     "year": 2024,
     "rank":89,
-    "rankChange": "-",
+    "rankChange": "+2950",
     "rating": 89,
     "imdbRating": 6.6,
     "imdbVotes": "102k",
@@ -499,6 +500,8 @@ let movies = [
     "id":23,
     "title": "The Bikeriders",
     "year": 2024,
+    "rank":23,
+    "rankChange": "+43",
     "rating": 82,
     "imdbRating": 6.7,
     "imdbVotes": "46k",
@@ -515,6 +518,8 @@ let movies = [
     "id":24,
     "title": "Watchers 1: UFOs are Real, Burgeoning, and Not Going Away",
     "year": 2010,
+    "rank":20,
+    "rankChange": "+430",
     "imdbRating": 7.2,
     "imdbVotes": "34k",
     "backdropImage": "https://images.justwatch.com/backdrop/270361552/s1440/.webp.webp",
@@ -530,6 +535,8 @@ let movies = [
     "id":25,
     "title": "You Gotta Believe",
     "year": 2024,
+    "rank":21,
+    "rankChange": "+53",
     "imdbRating": 5.4,
     "imdbVotes": "350k",
     "backdropImage": "https://images.justwatch.com/backdrop/320911483/s1440/you-gotta-believe.webp/you-gotta-believe.webp",
@@ -548,6 +555,8 @@ let movies = [
     "id":26,
     "title": "Batman: The Dark Knight Returns, Part 1",
     "year": 2012,
+    "rank":1,
+    "rankChange": "+1",
     "rating": 88,
     "backdropImage": "https://images.justwatch.com/backdrop/320550333/s1440/batman-the-dark-knight-returns-part-1.webp/batman-the-dark-knight-returns-part-1.webp",
     "posterImage": "https://images.justwatch.com/poster/144994120/s166/batman-the-dark-knight-returns-part-1.webp",
@@ -982,6 +991,10 @@ let movies = [
     "title": "Gladiator II",
     "year": 2024,
     "rating": 85,
+    "rank":500,
+    "rankChange": "+4300",
+    "imdbRating": 6.3,
+    "imdbVotes": "593k",
     "backdropImage": "https://images.justwatch.com/backdrop/318611814/s1440/gladiator-2.webp/gladiator-2.webp",
     "posterImage": "https://images.justwatch.com/poster/318611809/s166/gladiator-2.webp",
     "duration": "  2h 30min",
@@ -1063,7 +1076,7 @@ app.get('/api/New-movies', (req, res) => {
 });
 
 // Endpoint to get a single movie by ID
-app.get('/api/movies/:id', (req, res) => {
+app.get('/api/New-movies/:id', (req, res) => {
   const id = req.params.id;
   const movie = movies.find(movie => movie.id === parseInt(id));
   if (!movie) {
@@ -1071,6 +1084,27 @@ app.get('/api/movies/:id', (req, res) => {
   }
   res.json(movie);
 });
+// Endpoint to get a single movie by title
+app.get('/api/New-movies/:query', (req, res) => {
+  const query = req.params.query.toLowerCase(); // Convert to lowercase for case-insensitive search
+  
+  // Try searching by ID first
+  const movieById = movies.find(movie => movie.id === parseInt(query));
+  
+  // If no movie found by ID, search by title
+  const movieByTitle = movies.find(movie => movie.title.toLowerCase() === query);
+  
+  // If a movie is found by either ID or title, return it
+  if (movieById) {
+    return res.json(movieById);
+  } else if (movieByTitle) {
+    return res.json(movieByTitle);
+  } else {
+    // If neither is found, return 404
+    return res.status(404).json({ message: 'Movie not found' });
+  }
+});
+
 
 // Endpoint to add a new movie
 app.post('/api/movies', (req, res) => {
