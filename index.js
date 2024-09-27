@@ -1037,7 +1037,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "57k",
+    "dislikes": "2.1k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
@@ -1050,7 +1055,12 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": 129,
+    "dislikes": 47,
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
 
