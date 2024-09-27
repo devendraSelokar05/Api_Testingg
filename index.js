@@ -1009,13 +1009,23 @@ let movies = [
     "id":47,
     "title": "Thunderbolts*",
     "year": 2025,
+    "rank":123,
+    "rankChange": "+78",
+    "rating": 95,
+    "imdbRating": 8.8,
+    "imdbVotes": "490k",
     "backdropImage": "https://images.justwatch.com/backdrop/300660467/s1440/thunderbolts.webp/thunderbolts.webp",
     "posterImage": "https://images.justwatch.com/poster/313902806/s166/thunderbolts.webp",
     "duration": "  2h 0min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
+    ],
+    "likes": "57k",
+    "dislikes": "2.1k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
   },
 
   {
@@ -1049,6 +1059,11 @@ let movies = [
     "id":49,
     "title": "Mr. Crocket",
     "year": 2024,
+    "rank":1430,
+    "rankChange": "+7900",
+    "rating": 53,
+    "imdbRating": 4.8,
+    "imdbVotes": "2930k",
     "backdropImage": "https://images.justwatch.com/backdrop/320870614/s1440/mr-crocket.webp/mr-crocket.webp",
     "posterImage": "https://images.justwatch.com/poster/320870611/s166/mr-crocket.webp",
     "duration": "  1h 28min",
@@ -1056,8 +1071,8 @@ let movies = [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
     ],
-    "likes": 129,
-    "dislikes": 47,
+    "likes": "129",
+    "dislikes": "47",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist"
@@ -1069,6 +1084,11 @@ let movies = [
     "id":50,
     "title": "MAGPIE",
     "year": 2024,
+    "rank":143,
+    "rankChange": "+7",
+    "rating": 92,
+    "imdbRating": 7.8,
+    "imdbVotes": "293k",
     "backdropImage": "https://images.justwatch.com/backdrop/311632079/s1440/.webp.webp",
     "posterImage": "https://images.justwatch.com/poster/311632078/s166/.webp",
     "duration": "  1h 30min",
