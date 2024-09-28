@@ -9,6 +9,13 @@ const PORT = process.env.PORT || 5000;
 
 app.use(express.json());
 app.use(cors());
+app.use((req, res, next) => {
+  res.setHeader('Access-Control-Allow-Origin', '*'); // Allow all origins
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS'); // Allow specific methods
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type'); // Allow specific headers
+  next(); // Pass the request to the next middleware
+});
+
 
 
 
