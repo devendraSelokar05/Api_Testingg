@@ -1325,8 +1325,13 @@ let movies = [
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ]
-  },
+    ],
+    "likes": "129",
+    "dislikes": "47",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
+  }
 
 ];
 
@@ -1352,7 +1357,7 @@ app.get('/api/New-movies/:id', (req, res) => {
   const id = req.params.id;
   const movie = movies.find(movie => movie.id === parseInt(id));
   if (!movie) {
-    return res.status(404).json({ message: 'Movie not found' });
+    return res.status(404).json({ message: 'Movie not found by id' });
   }
   res.json(movie);
 });
