@@ -1362,7 +1362,7 @@ app.get('/api/New-movies', (req, res) => {
 });
 
 // Endpoint to get a single movie by ID
-app.get('/api/New-movies/:id', (req, res) => {
+app.get('/api/New-movies/:id?', (req, res) => {
   const id = req.params.id;
   const movie = movies.find(movie => movie.id === parseInt(id));
   if (!movie) {
