@@ -12,7 +12,7 @@
       "dest": "/index.js"
     },
     {
-      "src": "/api/New-movies/:id",  
+      "src": "/api/New-movies/(.*)",  
       "dest": "/index.js"
     },
     {
