@@ -8,11 +8,11 @@
     ],
     "routes": [
       {
-        "src": "/api/New-movies",  
+        "src": "/api/New-Movies",  
         "dest": "/index.js"
       },
       {
-        "src": "/api/New-movies/:id", 
+        "src": "/api/New-Movies/:id", 
         "dest": "/index.js"
       },
       {
