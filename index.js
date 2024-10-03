@@ -1276,7 +1276,7 @@ let movies = [
     "imdbRating": 8.8,
     "imdbVotes": "490k",
     "backdropImage": "https://images.justwatch.com/backdrop/300660467/s1440/thunderbolts.webp/thunderbolts.webp",
-    "posterImage": "https://images.justwatch.com/poster/313902806/s166/thunderbolts.webp",
+    "posterImage": "https://posterspy.com/wp-content/uploads/2022/06/thunderbolts-concept-by-rahalarts.jpg",
     "duration": "  2h 0min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
@@ -1299,7 +1299,7 @@ let movies = [
     "imdbRating": 8.9,
     "imdbVotes": "2m",
     "backdropImage": "https://images.justwatch.com/backdrop/301567989/s1440/the-lord-of-the-rings-the-fellowship-of-the-ring.webp/the-lord-of-the-rings-the-fellowship-of-the-ring.webp",
-    "posterImage": "https://images.justwatch.com/poster/8731868/s166/the-lord-of-the-rings-the-fellowship-of-the-ring.webp",
+    "posterImage": "https://images.moviesanywhere.com/198e228b071c60f5ad57e5f62fe60029/ff22cad6-2218-414d-b853-3f95d76905c7.jpg",
     "duration": "  2h 58min",
     "highestRank": 5,
     "top10Days": 2,
