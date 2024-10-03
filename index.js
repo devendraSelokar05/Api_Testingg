@@ -757,7 +757,7 @@ let movies = [
     "imdbRating": 5.8,
     "imdbVotes": "160k",
     "backdropImage": "https://images.justwatch.com/backdrop/199842629/s1440/mulan-2020.webp/mulan-2020.webp",
-    "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4EPMyq-wvb01-J4lTxBT3OboA7FLjdhIFJw&s",
+    "posterImage": "https://i2.wp.com/www.themoviedb.org/t/p/original/tt8TxCL2W1Arv7vMYfjXMUO8JBW.jpg",
     "duration": "  1h 55min",
     "highestRank": 1,
     "top10Days": 8,
