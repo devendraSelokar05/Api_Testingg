@@ -1433,7 +1433,7 @@ let movies = [
     "imdbRating": 7.5,
     "imdbVotes": "428k",
     "backdropImage": "https://images.justwatch.com/backdrop/312101749/s1440/small-things-like-these.webp/small-things-like-these.webp",
-    "posterImage": "https://m.media-amazon.com/images/M/MV5BYzM2MmVkY2QtMTdmOS00YmNhLTg3NjktNmY1YTQ3ODQ0MTAxXkEyXkFqcGc@._V1_.jpg",
+    "posterImage": "https://www.thehollywoodnews.com/wp-content/uploads/1_Art_SmallThingsLikeThese-691x1024.jpg",
     "duration": "  1h 38min",
     "highestRank": 1,
     "top10Days": 24,
@@ -1459,7 +1459,7 @@ let movies = [
     "rating": 47,
     "imdbRating": 6.5,
     "imdbVotes": "128k",
-    "backdropImage": "https://images.justwatch.com/backdrop/242015144/s1440/brothers-2015.webp/brothers-2015.webp",
+    "backdropImage": "https://images.justwatch.com/backdrop/320790220/s1440/brothers-2024.webp/brothers-2024.webp",
     "posterImage": "https://m.media-amazon.com/images/M/MV5BNzQ4Njg3Mjg5Nl5BMl5BanBnXkFtZTgwODE5MDg1NjE@._V1_.jpg",
     "duration": "  1h 28min",
     "highestRank": 1,
@@ -1476,6 +1476,172 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist"
   },
+
+  {
+    "id":55,
+    "title": "The Fire Inside",
+    "year": 2024,
+    "rank":46,
+    "rankChange": "▲ +4",
+    "rating": 47,
+    "imdbRating": 7.5,
+    "imdbVotes": "56k",
+    "backdropImage": "https://images.justwatch.com/backdrop/319494366/s1440/flint-strong.webp/flint-strong.webp",
+    "posterImage": "https://thesource.com/wp-content/uploads/2024/09/unnamed-6-1.jpg",
+    "duration": "  1h 49min",
+    "highestRank": 1,
+    "top10Days": 14,
+    "top100Days":17,
+    "top1000Days": 38,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "129",
+    "dislikes": "47",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
+  },
+
+  {
+    "id":56,
+    "title": "Where's Wanda?",
+    "year": 2024,
+    "rank":46,
+    "rankChange": "▲ +10",
+    "rating": 47,
+    "imdbRating": 6.5,
+    "imdbVotes": "46k",
+    "backdropImage": "https://images.justwatch.com/backdrop/320609232/s1440/wheres-wanda.webp/wheres-wanda.webp",
+    "posterImage": "https://cdn.cinematerial.com/p/297x/loqnf0a5/wheres-wanda-movie-poster-md.jpg?v=1726155943",
+    "duration": "  1h 49min",
+    "highestRank": 1,
+    "top10Days": 14,
+    "top100Days":17,
+    "top1000Days": 38,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "129",
+    "dislikes": "47",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
+  },
+
+  {
+    "id":57,
+    "title": "Salem's Lot ",
+    "year": 2024,
+    "rank":26,
+    "rankChange": "▲ +1",
+    "rating": 84,
+    "imdbRating": 6.8,
+    "imdbVotes": "82k",
+    "backdropImage": "https://images.justwatch.com/backdrop/320706218/s1440/salems-lot.webp/salems-lot.webp",
+    "posterImage": "https://images.justwatch.com/poster/313092965/s166/salems-lot.webp",
+    "duration": "  1h 53min",
+    "highestRank": 2,
+    "top10Days": 114,
+    "top100Days":127,
+    "top1000Days": 238,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "129",
+    "dislikes": "47",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
+  },
+
+  {
+    "id":58,
+    "title": "Rumours",
+    "year": 2024,
+    "rank":16,
+    "rankChange": "▲ +22",
+    "rating": 84,
+    "imdbRating": 6.6,
+    "imdbVotes": "340k",
+    "backdropImage": "https://images.justwatch.com/backdrop/315738774/s1440/rumours.webp/rumours.webp",
+    "posterImage": "https://images.justwatch.com/poster/320680690/s166/rumours.webp",
+    "duration": "  1h 49min",
+    "highestRank": 2,
+    "top10Days": 114,
+    "top100Days":127,
+    "top1000Days": 238,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "129",
+    "dislikes": "47",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
+  },
+  {
+    "id":59,
+    "title": "Howl's Moving Castle",
+    "year": 2004,
+    "rank":3480,
+    "rankChange": "▲ +2738",
+    "rating": 96,
+    "imdbRating": 8.2,
+    "imdbVotes": "463k",
+    "backdropImage": "https://images.justwatch.com/backdrop/9036037/s1440/howls-moving-castle.webp/howls-moving-castle.webp",
+    "posterImage": "https://images.justwatch.com/poster/168430901/s166/howls-moving-castle.webp",
+    "duration": "  1h 59min",
+    "highestRank": 18,
+    "top10Days": 0,
+    "top100Days":2,
+    "top1000Days": 385,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "117",
+    "dislikes": "565",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
+  },
+  {
+    "id":60,
+    "title": "Frasier",
+    "year": 1993,
+    "rank":7480,
+    "rankChange": "▲ +738",
+    "rating": 90,
+    "imdbRating": 8.2,
+    "imdbVotes": "97k",
+    "backdropImage": "https://images.justwatch.com/backdrop/257952226/s1440/frasier.webp/frasier.webp",
+    "posterImage": "https://images.justwatch.com/poster/88176663/s166/frasier.webp",
+    "duration": "  25min",
+    "highestRank": 1,
+    "top10Days": 24,
+    "top100Days":45,
+    "top1000Days": 1385,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "4.8",
+    "dislikes": "481",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
+  },
+
+
+
+
+
+
 ];
 
 app.get('/api/New-movies', (req, res) => {
