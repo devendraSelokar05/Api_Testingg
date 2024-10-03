@@ -588,30 +588,32 @@ let movies = [
   
   {
     "id":22,
-    "title": "Kinds of Kindness",
+    "title": "Raayan",
     "year": 2024,
-    "rank":23,
-    "rankChange": "▲ +43",
-    "rating": 70,
-    "imdbRating": 6.6,
-    "imdbVotes": "36k",
-    "backdropImage": "https://images.justwatch.com/backdrop/319989886/s1440/kinds-of-kindness.webp/kinds-of-kindness.webp",
-    "posterImage": "https://images.justwatch.com/poster/316333916/s166/kinds-of-kindness.webp",
-    "duration": "  2h 44min",
-    "highestRank": 10,
-    "top10Days": 1,
-    "top100Days": 32,
-    "top1000Days": 136,
+    "rank": 155,
+    "rankChange": "▲ -14",
+    "rating": 55,
+    "imdbRating": 6.5,
+    "imdbVotes": "8.k",
+    "backdropImage": "https://images.justwatch.com/backdrop/319476194/s1440/raayan.webp/raayan.webp",
+    "posterImage": "https://media.themoviedb.org/t/p/w500/dHMbqpG7vZk1iEJaEkCCyixFbos.jpg",
+    "duration": "2h 25min",
+    "highestRank": 2,
+    "top10Days": 13,
+    "top100Days": 54,
+    "top1000Days": 68,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
     ],
-    "likes": "700",
-    "dislikes": "300",
+    "likes": "70k",
+    "dislikes": "2.1k",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist"
+
   },
+ 
 
   
   {
