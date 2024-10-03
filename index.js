@@ -338,7 +338,7 @@ let movies = [
     "imdbRating": 8.2,
     "imdbVotes": "4.9k",
     "backdropImage": "https://images.justwatch.com/backdrop/319735385/s1440/gyaarah-gyaarah.webp/gyaarah-gyaarah.webp",
-    "posterImage": "https://images.justwatch.com/poster/320432932/s166/gyaarah-gyaarah.webp",
+    "posterImage": "https://i.scdn.co/image/ab67616d0000b2731a8592a35a69422ee7c3db58",
     "duration": "  1h 8min",
     "highestRank": 1,
     "top10Days": 44,
