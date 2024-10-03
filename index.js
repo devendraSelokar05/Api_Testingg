@@ -520,7 +520,7 @@ let movies = [
     "imdbRating": 6.6,
     "imdbVotes": "102k",
     "backdropImage": "https://images.justwatch.com/backdrop/311705103/s1440/twisters.webp/twisters.webp",
-    "posterImage": "https://c8.alamy.com/comp/2X5X98X/twisters-2024-directed-by-lee-isaac-chung-and-starring-glen-powell-katy-obrian-and-daisy-edgar-jones-storm-chasers-and-reckless-social-media-superstar-tyler-owens-collide-when-terrifying-phenomena-never-seen-before-are-unleashed-us-one-sheet-postereditorial-use-only-credit-bfa-warner-bros-2X5X98X.jpg",
+    "posterImage": "https://wallpapercave.com/wp/wp14206291.jpg",
     "duration": "  2h 2min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
