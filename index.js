@@ -544,7 +544,7 @@ let movies = [
     "imdbRating": 6.0,
     "imdbVotes": "66k",
     "backdropImage": "https://images.justwatch.com/backdrop/319859355/s1440/trap-2024.webp/trap-2024.webp",
-    "posterImage": "https://images.justwatch.com/poster/319859347/s166/trap-2024.webp",
+    "posterImage": "https://lh6.googleusercontent.com/proxy/I7bv_CEf2bj5yyOe0xITgdFZ7oDsJHaoOAUZUyeQbr-5Sz0Xsp7NOpnn51KP31bsrXKK9i-RWbhnYeZp7FC1ZP8",
     "duration": " 1h 45min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
