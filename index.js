@@ -1298,7 +1298,7 @@ let movies = [
     "rating": 96,
     "imdbRating": 8.9,
     "imdbVotes": "2m",
-    "backdropImage": "https://images.justwatch.com/backdrop/301567989/s1440/the-lord-of-the-rings-the-fellowship-of-the-ring.webp/the-lord-of-the-rings-the-fellowship-of-the-ring.webp",
+    "backdropImage": "https://c4.wallpaperflare.com/wallpaper/228/806/372/the-lord-of-the-rings-the-lord-of-the-rings-the-fellowship-of-the-ring-wallpaper-preview.jpg",
     "posterImage": "https://images.moviesanywhere.com/198e228b071c60f5ad57e5f62fe60029/ff22cad6-2218-414d-b853-3f95d76905c7.jpg",
     "duration": "  2h 58min",
     "highestRank": 5,
@@ -1318,16 +1318,47 @@ let movies = [
 
   {
     "id":49,
-    "title": "Mr. Crocket",
-    "year": 2024,
-    "rank":1430,
-    "rankChange": "▲ +7900",
-    "rating": 53,
-    "imdbRating": 4.8,
-    "imdbVotes": "2930k",
-    "backdropImage": "https://images.justwatch.com/backdrop/320870614/s1440/mr-crocket.webp/mr-crocket.webp",
-    "posterImage": "https://images.justwatch.com/poster/320870611/s166/mr-crocket.webp",
-    "duration": "  1h 28min",
+    "title": "It Follows",
+    "year": 2015,
+    "rank":234,
+    "rankChange": "▲ +330",
+    "rating": 89,
+    "imdbRating": 6.8,
+    "imdbVotes": "277k",
+    "backdropImage": "https://images.justwatch.com/backdrop/183675309/s1440/it-follows.webp/it-follows.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BNGZiYWRiYjAtODU0NS00YzAzLTk2MzQtZGVlMzVjM2M3MGQ3XkEyXkFqcGc@._V1_.jpg",
+    "duration": "  1h 41min",
+    "highestRank": 3,
+    "top10Days": 9,
+    "top100Days":2177,
+    "top1000Days": 1871,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "29k",
+    "dislikes": "2.4k",
+    "watchlistText": "List",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
+  },
+
+  {
+    "id":50,
+    "title": "Ridley",
+    "year": 2022,
+    "rank":430,
+    "rankChange": "▲ -21",
+    "rating": 43,
+    "imdbRating": 4.2,
+    "imdbVotes": "293k",
+    "backdropImage": "https://images.justwatch.com/backdrop/300670843/s1440/ridley.webp/ridley.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BYmMxNDZkYWItNWIyZC00NjgzLWJjMzktYzA3ZmQzNjhlMDlhXkEyXkFqcGc@._V1_.jpg",
+    "duration": "  1h 12min",
+    "highestRank": 2,
+    "top10Days": 14,
+    "top100Days":132,
+    "top1000Days": 183,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
@@ -1338,21 +1369,22 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist"
   },
-
-
-  
   {
-    "id":50,
-    "title": "MAGPIE",
-    "year": 2024,
-    "rank":143,
-    "rankChange": "▲ +7",
-    "rating": 92,
-    "imdbRating": 7.8,
+    "id":51,
+    "title": "Gremlins: Secrets of the Mogwai ",
+    "year": 2023,
+    "rank":130,
+    "rankChange": "▲ +20",
+    "rating": 47,
+    "imdbRating": 7.0,
     "imdbVotes": "293k",
-    "backdropImage": "https://images.justwatch.com/backdrop/311632079/s1440/.webp.webp",
-    "posterImage": "https://images.justwatch.com/poster/311632078/s166/.webp",
-    "duration": "  1h 30min",
+    "backdropImage": "https://images.justwatch.com/backdrop/306854096/s1440/gremlins-secrets-of-the-mogwai.webp/gremlins-secrets-of-the-mogwai.webp",
+    "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvogNLan5pA7oa45m0CBINLP7morc0gfCeQ&s",
+    "duration": "  23min",
+    "highestRank": 1,
+    "top10Days": 14,
+    "top100Days":12,
+    "top1000Days": 183,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
@@ -1362,7 +1394,7 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist"
-  }
+  },
 
 ];
 
