@@ -842,7 +842,7 @@ let movies = [
     "imdbRating": 8.0,
     "imdbVotes": "288k",
     "backdropImage": "https://images.justwatch.com/backdrop/319139252/s1440/deadpool-3.webp/deadpool",
-    "posterImage": "https://images.justwatch.com/poster/318387357/s166/deadpool-3.webp",
+    "posterImage": "https://xl.movieposterdb.com/24_07/2024/6263850/xl_deadpool-wolverine-movie-poster_a229c3b9.jpg",
     "duration": "  2h 8min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
@@ -866,7 +866,7 @@ let movies = [
     "imdbRating": 5.5,
     "imdbVotes": "133k",
     "backdropImage": "https://images.justwatch.com/backdrop/319480621/s1440/the-marvels.webp/the-marvels.webp",
-    "posterImage": "https://images.justwatch.com/poster/244761547/s166/the-marvels.webp",
+    "posterImage": "https://i.redd.it/j9glw1siky9b1.jpg",
     "duration": "  1h 45min",
     "highestRank": 4,
     "top10Days": 5,
