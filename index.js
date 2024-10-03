@@ -30,7 +30,7 @@ let movies = [
     "imdbRating": 9.2,
     "imdbVotes": "2m",
     "backdropImage": "https://images.justwatch.com/backdrop/10043150/s1440/game-of-thrones.webp/game-of-thrones.webp",
-    "posterImage": "https://images.justwatch.com/poster/297859466/s166/game-of-thrones.webp",
+    "posterImage": "https://thedigitalbits.com/media/k2/items/cache/6e4b2528701707a3ed973fc804a3e209_XL.jpg",
     "duration": "58min",
     "highestRank": 1,
     "top10Days": 2113,
