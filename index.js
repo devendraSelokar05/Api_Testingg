@@ -1460,7 +1460,7 @@ let movies = [
     "imdbRating": 6.5,
     "imdbVotes": "128k",
     "backdropImage": "https://images.justwatch.com/backdrop/320790220/s1440/brothers-2024.webp/brothers-2024.webp",
-    "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjqwO12RAwo1QEq17vRpyud9z1hFICrks3gg&s",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BYWJhMmQ3YzEtMGQyMS00ODI3LWFmYjgtOWNhZDkzMjk5MzFjXkEyXkFqcGc@._V1_.jpg",
     "duration": "  1h 28min",
     "highestRank": 1,
     "top10Days": 14,
