@@ -1568,7 +1568,7 @@ let movies = [
     "imdbRating": 6.6,
     "imdbVotes": "340k",
     "backdropImage": "https://images.justwatch.com/backdrop/315738774/s1440/rumours.webp/rumours.webp",
-    "posterImage": "https://images.justwatch.com/poster/320680690/s166/rumours.webp",
+    "posterImage": "https://preview.redd.it/first-poster-for-rumours-v0-u6q4gcht4tnd1.jpeg?auto=webp&s=d724344f92b95165ab3daf66afbcf406f1486833",
     "duration": "  1h 49min",
     "highestRank": 2,
     "top10Days": 114,
