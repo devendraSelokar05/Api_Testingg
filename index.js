@@ -626,7 +626,7 @@ let movies = [
     "imdbRating": 6.7,
     "imdbVotes": "46k",
     "backdropImage": "https://images.justwatch.com/backdrop/318653942/s1440/the-bikeriders.webp/the-bikeriders.webp",
-    "posterImage": "https://images.justwatch.com/poster/318653937/s166/the-bikeriders.webp",
+    "posterImage": "https://lh3.googleusercontent.com/proxy/e7jQnOOJJIV1sS-BKISQTGMURfk1OIp2-3OvbvEbqcEy-MwePKKeavMXQ6yrtLUdmN-_LeqUnVcyQzUrDmH9-v6SzYspjbg",
     "duration": "  1h 46min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
@@ -650,7 +650,7 @@ let movies = [
     "imdbRating": 5.4,
     "imdbVotes": "350k",
     "backdropImage": "https://images.justwatch.com/backdrop/320911483/s1440/you-gotta-believe.webp/you-gotta-believe.webp",
-    "posterImage": "https://images.justwatch.com/poster/320060716/s166/you-gotta-believe.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BZWM0ZjQ0MDgtYTNmNS00Yjc0LWFkNDUtMTM2MjU5NWVkZDRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "duration": "  1h 44min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
