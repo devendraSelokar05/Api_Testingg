@@ -227,7 +227,7 @@ let movies = [
     "imdbRating": 6.9,
     "imdbVotes": "380k",
     "backdropImage": "https://images.justwatch.com/backdrop/320045052/s1440/the-lord-of-the-rings-the-rings-of-power.webp/the-lord-of-the-rings-the-rings-of-power.webp",
-    "posterImage": "https://resizing.flixster.com/Ud9K2Pmc_MLxDoGwQv5HPeHP_o8=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vZjJkNDFmYWQtYTJmMS00ZWRhLTg1ZWEtNzhhNjdiY2VjNWRiLmpwZw==",
+    "posterImage": "https://i0.wp.com/www.artofvfx.com/wp-content/uploads/2022/08/lord_of_the_rings_the_rings_of_power_ver52_xlg.jpg?fit=1280%2C1895&ssl=1",
     "duration": "  1h 8min",
     "highestRank": 1,
     "top10Days": 47,
