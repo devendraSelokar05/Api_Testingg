@@ -365,7 +365,7 @@ let movies = [
     "imdbRating": 8.2,
     "imdbVotes": "10k",
     "backdropImage": "https://images.justwatch.com/backdrop/320002670/s1440/shekhar-home.webp/shekhar-home.webp",
-    "posterImage": "https://images.justwatch.com/poster/319810199/s166/shekhar-home.webp",
+    "posterImage": "https://static.seriesreminder.com/tvdb/sr_posters/shekhar-home/66abbf155a2e6.jpg",
     "duration": "  1h 8min",
     "highestRank": 1,
     "top10Days": 21,
