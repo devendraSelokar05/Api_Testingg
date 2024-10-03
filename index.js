@@ -563,12 +563,12 @@ let movies = [
     "title": "Inside Out",
     "year": 2015,
     "rank":134,
-    "rankChange": "-26",
+    "rankChange": "▲ -26",
     "rating": 97,
     "imdbRating": 8.1,
     "imdbVotes": "829k",
     "backdropImage": "https://images.justwatch.com/backdrop/178301399/s1440/inside-out.webp/inside-out.webp",
-    "posterImage": "https://images.justwatch.com/poster/178301392/s166/inside-out.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_.jpg",
     "duration": "  1h 35min",
     "highestRank": 3,
     "top10Days": 18,
@@ -591,7 +591,7 @@ let movies = [
     "title": "Kinds of Kindness",
     "year": 2024,
     "rank":23,
-    "rankChange": "+43",
+    "rankChange": "▲ +43",
     "rating": 70,
     "imdbRating": 6.6,
     "imdbVotes": "36k",
@@ -619,7 +619,7 @@ let movies = [
     "title": "The Bikeriders",
     "year": 2024,
     "rank":23,
-    "rankChange": "+43",
+    "rankChange": "▲ +43",
     "rating": 82,
     "imdbRating": 6.7,
     "imdbVotes": "46k",
@@ -637,34 +637,14 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist"
   },
 
-  {
-    "id":24,
-    "title": "Watchers 1: UFOs are Real, Burgeoning, and Not Going Away",
-    "year": 2010,
-    "rank":20,
-    "rankChange": "+430",
-    "imdbRating": 7.2,
-    "imdbVotes": "34k",
-    "backdropImage": "https://images.justwatch.com/backdrop/270361552/s1440/.webp.webp",
-    "posterImage": "https://images.justwatch.com/poster/270361550/s166/.webp",
-    "duration": "  2h 44min",
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ],
-    "likes": "20",
-    "dislikes": "20k",
-    "watchlistText": "Watchlist",
-    "seenText": "Seen",
-    "syncText": "Sign in to Sync Watchlist"
-  },
+  
 
   {
-    "id":25,
+    "id":24,
     "title": "You Gotta Believe",
     "year": 2024,
     "rank":21,
-    "rankChange": "+53",
+    "rankChange": "▲ +53",
     "imdbRating": 5.4,
     "imdbVotes": "350k",
     "backdropImage": "https://images.justwatch.com/backdrop/320911483/s1440/you-gotta-believe.webp/you-gotta-believe.webp",
@@ -685,15 +665,19 @@ let movies = [
 
   
   {
-    "id":26,
+    "id":25,
     "title": "Batman: The Dark Knight Returns, Part 1",
     "year": 2012,
     "rank":1,
-    "rankChange": "+1",
+    "rankChange": "▲ +100",
     "rating": 88,
     "backdropImage": "https://images.justwatch.com/backdrop/320550333/s1440/batman-the-dark-knight-returns-part-1.webp/batman-the-dark-knight-returns-part-1.webp",
     "posterImage": "https://images.justwatch.com/poster/144994120/s166/batman-the-dark-knight-returns-part-1.webp",
     "duration": "  1h 16min",
+    "highestRank": 1,
+    "top10Days": 64,
+    "top100Days": 148,
+    "top1000Days": 1124,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
@@ -706,11 +690,11 @@ let movies = [
   },
 
   {
-    "id":27,
+    "id":26,
     "title": "The Fast and the Furious",
     "year": 2001,
     "rank":729,
-    "rankChange": "+314",
+    "rankChange": "▲ +314",
     "rating": 92,
     "imdbRating": 6.8,
     "imdbVotes": "426k",
@@ -734,11 +718,11 @@ let movies = [
 
 
   {
-    "id":28,
+    "id":27,
     "title": "Extraction",
     "year": 2020,
     "rank":724,
-    "rankChange": "+337",
+    "rankChange": "▲ +337",
     "rating": 94,
     "imdbRating": 6.8,
     "imdbVotes": "270k",
@@ -762,11 +746,11 @@ let movies = [
 
   
   {
-    "id":29,
+    "id":28,
     "title": "MULAN",
     "year": 2020,
     "rank":722,
-    "rankChange": "+594",
+    "rankChange": "▲ +594",
     "rating": 74,
     "imdbRating": 5.8,
     "imdbVotes": "160k",
@@ -790,11 +774,11 @@ let movies = [
 
 
   {
-    "id":30,
+    "id":29,
     "title": "Captain America: The First Avenger",
     "year": 2011,
     "rank":768,
-    "rankChange": "+353",
+    "rankChange": "▲ +353",
     "rating": 96,
     "imdbRating": 6.9,
     "imdbVotes": "910k",
@@ -818,11 +802,11 @@ let movies = [
 
   
   {
-    "id":31,
+    "id":30,
     "title": "Deadpool 2",
     "year": 2018,
     "rank":411,
-    "rankChange": "+295",
+    "rankChange": "▲ +295",
     "rating": 96,
     "imdbRating": 7.6,
     "imdbVotes": "683k",
@@ -847,11 +831,11 @@ let movies = [
 
   
   {
-    "id":32,
+    "id":31,
     "title": "Deadpool & Wolverine",
     "year": 2024,
      "rank":4,
-    "rankChange": "+295",
+    "rankChange": "▲ +295",
     "rating": 95,
     "imdbRating": 8.0,
     "imdbVotes": "288k",
@@ -871,11 +855,11 @@ let movies = [
 
   
   {
-    "id":33,
+    "id":32,
     "title": "The Marvels",
     "year": 2023,
     "rank":3046,
-    "rankChange": "+2311",
+    "rankChange": "▲ +2311",
     "rating": 69,
     "imdbRating": 5.5,
     "imdbVotes": "133k",
@@ -899,11 +883,11 @@ let movies = [
 
   
   {
-    "id":34,
+    "id":33,
     "title": "The Guardians of the Galaxy Holiday Special",
     "year": 2022,
     "rank":964,
-    "rankChange": "+445",
+    "rankChange": "▲ +445",
     "rating": 90,
     "imdbRating": 6.9,
     "imdbVotes": "97k",
@@ -927,11 +911,11 @@ let movies = [
 
    
   {
-    "id":35,
+    "id":34,
     "title": "Ant-Man and the Wasp: Quantumania",
     "year": 2023,
     "rank":2819,
-    "rankChange": "+2115",
+    "rankChange": "▲ +2115",
     "rating": 73,
     "imdbRating": 6.0,
     "imdbVotes": "238k",
@@ -954,11 +938,11 @@ let movies = [
   },
 
   {
-    "id":36,
+    "id":35,
     "title": "Thor: Love and Thunder",
     "year": 2022,
     "rank":903,
-    "rankChange": "+537",
+    "rankChange": "▲ +537",
     "rating": 77,
     "imdbRating": 6.2,
     "imdbVotes": "238k",
@@ -982,11 +966,11 @@ let movies = [
 
   
   {
-    "id":37,
+    "id":36,
     "title": "Avengers: Endgame",
     "year": 2019,
     "rank":535,
-    "rankChange": "+247",
+    "rankChange": "▲ +247",
     "rating": 97,
     "imdbRating": 8.4,
     "imdbVotes": "1m",
@@ -1010,11 +994,11 @@ let movies = [
 
  
   {
-    "id":38,
+    "id":37,
     "title": "Venom",
     "year": 2018,
     "rank":343,
-    "rankChange": "+270",
+    "rankChange": "▲ +270",
     "rating": 88,
     "imdbRating": 6.6,
     "imdbVotes": "550k",
@@ -1038,11 +1022,11 @@ let movies = [
 
 
   {
-    "id":39,
+    "id":38,
     "title": "Logan",
     "year": 2017,
     "rank":330,
-    "rankChange": "+292",
+    "rankChange": "▲ +292",
     "rating": 96,
     "imdbRating": 8.1,
     "imdbVotes": "861k",
@@ -1065,11 +1049,11 @@ let movies = [
   },
 
   {
-    "id":40,
+    "id":39,
     "title": "The Amazing Spider-Man",
     "year": 2012,
     "rank":406,
-    "rankChange": "+113",
+    "rankChange": "▲ +113",
     "rating": 92,
     "imdbRating": 6.9,
     "imdbVotes": "714k",
@@ -1092,11 +1076,11 @@ let movies = [
   },
 
   {
-    "id":41,
+    "id":40,
     "title": "Ravanasura",
     "year": 2023,
     "rank":605,
-    "rankChange": "+467",
+    "rankChange": "▲ +467",
     "rating": 40,
     "imdbRating": 5.7,
     "imdbVotes": "2.6k",
@@ -1121,11 +1105,11 @@ let movies = [
 
   
   {
-    "id":42,
+    "id":41,
     "title": "Bholaa",
     "year": 2024,
     "rank":3262,
-    "rankChange": "+2513",
+    "rankChange": "▲ +2513",
     "rating": 53,
     "backdropImage": "https://images.justwatch.com/backdrop/304668096/s1440/bholaa-2022.webp/bholaa-2022.webp",
     "posterImage": "https://images.justwatch.com/poster/309164504/s166/bholaa-2022.webp",
@@ -1148,11 +1132,11 @@ let movies = [
   
   
   {
-    "id":43,
+    "id":42,
     "title": "DEVARA PART 1",
     "year": 2024,
     "rank":1,
-    "rankChange": "+250",
+    "rankChange": "▲ +250",
     "backdropImage": "https://images.justwatch.com/backdrop/320975332/s1440/ntr-30.webp/ntr-30.webp",
     "posterImage": "https://images.justwatch.com/backdrop/320975332/s1440/ntr-30.webp/ntr-30.webp",
     "duration": "  2h 50min",
@@ -1168,33 +1152,14 @@ let movies = [
   },
 
 
-  {
-    "id":44,
-    "title": "Nosferatu the Vampyre ",
-    "year": 1979,
-    "rating": 81,
-    "imdbRating": 7.4,
-    "imdbVotes": "4.1k",
-    "backdropImage": "https://images.justwatch.com/backdrop/305921926/s1440/nosferatu-the-vampyre.webp/nosferatu-the-vampyre.webp",
-    "posterImage": "https://images.justwatch.com/poster/202949568/s166/nosferatu-the-vampyre.webp",
-    "duration": "  2h 5min",
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ],
-    "likes": "691",
-    "dislikes": "135",
-    "watchlistText": "Watchlist",
-    "seenText": "Seen",
-    "syncText": "Sign in to Sync Watchlist"
-  },
+
 
   {
-    "id":45,
+    "id":43,
     "title": "The Umbrella Academy",
     "year": 2019,
     "rank":143,
-    "rankChange": "+7",
+    "rankChange": "▲ +7",
     "rating": 92,
     "imdbRating": 7.8,
     "imdbVotes": "293k",
@@ -1220,12 +1185,12 @@ let movies = [
 
 
   {
-    "id":46,
+    "id":44,
     "title": "Gladiator II",
     "year": 2024,
     "rating": 85,
     "rank":500,
-    "rankChange": "+4300",
+    "rankChange": "▲ +4300",
     "imdbRating": 6.3,
     "imdbVotes": "593k",
     "backdropImage": "https://images.justwatch.com/backdrop/318611814/s1440/gladiator-2.webp/gladiator-2.webp",
@@ -1244,11 +1209,11 @@ let movies = [
 
 
   {
-    "id":47,
+    "id":45,
     "title": "Thunderbolts*",
     "year": 2025,
     "rank":123,
-    "rankChange": "+78",
+    "rankChange": "▲ +78",
     "rating": 95,
     "imdbRating": 8.8,
     "imdbVotes": "490k",
@@ -1267,11 +1232,11 @@ let movies = [
   },
 
   {
-    "id":48,
+    "id":46,
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "year": 2001,
     "rank":123,
-    "rankChange": "+148",
+    "rankChange": "▲ +148",
     "rating": 96,
     "imdbRating": 8.9,
     "imdbVotes": "2m",
@@ -1294,11 +1259,11 @@ let movies = [
   },
 
   {
-    "id":49,
+    "id":47,
     "title": "Mr. Crocket",
     "year": 2024,
     "rank":1430,
-    "rankChange": "+7900",
+    "rankChange": "▲ +7900",
     "rating": 53,
     "imdbRating": 4.8,
     "imdbVotes": "2930k",
@@ -1319,11 +1284,11 @@ let movies = [
 
   
   {
-    "id":50,
+    "id":48,
     "title": "MAGPIE",
     "year": 2024,
     "rank":143,
-    "rankChange": "+7",
+    "rankChange": "▲ +7",
     "rating": 92,
     "imdbRating": 7.8,
     "imdbVotes": "293k",
