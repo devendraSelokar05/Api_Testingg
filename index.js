@@ -1620,7 +1620,7 @@ let movies = [
     "imdbRating": 8.2,
     "imdbVotes": "97k",
     "backdropImage": "https://images.justwatch.com/backdrop/257952226/s1440/frasier.webp/frasier.webp",
-    "posterImage": "https://images.justwatch.com/poster/88176663/s166/frasier.webp",
+    "posterImage": "https://image.tmdb.org/t/p/original/hUW8HFVJYiJYIFEOOcLoKJM07oV.jpg",
     "duration": "  25min",
     "highestRank": 1,
     "top10Days": 24,
