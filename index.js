@@ -171,7 +171,7 @@ let movies = [
     "imdbRating": 9.0,
     "imdbVotes": "97k",
     "backdropImage": "https://images.justwatch.com/backdrop/302477284/s1440/mirzapur.webp/mirzapur.webp",
-    "posterImage": "https://images.justwatch.com/poster/98979565/s166/mirzapur.webp",
+    "posterImage": "https://rukminim2.flixcart.com/image/850/1000/l0h1g280/poster/1/m/t/small-mirzapur-web-series-poster-multicolor-photopaper-print-12-original-imagc95bfufzrhw8.jpeg?q=90&crop=false",
     "duration": "35min",
     "highestRank": 1,
     "top10Days": 292,
