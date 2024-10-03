@@ -1076,9 +1076,65 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist"
   },
-
+  
+  
   {
     "id":40,
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "rank":790,
+    "rankChange": "+353",
+    "rating": 93,
+    "imdbRating": 7.4,
+    "imdbVotes": "446k",
+    "backdropImage": "https://images.justwatch.com/backdrop/249102371/s1440/shang-chi-and-the-legend-of-the-ten-rings.webp/shang-chi-and-the-legend-of-the-ten-rings.webp",
+    "posterImage": "https://m.media-amazon.com/images/I/813f5y-8UjL.jpg",
+    "duration": "  2h 12min",
+    "highestRank": 1,
+    "top10Days": 69,
+    "top100Days": 83,
+    "top1000Days": 705,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "38k",
+    "dislikes": "2.5k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
+  },
+
+  {
+    "id":41,
+    "title": "Annavaram",
+    "year": 2006,
+    "rank":12743,
+    "rankChange": "+20370",
+    "rating": 93,
+    "imdbRating": 4.9,
+    "imdbVotes": "985k",
+    "backdropImage": "https://images.justwatch.com/backdrop/202520478/s1440/annavaram.webp/annavaram.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BNTUzYTY2ZjQtZDA2Yy00MGJkLWJhODAtYzQ4NWNlYmVkYjU3XkEyXkFqcGc@._V1_.jpg",
+    "duration": "  2h 55min",
+    "highestRank": 213,
+    "top10Days": 0,
+    "top100Days": 0,
+    "top1000Days": 3,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "38k",
+    "dislikes": "2.5k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
+  },
+  
+  
+  {
+    "id":42,
     "title": "Ravanasura",
     "year": 2023,
     "rank":605,
@@ -1107,7 +1163,7 @@ let movies = [
 
   
   {
-    "id":41,
+    "id":43,
     "title": "Bholaa",
     "year": 2024,
     "rank":3262,
@@ -1134,7 +1190,7 @@ let movies = [
   
   
   {
-    "id":42,
+    "id":44,
     "title": "DEVARA PART 1",
     "year": 2024,
     "rank":1,
@@ -1157,7 +1213,7 @@ let movies = [
 
 
   {
-    "id":43,
+    "id":45,
     "title": "The Umbrella Academy",
     "year": 2019,
     "rank":143,
@@ -1166,7 +1222,7 @@ let movies = [
     "imdbRating": 7.8,
     "imdbVotes": "293k",
     "backdropImage": "https://images.justwatch.com/backdrop/286521525/s1440/the-umbrella-academy.webp/the-umbrella-academy.webp",
-    "posterImage": "https://images.justwatch.com/poster/286305959/s166/the-umbrella-academy.webp",
+    "posterImage": "https://m.media-amazon.com/images/I/61Bn5CFCpJL._AC_UF894,1000_QL80_.jpg",
     "duration": "  2h 5min",
     "highestRank": 2,
     "top10Days": 14,
@@ -1187,7 +1243,7 @@ let movies = [
 
 
   {
-    "id":44,
+    "id":46,
     "title": "Gladiator II",
     "year": 2024,
     "rating": 85,
@@ -1196,7 +1252,7 @@ let movies = [
     "imdbRating": 6.3,
     "imdbVotes": "593k",
     "backdropImage": "https://images.justwatch.com/backdrop/318611814/s1440/gladiator-2.webp/gladiator-2.webp",
-    "posterImage": "https://images.justwatch.com/poster/318611809/s166/gladiator-2.webp",
+    "posterImage": "https://www.mensjournal.com/.image/t_share/MjA3NzA0NzgxMTA2NTIxNzUz/gladiator-2-poster.jpg",
     "duration": "  2h 30min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
@@ -1211,7 +1267,7 @@ let movies = [
 
 
   {
-    "id":45,
+    "id":47,
     "title": "Thunderbolts*",
     "year": 2025,
     "rank":123,
@@ -1234,7 +1290,7 @@ let movies = [
   },
 
   {
-    "id":46,
+    "id":48,
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "year": 2001,
     "rank":123,
@@ -1261,7 +1317,7 @@ let movies = [
   },
 
   {
-    "id":47,
+    "id":49,
     "title": "Mr. Crocket",
     "year": 2024,
     "rank":1430,
@@ -1286,7 +1342,7 @@ let movies = [
 
   
   {
-    "id":48,
+    "id":50,
     "title": "MAGPIE",
     "year": 2024,
     "rank":143,
