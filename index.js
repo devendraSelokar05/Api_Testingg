@@ -1140,7 +1140,7 @@ let movies = [
     "rank":1,
     "rankChange": "▲ +250",
     "backdropImage": "https://images.justwatch.com/backdrop/320975332/s1440/ntr-30.webp/ntr-30.webp",
-    "posterImage": "https://images.justwatch.com/backdrop/320975332/s1440/ntr-30.webp/ntr-30.webp",
+    "posterImage": "https://akm-img-a-in.tosshub.com/indiatoday/styles/medium_crop_simple/public/2024-01/jr_ntr_devara_glimpse.jpg?VersionId=FO..TRJHzYBdPzgb7_gXZNbgHVzmQqHS&size=750:*",
     "duration": "  2h 50min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
