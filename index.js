@@ -199,7 +199,7 @@ let movies = [
     "imdbRating": 8.4,
     "imdbVotes": "446k",
     "backdropImage": "https://images.justwatch.com/backdrop/317367735/s1440/house-of-the-dragon.webp/house-of-the-dragon.webp",
-    "posterImage": "https://images-cdn.ubuy.co.in/6583eea32d17422f247fd60a-house-of-the-dragon-movie-poster-tv.jpg",
+    "posterImage": "https://sportshub.cbsistatic.com/i/2024/03/20/79864a7d-0448-40f3-a218-92695807ab5d/house-of-the-dragon-season-2-8.jpg?auto=webp&width=3000&height=3750&crop=0.8:1,smart",
     "duration": "  1h 3min",
     "highestRank": 1,
     "top10Days": 154,
