@@ -86,7 +86,7 @@ let movies = [
     "imdbRating": 7.6,
     "imdbVotes": "27k",
     "backdropImage": "https://images.justwatch.com/backdrop/320515994/s1440/kill-2024.webp/kill-2024.webp",
-    "posterImage": "https://images.justwatch.com/poster/317138629/s166/kill-2024.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BZjI1ZjM3NjUtYTc1Ni00ODJmLWI5YjQtMWZiZTAyNTFiZGY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "duration": "1h 45min",
     "highestRank": 1,
     "top10Days": 81,
