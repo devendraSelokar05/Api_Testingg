@@ -1088,7 +1088,7 @@ let movies = [
     "imdbRating": 7.4,
     "imdbVotes": "446k",
     "backdropImage": "https://images.justwatch.com/backdrop/249102371/s1440/shang-chi-and-the-legend-of-the-ten-rings.webp/shang-chi-and-the-legend-of-the-ten-rings.webp",
-    "posterImage": "https://m.media-amazon.com/images/I/813f5y-8UjL.jpg",
+    "posterImage": "https://i.pinimg.com/originals/0c/74/1d/0c741d63608bcbaf753c956a7c996cab.jpg",
     "duration": "  2h 12min",
     "highestRank": 1,
     "top10Days": 69,
@@ -1276,7 +1276,7 @@ let movies = [
     "imdbRating": 8.8,
     "imdbVotes": "490k",
     "backdropImage": "https://images.justwatch.com/backdrop/300660467/s1440/thunderbolts.webp/thunderbolts.webp",
-    "posterImage": "https://posterspy.com/wp-content/uploads/2022/06/thunderbolts-concept-by-rahalarts.jpg",
+    "posterImage": "https://i.pinimg.com/564x/f9/be/23/f9be23cdee7da4d4d05a4e95c6c9516c.jpg",
     "duration": "  2h 0min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
