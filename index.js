@@ -254,7 +254,7 @@ let movies = [
     "imdbRating": 5.7,
     "imdbVotes": "3.7k",
     "backdropImage": "https://images.justwatch.com/backdrop/320023808/s1440/harold-and-the-purple-crayon-2024.webp/harold-and-the-purple-crayon-2024.webp",
-    "posterImage": "https://images.justwatch.com/poster/316496135/s166/harold-and-the-purple-crayon-2024.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BZGE3MmYxOTgtMGY1Ni00ZWQ4LTlhNjAtMzcxYjIzMjcwN2U1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "duration": "  1h 8min",
     "highestRank": 1,
     "top10Days": 47,
