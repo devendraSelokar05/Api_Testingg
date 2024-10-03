@@ -497,7 +497,7 @@ let movies = [
     "imdbRating": 6.2,
     "imdbVotes": "42k",
     "backdropImage": "https://images.justwatch.com/backdrop/311602034/s1440/despicable-me-4-2024.webp/despicable-me-4-2024.webp",
-    "posterImage": "https://lh5.googleusercontent.com/proxy/7YLBehDxNegBiRF02q5ursL3NNNgrl8FjaeBA2nSM7-aIEHn_XsAAqsUgzNXyPweAZMs52EZAhubRWPvdF86Zb5cIMx4aqKpGm4MGwV_dA",
+    "posterImage": "https://shop.warnerbros.co.uk/cdn/shop/files/DM4-DVD_15_MF1.jpg?v=1721135650",
     "duration": "  1h 34min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
