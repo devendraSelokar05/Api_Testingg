@@ -539,7 +539,7 @@ let movies = [
     "title": "Trap",
     "year": 2024,
     "rank":78,
-    "rankChange": "+300",
+    "rankChange": " ▲ +300",
     "rating": 78,
     "imdbRating": 6.0,
     "imdbVotes": "66k",
