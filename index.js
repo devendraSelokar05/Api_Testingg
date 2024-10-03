@@ -474,7 +474,7 @@ let movies = [
     "imdbRating": 7.6,
     "imdbVotes": "26k",
     "backdropImage": "https://images.justwatch.com/backdrop/318955943/s1440/horizon-an-american-saga-chapter-1.webp/horizon-an-american-saga-chapter-1.webp",
-    "posterImage": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2F5%2Fgracenote%2F579cd0a13e0fc093c5f5ea3275431cc9.jpg",
+    "posterImage": "https://preview.redd.it/official-poster-for-kevin-costners-horizon-v0-360r7vytresb1.jpg?width=640&crop=smart&auto=webp&s=45351eb62f67e0a8360d31512e7878c2c88e9c0d",
     "duration": "3h 1min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
@@ -515,7 +515,7 @@ let movies = [
     "title": "Twisters",
     "year": 2024,
     "rank":89,
-    "rankChange": "+2950",
+    "rankChange": " ▲ +2950",
     "rating": 89,
     "imdbRating": 6.6,
     "imdbVotes": "102k",
