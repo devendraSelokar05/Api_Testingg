@@ -199,7 +199,7 @@ let movies = [
     "imdbRating": 8.4,
     "imdbVotes": "446k",
     "backdropImage": "https://images.justwatch.com/backdrop/317367735/s1440/house-of-the-dragon.webp/house-of-the-dragon.webp",
-    "posterImage": "https://images.justwatch.com/poster/301444667/s166/house-of-the-dragon.webp",
+    "posterImage": "https://images-cdn.ubuy.co.in/6583eea32d17422f247fd60a-house-of-the-dragon-movie-poster-tv.jpg",
     "duration": "  1h 3min",
     "highestRank": 1,
     "top10Days": 154,
