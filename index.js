@@ -115,7 +115,7 @@ let movies = [
     "imdbRating": 8.6,
     "imdbVotes": "174k",
     "backdropImage": "https://images.justwatch.com/backdrop/309349707/s1440/shogun-2024.webp/shogun-2024.webp",
-    "posterImage": "https://images.justwatch.com/poster/309349704/s166/shogun-2024.webp",
+    "posterImage": "https://www.artofvfx.com/wp-content/uploads/2023/11/shogun_ver2_xlg-jpg.webp",
     "duration": "59min",
     "highestRank": 1,
     "top10Days": 125,
