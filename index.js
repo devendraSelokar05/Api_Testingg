@@ -1353,7 +1353,7 @@ let movies = [
     "imdbRating": 4.2,
     "imdbVotes": "293k",
     "backdropImage": "https://images.justwatch.com/backdrop/300670843/s1440/ridley.webp/ridley.webp",
-    "posterImage": "https://m.media-amazon.com/images/M/MV5BYmMxNDZkYWItNWIyZC00NjgzLWJjMzktYzA3ZmQzNjhlMDlhXkEyXkFqcGc@._V1_.jpg",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BM2NhYWY1ODgtYjU3Ny00ZWIzLTg3NTctMzBhOWIzZGY0YzVkXkEyXkFqcGc@._V1_.jpg",
     "duration": "  1h 12min",
     "highestRank": 2,
     "top10Days": 14,
@@ -1379,7 +1379,7 @@ let movies = [
     "imdbRating": 7.0,
     "imdbVotes": "293k",
     "backdropImage": "https://images.justwatch.com/backdrop/306854096/s1440/gremlins-secrets-of-the-mogwai.webp/gremlins-secrets-of-the-mogwai.webp",
-    "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnvogNLan5pA7oa45m0CBINLP7morc0gfCeQ&s",
+    "posterImage": "https://images.justwatch.com/poster/318611992/s718/gremlins-secrets-of-the-mogwai.jpg",
     "duration": "  23min",
     "highestRank": 1,
     "top10Days": 14,
@@ -1396,6 +1396,86 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist"
   },
 
+  {
+    "id":52,
+    "title": "Spin the Bottle",
+    "year": 2024,
+    "rank":130,
+    "rankChange": "▲ +25",
+    "rating": 47,
+    "imdbRating": 7.0,
+    "imdbVotes": "293k",
+    "backdropImage": "https://images.justwatch.com/backdrop/320945962/s1440/.webp.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BZmJjOWJkZmUtZmFhMi00NTg1LWI5Y2QtNTYxOGI4N2M2NDhlXkEyXkFqcGc@._V1_.jpg",
+    "duration": "  1h 23min",
+    "highestRank": 1,
+    "top10Days": 14,
+    "top100Days":12,
+    "top1000Days": 183,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "129",
+    "dislikes": "47",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
+  },
+
+  {
+    "id":53,
+    "title": "Small Things Like These",
+    "year": 2024,
+    "rank":13,
+    "rankChange": "▲ +24",
+    "rating": 47,
+    "imdbRating": 7.5,
+    "imdbVotes": "428k",
+    "backdropImage": "https://images.justwatch.com/backdrop/312101749/s1440/small-things-like-these.webp/small-things-like-these.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BYzM2MmVkY2QtMTdmOS00YmNhLTg3NjktNmY1YTQ3ODQ0MTAxXkEyXkFqcGc@._V1_.jpg",
+    "duration": "  1h 38min",
+    "highestRank": 1,
+    "top10Days": 24,
+    "top100Days":45,
+    "top1000Days": 238,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "129",
+    "dislikes": "47",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
+  },
+
+  {
+    "id":54,
+    "title": "Brothers",
+    "year": 2024,
+    "rank":23,
+    "rankChange": "▲ +24",
+    "rating": 47,
+    "imdbRating": 6.5,
+    "imdbVotes": "128k",
+    "backdropImage": "https://images.justwatch.com/backdrop/320790220/s1440/brothers-2024.webp/brothers-2024.webp",
+    "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjqwO12RAwo1QEq17vRpyud9z1hFICrks3gg&s",
+    "duration": "  1h 28min",
+    "highestRank": 1,
+    "top10Days": 14,
+    "top100Days":57,
+    "top1000Days": 138,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "129",
+    "dislikes": "47",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist"
+  },
 ];
 
 app.get('/api/New-movies', (req, res) => {
