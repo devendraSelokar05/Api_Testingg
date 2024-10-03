@@ -143,7 +143,7 @@ let movies = [
     "imdbRating": 7.6,
     "imdbVotes": "24k",
     "backdropImage": "https://images.justwatch.com/backdrop/319090905/s1440/stree-2.webp/stree-2.webp",
-    "posterImage": "https://images.justwatch.com/poster/319603130/s166/stree-2.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BMTA1NmUxYzItZmVmNy00YmQxLTk4Y2UtZjVkMWUwMWQ5N2IxXkEyXkFqcGc@._V1_.jpg",
     "duration": "  2h 27min",
     "highestRank": 1,
     "top10Days": 125,
