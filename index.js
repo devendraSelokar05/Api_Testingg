@@ -227,7 +227,7 @@ let movies = [
     "imdbRating": 6.9,
     "imdbVotes": "380k",
     "backdropImage": "https://images.justwatch.com/backdrop/320045052/s1440/the-lord-of-the-rings-the-rings-of-power.webp/the-lord-of-the-rings-the-rings-of-power.webp",
-    "posterImage": "https://static.wikia.nocookie.net/lotr/images/9/95/The_Lord_of_the_Rings_The_Rings_of_Power_S2_Galadriel_Poster.jpg/revision/latest?cb=20240722150506",
+    "posterImage": "https://resizing.flixster.com/Ud9K2Pmc_MLxDoGwQv5HPeHP_o8=/ems.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vZjJkNDFmYWQtYTJmMS00ZWRhLTg1ZWEtNzhhNjdiY2VjNWRiLmpwZw==",
     "duration": "  1h 8min",
     "highestRank": 1,
     "top10Days": 47,
