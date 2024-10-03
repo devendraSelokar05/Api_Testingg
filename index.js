@@ -1114,7 +1114,7 @@ let movies = [
     "rankChange": "▲ +2513",
     "rating": 53,
     "backdropImage": "https://images.justwatch.com/backdrop/304668096/s1440/bholaa-2022.webp/bholaa-2022.webp",
-    "posterImage": "https://m.media-amazon.com/images/M/MV5BYmM1ZmMyNmQtNjZmYS00NWE2LTk5YzItNTZkYTRiZTYxZTc4XkEyXkFqcGc@._V1_.jpg",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BYjgxNzY1MjktOTg4Ny00NzU5LWEzNmItMGQyZWYwMjhhNmQxXkEyXkFqcGc@._V1_.jpg",
     "duration": "  2h 24min",
     "highestRank": 1,
     "top10Days": 13,
