@@ -1087,7 +1087,7 @@ let movies = [
     "imdbRating": 5.7,
     "imdbVotes": "2.6k",
     "backdropImage": "https://images.justwatch.com/backdrop/304258843/s1440/ravanasura.webp/ravanasura.webp",
-    "posterImage": "https://images.justwatch.com/poster/316652935/s166/ravanasura.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BNmVjMDBhM2ItYzViOC00ODY1LWE0ZDItZDdiOGIzNTJhOGNjXkEyXkFqcGc@._V1_.jpg",
     "duration": "  2h 22min",
     "highestRank": 1,
     "top10Days": 4,
