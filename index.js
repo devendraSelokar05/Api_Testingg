@@ -418,7 +418,7 @@ let movies = [
     "imdbRating": 7.6,
     "imdbVotes": "589k",
     "backdropImage": "https://images.justwatch.com/backdrop/179879377/s1440/watchmen.webp/watchmen.webp",
-    "posterImage": "https://images.justwatch.com/poster/211398541/s166/watchmen.webp",
+    "posterImage": "https://cdn.europosters.eu/image/750/posters/watchmen-city-street-i13393.jpg",
     "duration": "  2h 42min",
     "highestRank": 3,
     "top10Days": 8,
