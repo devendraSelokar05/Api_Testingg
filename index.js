@@ -393,7 +393,7 @@ let movies = [
     "imdbRating": 2.5,
     "imdbVotes": "10k",
     "backdropImage": "https://images.justwatch.com/backdrop/316456492/s1440/touch-0.webp/touch-0.webp",
-    "posterImage": "https://lh3.googleusercontent.com/proxy/8IZc6DE0b2yORxWvuKqHVRIbvHxxUDLemOoNmeWpuMEMgS-reKS96l6hbzBaTTGSqHrD9XavsYAEeWeTKssCUxV1AqXrN0nFKr9SRs9U98JjHdqVncM0_0k",
+    "posterImage": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/05/08192348/7azx73Z5nYWgG9c00HH6CHVtgMX.jpg",
     "duration": "  2h 1min",
     
     "watchOptions": [
