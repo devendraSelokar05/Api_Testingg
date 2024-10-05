@@ -2140,7 +2140,7 @@ let movies = [
     "title": "Rockstar",
     "year": 2011,
     "rank":670,
-    "rankChange": "+659",
+    "rankChange": "▲ +659",
     "rating": 86,
     "imdbRating": 7.8,
     "imdbVotes": "51k",
@@ -2168,7 +2168,7 @@ let movies = [
     "title": "The Fall Guy",
     "year": 2024,
     "rank":53,
-    "rankChange": "+29",
+    "rankChange": "▲ +29",
     "rating": 88,
     "imdbRating": 6.9,
     "imdbVotes": "158k",
@@ -2196,7 +2196,7 @@ let movies = [
     "title": "Chandu Champion",
     "year": 2024,
     "rank":688,
-    "rankChange": "+600",
+    "rankChange": "▲ +600",
     "rating": 71,
     "imdbRating": 7.9,
     "imdbVotes": "2m",
@@ -2217,6 +2217,92 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "IHQQK_Wn5DM"
+  },
+
+  {
+ 
+    "id":79,
+    "title": "Joker",
+    "year": 2019,
+    "rank":25,
+    "rankChange": "▲ +17",
+    "rating": 94,
+    "imdbRating": 8.4,
+    "imdbVotes": "31k",
+    "backdropImage": "https://images.justwatch.com/backdrop/147680055/s1440/joker-2019.webp/joker-2019.webp",
+    "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqLyEBucif__c02XSXE5UEVsqcnJyW4n-ng&s",
+    "duration": "2h 2min",
+    "highestRank": 1,
+    "top10Days": 138,
+    "top100Days":511,
+    "top1000Days": 1853,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "56k",
+    "dislikes": "3.7k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "M7lc1UVf-VE"
+  },
+  {
+
+    "id":80,
+    "title": "John Wick",
+    "year": 2014,
+    "rank":295,
+    "rankChange": "▲ +184",
+    "rating": 96,
+    "imdbRating": 7.4,
+    "imdbVotes": "755k",
+    "backdropImage": "https://images.justwatch.com/backdrop/8697369/s1440/john-wick.webp/john-wick.webp",
+    "posterImage": "https://rukminim2.flixcart.com/image/850/1000/jmz7csw0/poster/r/z/5/medium-wall-poster-john-wick-hd-movie-poster-18x12pow-538-original-imaf9rgzmugvzxry.jpeg?q=90&crop=false",
+    "duration": "1h 54min",
+    "highestRank": 1,
+    "top10Days": 91,
+    "top100Days":1532,
+    "top1000Days": 3198,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "47k",
+    "dislikes": "1.6k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "C0BMx-qxsP4"
+  },
+  
+  {
+
+    "id":81,
+    "title": "777 Charlie",
+    "year": 2022,
+    "rank":108,
+    "rankChange": "▲ +63",
+    "rating": 83,
+    "imdbRating": 8.7,
+    "imdbVotes": "11k",
+    "backdropImage": "https://images.justwatch.com/backdrop/279111882/s1440/777-charlie.webp/777-charlie.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BOWY4MzlmNjItZGYzMS00ZDVhLWI2ZDMtNWEwZTBiMmU0YzQ4XkEyXkFqcGc@._V1_.jpg",
+    "duration": "2h 46min",
+    "highestRank": 2,
+    "top10Days": 102,
+    "top100Days":563,
+    "top1000Days": 855,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "523",
+    "dislikes": "85",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "M7lc1UVf-VE"
   },
 ];
 
