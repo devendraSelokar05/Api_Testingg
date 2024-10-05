@@ -149,7 +149,7 @@ let movies = [
     "rating": 79,
     "imdbRating": 7.6,
     "imdbVotes": "24k",
-    "backdropImage": "https://images.justwatch.com/backdrop/319090905/s1440/stree-2.webp/stree-2.webp",
+    "backdropImage": "https://assets-in.bmscdn.com/discovery-catalog/events/et00364249-qbqdytudsg-landscape.jpg",
     "posterImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/18/full/1721302575-0514.jpg?im=FitAndFill=(826,465)",
     "duration": "  2h 27min",
     "highestRank": 1,
@@ -178,7 +178,7 @@ let movies = [
     "rating": 80,
     "imdbRating": 9.0,
     "imdbVotes": "97k",
-    "backdropImage": "https://images.justwatch.com/backdrop/302477284/s1440/mirzapur.webp/mirzapur.webp",
+    "backdropImage": "https://m.media-amazon.com/images/S/pv-target-images/855e8bb647c4a3ccfcdceb8d8d354ffc1df41908b203322b96c6683a0a070f0a._SX1080_FMjpg_.jpg",
     "posterImage": "https://rukminim2.flixcart.com/image/850/1000/l0h1g280/poster/1/m/t/small-mirzapur-web-series-poster-multicolor-photopaper-print-12-original-imagc95bfufzrhw8.jpeg?q=90&crop=false",
     "duration": "35min",
     "highestRank": 1,
@@ -222,7 +222,8 @@ let movies = [
     "dislikes": "3k",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
-    "syncText": "Sign in to Sync Watchlist"
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": ""
   },
  
 
