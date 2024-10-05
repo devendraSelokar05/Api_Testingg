@@ -2373,7 +2373,7 @@ let movies = [
     "imdbRating": 7.2,
     "imdbVotes": "63k",
     "backdropImage": "https://images.justwatch.com/backdrop/309143388/s1440/leo-2023.webp/leo-2023.webp",
-    "posterImage": "https://static.moviecrow.com/gallery/20230921/221109-Leo%20Vijay%20Sanjay%20Dutt%20Poster.jpg",
+    "posterImage": "https://i.pinimg.com/originals/46/37/db/4637dbeccdf457d9086f4e19e3737863.jpg",
     "duration": "2h 43min",
     "highestRank": 1,
     "top10Days": 57,
