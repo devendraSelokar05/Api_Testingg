@@ -534,31 +534,6 @@ let movies = [
 
   {
     "id":19,
-    "title": "Twisters",
-    "year": 2024,
-    "rank":89,
-    "rankChange": " ▲ +2950",
-    "rating": 89,
-    "imdbRating": 6.6,
-    "imdbVotes": "102k",
-    "backdropImage": "https://images.justwatch.com/backdrop/311705103/s1440/twisters.webp/twisters.webp",
-    "posterImage": "https://wallpapercave.com/wp/wp14206291.jpg",
-    "duration": "  2h 2min",
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ],
-    "likes": "1.9k",
-    "dislikes": "310",
-    "watchlistText": "Watchlist",
-    "seenText": "Seen",
-    "syncText": "Sign in to Sync Watchlist",
-    "videoiD": "M5-mR_6__RE"
-  },
-
-
-  {
-    "id":20,
     "title": "Trap",
     "year": 2024,
     "rank":78,
@@ -583,7 +558,7 @@ let movies = [
 
   
   {
-    "id":21,
+    "id":20,
     "title": "Inside Out 2",
     "year": 2015,
     "rank":134,
@@ -612,7 +587,7 @@ let movies = [
 
   
   {
-    "id":22,
+    "id":21,
     "title": "Raayan",
     "year": 2024,
     "rank": 155,
@@ -643,7 +618,7 @@ let movies = [
 
   
   {
-    "id":23,
+    "id":22,
     "title": "The Bikeriders",
     "year": 2024,
     "rank":23,
@@ -669,7 +644,7 @@ let movies = [
   
 
   {
-    "id":24,
+    "id":23,
     "title": "You Gotta Believe",
     "year": 2024,
     "rank":21,
@@ -695,7 +670,7 @@ let movies = [
 
   
   {
-    "id":25,
+    "id":24,
     "title": "Batman: The Dark Knight Returns, Part 1",
     "year": 2012,
     "rank":1,
@@ -721,7 +696,7 @@ let movies = [
   },
 
   {
-    "id":26,
+    "id":25,
     "title": "Fast and the Furious 7",
     "year": 2015,
     "rank":729,
@@ -750,7 +725,7 @@ let movies = [
 
 
   {
-    "id":27,
+    "id":26,
     "title": "Extraction",
     "year": 2020,
     "rank":724,
@@ -779,7 +754,7 @@ let movies = [
 
   
   {
-    "id":28,
+    "id":27,
     "title": "MULAN",
     "year": 2020,
     "rank":722,
@@ -808,7 +783,7 @@ let movies = [
 
 
   {
-    "id":29,
+    "id":28,
     "title": "Captain America: The First Avenger",
     "year": 2011,
     "rank":768,
@@ -837,7 +812,7 @@ let movies = [
 
   
   {
-    "id":30,
+    "id":29,
     "title": "Deadpool 2",
     "year": 2018,
     "rank":411,
@@ -867,7 +842,7 @@ let movies = [
 
   
   {
-    "id":31,
+    "id":30,
     "title": "Deadpool & Wolverine",
     "year": 2024,
      "rank":4,
@@ -892,7 +867,7 @@ let movies = [
 
   
   {
-    "id":32,
+    "id":31,
     "title": "The Marvels",
     "year": 2023,
     "rank":3046,
@@ -921,7 +896,7 @@ let movies = [
 
   
   {
-    "id":33,
+    "id":32,
     "title": "The Guardians of the Galaxy Holiday Special",
     "year": 2022,
     "rank":964,
@@ -950,7 +925,7 @@ let movies = [
 
    
   {
-    "id":34,
+    "id":33,
     "title": "Ant-Man and the Wasp: Quantumania",
     "year": 2023,
     "rank":2819,
@@ -978,7 +953,7 @@ let movies = [
   },
 
   {
-    "id":35,
+    "id":34,
     "title": "Thor: Love and Thunder",
     "year": 2022,
     "rank":903,
@@ -1007,7 +982,7 @@ let movies = [
 
   
   {
-    "id":36,
+    "id":35,
     "title": "Avengers: Endgame",
     "year": 2019,
     "rank":535,
@@ -1036,7 +1011,7 @@ let movies = [
 
  
   {
-    "id":37,
+    "id":36,
     "title": "Venom: LET THERE BE CARNAGE",
     "year": 2021,
     "rank":343,
@@ -1065,7 +1040,7 @@ let movies = [
 
 
   {
-    "id":38,
+    "id":37,
     "title": "Logan",
     "year": 2017,
     "rank":330,
@@ -1093,7 +1068,7 @@ let movies = [
   },
 
   {
-    "id":39,
+    "id":38,
     "title": "The Amazing Spider-Man",
     "year": 2012,
     "rank":406,
@@ -1119,10 +1094,65 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "-tnxzJ0SSOw"
   },
+  {
+    "id":39,
+    "title": "Spiderman: NO WAY HOME",
+    "year": 2021,
+    "rank":16,
+    "rankChange": "▲ +2220",
+    "rating": 84,
+    "imdbRating": 6.6,
+    "imdbVotes": "340k",
+    "backdropImage": "https://i.ytimg.com/vi/uyPCkTzhDxQ/maxresdefault.jpg",
+    "posterImage": "https://m.media-amazon.com/images/I/81y0foYjoFL._AC_UF1000,1000_QL80_.jpg",
+    "duration": "  1h 49min",
+    "highestRank": 2,
+    "top10Days": 114,
+    "top100Days":127,
+    "top1000Days": 238,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "129",
+    "dislikes": "47",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "JfVOs4VSpmA"
+  },
   
-  
+   
   {
     "id":40,
+    "title": "Doctor Strange In the Multiverse Of Madness",
+    "year": 2022,
+    "rank":7480,
+    "rankChange": "▲ +738",
+    "rating": 90,
+    "imdbRating": 8.2,
+    "imdbVotes": "97k",
+    "backdropImage": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EB479687DDB78C087550ADC004EDEEF96DF6354724342E3599BABB94389B6E3/scale?width=1200&aspectRatio=1.78&format=webp",
+    "posterImage": "https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg",
+    "duration": "  25min",
+    "highestRank": 1,
+    "top10Days": 24,
+    "top100Days":45,
+    "top1000Days": 1385,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "4.8",
+    "dislikes": "481",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "aWzlQ2N6qqg"
+  },
+  
+  {
+    "id":41,
     "title": "Shang-Chi and the Legend of the Ten Rings",
     "year": 2021,
     "rank":790,
@@ -1150,7 +1180,7 @@ let movies = [
   },
 
   {
-    "id":41,
+    "id":42,
     "title": "Annavaram",
     "year": 2006,
     "rank":12743,
@@ -1179,7 +1209,7 @@ let movies = [
   
   
   {
-    "id":42,
+    "id":43,
     "title": "Ravanasura",
     "year": 2023,
     "rank":605,
@@ -1209,7 +1239,7 @@ let movies = [
 
   
   {
-    "id":43,
+    "id":44,
     "title": "Bholaa",
     "year": 2024,
     "rank":3262,
@@ -1237,7 +1267,7 @@ let movies = [
   
   
   {
-    "id":44,
+    "id":45,
     "title": "DEVARA PART 1",
     "year": 2024,
     "rank":1,
@@ -1261,7 +1291,7 @@ let movies = [
 
 
   {
-    "id":45,
+    "id":46,
     "title": "The Umbrella Academy",
     "year": 2019,
     "rank":143,
@@ -1292,7 +1322,7 @@ let movies = [
 
 
   {
-    "id":46,
+    "id":47,
     "title": "Gladiator II",
     "year": 2024,
     "rating": 85,
@@ -1317,7 +1347,7 @@ let movies = [
 
 
   {
-    "id":47,
+    "id":48,
     "title": "Thunderbolts*",
     "year": 2025,
     "rank":123,
@@ -1341,7 +1371,7 @@ let movies = [
   },
 
   {
-    "id":48,
+    "id":49,
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "year": 2001,
     "rank":123,
@@ -1369,7 +1399,7 @@ let movies = [
   },
 
   {
-    "id":49,
+    "id":50,
     "title": "It Follows",
     "year": 2015,
     "rank":234,
@@ -1397,7 +1427,7 @@ let movies = [
   },
 
   {
-    "id":50,
+    "id":51,
     "title": "Ridley",
     "year": 2022,
     "rank":430,
@@ -1424,7 +1454,7 @@ let movies = [
     "videoId": "r97L5PpKk9E"
   },
   {
-    "id":51,
+    "id":52,
     "title": "Gremlins: Secrets of the Mogwai ",
     "year": 2023,
     "rank":130,
@@ -1452,7 +1482,7 @@ let movies = [
   },
 
   {
-    "id":52,
+    "id":53,
     "title": "Spin the Bottle",
     "year": 2024,
     "rank":130,
@@ -1480,7 +1510,7 @@ let movies = [
   },
 
   {
-    "id":53,
+    "id":54,
     "title": "Small Things Like These",
     "year": 2024,
     "rank":13,
@@ -1508,7 +1538,7 @@ let movies = [
   },
 
   {
-    "id":54,
+    "id":55,
     "title": "Brothers",
     "year": 2024,
     "rank":23,
@@ -1536,7 +1566,7 @@ let movies = [
   },
 
   {
-    "id":55,
+    "id":56,
     "title": "The Fire Inside",
     "year": 2024,
     "rank":46,
@@ -1564,7 +1594,7 @@ let movies = [
   },
 
   {
-    "id":56,
+    "id":57,
     "title": "Where's Wanda?",
     "year": 2024,
     "rank":46,
@@ -1592,7 +1622,7 @@ let movies = [
   },
 
   {
-    "id":57,
+    "id":58,
     "title": "Salem's Lot ",
     "year": 2024,
     "rank":26,
@@ -1619,33 +1649,8 @@ let movies = [
     "videoId": "QtVzKkv03ic"
   },
 
-  {
-    "id":58,
-    "title": "Spiderman: NO WAY HOME",
-    "year": 2021,
-    "rank":16,
-    "rankChange": "▲ +2220",
-    "rating": 84,
-    "imdbRating": 6.6,
-    "imdbVotes": "340k",
-    "backdropImage": "https://i.ytimg.com/vi/uyPCkTzhDxQ/maxresdefault.jpg",
-    "posterImage": "https://m.media-amazon.com/images/I/81y0foYjoFL._AC_UF1000,1000_QL80_.jpg",
-    "duration": "  1h 49min",
-    "highestRank": 2,
-    "top10Days": 114,
-    "top100Days":127,
-    "top1000Days": 238,
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ],
-    "likes": "129",
-    "dislikes": "47",
-    "watchlistText": "Watchlist",
-    "seenText": "Seen",
-    "syncText": "Sign in to Sync Watchlist",
-    "videoId": "JfVOs4VSpmA"
-  },
+ 
+
   {
     "id":59,
     "title": "Howl's Moving Castle",
@@ -1673,34 +1678,35 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "iwROgK94zcM"
   },
+ 
+
   {
     "id":60,
-    "title": "Doctor Strange In the Multiverse Of Madness",
-    "year": 2022,
-    "rank":7480,
-    "rankChange": "▲ +738",
-    "rating": 90,
-    "imdbRating": 8.2,
-    "imdbVotes": "97k",
-    "backdropImage": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6EB479687DDB78C087550ADC004EDEEF96DF6354724342E3599BABB94389B6E3/scale?width=1200&aspectRatio=1.78&format=webp",
-    "posterImage": "https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg",
-    "duration": "  25min",
-    "highestRank": 1,
-    "top10Days": 24,
-    "top100Days":45,
-    "top1000Days": 1385,
+    "title": "Saripodhaa Sanivaaram",
+    "year": 2024,
+    "rank":4,
+    "rankChange": "+9",
+    "rating": 45,
+    "imdbRating": 7.2,
+    "imdbVotes": "4.6k",
+    "backdropImage": "https://images.justwatch.com/backdrop/319530142/s1440/saripodhaa-sanivaaram.webp/saripodhaa-sanivaaram.webp",
+    "posterImage": "https://gallery.123telugu.com/content/slideshows/2024/8/Saripodhaa-Sanivaaram/images/image.jpg",
+    "duration": "  2h 50min",
+    "highestRank": 2,
+    "top10Days": 8,
+    "top100Days":17,
+    "top1000Days": 34,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
     ],
-    "likes": "4.8",
-    "dislikes": "481",
+    "likes": "39",
+    "dislikes": "30",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "aWzlQ2N6qqg"
+    "videoId": "M7lc1UVf-VE"
   },
-
 
 
 
