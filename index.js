@@ -2245,7 +2245,7 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "M7lc1UVf-VE"
+    "videoId": "a3B0bePcfl4"
   },
   {
 
@@ -2302,7 +2302,7 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "M7lc1UVf-VE"
+    "videoId": "lzr2PJXeHww"
   },
 ];
 
