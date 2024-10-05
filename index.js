@@ -1760,9 +1760,64 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "M7lc1UVf-VE"
+    "videoId": "HpOBXh02rVc"
   },
 
+  {
+    "id":63,
+    "title": "Double Ismart",
+    "year": 2024,
+    "rank":39,
+    "rankChange": "+31",
+    "rating": 25,
+    "imdbRating": 2.9,
+    "imdbVotes": "1.5k",
+    "backdropImage": "https://images.justwatch.com/backdrop/319810520/s1440/double-ismart.webp/double-ismart.webp",
+    "posterImage": "https://stat4.bollywoodhungama.in/wp-content/uploads/2024/07/Double-Ismart-322x483.jpeg",
+    "duration": "  2h 36min",
+    "highestRank": 1,
+    "top10Days": 7,
+    "top100Days":34,
+    "top1000Days": 53,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "20",
+    "dislikes": "34",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "OOhbzK-BBnc"
+  },
+  {
+    "id":64,
+    "title": "Salaar",
+    "year": 2023,
+    "rank":21,
+    "rankChange": "+347",
+    "rating": 64,
+    "imdbRating": 6.6,
+    "imdbVotes": "70k",
+    "backdropImage": "https://images.justwatch.com/backdrop/310502802/s1440/salaar.webp/salaar.webp",
+    "posterImage": "https://wallpapercave.com/wp/wp13540562.jpg",
+    "duration": "  2h 55min",
+    "highestRank": 1,
+    "top10Days": 76,
+    "top100Days":249,
+    "top1000Days": 311,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "371",
+    "dislikes": "175",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "M7lc1UVf-VE"
+  },
+  
 
 
 
