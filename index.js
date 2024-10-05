@@ -1960,7 +1960,7 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "4WhJogmp_8Y?si"
+    "videoId": "nS9ZM4R1DJw"
   },
 
   {
@@ -2049,6 +2049,90 @@ let movies = [
     "videoId": "WeMJo701mvQ"
   },
 
+  {
+ 
+    "id":73,
+    "title": "Bhimaa",
+    "year": 2024,
+    "rank":235,
+    "rankChange": "▲ +20",
+    "rating": 5.2,
+    "imdbRating": 986,
+    "imdbVotes": "87k",
+    "backdropImage": "https://images.justwatch.com/backdrop/315907160/s1440/bhimaa.webp/bhimaa.webp",
+    "posterImage": "https://cdn.gulte.com/wp-content/uploads/2023/11/WhatsApp-Image-2023-11-12-at-10.35.16-AM-scaled.jpeg",
+    "duration": "2h 21min",
+    "highestRank": 18,
+    "top10Days": 0,
+    "top100Days":16,
+    "top1000Days": 131,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "1",
+    "dislikes": "1",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "P3t--CmbibE"
+  },
+  {
+
+    "id":74,
+    "title": "Pushpa: The Rise",
+    "year": 2021,
+    "rank":1397,
+    "rankChange": "▲ +411",
+    "rating": 82,
+    "imdbRating": 7.6,
+    "imdbVotes": "90k",
+    "backdropImage": "https://images.justwatch.com/backdrop/257781354/s1440/pushpa.webp/pushpa.webp",
+    "posterImage": "https://images.sr.roku.com/idType/roku/context/global/id/b29c7a063ab25b81bd7d11c56f126f27/images/gracenote/assets/p21200456_v_v8_aa.jpg/magic/396x0/filters:quality(70)",
+    "duration": "2h 59min",
+    "highestRank": 1,
+    "top10Days": 127,
+    "top100Days":622,
+    "top1000Days": 1088,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "2.6",
+    "dislikes": "537",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "pKctjlxbFDQ"
+  },
+  {
+
+    "id":75,
+    "title": "The Family Star",
+    "year": 2024,
+    "rank":1123,
+    "rankChange": "▲ +476",
+    "rating": 37,
+    "imdbRating": 5.3,
+    "imdbVotes": "4.8k",
+    "backdropImage": "https://images.justwatch.com/backdrop/316435293/s1440/family-star.webp/family-star.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BOTRjOTM5YzktNzZkMS00ODFhLWJjNGQtYTMwNjRmZmFlMzM5XkEyXkFqcGc@._V1_.jpg",
+    "duration": "2h 39min",
+    "highestRank": 1,
+    "top10Days": 50,
+    "top100Days":118,
+    "top1000Days": 190,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "69",
+    "dislikes": "87",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "M7lc1UVf-VE"
+  },
 ];
 
 app.get('/api/New-movies', (req, res) => {
