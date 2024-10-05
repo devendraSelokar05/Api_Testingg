@@ -2517,7 +2517,7 @@ let movies = [
     "imdbRating": 5.7,
     "imdbVotes": "8.4k",
     "backdropImage": "https://images.justwatch.com/backdrop/312812342/s1440/yodha-2022.webp/yodha-2022.webp",
-    "posterImage": "https://stat4.bollywoodhungama.in/wp-content/uploads/2024/02/Yodha-7-322x429.jpg",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BMTIxYmY0YzUtYTkxNS00ZDEwLTg5MGEtODZkOWRmNjkzNWFkXkEyXkFqcGc@._V1_.jpg",
     "duration": "2h 11min",
     "highestRank": 3,
     "top10Days": 13,
