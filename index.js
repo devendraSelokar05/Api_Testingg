@@ -730,7 +730,7 @@ let movies = [
     "imdbRating": 6.8,
     "imdbVotes": "426k",
     "backdropImage": "https://ew.com/thmb/gSHO6t0Y7bTBua1PoZRF65gJoWQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/furious-7-cast_0-2000-eac0fdddffb8449186a6514aaabd27f8.jpg",
-    "posterImage": "https://www.tallengestore.com/cdn/shop/products/Fast_Furious_4_-_Paul_Walker_-_Vin_Diesel_-_Tallenge_Hollywood_Action_Movie_Poster_9c5e692d-8c8f-45f8-8072-fa3aba4d5115.jpg?v=1582543059",
+    "posterImage": "https://www.tallengestore.com/cdn/shop/products/Fast_Furious_7_-_Paul_Walker_-_Vin_Diesel_-_Dwayne_Johnson_-_Hollywood_Action_Movie_Poster_92545455-e1d9-436c-9f4c-95143035c41b.jpg?v=1582543219",
     "duration": "  1h 46min",
     "highestRank": 25,
     "top10Days": 0,
