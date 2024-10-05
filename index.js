@@ -2390,6 +2390,94 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Po3jStA673E"
   },
+
+  {
+ 
+    "id":85,
+    "title": "Kakuda",
+    "year": 2024,
+    "rank":290,
+    "rankChange": "▲ +899",
+    "rating": 43,
+    "imdbRating": 6.4,
+    "imdbVotes": "6.9k",
+    "backdropImage": "https://images.justwatch.com/backdrop/319553669/s1440/kakuda.webp/kakuda.webp",
+    "posterImage": "https://media5.bollywoodhungama.in/wp-content/uploads/2024/07/Kakuda-2-322x402.jpg",
+    "duration": "2h 57min",
+    "highestRank": 29,
+    "top10Days": 0,
+    "top100Days":9,
+    "top1000Days": 82,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "19",
+    "dislikes": "11",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "M7lc1UVf-VE"
+  },
+
+  {
+
+    "id":86,
+    "title": "Rudra: The Edge of Darkness",
+    "year": 2022,
+    "rank":541,
+    "rankChange": "▲ +87",
+    "rating": 75,
+    "imdbRating": 6.7,
+    "imdbVotes": "8.9k",
+    "backdropImage": "https://images.justwatch.com/backdrop/266486963/s1440/rudra-the-edge-of-darkness.webp/rudra-the-edge-of-darkness.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BZTU4MzUyMjctYTM4NC00Zjc5LThjZjctOTJhMGEwZGRlZGIzXkEyXkFqcGc@._V1_.jpg",
+    "duration": "53min",
+    "highestRank": 2,
+    "top10Days": 17,
+    "top100Days":87,
+    "top1000Days": 917,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "144",
+    "dislikes": "33",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "FyuODiTjoFs"
+  },
+
+  {
+
+    "id":87,
+    "title": "Teri Baaton Mein Aisa Uljha Jiya",
+    "year": 2024,
+    "rank":1243,
+    "rankChange": "▲ +146",
+    "rating": 63,
+    "imdbRating": 6.3,
+    "imdbVotes": "5.2k",
+    "backdropImage": "https://images.justwatch.com/backdrop/308601827/s1440/untitled-shahid-kapoor-kriti-sanon-film.webp/untitled-shahid-kapoor-kriti-sanon-film.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BOThmN2E5MjctMjZjNC00M2U1LTkxZTMtMzQ3MjM0ODIzNjAxXkEyXkFqcGc@._V1_.jpg",
+    "duration": "2h 21min",
+    "highestRank": 1,
+    "top10Days": 38,
+    "top100Days":122,
+    "top1000Days": 239,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "142",
+    "dislikes": "62",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "M7lc1UVf-VE"
+  },
+  
 ];
 
 app.get('/api/New-movies', (req, res) => {
