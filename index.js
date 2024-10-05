@@ -1681,6 +1681,34 @@ let movies = [
  
   {
     "id":60,
+    "title": "Saripodhaa Sanivaaram",
+    "year": 2024,
+    "rank":4,
+    "rankChange": "+9",
+    "rating": 45,
+    "imdbRating": 7.2,
+    "imdbVotes": "4.6k",
+    "backdropImage": "https://images.justwatch.com/backdrop/319530142/s1440/saripodhaa-sanivaaram.webp/saripodhaa-sanivaaram.webp",
+    "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93OSZF2pjPVQOkxaIMgS_BlBPuRFaWJ1ZaA&s",
+    "duration": "  2h 50min",
+    "highestRank": 2,
+    "top10Days": 8,
+    "top100Days":17,
+    "top1000Days": 34,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "39",
+    "dislikes": "30",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "dkx07ZvjKE4"
+  },
+
+  {
+    "id":61,
     "title": "The Greatest of All Time",
     "year": 2024,
     "rank":1,
@@ -1707,6 +1735,33 @@ let movies = [
     "videoId": "tb37SwBvRoQ"
   },
   
+  {
+    "id":68,
+    "title": "GHOSTBUSTERS",
+    "year": 2016,
+    "rank":149,
+    "rankChange": "+610",
+    "rating": 59,
+    "imdbRating": 6.8,
+    "imdbVotes": "250k",
+    "backdropImage": "https://images.justwatch.com/backdrop/178693367/s1440/ghostbusters.webp/ghostbusters.webp",
+    "posterImage": "https://devdiscourse.blob.core.windows.net/devnews/19_10_2021_08_25_17_529654.jpg",
+    "duration": "  1h 57min",
+    "highestRank": 1,
+    "top10Days": 20,
+    "top100Days":121,
+    "top1000Days": 921,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "5.6",
+    "dislikes": "3.7",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "M7lc1UVf-VE"
+  },
 
 
 
