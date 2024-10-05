@@ -1874,8 +1874,64 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "d_BPlvbw_ok"
   },
-  
 
+  {
+ 
+    "id":67,
+    "title": "Ulajh",
+    "year": 2024,
+    "rank":8,
+    "rankChange": "+4",
+    "rating": 20,
+    "imdbRating": 6.7,
+    "imdbVotes": "21k",
+    "backdropImage": "https://images.justwatch.com/backdrop/321200667/s1440/ulajh.webp/ulajh.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BYmJiYTQ4NWYtNDFmYS00NjJlLWJhZDItMGY4OWJiMDE0N2UyXkEyXkFqcGc@._V1_.jpg",
+    "duration": "  2h 14min",
+    "highestRank": 2,
+    "top10Days": 5,
+    "top100Days":10,
+    "top1000Days": 51,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "13",
+    "dislikes": "28",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "Tk1EQD7vGiY"
+  },
+
+  {
+
+    "id":74,
+    "title": "Rathnam",
+    "year": 2024,
+    "rank":30,
+    "rankChange": "+33",
+    "rating": 33,
+    "imdbRating": 5.4,
+    "imdbVotes": "3.4k",
+    "backdropImage": "https://images.justwatch.com/backdrop/316453487/s1440/rathnam.webp/rathnam.webp",
+    "posterImage": "https://static.moviecrow.com/gallery/20240108/224283-Rathanam.jpeg",
+    "duration": "  2h 39min",
+    "highestRank": 4,
+    "top10Days": 5,
+    "top100Days":27,
+    "top1000Days": 101,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "16",
+    "dislikes": "17",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "eeZAC976hjw"
+  },
 
 
 
