@@ -2115,7 +2115,7 @@ let movies = [
     "rating": 37,
     "imdbRating": 5.3,
     "imdbVotes": "4.8k",
-    "backdropImage": "https://images.justwatch.com/backdrop/316435293/s1440/family-star.webp/family-star.webp",
+    "backdropImage": "https://assets.thehansindia.com/h-upload/2024/04/11/1438438-family.webp",
     "posterImage": "https://m.media-amazon.com/images/M/MV5BOTRjOTM5YzktNzZkMS00ODFhLWJjNGQtYTMwNjRmZmFlMzM5XkEyXkFqcGc@._V1_.jpg",
     "duration": "2h 39min",
     "highestRank": 1,
