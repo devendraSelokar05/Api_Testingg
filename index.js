@@ -2201,7 +2201,7 @@ let movies = [
     "imdbRating": 7.9,
     "imdbVotes": "2m",
     "backdropImage": "https://images.justwatch.com/backdrop/319469589/s1440/chandu-champion.webp/chandu-champion.webp",
-    "posterImage": "https://preview.redd.it/chandu-champion-first-look-poster-v0-auay7eo91j0d1.jpeg?width=1080&crop=smart&auto=webp&s=fea07b94db8a4376e6c084659fa875f2e90500b4",
+    "posterImage": "https://upload.wikimedia.org/wikipedia/hi/archive/d/df/20240918230235%21Chandu_Champion_film_poster.jpeg",
     "duration": "2h 2min",
     "highestRank": 2,
     "top10Days": 13,
