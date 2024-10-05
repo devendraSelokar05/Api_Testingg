@@ -1679,34 +1679,34 @@ let movies = [
     "videoId": "iwROgK94zcM"
   },
  
-
   {
     "id":60,
-    "title": "Saripodhaa Sanivaaram",
+    "title": "The Greatest of All Time",
     "year": 2024,
-    "rank":4,
+    "rank":1,
     "rankChange": "+9",
-    "rating": 45,
-    "imdbRating": 7.2,
-    "imdbVotes": "4.6k",
-    "backdropImage": "https://images.justwatch.com/backdrop/319530142/s1440/saripodhaa-sanivaaram.webp/saripodhaa-sanivaaram.webp",
-    "posterImage": "https://gallery.123telugu.com/content/slideshows/2024/8/Saripodhaa-Sanivaaram/images/image.jpg",
-    "duration": "  2h 50min",
-    "highestRank": 2,
-    "top10Days": 8,
-    "top100Days":17,
-    "top1000Days": 34,
+    "rating": 37,
+    "imdbRating": 6.6,
+    "imdbVotes": "14k",
+    "backdropImage": "https://images.justwatch.com/backdrop/320516448/s1440/thalapathy-68.webp/thalapathy-68.webp",
+    "posterImage": "https://preview.redd.it/the-greatest-of-all-time-new-poster-v0-21g6479eu68d1.jpeg?width=640&crop=smart&auto=webp&s=aa8e6f8ab02c9672498e13a2e3e5a296dbe26ff9",
+    "duration": "  3h 3min",
+    "highestRank": 1,
+    "top10Days": 5,
+    "top100Days":29,
+    "top1000Days": 31,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
     ],
-    "likes": "39",
-    "dislikes": "30",
+    "likes": "20",
+    "dislikes": "18",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "dkx07ZvjKE4"
+    "videoId": "tb37SwBvRoQ"
   },
+  
 
 
 
