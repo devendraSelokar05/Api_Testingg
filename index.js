@@ -2115,7 +2115,7 @@ let movies = [
     "rating": 37,
     "imdbRating": 5.3,
     "imdbVotes": "4.8k",
-    "backdropImage": "https://assets.thehansindia.com/h-upload/2024/04/11/1438438-family.webp",
+    "backdropImage": "https://m.media-amazon.com/images/S/pv-target-images/b815768031a3ecc44dc665c6a2e5b223cda2c4b4812f2918f40f025845363239.jpg",
     "posterImage": "https://m.media-amazon.com/images/M/MV5BOTRjOTM5YzktNzZkMS00ODFhLWJjNGQtYTMwNjRmZmFlMzM5XkEyXkFqcGc@._V1_.jpg",
     "duration": "2h 39min",
     "highestRank": 1,
@@ -2131,7 +2131,92 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
+    "videoId": "jWVbxd80oyc"
+  },
+
+  {
+ 
+    "id":76,
+    "title": "Rockstar",
+    "year": 2011,
+    "rank":670,
+    "rankChange": "+659",
+    "rating": 86,
+    "imdbRating": 7.8,
+    "imdbVotes": "51k",
+    "backdropImage": "https://images.justwatch.com/backdrop/244145151/s1440/rockstar.webp/rockstar.webp",
+    "posterImage": "https://stat4.bollywoodhungama.in/wp-content/uploads/2016/03/Rockstar-Poster-Feature.jpg",
+    "duration": "2h 39min",
+    "highestRank": 4,
+    "top10Days": 11,
+    "top100Days":580,
+    "top1000Days": 2344,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "481",
+    "dislikes": "61",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "bD5FShPZdpw"
+  },
+  {
+
+    "id":77,
+    "title": "The Fall Guy",
+    "year": 2024,
+    "rank":53,
+    "rankChange": "+29",
+    "rating": 88,
+    "imdbRating": 6.9,
+    "imdbVotes": "158k",
+    "backdropImage": "https://images.justwatch.com/backdrop/312569653/s1440/the-fall-guy.webp/the-fall-guy.webp",
+    "posterImage": "https://preview.redd.it/new-poster-for-the-fall-guy-v0-6dc8pfhig5nc1.jpeg?auto=webp&s=e7e5204b80b92ff712761b07509e64bf07f9d8a2",
+    "duration": "2h 39min",
+    "highestRank": 1,
+    "top10Days": 16,
+    "top100Days":146,
+    "top1000Days": 217,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "4.4k",
+    "dislikes": "578",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
     "videoId": "M7lc1UVf-VE"
+  },
+  {
+
+    "id":78,
+    "title": "Chandu Champion",
+    "year": 2024,
+    "rank":688,
+    "rankChange": "+600",
+    "rating": 71,
+    "imdbRating": 7.9,
+    "imdbVotes": "2m",
+    "backdropImage": "https://images.justwatch.com/backdrop/319469589/s1440/chandu-champion.webp/chandu-champion.webp",
+    "posterImage": "https://preview.redd.it/chandu-champion-first-look-poster-v0-auay7eo91j0d1.jpeg?width=1080&crop=smart&auto=webp&s=fea07b94db8a4376e6c084659fa875f2e90500b4",
+    "duration": "2h 2min",
+    "highestRank": 2,
+    "top10Days": 13,
+    "top100Days":666,
+    "top1000Days": 113,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "96",
+    "dislikes": "26",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "video": "IHQQK_Wn5DM"
   },
 ];
 
