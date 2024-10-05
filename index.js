@@ -1815,6 +1815,63 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
+    "videoId": "HihakYi5M2I"
+  },
+
+  {
+ 
+    "id":65,
+    "title": "Aavesham",
+    "year": 2024,
+    "rank":43,
+    "rankChange": "+32",
+    "rating": 82,
+    "imdbRating": 7.8,
+    "imdbVotes": "21k",
+    "backdropImage": "https://images.justwatch.com/backdrop/313630178/s1440/aavesham-2024.webp/aavesham-2024.webp",
+    "posterImage": "https://image.tmdb.org/t/p/original/k5RWPaNjgRcNvGoawYaQHQwyctI.jpg",
+    "duration": "  2h 38min",
+    "highestRank": 1,
+    "top10Days": 68,
+    "top100Days":160,
+    "top1000Days": 177,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "288",
+    "dislikes": "48",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "UttccYQXpTM"
+  },
+  {
+
+    "id":66,
+    "title": "Bhediya",
+    "year": 2022,
+    "rank":64,
+    "rankChange": "+79",
+    "rating": 81,
+    "imdbRating": 6.7,
+    "imdbVotes": "26k",
+    "backdropImage": "https://images.justwatch.com/backdrop/301523379/s1440/bhediya.webp/bhediya.webp",
+    "posterImage": "https://wallpapercave.com/wp/wp12167960.jpg",
+    "duration": "  2h 36min",
+    "highestRank": 1,
+    "top10Days": 179,
+    "top100Days":319,
+    "top1000Days": 673,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "625",
+    "dislikes": "122",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
     "videoId": "M7lc1UVf-VE"
   },
   
