@@ -2287,7 +2287,7 @@ let movies = [
     "imdbRating": 8.7,
     "imdbVotes": "11k",
     "backdropImage": "https://images.justwatch.com/backdrop/279111882/s1440/777-charlie.webp/777-charlie.webp",
-    "posterImage": "https://m.media-amazon.com/images/M/MV5BOWY4MzlmNjItZGYzMS00ZDVhLWI2ZDMtNWEwZTBiMmU0YzQ4XkEyXkFqcGc@._V1_.jpg",
+    "posterImage": "https://pbs.twimg.com/media/E3NRfpEVcAQcOVW.jpg",
     "duration": "2h 46min",
     "highestRank": 2,
     "top10Days": 102,
@@ -2303,6 +2303,92 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "lzr2PJXeHww"
+  },
+
+  {
+ 
+    "id":82,
+    "title": "Jailer",
+    "year": 2023,
+    "rank":4010,
+    "rankChange": "▲ +3432",
+    "rating": 74,
+    "imdbRating": 7.7,
+    "imdbVotes": "9k",
+    "backdropImage": "https://images.justwatch.com/backdrop/302068761/s1440/jailer.webp/jailer.webp",
+    "posterImage": "https://i.pinimg.com/originals/07/21/f6/0721f6f5ae32dfbbce439bd21bdd0805.jpg",
+    "duration": "2h 45min",
+    "highestRank": 2,
+    "top10Days": 28,
+    "top100Days":131,
+    "top1000Days": 404,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "404",
+    "dislikes": "117",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId":"xenOE1Tma0A"
+  },
+  {
+
+    "id":83,
+    "title": "Drishyam 2",
+    "year": 2022,
+    "rank":511,
+    "rankChange": "▲ +410",
+    "rating": 80,
+    "imdbRating": 8.2,
+    "imdbVotes": "46k",
+    "backdropImage": "https://images.justwatch.com/backdrop/302032241/s1440/drishyam-2-2022.webp/drishyam-2-2022.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BNGYyY2I5MzktMDg2MC00Nzc4LWIwNmYtMjg3NzE1ODQyMDllXkEyXkFqcGc@._V1_.jpg",
+    "duration": "2h 20min",
+    "highestRank": 1,
+    "top10Days": 44,
+    "top100Days":142,
+    "top1000Days": 613,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "574",
+    "dislikes": "121",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "M7lc1UVf-VE"
+  },
+
+  {
+
+    "id":84,
+    "title": "Leo",
+    "year": 2023,
+    "rank":381,
+    "rankChange": "▲ +243",
+    "rating": 68,
+    "imdbRating": 7.2,
+    "imdbVotes": "63k",
+    "backdropImage": "https://images.justwatch.com/backdrop/309143388/s1440/leo-2023.webp/leo-2023.webp",
+    "posterImage": "https://wallpapercave.com/wp/wp12185319.jpg",
+    "duration": "2h 43min",
+    "highestRank": 1,
+    "top10Days": 57,
+    "top100Days":125,
+    "top1000Days": 358,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "369",
+    "dislikes": "143",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "Po3jStA673E"
   },
 ];
 
