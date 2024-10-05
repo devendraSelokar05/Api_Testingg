@@ -2477,6 +2477,269 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "w_N6d4ec79c"
   },
+
+  {
+ 
+    "id":88,
+    "title": "Train to Busan",
+    "year": 2016,
+    "rank":409,
+    "rankChange": "▲ +213",
+    "rating": 95,
+    "imdbRating": 7.6,
+    "imdbVotes": "269k",
+    "backdropImage": "https://images.justwatch.com/backdrop/8836855/s1440/train-to-busan.webp/train-to-busan.webp",
+    "posterImage": "https://image.tmdb.org/t/p/original/t8RfxLtdmuscLgfwWxnm8xx4Ary.jpg",
+    "duration": "1h 58min",
+    "highestRank": 1,
+    "top10Days": 12,
+    "top100Days":205,
+    "top1000Days": 2454,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "17k",
+    "dislikes": "878",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "1ovgxN2VWNc"
+  },
+  {
+
+    "id":89,
+    "title": "Yodha",
+    "year": 2024,
+    "rank":1402,
+    "rankChange": "▲ +152",
+    "rating": 55,
+    "imdbRating": 5.7,
+    "imdbVotes": "8.4k",
+    "backdropImage": "https://images.justwatch.com/backdrop/312812342/s1440/yodha-2022.webp/yodha-2022.webp",
+    "posterImage": "https://stat4.bollywoodhungama.in/wp-content/uploads/2024/02/Yodha-7-322x429.jpg",
+    "duration": "2h 11min",
+    "highestRank": 3,
+    "top10Days": 13,
+    "top100Days":67,
+    "top1000Days": 202,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "60",
+    "dislikes": "32",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "3AuB8RTfBJc"
+  },
+
+  {
+
+    "id":90,
+    "title": "Shaitaan ",
+    "year": 2024,
+    "rank":522,
+    "rankChange": "▲ +670",
+    "rating": 53,
+    "imdbRating": 6.6,
+    "imdbVotes": "5.1k",
+    "backdropImage": "https://images.justwatch.com/backdrop/315476071/s1440/black-magic-2024.webp/black-magic-2024.webp",
+    "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTvmTs_KuGBvDgydgU5KryIzYDHRIGmbu4Uw&s",
+    "duration": "2h 12min",
+    "highestRank": 1,
+    "top10Days": 17,
+    "top100Days":105,
+    "top1000Days": 209,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "171",
+    "dislikes": "122",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "jLshY-zUfZ4"
+  },
+  
+  {
+
+    "id":91,
+    "title": "Bhool Bhulaiyaa 2",
+    "year": 2022,
+    "rank":407,
+    "rankChange": "▲ +900",
+    "rating": 56,
+    "imdbRating": 5.7,
+    "imdbVotes": "33k",
+    "backdropImage": "https://images.justwatch.com/backdrop/290417264/s1440/bhool-bhulaiyaa-2.webp/bhool-bhulaiyaa-2.webp",
+    "posterImage": "https://images.justwatch.com/poster/272492185/s718/bhool-bhulaiyaa-2.jpg",
+    "duration": "2h 22min",
+    "highestRank": 1,
+    "top10Days": 22,
+    "top100Days":113,
+    "top1000Days": 472,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "321",
+    "dislikes": "210",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "P2KRKxAb2ek"
+  },
+  {
+
+    "id":92,
+    "title": "Maaveeran",
+    "year":2023 ,
+    "rank":1046,
+    "rankChange": "▲ +335",
+    "rating": 64,
+    "imdbRating": 7.4,
+    "imdbVotes": "9.8k",
+    "backdropImage": "https://images.justwatch.com/backdrop/305932344/s1440/maaveeran-2023.webp/maaveeran-2023.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BMzBjZTM5NWItNzYyOC00NzU3LThlMjAtMzg5ZTEwODI1ODgwXkEyXkFqcGc@._V1_.jpg",
+    "duration": "2h 46min",
+    "highestRank": 2,
+    "top10Days": 6,
+    "top100Days":48,
+    "top1000Days": 217,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "148",
+    "dislikes": "62",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "EcNACt-LOi0",
+  
+  },
+
+  {
+
+    "id":93,
+    "title": "Guns & Gulaabs",
+    "year":2023 ,
+    "rank":980,
+    "rankChange": "▲ +217",
+    "rating": 63,
+    "imdbRating": 7.7,
+    "imdbVotes": "18k",
+    "backdropImage": "https://images.justwatch.com/backdrop/307266837/s1440/guns-and-gulaabs.webp/guns-and-gulaabs.webp",
+    "posterImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20230801064435.jpg",
+    "duration": "53min",
+    "highestRank": 1,
+    "top10Days": 21,
+    "top100Days":66,
+    "top1000Days": 360,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "225",
+    "dislikes": "109",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "pgEiBaF2mHA"
+  },
+
+  
+  {
+
+    "id":94,
+    "title": "The Kerala Story",
+    "year":2023,
+    "rank":702,
+    "rankChange": "▲ +2974",
+    "rating": 79,
+    "imdbRating": 6.1,
+    "imdbVotes": "73k",
+    "backdropImage": "https://images.justwatch.com/backdrop/305317096/s1440/the-kerala-story.webp/the-kerala-story.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BYjk0NjA1NDctODliZC00MDZjLTlhNGItZjA3OWRhMDA5MTA5XkEyXkFqcGc@._V1_.jpg",
+    "duration": "2h 18min",
+    "highestRank": 1,
+    "top10Days": 158,
+    "top100Days":353,
+    "top1000Days": 513,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "470",
+    "dislikes": "160",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+     "videoId": "hM12KxC3ONA"
+  },
+  
+  {
+
+    "id":95,
+    "title": "Shershaah",
+    "year":2021,
+    "rank":421,
+    "rankChange": "▲ +461",
+    "rating": 71,
+    "imdbRating": 8.3,
+    "imdbVotes": "131k",
+    "backdropImage": "https://images.justwatch.com/backdrop/253243045/s1440/shershaah.webp/shershaah.webp",
+    "posterImage": "https://images.justwatch.com/poster/248507471/s166/shershaah.webp",
+    "duration": "2h 15min",
+    "highestRank": 1,
+    "top10Days": 28,
+    "top100Days":136,
+    "top1000Days": 1009,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "1k",
+    "dislikes": "378",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "Q0FTXnefVBA"
+  },
+
+  
+  {
+
+    "id":96,
+    "title": "The Hangover",
+    "year":2009,
+    "rank":230,
+    "rankChange": "▲ +116",
+    "rating": 94,
+    "imdbRating": 7.7,
+    "imdbVotes": "862k",
+    "backdropImage": "https://images.justwatch.com/backdrop/248554430/s1440/the-hangover.webp/the-hangover.webp",
+    "posterImage": "https://images.justwatch.com/poster/8730490/s166/the-hangover.webp",
+    "duration": "1h 40min",
+    "highestRank": 17,
+    "top10Days": 0,
+    "top100Days":34,
+    "top1000Days": 2025,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "26k",
+    "dislikes": "1.5k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "tlize92ffnY"
+  },
+
   
 ];
 
