@@ -596,7 +596,7 @@ let movies = [
     "imdbRating": 6.5,
     "imdbVotes": "8.k",
     "backdropImage": "https://images.justwatch.com/backdrop/319476194/s1440/raayan.webp/raayan.webp",
-    "posterImage": "https://media.themoviedb.org/t/p/w500/dHMbqpG7vZk1iEJaEkCCyixFbos.jpg",
+    "posterImage": "https://alldatmatterz.com/uploads/2024/06/raayan_1718258332.webp",
     "duration": "2h 25min",
     "highestRank": 2,
     "top10Days": 13,
@@ -1945,7 +1945,7 @@ let movies = [
     "imdbRating": 7.2,
     "imdbVotes": "3.7k",
     "backdropImage": "https://images.justwatch.com/backdrop/42954185/s1440/tholi-prema-2018.webp/tholi-prema-2018.webp",
-    "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHXENa2nqhB33yEcJ2d05BXsaMkZa3sLOmsCdECi4xFPnzTCky9mYDY5A7l-FXpbuD4bs&usqp=CAU",
+    "posterImage": "https://files.prokerala.com/movies/pics/800/tholi-prema-posters-84059.jpg",
     "duration": "  2h 26min",
     "highestRank": 2,
     "top10Days": 18,
@@ -1992,7 +1992,62 @@ let movies = [
     "videoId": "SU7h7Nan_4o"
   },
 
+  {
+ 
+    "id":71,
+    "title": "Manjummel Boys",
+    "year": 2024,
+    "rank":460,
+    "rankChange": "▲ +461",
+    "rating": 89,
+    "imdbRating": 8.3,
+    "imdbVotes": "2.2k",
+    "backdropImage": "https://images.justwatch.com/backdrop/311759378/s1440/manjummel-boys.webp/manjummel-boys.webp",
+    "posterImage": "https://img.nowrunning.com/content/movie/2023/manju-27581/Stills/manjummelboys_2024212.jpg",
+    "duration": "  2h 15min",
+    "highestRank": 1,
+    "top10Days": 54,
+    "top100Days":167,
+    "top1000Days": 225,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "275",
+    "dislikes": "21",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "rqBuKT_8dMY"
+  },
+  {
 
+    "id":72,
+    "title": "12th Fail",
+    "year": 2023,
+    "rank":83,
+    "rankChange": "▲ +78",
+    "rating": 83,
+    "imdbRating": 8.8,
+    "imdbVotes": "130k",
+    "backdropImage": "https://images.justwatch.com/backdrop/312357660/s1440/12th-fail.webp/12th-fail.webp",
+    "posterImage": "https://image.tmdb.org/t/p/original/26xY5efr080WgR8mGhFiwSBhh9e.jpg",
+    "duration": "  2h 28min",
+    "highestRank": 1,
+    "top10Days": 127,
+    "top100Days":264,
+    "top1000Days": 346,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "869",
+    "dislikes": "147",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "WeMJo701mvQ"
+  },
 
 ];
 
