@@ -2173,7 +2173,7 @@ let movies = [
     "imdbRating": 6.9,
     "imdbVotes": "158k",
     "backdropImage": "https://images.justwatch.com/backdrop/312569653/s1440/the-fall-guy.webp/the-fall-guy.webp",
-    "posterImage": "https://preview.redd.it/new-poster-for-the-fall-guy-v0-6dc8pfhig5nc1.jpeg?auto=webp&s=e7e5204b80b92ff712761b07509e64bf07f9d8a2",
+    "posterImage": "https://image.tmdb.org/t/p/original/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
     "duration": "2h 39min",
     "highestRank": 1,
     "top10Days": 16,
@@ -2216,7 +2216,7 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "video": "tetgdbFEjSQ"
+    "videoId": "IHQQK_Wn5DM"
   },
 ];
 
