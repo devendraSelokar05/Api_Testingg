@@ -2694,7 +2694,7 @@ let movies = [
     "imdbRating": 8.0,
     "imdbVotes": "70k",
     "backdropImage": "https://images.justwatch.com/backdrop/197009956/s1440/m-s-dhoni-the-untold-story.webp/m-s-dhoni-the-untold-story.webp",
-    "posterImage": "https://m.media-amazon.com/images/M/MV5BM2UwZTNkMmItYmYzOS00MTk3LTg3NDgtNzg5ZjYxNTIzNzY4XkEyXkFqcGc@._V1_.jpg",
+    "posterImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/194400/194475.jpg",
     "duration": "1h 40min",
     "highestRank": 5,
     "top10Days": 6,
