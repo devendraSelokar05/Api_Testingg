@@ -542,7 +542,7 @@ let movies = [
     "imdbRating": 6.0,
     "imdbVotes": "66k",
     "backdropImage": "https://images.justwatch.com/backdrop/319859355/s1440/trap-2024.webp/trap-2024.webp",
-    "posterImage": "https://lh6.googleusercontent.com/proxy/I7bv_CEf2bj5yyOe0xITgdFZ7oDsJHaoOAUZUyeQbr-5Sz0Xsp7NOpnn51KP31bsrXKK9i-RWbhnYeZp7FC1ZP8",
+    "posterImage": "https://i.redd.it/mfnua86j7mxc1.jpeg",
     "duration": " 1h 45min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
@@ -627,7 +627,7 @@ let movies = [
     "imdbRating": 6.7,
     "imdbVotes": "46k",
     "backdropImage": "https://images.justwatch.com/backdrop/318653942/s1440/the-bikeriders.webp/the-bikeriders.webp",
-    "posterImage": "https://lh3.googleusercontent.com/proxy/e7jQnOOJJIV1sS-BKISQTGMURfk1OIp2-3OvbvEbqcEy-MwePKKeavMXQ6yrtLUdmN-_LeqUnVcyQzUrDmH9-v6SzYspjbg",
+    "posterImage": "https://l450v.alamy.com/450v/2wr9g0j/the-bikeriders-poster-2wr9g0j.jpg",
     "duration": "  1h 46min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
@@ -2489,7 +2489,7 @@ let movies = [
     "imdbRating": 7.6,
     "imdbVotes": "269k",
     "backdropImage": "https://images.justwatch.com/backdrop/8836855/s1440/train-to-busan.webp/train-to-busan.webp",
-    "posterImage": "https://image.tmdb.org/t/p/original/t8RfxLtdmuscLgfwWxnm8xx4Ary.jpg",
+    "posterImage": "https://picfiles.alphacoders.com/352/thumb-352183.jpg",
     "duration": "1h 58min",
     "highestRank": 1,
     "top10Days": 12,
