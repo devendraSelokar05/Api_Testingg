@@ -2575,7 +2575,7 @@ let movies = [
     "imdbRating": 5.7,
     "imdbVotes": "33k",
     "backdropImage": "https://images.justwatch.com/backdrop/290417264/s1440/bhool-bhulaiyaa-2.webp/bhool-bhulaiyaa-2.webp",
-    "posterImage": "https://images.justwatch.com/poster/272492185/s718/bhool-bhulaiyaa-2.jpg",
+    "posterImage": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ec16a4146301677.62addf77becfe.jpg",
     "duration": "2h 22min",
     "highestRank": 1,
     "top10Days": 22,
@@ -2592,39 +2592,11 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "P2KRKxAb2ek"
   },
+ 
+
   {
 
     "id":92,
-    "title": "Maaveeran",
-    "year":2023 ,
-    "rank":1046,
-    "rankChange": "▲ +335",
-    "rating": 64,
-    "imdbRating": 7.4,
-    "imdbVotes": "9.8k",
-    "backdropImage": "https://images.justwatch.com/backdrop/305932344/s1440/maaveeran-2023.webp/maaveeran-2023.webp",
-    "posterImage": "https://m.media-amazon.com/images/M/MV5BMzBjZTM5NWItNzYyOC00NzU3LThlMjAtMzg5ZTEwODI1ODgwXkEyXkFqcGc@._V1_.jpg",
-    "duration": "2h 46min",
-    "highestRank": 2,
-    "top10Days": 6,
-    "top100Days":48,
-    "top1000Days": 217,
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ],
-    "likes": "148",
-    "dislikes": "62",
-    "watchlistText": "Watchlist",
-    "seenText": "Seen",
-    "syncText": "Sign in to Sync Watchlist",
-    "videoId": "EcNACt-LOi0",
-  
-  },
-
-  {
-
-    "id":93,
     "title": "Guns & Gulaabs",
     "year":2023 ,
     "rank":980,
@@ -2654,7 +2626,7 @@ let movies = [
   
   {
 
-    "id":94,
+    "id":93,
     "title": "The Kerala Story",
     "year":2023,
     "rank":702,
@@ -2683,7 +2655,7 @@ let movies = [
   
   {
 
-    "id":95,
+    "id":94,
     "title": "Shershaah",
     "year":2021,
     "rank":421,
@@ -2713,7 +2685,7 @@ let movies = [
   
   {
 
-    "id":96,
+    "id":95,
     "title": "The Hangover",
     "year":2009,
     "rank":230,
