@@ -2594,34 +2594,34 @@ let movies = [
   },
  
 
-  {
+  // {
 
-    "id":92,
-    "title": "Guns & Gulaabs",
-    "year":2023 ,
-    "rank":980,
-    "rankChange": "▲ +217",
-    "rating": 63,
-    "imdbRating": 7.7,
-    "imdbVotes": "18k",
-    "backdropImage": "https://images.justwatch.com/backdrop/307266837/s1440/guns-and-gulaabs.webp/guns-and-gulaabs.webp",
-    "posterImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20230801064435.jpg",
-    "duration": "53min",
-    "highestRank": 1,
-    "top10Days": 21,
-    "top100Days":66,
-    "top1000Days": 360,
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ],
-    "likes": "225",
-    "dislikes": "109",
-    "watchlistText": "Watchlist",
-    "seenText": "Seen",
-    "syncText": "Sign in to Sync Watchlist",
-    "videoId": "pgEiBaF2mHA"
-  },
+  //   "id":92,
+  //   "title": "Guns & Gulaabs",
+  //   "year":2023 ,
+  //   "rank":980,
+  //   "rankChange": "▲ +217",
+  //   "rating": 63,
+  //   "imdbRating": 7.7,
+  //   "imdbVotes": "18k",
+  //   "backdropImage": "https://images.justwatch.com/backdrop/307266837/s1440/guns-and-gulaabs.webp/guns-and-gulaabs.webp",
+  //   "posterImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20230801064435.jpg",
+  //   "duration": "53min",
+  //   "highestRank": 1,
+  //   "top10Days": 21,
+  //   "top100Days":66,
+  //   "top1000Days": 360,
+  //   "watchOptions": [
+  //     {"platform": "Netflix", "price": "Rs200/-"},
+  //     {"platform": "Amazon Prime", "price": "Rs500/-"}
+  //   ],
+  //   "likes": "225",
+  //   "dislikes": "109",
+  //   "watchlistText": "Watchlist",
+  //   "seenText": "Seen",
+  //   "syncText": "Sign in to Sync Watchlist",
+  //   "videoId": "pgEiBaF2mHA"
+  // },
 
   
   {
