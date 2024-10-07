@@ -2737,8 +2737,94 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to sync Watch List",
     "videoId" : "qGb5aKEYR8Q"
-},
+  },
+
   
+  {
+    "id": 97,
+    "title": "ANIMAL",
+    "year": 2023,
+    "rank": 192,
+    "rankChange": "▲ +342",
+    "rating": 67,
+    "imdbRating": 6.1,
+    "imdbVotes": "99k",
+    "backdropImage": "https://images.justwatch.com/backdrop/309854144/s1440/animal-2022.webp/animal-2022.webp",
+    "posterImage": "https://m.media-amazon.com/images/I/91zTlD7AY1L.jpg",
+    "duration": "1h 1min",
+    "highestRank": "01",
+    "top10Days": "113 Days",
+    "top100Days": "241 Days",
+    "top1000Days": "336 Days",
+    "watchOptions": [
+  {"platform": "Netflix", "price": "Rs200/-"},
+  {"platform": "Amazon Prime", "price": "Rs500/-"}
+  ],
+    "likes": "12k",
+    "dislikes": 152,
+    "watchlistText": "Lists",
+    "seenText": "Seen all",
+    "syncText": "Sign in to sync Watch List", 
+    "videoId" : "Dydmpfo68DA"
+  },
+
+  {
+    "id": 98,
+    "title": "SANAM TERI KASAM",
+    "year": 2016,
+    "rank": 214,
+    "rankChange": "▲ +8",
+    "rating": 69,
+    "imdbRating": 7.6,
+    "imdbVotes": "17k",
+    "backdropImage": "https://images.justwatch.com/backdrop/198570000/s1440/sanam-teri-kasam.webp/sanam-teri-kasam.webp",
+    "posterImage": "https://image.airtel.tv/content/EROSNOW/MOVIE/EROSNOW_MOVIE_6687211/Sanam_Teri_Kasam_1_1.png",
+    "duration": "2h 34min",
+    "highestRank": "07",
+    "top10Days": "3 Days",
+    "top100Days": "117 Days",
+    "top1000Days": "1869 Days",
+    "watchOptions": [
+  {"platform": "Netflix", "price": "Rs200/-"},
+  {"platform": "Amazon Prime", "price": "Rs500/-"}
+  ],
+    "likes": "118k",
+    "dislikes": 37,
+    "watchlistText": "Lists",
+    "seenText": "Seen all",
+    "syncText": "Sign in to sync Watch List", 
+    "videoId" : "v1Zajpp0aEY"
+  },
+
+
+  {
+    "id": 99,
+    "title": "LAILA MAJNU",
+    "year": 2018,
+    "rank": 12,
+    "rankChange": "▲ +11",
+    "rating": 78,
+    "imdbRating": 7.7,
+    "imdbVotes": "6.6",
+    "backdropImage": "https://images.justwatch.com/backdrop/81338817/s1440/laila-majnu.webp/laila-majnu.webp",
+    "posterImage": "https://i.ytimg.com/vi/zlab41kl8jg/maxresdefault.jpg",
+    "duration": "2h 19min",
+    "highestRank": "02",
+    "top10Days": "8 Days",
+    "top100Days": "83 Days",
+    "top1000Days": "445 Days",
+    "watchOptions": [
+  {"platform": "Netflix", "price": "Rs200/-"},
+  {"platform": "Amazon Prime", "price": "Rs500/-"}
+  ],
+    "likes": "55k",
+    "dislikes": 358,
+    "watchlistText": "Lists",
+    "seenText": "Seen all",
+    "syncText": "Sign in to sync Watch List", 
+    "videoId" : "Cv-6cAHanZ8"
+  },
+    
 ];
 
 app.get('/api/New-movies', (req, res) => {
