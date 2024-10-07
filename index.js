@@ -2750,7 +2750,7 @@ let movies = [
     "imdbRating": 6.1,
     "imdbVotes": "99k",
     "backdropImage": "https://images.justwatch.com/backdrop/309854144/s1440/animal-2022.webp/animal-2022.webp",
-    "posterImage": "https://wallpapercave.com/wp/wp13286327.jpg",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BMmFjYzdhZjktN2E1ZS00NzY5LWE1NTUtY2U4YTQ1NzdhOGVmXkEyXkFqcGc@._V1_QL75_UX820_.jpg",
     "duration": "1h 1min",
     "highestRank": "01",
     "top10Days": "113 Days",
