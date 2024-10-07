@@ -150,7 +150,7 @@ let movies = [
     "imdbRating": 7.6,
     "imdbVotes": "24k",
     "backdropImage": "https://assets-in.bmscdn.com/discovery-catalog/events/et00364249-qbqdytudsg-landscape.jpg",
-    "posterImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/18/full/1721302575-0514.jpg?im=FitAndFill=(826,465)",
+    "posterImage": "https://assetscdn1.paytm.com/images/cinema/Stree21-min-f4ac2e40-4389-11ef-83ec-5d141d381675.jpg",
     "duration": "  2h 27min",
     "highestRank": 1,
     "top10Days": 125,
