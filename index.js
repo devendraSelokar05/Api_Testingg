@@ -2778,7 +2778,7 @@ let movies = [
     "imdbRating": 7.6,
     "imdbVotes": "17k",
     "backdropImage": "https://images.justwatch.com/backdrop/198570000/s1440/sanam-teri-kasam.webp/sanam-teri-kasam.webp",
-    "posterImage": "https://www.filmibeat.com/wimg/mobi/2015/12/sanam-teri-kasam_145076808810.jpg",
+    "posterImage": "https://eros-asset-msp.airtelxstream.in/assets/EROSNOW/MOVIE/613844b8e987121d7171c31d/images/SQUARE_HD/SQUARE_HD_qlhDjABJ9_Sanam_Teri_Kasam_Airtel_Xstream_1080x1080.jpg",
     "duration": "2h 34min",
     "highestRank": "07",
     "top10Days": "3 Days",
