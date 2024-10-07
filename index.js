@@ -2593,36 +2593,6 @@ let movies = [
     "videoId": "P2KRKxAb2ek"
   },
  
-
-  // {
-
-  //   "id":92,
-  //   "title": "Guns & Gulaabs",
-  //   "year":2023 ,
-  //   "rank":980,
-  //   "rankChange": "▲ +217",
-  //   "rating": 63,
-  //   "imdbRating": 7.7,
-  //   "imdbVotes": "18k",
-  //   "backdropImage": "https://images.justwatch.com/backdrop/307266837/s1440/guns-and-gulaabs.webp/guns-and-gulaabs.webp",
-  //   "posterImage": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20230801064435.jpg",
-  //   "duration": "53min",
-  //   "highestRank": 1,
-  //   "top10Days": 21,
-  //   "top100Days":66,
-  //   "top1000Days": 360,
-  //   "watchOptions": [
-  //     {"platform": "Netflix", "price": "Rs200/-"},
-  //     {"platform": "Amazon Prime", "price": "Rs500/-"}
-  //   ],
-  //   "likes": "225",
-  //   "dislikes": "109",
-  //   "watchlistText": "Watchlist",
-  //   "seenText": "Seen",
-  //   "syncText": "Sign in to Sync Watchlist",
-  //   "videoId": "pgEiBaF2mHA"
-  // },
-
   
   {
 
@@ -2712,6 +2682,62 @@ let movies = [
     "videoId": "6L6XqWoS8tw"
   },
 
+  {
+
+    "id":95,
+    "title": "Tu Jhoothi Mai Makkar",
+    "year":2023 ,
+    "rank":1399,
+    "rankChange": "▲ +5659",
+    "rating": 61,
+    "imdbRating": 7.0,
+    "imdbVotes": "30k",
+    "backdropImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202301/trailer_of_tu_jhoothi_main_makkar_to_release_on_this_date-sixteen_nine.jpg?VersionId=xjr0srH.rjTI7AtxbqEg_sO6Ear6W_f4",
+    "posterImage": "https://stat4.bollywoodhungama.in/wp-content/uploads/2023/01/Tu-Jhoothi-Main-Makkaar-1.jpeg",
+    "duration": "2h 39min",
+    "highestRank": 1,
+    "top10Days": 54,
+    "top100Days":174,
+    "top1000Days": 541,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "352",
+    "dislikes": "192",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "JzGGF4JPFIQ"
+  },
+
+  {
+    "id": 96,
+    "title": "MUNJYA",
+    "year": 2024,
+    "rank": 15,
+    "rankChange": "▲ +110",
+    "rating": 67,
+    "imdbRating": 6.5,
+    "imdbVotes": "21k",
+    "backdropImage": "https://images.justwatch.com/backdrop/317639257/s1440/munjha.webp/munjha.webp",
+    "posterImage": "https://wallpapercave.com/wp/wp14067165.jpg",
+    "duration": "2h 3min",
+    "highestRank": "01",
+    "top10Days": "97 Days",
+    "top100Days": "114 Days",
+    "top1000Days": "121 Days",
+    "watchOptions": [
+  {"platform": "Netflix", "price": "Rs200/-"},
+  {"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+    "likes": "55k",
+    "dislikes": 5,
+    "watchlistText": "WatchList",
+    "seenText": "Seen",
+    "syncText": "Sign in to sync Watch List",
+    "videoId" : "qGb5aKEYR8Q"
+},
   
 ];
 
