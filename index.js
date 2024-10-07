@@ -2807,7 +2807,7 @@ let movies = [
     "imdbRating": 7.7,
     "imdbVotes": "6.6",
     "backdropImage": "https://images.justwatch.com/backdrop/81338817/s1440/laila-majnu.webp/laila-majnu.webp",
-    "posterImage": "https://i.ytimg.com/vi/zlab41kl8jg/maxresdefault.jpg",
+    "posterImage": "https://img.etimg.com/thumb/width-1600,height-900,imgsize-401920,resizemode-75,msid-65769826/magazines/panache/laila-majnu-review-visual-delight-for-a-true-romantic.jpg",
     "duration": "2h 19min",
     "highestRank": "02",
     "top10Days": "8 Days",
