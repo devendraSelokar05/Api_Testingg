@@ -53,16 +53,48 @@ let movies = [
         "episodes": 10,
         "posterImage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/e/4/t/game-of-thrones-season-1-original-imagzkkw27kryqma.jpeg?q=90&crop=false"
       },
+
       {
         "seasonNumber": 2,
         "episodes": 10,
-        "posterImage": "https://images.justwatch.com/poster/216332297/s166/season-2.webp"
+        "posterImage": "https://images.justwatch.com/poster/8584616/s166/season-2.webp"
       },
+
       {
         "seasonNumber": 3,
         "episodes": 10,
-        "posterImage": "https://images.justwatch.com/poster/318579955/s166/season-3.webp"
-      }
+        "posterImage": "https://images.justwatch.com/poster/8584568/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes": 10,
+        "posterImage": "https://images.justwatch.com/poster/8584555/s166/season-4.webp"
+      },
+
+      {
+        "seasonNumber": 5,
+        "episodes": 10,
+        "posterImage": "https://images.justwatch.com/poster/8584386/s166/season-5.webp"
+      },
+
+      {
+        "seasonNumber": 6,
+        "episodes": 10,
+        "posterImage": "https://images.justwatch.com/poster/8583927/s166/season-6.webp"
+      },
+
+      {
+        "seasonNumber": 7,
+        "episodes": 7,
+        "posterImage": "https://images.justwatch.com/poster/78227677/s166/season-7.webp"
+      },
+
+      {
+        "seasonNumber": 8,
+        "episodes": 6,
+        "posterImage": "https://images.justwatch.com/poster/123167430/s166/season-8.webp"
+      },
     ]
 
   },
