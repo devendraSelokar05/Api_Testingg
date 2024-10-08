@@ -364,7 +364,7 @@ let movies = [
     "rating": 79,
     "imdbRating": 8.4,
     "imdbVotes": "87k",
-    "backdropImage": "https://images.justwatch.com/backdrop/306672231/s1440/panchayat.webp/panchayat.webp",
+    "backdropImage": "https://media.assettype.com/pratidintime%2F2024-03%2Fdd857ae7-f9b8-4909-a1ca-534aea22d538%2FSnapinsta_app_433426900_18339877129112131_5071267279140018758_n_1080.jpg",
     "posterImage": "https://images.justwatch.com/poster/316699631/s718/panchayat.jpg",
     "duration": "50min",
     "highestRank": 1,
