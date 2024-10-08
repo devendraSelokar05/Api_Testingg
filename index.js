@@ -45,7 +45,24 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "bjqEWgDVPe0"
+    "videoId": "bjqEWgDVPe0",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 10,
+        "posterImage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/e/4/t/game-of-thrones-season-1-original-imagzkkw27kryqma.jpeg?q=90&crop=false"
+      },
+      {
+        "seasonNumber": 2,
+        "episodes": 10,
+        "posterImage": "https://images.justwatch.com/poster/216332297/s166/season-2.webp"
+      },
+      {
+        "seasonNumber": 3,
+        "episodes": 10,
+        "posterImage": "https://images.justwatch.com/poster/318579955/s166/season-3.webp"
+      }
+    ]
 
   },
  
