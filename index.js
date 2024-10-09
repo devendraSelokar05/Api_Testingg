@@ -16,8 +16,6 @@ app.use(cors({
 
 
 
-
-
 // Movies data (for your movie API)
 let movies = [
   {
@@ -186,7 +184,17 @@ let movies = [
     "watchlistText": "List",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId" : "yAN5uspO_hk"
+    "videoId" : "yAN5uspO_hk",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 10,
+        "posterImage": "https://images.justwatch.com/poster/309349704/s166/season-1.webp"
+      },
+
+  
+    ]
   },
 
 
@@ -293,7 +301,27 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "dVp0k6PV3Hk"
+    "videoId": "dVp0k6PV3Hk",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 8,
+        "posterImage": "https://images.justwatch.com/poster/300920866/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 8,
+        "posterImage": "https://images.justwatch.com/poster/319802873/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 10,
+        "posterImage": "https://images.justwatch.com/poster/260075695/s166/season-3.webp"
+      },
+    ]
   },
  
 
@@ -2724,7 +2752,7 @@ let movies = [
     "imdbRating": 8.3,
     "imdbVotes": "131k",
     "backdropImage": "https://images.justwatch.com/backdrop/253243045/s1440/shershaah.webp/shershaah.webp",
-    "posterImage": "https://play-lh.googleusercontent.com/proxy/QH7_3A48aCRyUROOIOghY6ad3XsLG68juuN1zX3SlAR-ZFrTTKKyvygiSky0oCqe34hhcEDqiUMLLh418XDKmvPQCnSVfy8FvJmHfGTUNid9l8Jf1xeV46f45HQNEdG8Rtl42MPgoonTa-VtnduE6eKS6Dwb_0rzs5Ynqw",
+    "posterImage": "https://etvbharatimages.akamaized.net/etvbharat/prod-images/5727921_s1.jpg",
     "duration": "2h 15min",
     "highestRank": 1,
     "top10Days": 28,
