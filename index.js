@@ -3292,7 +3292,7 @@ let movies = [
   "imdbRating": 7.5,
   "imdbVotes": "564k",
   "backdropImage": "https://images.justwatch.com/backdrop/180456158/s1440/the-conjuring.webp/the-conjuring.webp",
-  "posterImage": "https://image.tmdb.org/t/p/original/hofZU4DdPYGwCNNpQeQo8IRU1oW.jpg",
+  "posterImage": "https://i0.wp.com/www.heyuguys.com/images/2013/05/The-Conjuring-Poster.jpg?fit=1299%2C1921&ssl=1",
   "duration": "1h 53min",
   "highestRank": 2,
   "top10Days": 2 ,
