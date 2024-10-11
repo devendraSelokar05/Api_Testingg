@@ -2998,6 +2998,34 @@ let movies = [
   "syncText": "Sign in to sync Watch List",  
   "videoId" : "Pm-wNmS9RGI"
 },
+
+{
+  "id": 103,
+  "title": "GOBLIN",
+  "year": 2016,
+  "rank": 640.,
+  "rankChange": "▲ +564",
+  "rating": 73,
+  "imdbRating": 8.6,
+  "imdbVotes": "30k",
+  "backdropImage": "https://images.justwatch.com/backdrop/31621283/s1440/goblin.webp/goblin.webp",
+  "posterImage": "https://i.pinimg.com/736x/4e/70/9c/4e709c0df244780689bb3ab3d0373b06.jpg",
+  "duration": "53min",
+  "highestRank": 14,
+  "top10Days": "0 Days",
+  "top100Days": "286 Days",
+  "top1000Days": "1342 Days",
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "79k",
+  "dislikes": "3.6",
+  "watchlistText": "Lists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List",
+  "videoId" : "qXCxYfV6V6c"
+}
     
 ];
 
