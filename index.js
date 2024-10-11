@@ -3321,7 +3321,7 @@ let movies = [
   "imdb": 5.9,
   "imdbVotes": "96k",
   "backdropImage": "https://images.justwatch.com/backdrop/238965629/s1440/the-kissing-booth.webp/the-kissing-booth.webp",
-  "posterImage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/z/u/s/the-kissing-booth-3-one-last-time-original-imah4ey75grdnnsp.jpeg?q=90&crop=false",
+  "posterImage": "https://cdn.traileraddict.com/content/netflix/the-kissing-booth-poster.jpg",
   "duration": "1h 45min",
   "highestRank": 4,
   "top10Days": 13,
