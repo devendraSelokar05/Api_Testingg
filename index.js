@@ -3065,7 +3065,7 @@ let movies = [
   "imdbrating": 6.2,
   "imdbVotes": "28K",
   "backdropImage": "https://images.justwatch.com/backdrop/305772264/s1440/culpa-mia.webp/culpa-mia.webp",
-  "posterImage": "https://image.tmdb.org/t/p/original/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+  "posterImage": "https://pics.filmaffinity.com/My_Fault-785263687-mmed.jpg",
   "duration": "1h 57min",
   "highestRank": 3,
   "top10Days": 17,
