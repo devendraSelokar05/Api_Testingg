@@ -3110,6 +3110,34 @@ let movies = [
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "_oWzYOwXn-o"
 },
+
+{
+  "id": 107,
+  "title": "SUZUME",
+  "year": 2022,
+  "rank": 82,
+  "rankChange": "▲ +67",
+  "rating": 91,
+  "imdbRating": 7.6,
+  "imdbVotes": "46K",
+  "backdropImage": "https://images.justwatch.com/backdrop/306324717/s1440/suzume-no-tojimari.webp/suzume-no-tojimari.webp",
+  "posterImage": "https://m.media-amazon.com/images/I/71t7Xl4XwIL.jpg",
+  "duration": "2h 1min",
+  "highestRank": 2,
+  "top10Days": 245,
+  "top100Days": 1451,
+  "top1000Days": 1584,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "2k",
+  "dislikes": "263",
+  "watchlistText": "Lists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List", 
+  "videoId" : "ciQc8lfvSm0",
+},
     
 ];
 
