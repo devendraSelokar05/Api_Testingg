@@ -3121,7 +3121,7 @@ let movies = [
   "imdbRating": 7.6,
   "imdbVotes": "46K",
   "backdropImage": "https://images.justwatch.com/backdrop/306324717/s1440/suzume-no-tojimari.webp/suzume-no-tojimari.webp",
-  "posterImage": "https://m.media-amazon.com/images/M/MV5BODhkNDhmNzktODFmMC00NDZiLWEzN2UtY2YwYzgzYTVlMWZmXkEyXkFqcGc@._V1_.jpg",
+  "posterImage": "https://m.media-amazon.com/images/I/71riN5eCekL.jpg",
   "duration": "2h 1min",
   "highestRank": 2,
   "top10Days": 245,
