@@ -3037,7 +3037,7 @@ let movies = [
   "imdbRating": 8.1,
   "imdbVotes": "383K",
   "backdropImage": "https://images.justwatch.com/backdrop/301994024/s1440/wednesday.webp/wednesday.webp",
-  "posterImage": "https://c4.wallpaperflare.com/wallpaper/462/216/45/movies-dark-wednesday-addams-wednesday-tv-series-movie-poster-hd-wallpaper-preview.jpg",
+  "posterImage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/b/1/l/large-wednesday-poster-for-wall-home-office-decoration-posters-original-imagn38htdpyunqe.jpeg?q=90&crop=false",
   "duration": "29min",
   "highestRank": 1,
   "top10Days": 107,
