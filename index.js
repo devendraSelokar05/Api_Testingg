@@ -3234,7 +3234,7 @@ let movies = [
   "imdbRating": 9.1,
   "imdbVotes": "546k",
   "backdropImage": "https://images.justwatch.com/backdrop/302212233/s1440/attack-on-titan.webp/attack-on-titan.webp",
-  "posterImage": "https://m.media-amazon.com/images/I/817nGTgaEBL.jpg",
+  "posterImage": "https://m.media-amazon.com/images/I/61t9ie31jgL._AC_UF1000,1000_QL80_.jpg",
   "duration": "25min",
   "highestRank": 1,
   "top10Days": 63,
