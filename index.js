@@ -2942,6 +2942,34 @@ let movies = [
     "syncText": "Sign in to sync Watch List", 
     "videoId" : "Cv-6cAHanZ8"
   },
+
+  {
+    "id": 100,
+    "title": "STANGER THINGS",
+    "year": 2016,
+    "rank": 82,
+    "rankChange": "▲ +67",
+    "rating": 15,
+    "imdbRating": 8.7,
+    "imdbVotes": "1m",
+    "backdropImage": "https://images.justwatch.com/backdrop/102141616/s1440/stranger-things.webp/stranger-things.webp",
+    "posterImage": "https://rukminim2.flixcart.com/image/850/1000/jr0y9ow0/poster/r/g/e/medium-stranger-things-poster-for-room-office-13-inch-x-19-inch-original-imafcwvzakgs3c5v.jpeg?q=90&crop=false",
+    "duration": "1h 1min",
+    "highestRank": 1,
+    "top10Days": 228,
+    "top100Days": 1921,
+    "top1000Days": 2994,
+    "watchOptions": [
+  {"platform": "Netflix", "price": "Rs200/-"},
+  {"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+    "likes": "79k",
+    "dislikes": "3.6",
+    "watchlistText": "Lists",
+    "seenText": "Seen",
+    "syncText": "Sign in to sync Watch List",  
+    "videoId" : "b9EkMc79ZSU"
+},
     
 ];
 
