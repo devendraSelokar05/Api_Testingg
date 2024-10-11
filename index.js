@@ -3223,6 +3223,34 @@ let movies = [
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "HMLeGMSeJVM"
 },
+
+{
+  "id": 111,
+  "title": "ATTACK ON TITAN",
+  "year": 2013,
+  "rank": 46,
+  "rankChange": "▲ +63",
+  "rating": 91,
+  "imdbRating": 9.1,
+  "imdbVotes": "546k",
+  "backdropImage": "https://images.justwatch.com/backdrop/302212233/s1440/attack-on-titan.webp/attack-on-titan.webp",
+  "posterImage": "https://m.media-amazon.com/images/I/817nGTgaEBL.jpg",
+  "duration": "25min",
+  "highestRank": 1,
+  "top10Days": 63,
+  "top100Days": 1077,
+  "top1000Days": 2941,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "17k",
+  "dislikes": "1.6k",
+  "watchlistText": "Lists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List", 
+  "videoId" : "LV-nazLVmgo"
+},
     
 ];
 
