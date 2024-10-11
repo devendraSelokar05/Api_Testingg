@@ -3283,7 +3283,7 @@ let movies = [
 
 
 {
-  "id": 119,
+  "id": 113,
   "title": "THE CONJURING 2",
   "year": 2016,
   "rank": 990.,
@@ -3308,6 +3308,35 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "VFsmuRPClr4"
+},
+
+
+{
+  "id": 114,
+  "title": "THE KISSING BOOTH",
+  "year": 2018,
+  "rank": 3023.,
+  "rankChange": "▲ +2225",
+  "rating": 75,
+  "imdb": 5.9,
+  "imdbVotes": "96k",
+  "backdropImage": "https://images.justwatch.com/backdrop/238965629/s1440/the-kissing-booth.webp/the-kissing-booth.webp",
+  "posterImage": "https://m.media-amazon.com/images/M/MV5BNjQ0Mzk0OTE5MF5BMl5BanBnXkFtZTgwNDkyOTI0NTM@._V1_.jpg",
+  "duration": "1h 45min",
+  "highestRank": 4,
+  "top10Days": 13,
+  "top100Days": 164,
+  "top1000Days": 667,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "4.7k",
+  "dislikes": "1.5k",
+  "watchlistText": "WatchLists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List",
+  "videoId" : "7bfS6seiLhk"
 },
 
 
