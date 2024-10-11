@@ -3284,30 +3284,30 @@ let movies = [
 
 {
   "id": 119,
-  "title": "THE CONJURING",
-  "year": 2013,
-  "rank": 289.,
-  "rankChange": "▲ +207",
-  "rating": 94,
-  "imdbRating": 7.5,
-  "imdbVotes": "564k",
-  "backdropImage": "https://images.justwatch.com/backdrop/180456158/s1440/the-conjuring.webp/the-conjuring.webp",
+  "title": "THE CONJURING 2",
+  "year": 2016,
+  "rank": 990.,
+  "rankChange": "▲ +589",
+  "rating": 93,
+  "imdbRating": 7.3,
+  "imdbVotes": "309k",
+  "backdropImage": "https://www.justwatch.com/images/backdrop/828170/s1440/the-conjuring-2.webp/the-conjuring-2.webp",
   "posterImage": "https://e0.pxfuel.com/wallpapers/230/354/desktop-wallpaper-the-conjuring-2-movie-hq-the-conjuring-2-2019-the-conjuring-3-thumbnail.jpg",
   "duration": "1h 53min",
-  "highestRank": 2,
-  "top10Days": 2 ,
-  "top100Days": 117,
-  "top1000Days": 2994,
+  "highestRank": 13,
+  "top10Days": 5,
+  "top100Days": 70,
+ "top1000Days": 2994,
   "watchOptions": [
 {"platform": "Netflix", "price": "Rs200/-"},
 {"platform": "Amazon Prime", "price": "Rs500/-"}
 ],
   "likes": "17k",
   "dislikes": "1.1k",
-  "watchlistText": "WatchLists",
+  "watchlistText": "WatchList",
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
-  "videoId" : "ejMMn0t58Lc"
+  "videoId" : "VFsmuRPClr4"
 },
 
 
