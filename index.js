@@ -3093,7 +3093,7 @@ let movies = [
   "imdbRating": 8.4,
   "imdbVotes": "334K",
   "backdropImage": "https://images.justwatch.com/backdrop/56668328/s1440/your-name.webp/your-name.webp",
-  "posterImage": "https://wallpapers.com/images/hd/makoto-shinkai-your-name-poster-yd4rjkxb6z58fxgs.jpg",
+  "posterImage": "https://i.imgur.com/Uqw37Sk.jpg",
   "duration": "1h 49min",
   "highestRank": 1,
   "top10Days": 228,
