@@ -3012,9 +3012,9 @@ let movies = [
   "posterImage": "https://i.pinimg.com/736x/4e/70/9c/4e709c0df244780689bb3ab3d0373b06.jpg",
   "duration": "53min",
   "highestRank": 14,
-  "top10Days": "0 Days",
-  "top100Days": "286 Days",
-  "top1000Days": "1342 Days",
+  "top10Days": 0 ,
+  "top100Days": 286,
+  "top1000Days": 1342,
   "watchOptions": [
 {"platform": "Netflix", "price": "Rs200/-"},
 {"platform": "Amazon Prime", "price": "Rs500/-"}
@@ -3025,7 +3025,35 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List",
   "videoId" : "qXCxYfV6V6c"
-}
+},
+
+{
+  "id": 104,
+  "title": "WEDNESDAY",
+  "year": 2022,
+  "rank": 172,
+  "rankChange": "▲ -104",
+  "rating": 95,
+  "imdbRating": 8.1,
+  "imdbVotes": "383K",
+  "backdropImage": "https://images.justwatch.com/backdrop/301994024/s1440/wednesday.webp/wednesday.webp",
+  "posterImage": "https://c4.wallpaperflare.com/wallpaper/462/216/45/movies-dark-wednesday-addams-wednesday-tv-series-movie-poster-hd-wallpaper-preview.jpg",
+  "duration": "29min",
+  "highestRank": 1,
+  "top10Days": 107,
+  "top100Days": 329,
+  "top1000Days": 783,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "44k",
+  "dislikes": "2.2",
+  "watchlistText": "Lists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List", 
+  "videoId" : "DwvQLVAxiKY"
+},
     
 ];
 
