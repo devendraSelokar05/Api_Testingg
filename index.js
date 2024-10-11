@@ -3054,6 +3054,35 @@ let movies = [
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "DwvQLVAxiKY"
 },
+
+{
+  "id": 105,
+  "title": "MY FAULT",
+  "year": 2023,
+  "rank": 579,
+  "rankChange": "▲ +453",
+  "rating": 82,
+  "imdbrating": 6.2,
+  "imdbVotes": "28K",
+  "backdropImage": "https://images.justwatch.com/backdrop/305772264/s1440/culpa-mia.webp/culpa-mia.webp",
+  "posterImage": "https://image.tmdb.org/t/p/original/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+  "duration": "1h 57min",
+  "highestRank": 3,
+  "top10Days": 17,
+  "top100Days": 82,
+  "top1000Days": 484,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "30k",
+  "dislikes": "536",
+  "watchlistText": "Lists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List", 
+  "videoId" : "e7lvpm13ZN0"
+},
+
     
 ];
 
