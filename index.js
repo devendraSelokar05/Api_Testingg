@@ -3251,7 +3251,36 @@ let movies = [
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "LV-nazLVmgo"
 },
-    
+
+{
+  "id": 112,
+  "title": "LOVE IS SWEET",
+  "year": 2020,
+  "rank": 82,
+  "rankChange": "▲ +67",
+  "rating": 68,
+  "imdbRating": 8.7,
+  "imdbVotes": "18k",
+  "backdropImage": "https://images.justwatch.com/backdrop/305955903/s1440/love-is-sweet.webp/love-is-sweet.webp",
+  "posterImage": "https://m.media-amazon.com/images/M/MV5BYWZiZTQ0ZTMtOTJhNC00NzIzLTlmNjgtZmRmZDc4NTVmNjlmXkEyXkFqcGc@._V1_.jpg",
+  "duration": "44min",
+  "highestRank": 3,
+  "top10Days": 15,
+  "top100Days": 152,
+  "top1000Days": 1025,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "10k",
+  "dislikes": "1.1k",
+  "watchlistText": "Lists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List",
+  "videoId" : "44SPxWJ9Rno" 
+},
+
+
 ];
 
 app.get('/api/New-movies', (req, res) => {
