@@ -3166,6 +3166,34 @@ let movies = [
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "8QkyLqmJCMM",
 },
+
+{
+  "id": 109,
+  "title": "TUMBBAD",
+  "year": 2018,
+  "rank": 73,
+  "rankChange": "▲ +67",
+  "rating": 82,
+  "imdbRating": 8.2,
+  "imdbVotes": "64k",
+  "backdropImage": "https://images.justwatch.com/backdrop/245230559/s1440/tumbbad.webp/tumbbad.webp",
+  "posterImage": "https://m.media-amazon.com/images/M/MV5BMzVjNGFmZTMtYjRjNi00OWQzLTlkNWQtZmU1OGI0ODc2ODU5XkEyXkFqcGc@._V1_QL75_UX820_.jpg",
+  "duration": "1h 53min",
+  "highestRank": 2,
+  "top10Days": 258,
+  "top100Days": 1458,
+  "top1000Days": 2586,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "18k",
+  "dislikes": "3.5k",
+  "watchlistText": "Lists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List",
+  "videoId" : "YGIcZrUBY0k",
+},
     
 ];
 
