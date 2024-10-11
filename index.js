@@ -3093,7 +3093,7 @@ let movies = [
   "imdbRating": 8.4,
   "imdbVotes": "334K",
   "backdropImage": "https://images.justwatch.com/backdrop/56668328/s1440/your-name.webp/your-name.webp",
-  "posterImage": "https://i.imgur.com/Uqw37Sk.jpg",
+  "posterImage": "https://rukminim2.flixcart.com/image/850/1000/xif0q/book/1/f/p/your-name-the-official-visual-guide-original-imahy5knsetkjzxe.jpeg?q=90&crop=false",
   "duration": "1h 49min",
   "highestRank": 1,
   "top10Days": 228,
