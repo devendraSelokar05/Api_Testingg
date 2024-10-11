@@ -3340,6 +3340,33 @@ let movies = [
   "type" : "series"
 },
 
+{
+  "id": 115,
+  "title": "MY GIRLFRIEND IS AN ALIAN",
+  "year": 2019,
+  "rank": 12,
+  "rankChange": "▲ +45",
+  "rating": 76,
+  "imdbRating": 8.2,
+  "imdbVotes": "2.7k",
+  "backdropImage": "https://images.justwatch.com/backdrop/300784304/s1440/my-girlfriend-is-an-alien.webp/my-girlfriend-is-an-alien.webp",
+  "posterImage": "https://image.tmdb.org/t/p/original/sOtUZ34xeQiEZh6n0tC8vkaTNQF.jpg",
+  "duration": "44min",
+  "highestRank": 5,
+  "top10Days": 425,
+  "top100Days": 1451,
+  "top1000Days": 2524,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "4k",
+  "dislikes": "35",
+  "watchlistText": "Lists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List", 
+  "videoId" : "m21MWq6wb9Y"
+},
 
 ];
 
