@@ -3292,7 +3292,7 @@ let movies = [
   "imdbRating": 7.5,
   "imdbVotes": "564k",
   "backdropImage": "https://images.justwatch.com/backdrop/180456158/s1440/the-conjuring.webp/the-conjuring.webp",
-  "posterImage": "https://i0.wp.com/www.heyuguys.com/images/2013/05/The-Conjuring-Poster.jpg?fit=1299%2C1921&ssl=1",
+  "posterImage": "https://e0.pxfuel.com/wallpapers/230/354/desktop-wallpaper-the-conjuring-2-movie-hq-the-conjuring-2-2019-the-conjuring-3-thumbnail.jpg",
   "duration": "1h 53min",
   "highestRank": 2,
   "top10Days": 2 ,
