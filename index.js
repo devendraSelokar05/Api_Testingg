@@ -3252,6 +3252,7 @@ let movies = [
   "videoId" : "LV-nazLVmgo"
 },
 
+
 {
   "id": 112,
   "title": "LOVE IS SWEET",
@@ -3278,6 +3279,35 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List",
   "videoId" : "44SPxWJ9Rno" 
+},
+
+
+{
+  "id": 119,
+  "title": "THE CONJURING",
+  "year": 2013,
+  "rank": 289.,
+  "rankChange": "▲ +207",
+  "rating": 94,
+  "imdbRating": 7.5,
+  "imdbVotes": "564k",
+  "backdropImage": "https://images.justwatch.com/backdrop/180456158/s1440/the-conjuring.webp/the-conjuring.webp",
+  "posterImage": "https://image.tmdb.org/t/p/original/hofZU4DdPYGwCNNpQeQo8IRU1oW.jpg",
+  "duration": "1h 53min",
+  "highestRank": 2,
+  "top10Days": 2 ,
+  "top100Days": 117,
+  "top1000Days": 2994,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "17k",
+  "dislikes": "1.1k",
+  "watchlistText": "WatchLists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List", 
+  "videoId" : "ejMMn0t58Lc"
 },
 
 
