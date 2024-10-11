@@ -3194,6 +3194,35 @@ let movies = [
   "syncText": "Sign in to sync Watch List",
   "videoId" : "YGIcZrUBY0k",
 },
+
+
+{
+  "id": 110,
+  "title": "PUT YOUR HEAD ON MY SHOULDER",
+  "year": 2019,
+  "rank": 1411,
+  "rankChange": "▲ +820",
+  "rating": 53,
+  "imdbRating": 8.0,
+  "imdbVotes": "3.4k",
+  "backdropImage": "https://images.justwatch.com/backdrop/150332384/s1440/put-your-head-on-my-shoulder.webp/put-your-head-on-my-shoulder.webp",
+  "posterImage": "https://image.tmdb.org/t/p/original/zVYvodC12ZHGVPHX8LJjZHDERmK.jpg",
+  "duration": "41min",
+  "highestRank": 51,
+  "top10Days":  10,
+  "top100Days": 50,
+  "top1000Days": 239,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "5k",
+  "dislikes": "34",
+  "watchlistText": "Lists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List", 
+  "videoId" : "HMLeGMSeJVM"
+},
     
 ];
 
