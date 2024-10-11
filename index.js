@@ -2970,6 +2970,34 @@ let movies = [
     "syncText": "Sign in to sync Watch List",  
     "videoId" : "b9EkMc79ZSU"
 },
+
+{
+  "id": 101,
+  "title": "JUJUTSU KAISEN",
+  "year": 2020,
+  "rank": 175,
+  "rankChange": "▲ +21",
+  "rating": 93,
+  "imdbRating": 8.6,
+  "imdbVotes": "131K",
+  "backdropImage": "https://images.justwatch.com/backdrop/297814126/s1440/jujutsu-kaisen.webp/jujutsu-kaisen.webp",
+  "posterImage": "https://i.pinimg.com/originals/ac/43/52/ac4352f877cd4265d69538bd7532b7b3.jpg",
+  "duration": " 24min",
+  "highestRank": 2,
+  "top10Days": 71,
+  "top100Days": 390,
+  "top1000Days": 1437,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "7.5K",
+  "dislikes": "511",
+  "watchlistText": "Lists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List",  
+  "videoId" : "Pm-wNmS9RGI"
+},
     
 ];
 
