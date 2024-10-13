@@ -3943,6 +3943,169 @@ let movies = [
   "videoId": "n3ttNeXKPHg"
 },
 
+{
+    "id":1,
+    "title": "Lucifer",
+    "year": 2016,
+    "rank": 384,
+    "rankChange": "▲ +64",
+    "rating": 91,
+    "imdbRating": 8.1,
+    "imdbVotes": "364k",
+    "backdropImage": "https://images.justwatch.com/backdrop/8621909/s1440/lucifer.webp/lucifer.webp",
+    "posterImage": "https://cdn.moviefone.com/image-assets/63174/uHpfjWUJI2gXQIIxjgAvOZWJORx.jpg?d=360x540&q=80",
+    "duration": "58min",
+    "highestRank": 1,
+    "top10Days": 157,
+    "top100Days": 2176,
+    "top1000Days": 3172,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "18k",
+    "dislikes": "1.6k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "X4bF_quwNtw",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 13,
+        "posterImage": "https://images.justwatch.com/poster/256495379/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 18,
+        "posterImage": "https://images.justwatch.com/poster/256495445/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 26,
+        "posterImage": "https://images.justwatch.com/poster/256495450/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes": 10,
+        "posterImage": "https://images.justwatch.com/poster/127860861/s166/season-4.webp"
+      },
+
+      {
+        "seasonNumber": 5,
+        "episodes": 16,
+        "posterImage": "https://images.justwatch.com/poster/256495449/s166/season-5.webp"
+      },
+
+      {
+        "seasonNumber": 6,
+        "episodes": 10,
+        "posterImage": "https://images.justwatch.com/poster/256495457/s166/season-6.webp"
+      },
+    ]
+},
+
+
+{
+    "id":2,
+    "title": "The Walking Dead",
+    "year": 2010,
+    "rank": 94,
+    "rankChange": "▲ +4",
+    "rating": 86,
+    "imdbRating": 8.1,
+    "imdbVotes": "1m",
+    "backdropImage": "https://images.justwatch.com/backdrop/86305926/s1440/the-walking-dead.webp/the-walking-dead.webp",
+    "posterImage": "https://images.justwatch.com/poster/140225063/s166/the-walking-dead.webp",
+    "duration": "46min",
+    "highestRank": 1,
+    "top10Days": 547,
+    "top100Days": 2393,
+    "top1000Days": 3205,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "29k",
+    "dislikes": "4.4k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "sfAc2U20uyg",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 6,
+        "posterImage": "https://images.justwatch.com/poster/306348297/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 13,
+        "posterImage": "https://images.justwatch.com/poster/306348306/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 16,
+        "posterImage": "https://images.justwatch.com/poster/306348314/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes": 16,
+        "posterImage": "https://images.justwatch.com/poster/306348331/s166/season-4.webp"
+      },
+
+      {
+        "seasonNumber": 5,
+        "episodes": 16,
+        "posterImage": "https://images.justwatch.com/poster/306304089/s166/season-5.webp"
+      },
+
+      {
+        "seasonNumber": 6,
+        "episodes": 16,
+        "posterImage": "https://images.justwatch.com/poster/140225063/s166/the-walking-dead.webp"
+      },
+
+      {
+        "seasonNumber": 7,
+        "episodes": 16,
+        "posterImage": "https://images.justwatch.com/poster/306348427/s166/season-7.webp"
+      },
+
+      {
+        "seasonNumber": 8,
+        "episodes": 16,
+        "posterImage": "https://images.justwatch.com/poster/27657865/s166/season-8.webp"
+      },
+
+      {
+        "seasonNumber": 9,
+        "episodes": 16,
+        "posterImage": "https://images.justwatch.com/poster/306348482/s166/season-9.webp"
+      },
+
+      {
+        "seasonNumber": 10,
+        "episodes": 16,
+        "posterImage": "https://images.justwatch.com/poster/306348465/s166/season-10.webp"
+      },
+
+      {
+        "seasonNumber": 11,
+        "episodes": 16,
+        "posterImage": "https://images.justwatch.com/poster/306348518/s166/season-11.webp"
+      },
+    ]
+},
+
 
 
 ];
