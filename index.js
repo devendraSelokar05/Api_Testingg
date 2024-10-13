@@ -3748,7 +3748,7 @@ let movies = [
   "imdbRating": 6.5,
   "imdbVotes": "146k",
   "backdropImage": "https://images.justwatch.com/backdrop/305192753/s1440/evil-dead-rise.webp/evil-dead-rise.webp",
-  "posterImage": "https://sportshub.cbsistatic.com/i/2023/01/03/732d9bb0-00b5-42b0-86c9-87e7928c9f9c/evil-dead-rise-poster-2022.jpg?auto=webp&width=1382&height=2048&crop=0.675:1,smart",
+  "posterImage": "https://ih1.redbubble.net/image.4983360460.9118/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
   "duration": "1h 36min",
   "highestRank": 3,
   "top10Days": 12,
