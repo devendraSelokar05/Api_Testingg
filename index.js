@@ -4162,6 +4162,66 @@ let movies = [
     ]
   },
 
+  {
+    "id":129,
+    "title": "Breaking Bad",
+    "year": 2008,
+    "rank": 111,
+    "rankChange": "▲ +6",
+    "rating": 97,
+    "imdbRating": 9.5,
+    "imdbVotes": "2m",
+    "backdropImage": "https://images.justwatch.com/backdrop/178169781/s1440/breaking-bad.webp/breaking-bad.webp",
+    "posterImage": "https://images.justwatch.com/poster/110511366/s166/breaking-bad.webp",
+    "duration": "47min",
+    "highestRank": 4,
+    "top10Days": 75,
+    "top100Days": 2542,
+    "top1000Days": 3209,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+    ],
+    "likes": "72k",
+    "dislikes": "2.3k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "1JLUn2DFW4w",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 7,
+        "posterImage": "https://images.justwatch.com/poster/8594434/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 13,
+        "posterImage": "https://images.justwatch.com/poster/8594406/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 13,
+        "posterImage": "https://images.justwatch.com/poster/301572468/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes":13,
+        "posterImage": "https://images.justwatch.com/poster/8594372/s166/season-4.webp"
+      },
+
+      {
+        "seasonNumber": 5,
+        "episodes": 16,
+        "posterImage": "https://images.justwatch.com/poster/8594362/s166/season-5.webp"
+      }, 
+    ]
+  },
+
+
 
 
 
