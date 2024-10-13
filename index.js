@@ -3378,7 +3378,7 @@ let movies = [
   "imdbRating": 5.1,
   "imdbVotes": "25k",
   "backdropImage": "https://images.justwatch.com/backdrop/321215960/s1440/untitled-vicky-kaushal-prime-video-project.webp/untitled-vicky-kaushal-prime-video-project.webp",
-  "posterImage": "https://i.redd.it/posters-of-bad-newz-v0-0343zk5ao4pc1.jpg?width=1290&format=pjpg&auto=webp&s=e452143fc253c376c29205b1b3ae43afb4cf8443",
+  "posterImage": "https://www.prabhatkhabar.com/wp-content/uploads/2024/07/IMG_5778-716x1024.jpeg",
   "duration": "2h 20min",
   "highestRank": 3,
   "top10Days": 9,
