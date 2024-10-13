@@ -3897,12 +3897,16 @@ let movies = [
   "imdbRating": 7.5,
   "imdbVotes": "24k",
   "backdropImage": "https://images.justwatch.com/backdrop/319594814/s1440/project-k.webp/project-k.webp",
-  "postereImage": "https://m.media-amazon.com/images/M/MV5BMjNkNmEyMjAtYmJmNi00MWFlLWE2ZDMtMTc0YjQ5NDYwZjlmXkEyXkFqcGc@._V1_.jpg",
+  "postereImage": "https://static.moviecrow.com/gallery/20230911/220876-Maharaja.jpeg",
   "durection": "2h 56min",
   "highestRank": 1,
   "top10Days": 79,
   "top100Days": 110,
   "top1000Days": 142,
+  "watchOptions": [
+    {"platform": "Netflix", "price": "Rs200/-"},
+    {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
   "likes": 341,
   "dislike": 170,
   "watchlistText": "watchlist",
@@ -3927,6 +3931,10 @@ let movies = [
   "top10Days": 41,
   "top100Days": 108,
   "top1000Days": 114,
+  "watchOptions": [
+    {"platform": "Netflix", "price": "Rs200/-"},
+    {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
   "likes": 455,
   "dislike": 114,
   "watchlistText": "watchlist",
