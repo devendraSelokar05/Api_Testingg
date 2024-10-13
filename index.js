@@ -2968,7 +2968,33 @@ let movies = [
     "watchlistText": "Lists",
     "seenText": "Seen",
     "syncText": "Sign in to sync Watch List",  
-    "videoId" : "b9EkMc79ZSU"
+    "videoId" : "b9EkMc79ZSU",
+    "type" : "series",
+        "seasons": [ // Add season details here
+          {
+            "seasonNumber": 1,
+            "episodes": 8,
+            "posterImage": "https://www.justwatch.com/images/poster/249313589/s166/season-1.webp"
+          },
+    
+          {
+            "seasonNumber": 2,
+            "episodes": 9,
+            "posterImage": "https://www.justwatch.com/images/poster/10828442/s166/season-2.webp"
+          },
+    
+          {
+            "seasonNumber": 3,
+            "episodes": 8,
+            "posterImage": "https://www.justwatch.com/images/poster/147403540/s166/season-3.webp"
+          },
+    
+          {
+            "seasonNumber": 4,
+            "episodes": 9,
+            "posterImage": "https://www.justwatch.com/images/poster/264470916/s166/season-4.webp"
+          },,
+        ]
 },
 
 {
@@ -2996,43 +3022,37 @@ let movies = [
   "watchlistText": "Lists",
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List",  
-  "videoId" : "Pm-wNmS9RGI"
+  "videoId" : "Pm-wNmS9RGI",
+  "type" : "series",
+  "seasons": [ // Add season details here
+    {
+      "seasonNumber": 1,
+      "episodes": 24,
+      "posterImage": "https://www.justwatch.com/images/poster/312146079/s166/season-1.webp"
+    },
+
+    {
+      "seasonNumber": 2,
+      "episodes": 24,
+      "posterImage": "https://www.justwatch.com/images/poster/306336521/s166/season-2.webp"
+    },
+
+    {
+      "seasonNumber": 3,
+      "episodes": 1,
+      "posterImage": "https://www.justwatch.com/images/poster/320955231/s166/season-3.webp"
+    },
+  ]
 },
 
-{
-  "id": 102,
-  "title": "GOBLIN",
-  "year": 2016,
-  "rank": 640.,
-  "rankChange": "▲ +564",
-  "rating": 73,
-  "imdbRating": 8.6,
-  "imdbVotes": "30k",
-  "backdropImage": "https://images.justwatch.com/backdrop/31621283/s1440/goblin.webp/goblin.webp",
-  "posterImage": "https://i.pinimg.com/736x/4e/70/9c/4e709c0df244780689bb3ab3d0373b06.jpg",
-  "duration": "53min",
-  "highestRank": 14,
-  "top10Days": 0 ,
-  "top100Days": 286,
-  "top1000Days": 1342,
-  "watchOptions": [
-{"platform": "Netflix", "price": "Rs200/-"},
-{"platform": "Amazon Prime", "price": "Rs500/-"}
-],
-  "likes": "79k",
-  "dislikes": "3.6",
-  "watchlistText": "Lists",
-  "seenText": "Seen",
-  "syncText": "Sign in to sync Watch List",
-  "videoId" : "qXCxYfV6V6c"
-},
+
 
 {
   "id": 103,
   "title": "WEDNESDAY",
   "year": 2022,
   "rank": 172,
-  "rankChange": "▲ -104",
+  "rankChange": "▲ +104",
   "rating": 95,
   "imdbRating": 8.1,
   "imdbVotes": "383K",
@@ -3052,7 +3072,21 @@ let movies = [
   "watchlistText": "Lists",
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
-  "videoId" : "DwvQLVAxiKY"
+  "videoId" : "DwvQLVAxiKY",
+  "type" : "series",
+  "seasons": [ // Add season details here
+    {
+      "seasonNumber": 1,
+      "episodes": 8,
+      "posterImage": "https://www.justwatch.com/images/poster/300790715/s166/season-1.webp"
+    },
+
+    {
+      "seasonNumber": 2,
+      "episodes": 3,
+      "posterImage": "https://www.justwatch.com/images/poster/300790715/s166/season-1.webp"
+    },
+  ]
 },
 
 {
