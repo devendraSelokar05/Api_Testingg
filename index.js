@@ -4172,7 +4172,7 @@ let movies = [
     "imdbRating": 9.5,
     "imdbVotes": "2m",
     "backdropImage": "https://images.justwatch.com/backdrop/178169781/s1440/breaking-bad.webp/breaking-bad.webp",
-    "posterImage": "https://images.justwatch.com/poster/110511366/s166/breaking-bad.webp",
+    "posterImage": "https://mir-s3-cdn-cf.behance.net/project_modules/hd/6e04e4104134375.5f5c010ef323a.jpg",
     "duration": "47min",
     "highestRank": 4,
     "top10Days": 75,
