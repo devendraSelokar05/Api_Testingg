@@ -4597,7 +4597,7 @@ let movies = [
     "imdbRating": 7.5,
     "imdbVotes": "449k",
     "backdropImage": "https://c4.wallpaperflare.com/wallpaper/526/1013/176/arrow-tv-series-wallpaper-preview.jpg",
-    "posterImage": "https://static.wikia.nocookie.net/wwcbm/images/4/49/Arrow_season2_poster.jpg/revision/latest?cb=20160923204451",
+    "posterImage": "https://media.comicbook.com/wp-content/uploads/2014/05/arrow-season-two-finale-poster.jpg",
     "duration": "42min",
     "highestRank": 1,
     "top10Days": 430,
