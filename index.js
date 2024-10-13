@@ -4108,23 +4108,23 @@ let movies = [
 
 {
     "id":128,
-    "title": "The Aam Aadmi Family",
-    "year": 2016,
-    "rank": 1818,
+    "title": "Crushed",
+    "year": 2022,
+    "rank": 1111,
     "rankChange": "▲ +1397",
-    "rating": 90,
+    "rating": 85,
     "imdbRating": 8.4,
-    "imdbVotes": "2.3k",
-    "backdropImage": "https://images.justwatch.com/backdrop/159518713/s1440/the-aam-aadmi-family.webp/the-aam-aadmi-family.webp",
-    "posterImage": "https://exchange4media.gumlet.io/news-photo/1509446640_NqufTi_big_aam_aadmi.jpg",
+    "imdbVotes": "5.3k",
+    "backdropImage": "https://i.ytimg.com/vi/hvyV9qFUuDM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB2ektq2ZrZMhuzGkikfINeGwi2bQ",
+    "posterImage": "https://assets.gadgets360cdn.com/pricee/assets/product/202311/Crushed_poster2_1699872795.jpg",
     "duration": "30min",
     "highestRank": 64,
-    "top10Days": 0,
-    "top100Days": 3,
-    "top1000Days": 331,
+    "top10Days": 9,
+    "top100Days": 89,
+    "top1000Days": 765,
     "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
+      {"platform": "Amazon Prime", "price": "Rs500/-"},
+      {"platform": "Amazon MiniTv"}
     ],
     "likes": "8k",
     "dislikes": "1k",
@@ -4136,33 +4136,29 @@ let movies = [
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
-        "episodes": 5,
-        "posterImage": "https://images.justwatch.com/poster/309759520/s166/season-1.webp"
+        "episodes": 6,
+        "posterImage": "https://www.justwatch.com/images/poster/259529669/s166/season-1.webp"
       },
 
       {
         "seasonNumber": 2,
-        "episodes": 7,
-        "posterImage": "https://images.justwatch.com/poster/309759520/s166/season-2.webp"
+        "episodes": 6,
+        "posterImage": "https://www.justwatch.com/images/poster/301898545/s166/season-2.webp"
       },
 
       {
         "seasonNumber": 3,
-        "episodes": 5,
-        "posterImage": "https://images.justwatch.com/poster/309759520/s166/season-3.webp"
+        "episodes": 6,
+        "posterImage": "https://www.justwatch.com/images/poster/309388921/s166/season-3.webp"
       },
 
       {
         "seasonNumber": 4,
-        "episodes":8,
-        "posterImage": "https://images.justwatch.com/poster/309759520/s166/season-4.webp"
+        "episodes":6,
+        "posterImage": "https://www.justwatch.com/images/poster/316281397/s166/season-4.webp"
       },
 
-      {
-        "seasonNumber": 5,
-        "episodes": 1,
-        "posterImage": "https://images.justwatch.com/poster/309759520/s166/season-5.webp"
-      }, 
+
     ]
   },
 
