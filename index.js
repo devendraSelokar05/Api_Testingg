@@ -4221,6 +4221,464 @@ let movies = [
     ]
   },
 
+  
+  {
+    "id":130,
+    "title": "Peaky Blinders",
+    "year": 2013,
+    "rank": 138,
+    "rankChange": "▲ +49",
+    "rating": 95,
+    "imdbRating": 8.8,
+    "imdbVotes": "675k",
+    "backdropImage": "https://images.justwatch.com/backdrop/178308142/s1440/peaky-blinders.webp/peaky-blinders.webp",
+    "posterImage": "https://www.tallengestore.com/cdn/shop/products/PeakyBlinders-ThomasShelby-GarrisonBombing-NetflixTVShow-ArtPoster_7fef60c1-eddd-41e8-89fd-ac6edeba5038.jpg?v=1619864662",
+    "duration": "58min",
+    "highestRank": 2,
+    "top10Days": 63,
+    "top100Days": 1631,
+    "top1000Days": 3193,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "39k",
+    "dislikes": "2k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "1JLUn2DFW4w",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 6,
+        "posterImage": "https://images.justwatch.com/poster/195479700/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 6,
+        "posterImage": "https://images.justwatch.com/poster/195470848/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 6,
+        "posterImage": "https://images.justwatch.com/poster/195470821/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes":6,
+        "posterImage": "https://images.justwatch.com/poster/195470692/s166/season-4.webp"
+      },
+
+      {
+        "seasonNumber": 5,
+        "episodes": 6,
+        "posterImage": "https://images.justwatch.com/poster/252100318/s166/season-5.webp"
+      }, 
+
+      {
+        "seasonNumber": 6,
+        "episodes": 6,
+        "posterImage": "https://images.justwatch.com/poster/265096894/s166/season-6.webp"
+      }, 
+    ]
+  },
+
+
+  {
+    "id":131,
+    "title": "Supernatural",
+    "year": 2005,
+    "rank": 123,
+    "rankChange": "▲ +1",
+    "rating": 90,
+    "imdbRating": 8.4,
+    "imdbVotes": "495k",
+    "backdropImage": "https://images.justwatch.com/backdrop/8604625/s1440/supernatural.webp/supernatural.webp",
+    "posterImage": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781608878277/supernatural-the-poster-collection-9781608878277_lg.jpg",
+    "duration": "45min",
+    "highestRank": 2,
+    "top10Days": 104,
+    "top100Days": 1823,
+    "top1000Days": 3205,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "14k",
+    "dislikes": "1.4k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "1JLUn2DFW4w",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/86311580/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/86311568/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 16,
+        "posterImage": "https://images.justwatch.com/poster/170937379/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes":22,
+        "posterImage": "https://images.justwatch.com/poster/86311545/s166/season-4.webp"
+      },
+
+      {
+        "seasonNumber": 5,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/86311496/s166/season-5.webp"
+      }, 
+
+      {
+        "seasonNumber": 6,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/170937327/s166/season-6.webp"
+      }, 
+
+      {
+        "seasonNumber": 7,
+        "episodes": 23,
+        "posterImage": "https://images.justwatch.com/poster/170937264/s166/season-7.webp"
+      }, 
+
+      {
+        "seasonNumber": 8,
+        "episodes": 23,
+        "posterImage": "https://images.justwatch.com/poster/170937264/s166/season-7.webp"
+      }, 
+
+      {
+        "seasonNumber": 9,
+        "episodes": 23,
+        "posterImage": "https://images.justwatch.com/poster/170937211/s166/season-9.webp"
+      }, 
+
+      {
+        "seasonNumber": 10,
+        "episodes": 24,
+        "posterImage": "https://images.justwatch.com/poster/86311406/s166/season-10.webp"
+      }, 
+
+      {
+        "seasonNumber": 11,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/86311386/s166/season-11.webp"
+      }, 
+
+      {
+        "seasonNumber": 12,
+        "episodes": 23,
+        "posterImage": "https://images.justwatch.com/poster/86311364/s166/season-12.webp"
+      }, 
+
+      {
+        "seasonNumber": 13,
+        "episodes": 23,
+        "posterImage": "https://images.justwatch.com/poster/86311344/s166/season-13.webp"
+      }, 
+
+      {
+        "seasonNumber": 14,
+        "episodes": 20,
+        "posterImage": "https://images.justwatch.com/poster/86311777/s166/season-14.webp"
+      }, 
+
+      {
+        "seasonNumber": 15,
+        "episodes": 20,
+        "posterImage": "https://images.justwatch.com/poster/256744176/s166/season-15.webp"
+      }, 
+    ]
+  },
+
+  {
+    "id":132,
+    "title": "The Office ",
+    "year": 2005,
+    "rank": 100,
+    "rankChange": "▲ +12",
+    "rating": 94,
+    "imdbRating": 9.0,
+    "imdbVotes": "739k",
+    "backdropImage": "https://images.justwatch.com/backdrop/177294826/s1440/friends.webp/friends.webp",
+    "posterImage": "https://images.justwatch.com/poster/300603462/s166/friends.webp",
+    "duration": "24min",
+    "highestRank": 2,
+    "top10Days": 20,
+    "top100Days": 2127,
+    "top1000Days": 3040,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "37k",
+    "dislikes": "2.5k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "CZZrFC2MFAw",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 6,
+        "posterImage": "https://images.justwatch.com/poster/245581596/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/238556208/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 23,
+        "posterImage": "https://images.justwatch.com/poster/245581579/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes":14,
+        "posterImage": "https://images.justwatch.com/poster/238555997/s166/season-4.webp"
+      },
+
+      {
+        "seasonNumber": 5,
+        "episodes": 26,
+        "posterImage": "https://images.justwatch.com/poster/238555958/s166/season-5.webp"
+      }, 
+
+      {
+        "seasonNumber": 6,
+        "episodes": 26,
+        "posterImage": "https://images.justwatch.com/poster/245582099/s166/season-6.webp"
+      }, 
+
+      {
+        "seasonNumber": 7,
+        "episodes": 24,
+        "posterImage": "https://images.justwatch.com/poster/238555894/s166/season-7.webp"
+      }, 
+
+      {
+        "seasonNumber": 8,
+        "episodes": 24,
+        "posterImage": "https://images.justwatch.com/poster/238555860/s166/season-8.webp"
+      }, 
+
+      {
+        "seasonNumber": 9,
+        "episodes": 23,
+        "posterImage": "https://images.justwatch.com/poster/8603758/s166/season-9.webp"
+      }, 
+
+    ]
+  },
+
+
+
+  {
+    "id":133,
+    "title": "The Blacklist ",
+    "year": 2013,
+    "rank": 243,
+    "rankChange": "▲ +45",
+    "rating": 90,
+    "imdbRating": 7.9,
+    "imdbVotes": "284k",
+    "backdropImage": "https://images.justwatch.com/backdrop/222822775/s1440/the-blacklist.webp/the-blacklist.webp",
+    "posterImage": "https://images.justwatch.com/poster/259437978/s166/the-blacklist.webp",
+    "duration": "43min",
+    "highestRank": 1,
+    "top10Days": 53,
+    "top100Days": 1912,
+    "top1000Days": 3205,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "16k",
+    "dislikes": "1.7k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "z-cTuId0rYs",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/94672126/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/176028087/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 23,
+        "posterImage": "https://images.justwatch.com/poster/237677062/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes":22,
+        "posterImage": "https://images.justwatch.com/poster/35297513/s166/season-4.webp"
+      },
+
+      {
+        "seasonNumber": 5,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/35297510/s166/season-5.webp"
+      }, 
+
+      {
+        "seasonNumber": 6,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/265885938/s166/season-6.webp"
+      }, 
+
+      {
+        "seasonNumber": 7,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/265885939/s166/season-7.webp"
+      }, 
+
+      {
+        "seasonNumber": 8,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/265885943/s166/season-8.webp"
+      }, 
+
+      {
+        "seasonNumber": 9,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/265885942/s166/season-9.webp"
+      }, 
+
+      {
+        "seasonNumber": 10,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/302759152/s166/season-10.webp"
+      }, 
+    ]
+  },
+
+
+  {
+    "id":134,
+    "title": "Arrow ",
+    "year": 2012,
+    "rank": 378,
+    "rankChange": "▲ +20",
+    "rating": 86,
+    "imdbRating": 7.5,
+    "imdbVotes": "449k",
+    "backdropImage": "https://images.justwatch.com/backdrop/306143455/s1440/arrow.webp/arrow.webp",
+    "posterImage": "https://images.justwatch.com/poster/150304764/s166/arrow.webp",
+    "duration": "42min",
+    "highestRank": 1,
+    "top10Days": 430,
+    "top100Days": 1694,
+    "top1000Days": 3190,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "7.4k",
+    "dislikes": "1.1k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "z-cTuId0rYs",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/94672126/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/176028087/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 23,
+        "posterImage": "https://images.justwatch.com/poster/237677062/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes":22,
+        "posterImage": "https://images.justwatch.com/poster/35297513/s166/season-4.webp"
+      },
+
+      {
+        "seasonNumber": 5,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/35297510/s166/season-5.webp"
+      }, 
+
+      {
+        "seasonNumber": 6,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/265885938/s166/season-6.webp"
+      }, 
+
+      {
+        "seasonNumber": 7,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/265885939/s166/season-7.webp"
+      }, 
+
+      {
+        "seasonNumber": 8,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/265885943/s166/season-8.webp"
+      }, 
+
+      {
+        "seasonNumber": 9,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/265885942/s166/season-9.webp"
+      }, 
+
+      {
+        "seasonNumber": 10,
+        "episodes": 22,
+        "posterImage": "https://images.justwatch.com/poster/302759152/s166/season-10.webp"
+      }, 
+    ]
+  },
+
+ 
+
 
 
 
