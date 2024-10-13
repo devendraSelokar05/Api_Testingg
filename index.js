@@ -4434,7 +4434,7 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "CZZrFC2MFAw",
+    "videoId": "Ruyl8_PT_y8",
     "type" : "series",
     "seasons": [ // Add season details here
       {
@@ -4506,7 +4506,7 @@ let movies = [
     "imdbRating": 7.9,
     "imdbVotes": "284k",
     "backdropImage": "https://images.justwatch.com/backdrop/222822775/s1440/the-blacklist.webp/the-blacklist.webp",
-    "posterImage": "https://images.justwatch.com/poster/259437978/s166/the-blacklist.webp",
+    "posterImage": "https://posterun.com/files/products/blacklist_ver19_xlg.1400x1400.jpg?16cca508a0b1a1af80ac41f3f57ee0b3",
     "duration": "43min",
     "highestRank": 1,
     "top10Days": 53,
@@ -4612,67 +4612,55 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "z-cTuId0rYs",
+    "videoId": "sKr3mjsVZzU",
     "type" : "series",
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
         "episodes": 22,
-        "posterImage": "https://images.justwatch.com/poster/94672126/s166/season-1.webp"
+        "posterImage": "https://www.justwatch.com/images/poster/244807449/s166/season-1.webp"
       },
 
       {
         "seasonNumber": 2,
         "episodes": 22,
-        "posterImage": "https://images.justwatch.com/poster/176028087/s166/season-2.webp"
+        "posterImage": "https://www.justwatch.com/images/poster/244807457/s166/season-2.webp"
       },
 
       {
         "seasonNumber": 3,
         "episodes": 23,
-        "posterImage": "https://images.justwatch.com/poster/237677062/s166/season-3.webp"
+        "posterImage": "https://www.justwatch.com/images/poster/244807463/s166/season-3.webp"
       },
 
       {
         "seasonNumber": 4,
         "episodes":22,
-        "posterImage": "https://images.justwatch.com/poster/35297513/s166/season-4.webp"
+        "posterImage": "https://www.justwatch.com/images/poster/8579670/s166/season-4.webp"
       },
 
       {
         "seasonNumber": 5,
         "episodes": 22,
-        "posterImage": "https://images.justwatch.com/poster/35297510/s166/season-5.webp"
+        "posterImage": "https://www.justwatch.com/images/poster/244807490/s166/season-5.webp"
       }, 
 
       {
         "seasonNumber": 6,
         "episodes": 22,
-        "posterImage": "https://images.justwatch.com/poster/265885938/s166/season-6.webp"
+        "posterImage": "https://www.justwatch.com/images/poster/244807541/s166/season-6.webp"
       }, 
 
       {
         "seasonNumber": 7,
         "episodes": 22,
-        "posterImage": "https://images.justwatch.com/poster/265885939/s166/season-7.webp"
+        "posterImage": "https://www.justwatch.com/images/poster/109824753/s166/season-7.webp"
       }, 
 
       {
         "seasonNumber": 8,
         "episodes": 22,
-        "posterImage": "https://images.justwatch.com/poster/265885943/s166/season-8.webp"
-      }, 
-
-      {
-        "seasonNumber": 9,
-        "episodes": 22,
-        "posterImage": "https://images.justwatch.com/poster/265885942/s166/season-9.webp"
-      }, 
-
-      {
-        "seasonNumber": 10,
-        "episodes": 22,
-        "posterImage": "https://images.justwatch.com/poster/302759152/s166/season-10.webp"
+        "posterImage": "https://www.justwatch.com/images/poster/150304764/s166/season-8.webp"
       }, 
     ]
   },
