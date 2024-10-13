@@ -2945,7 +2945,7 @@ let movies = [
 
   {
     "id": 100,
-    "title": "STANGER THINGS",
+    "title": "STRANGER THINGS",
     "year": 2016,
     "rank": 82,
     "rankChange": "▲ +67",
@@ -3609,63 +3609,8 @@ let movies = [
   
 },
 
-
 {
   "id": 121,
-  "title": "DARLING IN THE FRANXX",
-  "year": 2018,
-  "rank": 2599.,
-  "rankChange": "▲ +2391",
-  "rating": 85,
-  "imdbRating": 7.3,
-  "imdbVotes": "15k",
-  "backdropImage": "https://images.justwatch.com/backdrop/104372012/s1440/darling-in-the-franxx.webp/darling-in-the-franxx.webp",
-  "posterImage": "https://m.media-amazon.com/images/M/MV5BYWNlYzk1NGQtNTZkNi00YzJiLWJkMWUtZTYzNjI3YTc5ZDRhXkEyXkFqcGc@._V1_.jpg",
-  "duration": "24min",
-  "highestRank": 113,
-  "top10Days": 458,
-  "top100Days": 1458,
-  "top1000Days": 1258,
-  "watchOptions": [
-{"platform": "Netflix", "price": "Rs200/-"},
-{"platform": "Amazon Prime", "price": "Rs500/-"}
-],
-  "likes": "25k",
-  "dislikes": "354",
-  "watchlistText": "Lists",
-  "seenText": "Seen all",
-  "syncText": "Sign in to sync Watch List",
-  "videoId" : "xiNeXCUosSg"
-},
-{
-  "id": 122,
-  "title": "INDORI ISHQ",
-  "year": 2021,
-  "rank": 45,
-  "rankChange": "▲ +451",
-  "rating": 82,
-  "imdbRating": 6.9,
-  "imdbVotes": "4.3k",
-  "backdropImage": "https://images.justwatch.com/backdrop/246833725/s1440/indori-ishq.webp/indori-ishq.webp",
-  "posterImage": "https://m.media-amazon.com/images/M/MV5BZjJlMTNiYjItMTgxYy00YjRlLTg0NGItYjY1MWNlMGZhNWNmXkEyXkFqcGc@._V1_.jpg",
-  "duration": "29min",
-  "highestRank": 5,
-  "top10Days": 425,
-  "top100Days": 1451,
-  "top1000Days": 2524,
-  "watchOptions": [
-{"platform": "Netflix", "price": "Rs200/-"},
-{"platform": "Amazon Prime", "price": "Rs500/-"}
-],
-  "likes": "4k",
-  "dislikes": "35",
-  "watchlistText": "Lists",
-  "seenText": "Seen all",
-  "syncText": "Sign in to sync Watch List", 
-   "videoId" : "SPDL_1e4160"
-},
-{
-  "id": 123,
   "title": "EVIL DEAD RISE",
   "year": 2023,
   "rank": 78,
@@ -3691,6 +3636,129 @@ let movies = [
   "syncText": "Sign in to sync Watch List",
   "videoId" : "smTK_AeAPHs"
 },
+
+{
+  "id": 122,
+  "title": "NARUTO",
+  "year": 2002,
+  "rank": 34,
+  "rankChange": "▲ +82",
+  "rating": 88,
+  "imdbRating": 8.4,
+  "imdbVotes": "134k",
+  "backdropImage": "https://images.justwatch.com/backdrop/304968809/s1440/naruto.webp/naruto.webp",
+  "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVZVkWEJXqWMrX7CHsp9NvpacXO5DMWygAdw&s",
+  "duration": "23min",
+  "highestRank": 6,
+  "top10Days": 25,
+  "top100Days": 666,
+  "top1000Days": 2673,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "8.8k",
+  "dislikes": "1k",
+  "watchlistText": "Lists",
+  "seenText": "Seen all",
+  "syncText": "Sign in to sync Watch List",
+  "videoId" : "-G9BqkgZXRA",
+  "type": "series",
+  "seasons": [ // Add season details here
+    {
+      "seasonNumber": 1,
+      "episodes": 220,
+      "posterImage": "https://www.justwatch.com/images/poster/301262497/s166/season-1.webp"
+    },
+
+    {
+      "seasonNumber": 2,
+      "episodes": 104,
+      "posterImage": "https://www.justwatch.com/images/poster/280619753/s166/season-2.webp"
+    },
+
+    {
+      "seasonNumber": 3,
+      "episodes": 108,
+      "posterImage": "https://www.justwatch.com/images/poster/8605717/s166/season-3.webp"
+    },
+
+    {
+      "seasonNumber": 4,
+      "episodes": 124,
+      "posterImage": "https://www.justwatch.com/images/poster/8605715/s166/season-4.webp"
+    },
+
+    {
+      "seasonNumber": 5,
+      "episodes": 220,
+      "posterImage": "https://www.justwatch.com/images/poster/734764/s166/season-5.webp"
+    },
+
+    {
+      "seasonNumber": 6,
+      "episodes": 50,
+      "posterImage": "https://www.justwatch.com/images/poster/6499522/s166/season-6.webp"
+    },
+  ]
+},
+
+
+{
+  "id": 123,
+  "title": "COLLEGE ROMANCE",
+  "year": 2018,
+  "rank": 126.,
+  "rankChange": "▲ +160",
+  "rating": 76,
+  "imdbRating": 8.8,
+  "imdbVotes": "29k",
+  "backdropImage": "https://images.justwatch.com/backdrop/307434339/s1440/college-romance.webp/college-romance.webp",
+  "posterImage": "https://assets.gadgets360cdn.com/pricee/assets/product/202209/College_Romance_Season_3-Poster_1662391647.jpg",
+  "duration": "31min",
+  "highestRank": 1,
+  "top10Days": 309,
+  "top100Days": 992,
+  "top1000Days": 1622,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "72k",
+  "dislikes": "158",
+  "watchlistText": "Lists",
+  "seenText": "Seen all",
+  "syncText": "Sign in to sync Watch List",
+  "videoId" : "zwRhlzrJGxo",
+  "type": "series",
+  "seasons": [ // Add season details here
+    {
+      "seasonNumber": 1,
+      "episodes": 5,
+      "posterImage": "https://www.justwatch.com/images/poster/153922176/s166/season-1.webp"
+    },
+
+    {
+      "seasonNumber": 2,
+      "episodes": 5,
+      "posterImage": "https://www.justwatch.com/images/poster/241488605/s166/season-2.webp"
+    },
+
+    {
+      "seasonNumber": 3,
+      "episodes": 5,
+      "posterImage": "https://www.justwatch.com/images/poster/300726847/s166/season-3.webp"
+    },
+
+    {
+      "seasonNumber": 4,
+      "episodes": 5,
+      "posterImage": "https://www.justwatch.com/images/poster/307436638/s166/season-4.webp"
+    },
+  ]
+}
+
+
 ];
 
 app.get('/api/New-movies', (req, res) => {
