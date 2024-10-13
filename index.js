@@ -3406,7 +3406,7 @@ let movies = [
   "imdbRating": 7.9,
   "imdbVotes": "1.1k",
   "backdropImage": "https://images.justwatch.com/backdrop/320106640/s1440/no-gain-no-love.webp/no-gain-no-love.webp",
-  "posterImage": "https://lh3.googleusercontent.com/proxy/V1C_T_tvdjz98_jEUp0cH0NZp9B6jIKWRrVJsiFhydYLMsGCJvDUqcVnwh0hoYiL2RVs9W76Wta1drHdVplUmrioJaF11Ug_rQHoiAYIgqHRjx9wUDvJnb-gIA",
+  "posterImage": "https://media-cache.cinematerial.com/p/500x/uhwn4hiw/no-gain-no-love-movie-poster.jpg?v=1725059323",
   "duration": "1h 8min",
   "highestRank": 12,
   "top10Days": 0,
