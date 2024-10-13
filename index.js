@@ -3843,7 +3843,7 @@ let movies = [
   "imdbRating": 8.8,
   "imdbVotes": "29k",
   "backdropImage": "https://images.justwatch.com/backdrop/307434339/s1440/college-romance.webp/college-romance.webp",
-  "posterImage": "https://assets.gadgets360cdn.com/pricee/assets/product/202209/College_Romance_Season_3-Poster_1662391647.jpg",
+  "posterImage": "https://i.pinimg.com/736x/f3/e1/b1/f3e1b1e3fe5fb345efefb38dd40e6560.jpg",
   "duration": "31min",
   "highestRank": 1,
   "top10Days": 309,
