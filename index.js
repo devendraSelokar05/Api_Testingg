@@ -3575,7 +3575,69 @@ let movies = [
   "watchlistText": "Lists",
   "seenText": "Seen all",
   "syncText": "Sign in to sync Watch List", 
-   "videoId" : "VQGCKyvzIM4"
+   "videoId" : "VQGCKyvzIM4",
+   "type" : "series",
+   "seasons": [ // Add season details here
+     {
+       "seasonNumber": 1,
+       "episodes": 24,
+       "posterImage": "https://www.justwatch.com/images/poster/238614572/s166/season-1.webp"
+     },
+
+     {
+       "seasonNumber": 2,
+       "episodes": 24,
+       "posterImage": "https://www.justwatch.com/images/poster/238614566/s166/season-2.webp"
+     },
+
+     {
+       "seasonNumber": 3,
+       "episodes": 25,
+       "posterImage": "https://www.justwatch.com/images/poster/238614557/s166/season-3.webp"
+     },
+
+     {
+       "seasonNumber": 4,
+       "episodes": 24,
+       "posterImage": "https://www.justwatch.com/images/poster/238614546/s166/season-4.webp"
+     },
+
+     {
+       "seasonNumber": 5,
+       "episodes": 24,
+       "posterImage": "https://www.justwatch.com/images/poster/238614540/s166/season-5.webp"
+     },
+
+     {
+      "seasonNumber": 6,
+      "episodes": 25,
+      "posterImage": "https://www.justwatch.com/images/poster/300603462/s166/season-6.webp"
+    },
+
+    {
+      "seasonNumber": 7,
+      "episodes": 24,
+      "posterImage": "https://www.justwatch.com/images/poster/238614521/s166/season-7.webp"
+    },
+
+    {
+      "seasonNumber": 8,
+      "episodes": 24,
+      "posterImage": "https://www.justwatch.com/images/poster/304855085/s166/season-8.webp"
+    },
+
+    {
+      "seasonNumber": 9,
+      "episodes": 24,
+      "posterImage": "https://www.justwatch.com/images/poster/238614510/s166/season-9.webp"
+    },
+
+    {
+      "seasonNumber": 10,
+      "episodes": 18,
+      "posterImage": "https://www.justwatch.com/images/poster/252095774/s166/season-10.webp"
+    },
+   ]
 },
 
 {
