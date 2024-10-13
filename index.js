@@ -4106,6 +4106,67 @@ let movies = [
     ]
 },
 
+{
+    "id":3,
+    "title": "The Aam Aadmi Family",
+    "year": 2016,
+    "rank": 1818,
+    "rankChange": "▲ +1397",
+    "rating": 90,
+    "imdbRating": 8.4,
+    "imdbVotes": "2.3k",
+    "backdropImage": "https://images.justwatch.com/backdrop/159518713/s1440/the-aam-aadmi-family.webp/the-aam-aadmi-family.webp",
+    "posterImage": "https://exchange4media.gumlet.io/news-photo/1509446640_NqufTi_big_aam_aadmi.jpg",
+    "duration": "30min",
+    "highestRank": 64,
+    "top10Days": 0,
+    "top100Days": 3,
+    "top1000Days": 331,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "8k",
+    "dislikes": "1k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "3ec6KQbJ-us",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 5,
+        "posterImage": "https://images.justwatch.com/poster/309759520/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 7,
+        "posterImage": "https://images.justwatch.com/poster/309759520/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 5,
+        "posterImage": "https://images.justwatch.com/poster/309759520/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes":8,
+        "posterImage": "https://images.justwatch.com/poster/309759520/s166/season-4.webp"
+      },
+
+      {
+        "seasonNumber": 5,
+        "episodes": 1,
+        "posterImage": "https://images.justwatch.com/poster/309759520/s166/season-5.webp"
+      }, 
+    ]
+  },
+
+
 
 
 ];
