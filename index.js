@@ -4665,6 +4665,49 @@ let movies = [
     ]
   },
 
+  
+  {
+    "id":135,
+    "title": "Asur",
+    "year": 2020,
+    "rank": 82,
+    "rankChange": "▲ +60",
+    "rating": 91,
+    "imdbRating": 8.5,
+    "imdbVotes": "67k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/305709131/s1440/asur.webp/asur.webp",
+    "posterImage": "https://assets.gadgets360cdn.com/pricee/assets/product/202305/Asur-Season-1_1685018145.jpg",
+    "duration": "47min",
+    "highestRank": 1,
+    "top10Days": 122,
+    "top100Days": 835,
+    "top1000Days": 1646,
+    "watchOptions": [
+      {"platform": "JioCinema", "price": "Rs500/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "7.4k",
+    "dislikes": "300",
+    "watchlistText": "list",
+    "seenText": "Seenall",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "LDirQBvwx7g",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 8,
+        "posterImage": "https://www.justwatch.com/images/poster/174333047/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 8,
+        "posterImage": "https://www.justwatch.com/images/poster/320137019/s166/season-2.webp"
+      },
+    ]
+  }
+
  
 
 
