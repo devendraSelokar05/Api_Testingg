@@ -2993,7 +2993,7 @@ let movies = [
             "seasonNumber": 4,
             "episodes": 9,
             "posterImage": "https://www.justwatch.com/images/poster/264470916/s166/season-4.webp"
-          },,
+          },
         ]
 },
 
