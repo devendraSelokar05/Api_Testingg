@@ -3048,7 +3048,7 @@ let movies = [
 
 
 {
-  "id": 103,
+  "id": 102,
   "title": "WEDNESDAY",
   "year": 2022,
   "rank": 172,
@@ -3090,7 +3090,7 @@ let movies = [
 },
 
 {
-  "id": 104,
+  "id": 103,
   "title": "MY FAULT",
   "year": 2023,
   "rank": 579,
@@ -3118,7 +3118,7 @@ let movies = [
 },
 
 {
-  "id": 105,
+  "id": 104,
   "title": "YOUR NAME",
   "year": 2016,
   "rank": 596,
@@ -3514,7 +3514,40 @@ let movies = [
   "watchlistText": "Lists",
   "seenText": "Seen all",
   "syncText": "Sign in to sync Watch List",
-  "videoId" : "VQGCKyvzIM4"
+  "videoId" : "VQGCKyvzIM4",
+  "type": "series",
+  "seasons": [ // Add season details here
+        {
+          "seasonNumber": 1,
+          "episodes": 26,
+          "posterImage": "https://www.justwatch.com/images/poster/320272945/s166/season-1.webp"
+        },
+  
+        {
+          "seasonNumber": 2,
+          "episodes": 18,
+          "posterImage": "https://www.justwatch.com/images/poster/320272944/s166/season-2.webp"
+        },
+  
+        {
+          "seasonNumber": 3,
+          "episodes": 11,
+          "posterImage": "https://www.justwatch.com/images/poster/320272942/s166/season-3.webp"
+        },
+  
+        {
+          "seasonNumber": 4,
+          "episodes": 11,
+          "posterImage": "https://www.justwatch.com/images/poster/320272941/s166/season-4.webp"
+        },
+  
+        {
+          "seasonNumber": 5,
+          "episodes": 8,
+          "posterImage": "https://www.justwatch.com/images/poster/320272943/s166/season-5.webp"
+        },
+      ]
+
 },
 
 {
