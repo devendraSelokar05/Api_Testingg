@@ -3165,6 +3165,38 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "8QkyLqmJCMM",
+  "type": "series",
+  "seasons": [ // Add season details here
+        {
+          "seasonNumber": 1,
+          "episodes": 13,
+          "posterImage": "https://www.justwatch.com/images/poster/270389468/s166/season-1.webp"
+        },
+  
+        {
+          "seasonNumber": 2,
+          "episodes": 9,
+          "posterImage": "https://www.justwatch.com/images/poster/281065948/s166/season-2.webp"
+        },
+  
+        {
+          "seasonNumber": 3,
+          "episodes": 8,
+          "posterImage": "https://www.justwatch.com/images/poster/281066199/s166/season-3.webp"
+        },
+  
+        {
+          "seasonNumber": 4,
+          "episodes": 8,
+          "posterImage": "https://www.justwatch.com/images/poster/270389906/s166/season-4.webp"
+        },
+  
+        {
+          "seasonNumber": 5,
+          "episodes": 10,
+          "posterImage": "https://www.justwatch.com/images/poster/281044992/s166/season-5.webp"
+        },
+      ]
 },
 
 {
@@ -3337,7 +3369,6 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List",
   "videoId" : "5fKn0Dhj64w",
-  "type" : "series"
 },
 
 {
@@ -3480,6 +3511,186 @@ let movies = [
    "videoId" : "VQGCKyvzIM4"
 },
 
+{
+  "id": 119,
+  "title": "FLAMES",
+  "year": 2018,
+  "rank": 196,
+  "rankChange": "▲ +297",
+  "Rating": "71%",
+  "imdbRating": 8.8,
+  "imdbVotes": "33k",
+  "backdropImage": "https://images.justwatch.com/backdrop/163344875/s1440/flames.webp/flames.webp",
+  "posterImage": "https://m.media-amazon.com/images/M/MV5BOTQ5MWNkMDgtNjk5ZC00NGE5LWEyMGQtN2YzNzlkZTgxZWFlXkEyXkFqcGc@._V1_.jpg",
+  "duration": "31min",
+  "highestRank": 1,
+  "top10Days": 71,
+  "top100Days": 515,
+  "top1000Days": 1793,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "4k",
+  "dislikes": "35",
+  "watchlistText": "Lists",
+  "seenText": "Seen all",
+  "syncText": "Sign in to sync Watch List", 
+  "videoId" : "NkdCgjqQq7s",
+  "type": "series",
+  "seasons": [ // Add season details here
+        {
+          "seasonNumber": 1,
+          "episodes": 5,
+          "posterImage": "https://www.justwatch.com/images/poster/310326899/s166/season-1.webp"
+        },
+  
+        {
+          "seasonNumber": 2,
+          "episodes": 5,
+          "posterImage": "https://www.justwatch.com/images/poster/310330520/s166/season-2.webp"
+        },
+  
+        {
+          "seasonNumber": 3,
+          "episodes": 5,
+          "posterImage": "https://www.justwatch.com/images/poster/301436273/s166/season-3.webp"
+        },
+  
+        {
+          "seasonNumber": 4,
+          "episodes": 5,
+          "posterImage": "https://www.justwatch.com/images/poster/310330522/s166/season-4.webp"
+        },
+      ]
+},
+
+{
+  "id": 120,
+  "title": "ALICE IN BORDERLAND",
+  "year": 2020,
+  "rank": 204,
+  "rankChange": "▲ +347",
+  "rating": 92,
+  "imdbRating": 7.7,
+  "imdbVotes": "102k",
+  "backdropImage": "https://images.justwatch.com/backdrop/239548970/s1440/alice-in-borderland.webp/alice-in-borderland.webp",
+  "posterImage": "https://e1.pxfuel.com/desktop-wallpaper/942/291/desktop-wallpaper-alice-in-borderland-thumbnail.jpg",
+  "duration": "54min",
+  "highestRank": 4,
+  "top10Days": 14,
+  "top100Days": 152,
+  "top1000Days": 1287,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "12k",
+  "dislikes": "1k",
+  "watchlistText": "Lists",
+  "seenText": "Seen all",
+  "syncText": "Sign in to sync Watch List", 
+  "videoId" : "49_44FFKZ1M",
+  "type" : "series",
+  "seasons": [ // Add season details here
+    {
+      "seasonNumber": 1,
+      "episodes": 8,
+      "posterImage": "https://www.justwatch.com/images/poster/302278527/s166/season-1.webp"
+    },
+
+    {
+      "seasonNumber": 2,
+      "episodes": 8,
+      "posterImage": "https://www.justwatch.com/images/poster/302278475/s166/season-2.webp"
+    },
+
+  ]
+  
+},
+
+
+{
+  "id": 121,
+  "title": "DARLING IN THE FRANXX",
+  "year": 2018,
+  "rank": 2599.,
+  "rankChange": "▲ +2391",
+  "rating": 85,
+  "imdbRating": 7.3,
+  "imdbVotes": "15k",
+  "backdropImage": "https://images.justwatch.com/backdrop/104372012/s1440/darling-in-the-franxx.webp/darling-in-the-franxx.webp",
+  "posterImage": "https://m.media-amazon.com/images/M/MV5BYWNlYzk1NGQtNTZkNi00YzJiLWJkMWUtZTYzNjI3YTc5ZDRhXkEyXkFqcGc@._V1_.jpg",
+  "duration": "24min",
+  "highestRank": 113,
+  "top10Days": 458,
+  "top100Days": 1458,
+  "top1000Days": 1258,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "25k",
+  "dislikes": "354",
+  "watchlistText": "Lists",
+  "seenText": "Seen all",
+  "syncText": "Sign in to sync Watch List",
+  "videoId" : "xiNeXCUosSg"
+},
+{
+  "id": 122,
+  "title": "INDORI ISHQ",
+  "year": 2021,
+  "rank": 45,
+  "rankChange": "▲ +451",
+  "rating": 82,
+  "imdbRating": 6.9,
+  "imdbVotes": "4.3k",
+  "backdropImage": "https://images.justwatch.com/backdrop/246833725/s1440/indori-ishq.webp/indori-ishq.webp",
+  "posterImage": "https://m.media-amazon.com/images/M/MV5BZjJlMTNiYjItMTgxYy00YjRlLTg0NGItYjY1MWNlMGZhNWNmXkEyXkFqcGc@._V1_.jpg",
+  "duration": "29min",
+  "highestRank": 5,
+  "top10Days": 425,
+  "top100Days": 1451,
+  "top1000Days": 2524,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "4k",
+  "dislikes": "35",
+  "watchlistText": "Lists",
+  "seenText": "Seen all",
+  "syncText": "Sign in to sync Watch List", 
+   "videoId" : "SPDL_1e4160"
+},
+{
+  "id": 123,
+  "title": "EVIL DEAD RISE",
+  "year": 2023,
+  "rank": 78,
+  "rankChange": "▲ +640",
+  "rating": 81,
+  "imdbRating": 6.5,
+  "imdbVotes": "146k",
+  "backdropImage": "https://images.justwatch.com/backdrop/305192753/s1440/evil-dead-rise.webp/evil-dead-rise.webp",
+  "posterImage": "https://sportshub.cbsistatic.com/i/2023/01/03/732d9bb0-00b5-42b0-86c9-87e7928c9f9c/evil-dead-rise-poster-2022.jpg?auto=webp&width=1382&height=2048&crop=0.675:1,smart",
+  "duration": "1h 36min",
+  "highestRank": 3,
+  "top10Days": 12,
+  "top100Days": 126,
+  "top1000Days": 549,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "6.1k",
+  "dislikes": "452",
+  "watchlistText": "Lists",
+  "seenText": "Seen all",
+  "syncText": "Sign in to sync Watch List",
+  "videoId" : "smTK_AeAPHs"
+},
 ];
 
 app.get('/api/New-movies', (req, res) => {
