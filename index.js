@@ -4597,7 +4597,7 @@ let movies = [
     "imdbRating": 7.5,
     "imdbVotes": "449k",
     "backdropImage": "https://c4.wallpaperflare.com/wallpaper/526/1013/176/arrow-tv-series-wallpaper-preview.jpg",
-    "posterImage": "https://c4.wallpaperflare.com/wallpaper/734/932/965/arrow-colton-haynes-david-ramsey-dc-comics-wallpaper-preview.jpg",
+    "posterImage": "https://club-cdn.clz.com/optimized/2X/d/d239116f82a288005c5dc17626260dd16a32dd90_2_330x500.jpeg",
     "duration": "42min",
     "highestRank": 1,
     "top10Days": 430,
