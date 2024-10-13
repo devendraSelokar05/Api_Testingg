@@ -2656,7 +2656,7 @@ let movies = [
   {
 
     "id":90,
-    "title": "Shaitaan ",
+    "title": "Shaitaan",
     "year": 2024,
     "rank":522,
     "rankChange": "▲ +670",
@@ -3366,6 +3366,118 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "m21MWq6wb9Y"
+},
+
+{
+  "id": 115,
+  "title": "Bad Newz",
+  "year": 2024,
+  "rank": 61,
+  "rankChange": "▲ +170",
+  "rating": 27,
+  "imdbRating": 5.1,
+  "imdbVotes": "25k",
+  "backdropImage": "https://images.justwatch.com/backdrop/321215960/s1440/untitled-vicky-kaushal-prime-video-project.webp/untitled-vicky-kaushal-prime-video-project.webp",
+  "posterImage": "https://i.redd.it/posters-of-bad-newz-v0-0343zk5ao4pc1.jpg?width=1290&format=pjpg&auto=webp&s=e452143fc253c376c29205b1b3ae43afb4cf8443",
+  "duration": "2h 20min",
+  "highestRank": 3,
+  "top10Days": 9,
+  "top100Days": 41,
+  "top1000Days": 80,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "1.5k",
+  "dislikes": "203",
+  "watchlistText": "Lists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List", 
+   "videoId" : "uV50UfcIT68"
+},
+
+{
+  "id": 116,
+  "title": "NO GAIN NO LOVE",
+  "year": 2024,
+  "rank": 24,
+  "rankChange": "▲ +12",
+  "rating": 53,
+  "imdbRating": 7.9,
+  "imdbVotes": "1.1k",
+  "backdropImage": "https://images.justwatch.com/backdrop/320106640/s1440/no-gain-no-love.webp/no-gain-no-love.webp",
+  "posterImage": "https://asianwiki.com/images/6/68/No_Gain_No_Love-mp01.jpeg",
+  "duration": "1h 8min",
+  "highestRank": 12,
+  "top10Days": 0,
+  "top100Days": 27,
+  "top1000Days": 41,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "520",
+  "dislikes": "45",
+  "watchlistText": "Lists",
+  "seenText": "Seen all",
+  "syncText": "Sign in to sync Watch List", 
+   "videoId" : "NL88DKtfrl"
+},
+
+{
+  "id": 117,
+  "title": "DEMON SLAYER",
+  "year": 2019,
+  "rank": 29,
+  "rankChange": "▲ +6",
+  "rating": 90,
+  "imdbRating": 8.6,
+  "imdbVotes": "166k",
+  "backdropImage": "https://images.justwatch.com/backdrop/317220005/s1440/demon-slayer-kimetsu-no-yaiba.webp/demon-slayer-kimetsu-no-yaiba.webp",
+  "posterImage": "https://i.pinimg.com/736x/51/2c/9a/512c9a9bfd71ae7ab6b583dca74c318f.jpg",
+  "duration": "26min",
+  "highestRank": 1,
+  "top10Days": 126,
+  "top100Days": 660,
+  "top1000Days": 1920,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "15k",
+  "dislikes": "951",
+  "watchlistText": "Lists",
+  "seenText": "Seen all",
+  "syncText": "Sign in to sync Watch List",
+  "videoId" : "VQGCKyvzIM4"
+},
+
+{
+  "id": 118,
+  "title": "FRIENDS",
+  "year": 1994,
+  "rank": 31,
+  "rankChange": "▲ +85",
+  "rating": 92,
+  "imdbRating": 8.9,
+  "imdbVotes": "1m",
+  "backdropImage": "https://images.justwatch.com/backdrop/177294826/s1440/friends.webp/friends.webp",
+  "posterImage": "https://i.pinimg.com/originals/41/2c/ea/412cea60bab9c59e1d7414616d426f81.jpg",
+  "duration": "25min",
+  "hightRank": "01",
+  "top10Days": "869 Days",
+  "top100Days": "2581 Days",
+  "top1000Days": "3197 Days",
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "35k",
+  "dislikes": "274",
+  "watchlistText": "Lists",
+  "seenText": "Seen all",
+  "syncText": "Sign in to sync Watch List", 
+   "videoId" : "VQGCKyvzIM4"
 },
 
 ];
