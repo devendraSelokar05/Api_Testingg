@@ -3885,7 +3885,56 @@ let movies = [
       "posterImage": "https://www.justwatch.com/images/poster/307436638/s166/season-4.webp"
     },
   ]
-}
+},
+
+{
+  "id":124,
+  "title": "Kalki 2898-AD",
+  "year": 2024,
+  "rank": 33,
+  "rankChange": "+16",
+  "rating": 63,
+  "imdbRating": 7.5,
+  "imdbVotes": "24k",
+  "backdropImage": "https://images.justwatch.com/backdrop/319594814/s1440/project-k.webp/project-k.webp",
+  "postereImage": "https://images.justwatch.com/poster/318017051/s166/project-k.webp",
+  "durection": "2h56min",
+  "highestRank": 1,
+  "top10Days": 79,
+  "top100Days": 110,
+  "top1000Days": 142,
+  "likes": 341,
+  "dislike": 170,
+  "watchlistText": "watchlist",
+  "seenText": "seen",
+  "syncText": "sing in to watch list",
+  "videoId": "aninoDcPWo4" 
+},
+
+{
+  "id":125,
+  "title": "Maharaja",
+  "year": 2024,
+  "rank": 51,
+  "rankChange": "+78",
+  "rating": 76,
+  "imdbRating": 8.5,
+  "imdbVotes": "48k",
+  "backdropImage": "https://images.justwatch.com/backdrop/318728320/s1440/maharaja-2024.webp/maharaja-2024.webp",
+  "postereImage": "https://images.justwatch.com/poster/319725378/s166/maharaja-2024.webp",
+  "durection": "2h21min",
+  "highestRank": 1,
+  "top10Days": 41,
+  "top100Days": 108,
+  "top1000Days": 114,
+  "likes": 455,
+  "dislike": 114,
+  "watchlistText": "watchlist",
+  "seenText": "seen",
+  "syncText": "sing in to watch list",
+  "videoId": "n3ttNeXKPHg"
+},
+
 
 
 ];
