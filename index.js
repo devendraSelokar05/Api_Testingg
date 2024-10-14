@@ -4718,7 +4718,7 @@ let movies = [
     "imdbRating": 6.9,
     "imdbVotes": "67k",
     "backdropImage": "https://www.justwatch.com/images/backdrop/319454136/s1440/ssmb-28.webp/ssmb-28.webp",
-    "posterImage": "https://pbs.twimg.com/media/F9H4TJAakAAGacQ.jpg:large",
+    "posterImage": "https://www.telugutimes.net/storage/gallery/cinema/wall-papers/guntur-karam-movie-posters/guntur-karam-movie-posters-2.jpg",
     "duration": "2h 39min",
     "highestRank": 1,
     "top10Days": 8,
