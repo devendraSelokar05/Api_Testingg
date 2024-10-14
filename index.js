@@ -4688,7 +4688,7 @@ let movies = [
     ],
     "likes": "7.4k",
     "dislikes": "300",
-    "watchlistText": "list",
+    "watchlistText": "List",
     "seenText": "Seenall",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "LDirQBvwx7g",
@@ -4706,7 +4706,36 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/320137019/s166/season-2.webp"
       },
     ]
+  },
+
+  {
+    "id":136,
+    "title": "Guntur Kaaram",
+    "year": 2024,
+    "rank": 276,
+    "rankChange": "▲ +180",
+    "rating": 75,
+    "imdbRating": 6.9,
+    "imdbVotes": "67k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/319454136/s1440/ssmb-28.webp/ssmb-28.webp",
+    "posterImage": "https://assets.gadgets360cdn.com/pricee/assets/product/202305/Asur-Season-1_1685018145.jpg",
+    "duration": "2h 39min",
+    "highestRank": 1,
+    "top10Days": 8,
+    "top100Days": 74,
+    "top1000Days": 456,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Apple TV +", "price": "Rs500/-"}
+    ],
+    "likes": "7.4k",
+    "dislikes": "300",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "QDmCyFxHNME",
   }
+  
 
  
 
