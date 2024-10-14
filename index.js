@@ -4718,7 +4718,7 @@ let movies = [
     "imdbRating": 6.9,
     "imdbVotes": "67k",
     "backdropImage": "https://www.justwatch.com/images/backdrop/319454136/s1440/ssmb-28.webp/ssmb-28.webp",
-    "posterImage": "https://assets.gadgets360cdn.com/pricee/assets/product/202305/Asur-Season-1_1685018145.jpg",
+    "posterImage": "https://pbs.twimg.com/media/F9H4TJAakAAGacQ.jpg:large",
     "duration": "2h 39min",
     "highestRank": 1,
     "top10Days": 8,
