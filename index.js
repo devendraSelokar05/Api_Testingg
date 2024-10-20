@@ -166,7 +166,8 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "da7lKeeS67c",
     "type": "bollywood",
-    "genres" : [`Action & Adventure, Crime, Drama, Mystery & Thriller`]
+   "genres": ["Action & Adventure", "Crime", "Drama", "Mystery & Thriller"]
+
 
   },
  
