@@ -94,7 +94,7 @@ let movies = [
         "posterImage": "https://images.justwatch.com/poster/123167430/s166/season-8.webp"
       },
     ],
-    "genres": [Science-Fiction, Drama, Action & Adventure, Fantasy]
+    "genres": ["Science-Fiction", "Drama", "Action & Adventure", "Fantasy"]
 
   },
  
@@ -133,7 +133,7 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/320444958/s166/season-1.webp"
       }
     ],
-    "genres": [Science-Fiction, Animation, Action & Adventure]
+    "genres": ["Science-Fiction", "Animation", "Action & Adventure"]
 
   
 
