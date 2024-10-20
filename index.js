@@ -93,7 +93,8 @@ let movies = [
         "episodes": 6,
         "posterImage": "https://images.justwatch.com/poster/123167430/s166/season-8.webp"
       },
-    ]
+    ],
+    "genres": [Science-Fiction, Drama, Action & Adventure, Fantasy]
 
   },
  
@@ -123,7 +124,17 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "1uRZ8CFExEY"
+    "videoId": "1uRZ8CFExEY",
+    "type": "hollywood",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": 8,
+        "posterImage": "https://www.justwatch.com/images/poster/320444958/s166/season-1.webp"
+      }
+    ],
+    "genres": [Science-Fiction, Animation, Action & Adventure]
+
   
 
   },
@@ -4747,6 +4758,10 @@ let movies = [
 
 app.get('/api/New-movies', (req, res) => {
   const titleQuery = req.query.title ? req.query.title.toLowerCase() : null;
+  const typeQuery = req.query.type ? req.query.type.toLowerCase() : null;
+  const genreQuery = req.query.genres ? req.query.genres.toLowerCase() : null;
+
+  let filteredMovies = movies;
 
   if (titleQuery) {
     // Search movie by title
@@ -4756,7 +4771,21 @@ app.get('/api/New-movies', (req, res) => {
     } else {
       return res.status(404).json({ message: 'Movie not found by title' });
     }
-  } else {
+  } 
+
+  // Filter by type if present
+  if (typeQuery) {
+    filteredMovies = filteredMovies.filter(movie => movie.type.toLowerCase() === typeQuery);
+  }
+
+  // Filter by genre if present
+  if (genreQuery) {
+    filteredMovies = filteredMovies.filter(movie => 
+      movie.genres.some(g => g.toLowerCase() === genreQuery)
+    );
+  }
+
+  else {
 
     res.json(movies);
   }
