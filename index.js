@@ -94,7 +94,7 @@ let movies = [
         "posterImage": "https://images.justwatch.com/poster/123167430/s166/season-8.webp"
       },
     ],
-    "genres": ["Science-Fiction", "Drama", "Action & Adventure", "Fantasy"]
+    "genre": ["Science-Fiction", "Drama", "Action & Adventure", "Fantasy"]
 
   },
  
@@ -133,7 +133,7 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/320444958/s166/season-1.webp"
       }
     ],
-    "genres": ["Science-Fiction", "Animation", "Action & Adventure"]
+    "genre": ["Science-Fiction", "Animation", "Action & Adventure"]
 
   
 
@@ -166,7 +166,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "da7lKeeS67c",
     "type": "bollywood",
-   "genres": ["Action & Adventure", "Crime", "Drama", "Mystery & Thriller"]
+   "genre": ["Action & Adventure", "Crime", "Drama", "Mystery & Thriller"]
 
 
   },
@@ -4762,19 +4762,18 @@ let movies = [
 app.get('/api/New-movies', (req, res) => {
   const titleQuery = req.query.title ? req.query.title.toLowerCase() : null;
   const typeQuery = req.query.type ? req.query.type.toLowerCase() : null;
-  const genreQuery = req.query.genres ? req.query.genres.toLowerCase() : null;
+  const genreQuery = req.query.genre ? req.query.genre.toLowerCase() : null;
 
   let filteredMovies = movies;
 
   if (titleQuery) {
-    // Search movie by title
     const movieByTitle = movies.find(movie => movie.title.toLowerCase() === titleQuery);
     if (movieByTitle) {
       return res.json(movieByTitle);
     } else {
       return res.status(404).json({ message: 'Movie not found by title' });
     }
-  }
+  } 
 
   // Filter by type if present
   if (typeQuery) {
@@ -4784,13 +4783,14 @@ app.get('/api/New-movies', (req, res) => {
   // Filter by genre if present
   if (genreQuery) {
     filteredMovies = filteredMovies.filter(movie => 
-      movie.genres.some(g => g.toLowerCase() === genreQuery)
+      movie.genre.some(g => g.toLowerCase() === genreQuery)
     );
   }
 
-  // Return the filtered movies or all movies if no filter is applied
-  return res.json(filteredMovies);
+  // Return filtered movies or all if none matched
+  res.json(filteredMovies.length > 0 ? filteredMovies : movies);
 });
+
 
 // Endpoint to get a single movie by ID
 app.get('/api/New-movies/:id', (req, res) => {
