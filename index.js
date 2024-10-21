@@ -125,7 +125,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "1uRZ8CFExEY",
-    "type": "hollywood",
+    "type": "Hollywood",
     "seasons": [
       {
         "seasonNumber": 1,
@@ -4759,36 +4759,54 @@ let movies = [
 
 ];
 
+// Endpoint to get all movies or filter by title, type, or genre
 app.get('/api/New-movies', (req, res) => {
-  const titleQuery = req.query.title ? req.query.title.toLowerCase() : null;
-  const typeQuery = req.query.type ? req.query.type.toLowerCase() : null;
-  const genreQuery = req.query.genre ? req.query.genre.toLowerCase() : null;
+  try {
+    console.log('Incoming request:', req.query); // Log incoming queries
 
-  let filteredMovies = movies;
+    const titleQuery = req.query.title ? req.query.title.toLowerCase() : null;
+    const typeQuery = req.query.type ? req.query.type.toLowerCase() : null;
+    const genreQuery = req.query.genre ? req.query.genre.toLowerCase() : null;
 
-  if (titleQuery) {
-    const movieByTitle = movies.find(movie => movie.title.toLowerCase() === titleQuery);
-    if (movieByTitle) {
-      return res.json(movieByTitle);
-    } else {
-      return res.status(404).json({ message: 'Movie not found by title' });
+    let filteredMovies = movies;
+
+    // Check if titleQuery is defined
+    if (titleQuery) {
+      const movieByTitle = movies.find(movie => movie.title.toLowerCase() === titleQuery);
+      if (movieByTitle) {
+        return res.json(movieByTitle);
+      } else {
+        return res.status(404).json({ message: 'Movie not found by title' });
+      }
     }
-  } 
 
-  // Filter by type if present
-  if (typeQuery) {
-    filteredMovies = filteredMovies.filter(movie => movie.type.toLowerCase() === typeQuery);
+    // Filter by type if present
+    if (typeQuery) {
+      console.log('Filtering by type:', typeQuery); // Debug log for typeQuery
+      filteredMovies = filteredMovies.filter(movie => {
+        console.log('Checking movie type:', movie.type); // Debug log for movie type
+        return movie.type && movie.type.toLowerCase() === typeQuery; // Check if movie.type exists
+      });
+
+      if (filteredMovies.length === 0) {
+        return res.status(404).json({ message: 'No movies found for this type' });
+      }
+    }
+
+    // Filter by genre if present
+    if (genreQuery) {
+      console.log('Filtering by genre:', genreQuery); // Debug log for genreQuery
+      filteredMovies = filteredMovies.filter(movie => 
+        movie.genre && movie.genre.some(g => g.toLowerCase() === genreQuery)
+      );
+    }
+
+    // Return filtered movies or all if none matched
+    res.json(filteredMovies.length > 0 ? filteredMovies : movies);
+  } catch (error) {
+    console.error('Error occurred:', error);
+    res.status(500).json({ message: 'Internal Server Error', error: error.message });
   }
-
-  // Filter by genre if present
-  if (genreQuery) {
-    filteredMovies = filteredMovies.filter(movie => 
-      movie.genre.some(g => g.toLowerCase() === genreQuery)
-    );
-  }
-
-  // Return filtered movies or all if none matched
-  res.json(filteredMovies.length > 0 ? filteredMovies : movies);
 });
 
 
