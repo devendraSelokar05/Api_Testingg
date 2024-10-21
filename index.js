@@ -4788,10 +4788,9 @@ app.get('/api/New-movies', (req, res) => {
     );
   }
 
-  // Return the filtered list or all movies
-  res.json(filteredMovies);
+  // Return the filtered movies or all movies if no filter is applied
+  return res.json(filteredMovies);
 });
-
 
 // Endpoint to get a single movie by ID
 app.get('/api/New-movies/:id', (req, res) => {
