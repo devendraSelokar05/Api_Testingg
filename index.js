@@ -4774,7 +4774,7 @@ app.get('/api/New-movies', (req, res) => {
     } else {
       return res.status(404).json({ message: 'Movie not found by title' });
     }
-  } 
+  }
 
   // Filter by type if present
   if (typeQuery) {
@@ -4788,11 +4788,10 @@ app.get('/api/New-movies', (req, res) => {
     );
   }
 
-  else {
-
-    res.json(movies);
-  }
+  // Return the filtered list or all movies
+  res.json(filteredMovies);
 });
+
 
 // Endpoint to get a single movie by ID
 app.get('/api/New-movies/:id', (req, res) => {
