@@ -206,9 +206,8 @@ let movies = [
         "episodes": 10,
         "posterImage": "https://images.justwatch.com/poster/309349704/s166/season-1.webp"
       },
-
-  
-    ]
+    ],
+    "genre" : ["Drama", "War & Military", "History"]
   },
 
 
@@ -237,7 +236,9 @@ let movies = [
     "watchlistText": "Watchist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "KVnheXywIbY"
+    "videoId": "KVnheXywIbY",
+    "type" : "bollywood",
+    "genre" : ["Comedy", "Horror"],
   },
 
 
@@ -285,7 +286,8 @@ let movies = [
         "episodes": 10,
         "posterImage": "https://images.justwatch.com/poster/318579955/s166/season-3.webp"
       },
-    ]
+    ],
+    "genre" : ["Action & Adventure", "Drama", "Crime", "Mystery & Thriller"]
   },
 
 
@@ -335,7 +337,8 @@ let movies = [
         "episodes": 10,
         "posterImage": "https://images.justwatch.com/poster/260075695/s166/season-3.webp"
       },
-    ]
+    ],
+    "genres": ["Action & Adventure", "Science-Fiction", "Drama", "Romance", "Fantasy"],
   },
  
 
@@ -4748,8 +4751,134 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "QDmCyFxHNME",
-  }
+  },
   
+  {
+    "id":136,
+    "title": "This Is Us",
+    "year": 2016,
+    "rank": 192,
+    "rankChange": "▲ +63",
+    "rating": 91,
+    "imdbRating": 8.7,
+    "imdbVotes": "163k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/84106888/s1440/this-is-us.webp/this-is-us.webp",
+    "posterImage": "https://image.tmdb.org/t/p/original/lllxdNp6sKCmDkPEnQqdbSNsxnu.jpg",
+    "duration": "43min",
+    "highestRank": 3,
+    "top10Days": 45,
+    "top100Days": 1645,
+    "top1000Days": 2949,
+    "watchOptions": [
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "19k",
+    "dislikes": "2.1k",
+    "watchlistText": "List",
+    "seenText": "Seenall",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "hljQfJLQmaI",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 18,
+        "posterImage": "https://www.justwatch.com/images/poster/303934465/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 18,
+        "posterImage": "https://www.justwatch.com/images/poster/18479144/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 18,
+        "posterImage": "https://www.justwatch.com/images/poster/115402753/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes": 18,
+        "posterImage": "https://www.justwatch.com/images/poster/147453411/s166/season-4.webp"
+      },
+
+      {
+        "seasonNumber": 5,
+        "episodes": 16,
+        "posterImage": "https://www.justwatch.com/images/poster/240762201/s166/season-5.webp"
+      },
+
+      {
+        "seasonNumber": 6,
+        "episodes": 18,
+        "posterImage": "https://www.justwatch.com/images/poster/257533647/s166/season-6.webp"
+      },
+    ],
+    "genre": ["Drama", "Romance", "Comedy"] 
+  },
+  
+  {
+    "id":137,
+    "title": "The Handmaid's Tale",
+    "year": 2017,
+    "rank": 225,
+    "rankChange": "▲ +61",
+    "rating": 90,
+    "imdbRating": 8.4,
+    "imdbVotes": "264k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/63296147/s1440/the-handmaids-tale.webp/the-handmaids-tale.webp",
+    "posterImage": "https://m.media-amazon.com/images/I/61pnkMeoWeL._AC_UF1000,1000_QL80_.jpg",
+    "duration": "52min",
+    "highestRank": 1,
+    "top10Days": 203,
+    "top100Days": 1916,
+    "top1000Days": 2813,
+    "watchOptions": [
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "28k",
+    "dislikes": "2.8k",
+    "watchlistText": "List",
+    "seenText": "Seenall",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "81PyH5TH-NQ",
+    "type" : "series",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 10,
+        "posterImage": "https://www.justwatch.com/images/poster/245230736/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 13,
+        "posterImage": "https://www.justwatch.com/images/poster/54958153/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 13,
+        "posterImage": "https://www.justwatch.com/images/poster/127484949/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes": 10,
+        "posterImage": "https://www.justwatch.com/images/poster/244464454/s166/season-4.webp"
+      },
+
+      {
+        "seasonNumber": 5,
+        "episodes": 10,
+        "posterImage": "https://www.justwatch.com/images/poster/300630020/s166/season-5.webp"
+      },
+
+    ],
+    "genre": ["Drama", "Science-Fiction", "Mystery & Thriller"] 
+  },
 
  
 
