@@ -1379,7 +1379,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "CCL_zth2mms"
+    "videoId": "CCL_zth2mms",
+    "type" : "tollywood",
+    "genre" : ["Drama", "Action & Adventure"]
   },
   
   
@@ -1408,7 +1410,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "qLGZbo_YjqE"
+    "videoId": "qLGZbo_YjqE",
+    "type" : "tollywood",
+    "genre" : ["Mystery & Thrilller", "Action & Adventure", "Comedy", "Crime", "Drama"]
   },
 
 
@@ -1436,7 +1440,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "K-EMszLvRIQ"
+    "videoId": "K-EMszLvRIQ",
+    "type" : "tollywood",
+    "genre" : ["Crime", "Mystery & Thriller", "Action & Adventure"]
   },
 
   
@@ -1459,7 +1465,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "Xg0vBOxV2to"
+    "videoId": "Xg0vBOxV2to",
+     "type" : "bollywood",
+    "genre" : ["Drama", "Mystery & Thriller", "Action & Adventure"]
   },
 
 
@@ -1490,7 +1498,9 @@ let movies = [
     "watchlistText": "List",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "0DAmWHxeoKw"
+    "videoId": "0DAmWHxeoKw",
+    "type" : "series",
+    
   },
 
   
