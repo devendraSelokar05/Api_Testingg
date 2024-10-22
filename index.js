@@ -1500,7 +1500,33 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "0DAmWHxeoKw",
     "type" : "series",
+         "seasons": [ // Add season details here
+          {
+            "seasonNumber": 1,
+            "episodes": 10,
+            "posterImage": "https://www.justwatch.com/images/poster/286498756/s166/season-1.webp"
+          },
     
+          {
+            "seasonNumber": 2,
+            "episodes": 10,
+            "posterImage": "https://www.justwatch.com/images/poster/192088275/s166/season-2.webp"
+          },
+    
+          {
+            "seasonNumber": 3,
+            "episodes": 10,
+            "posterImage": "https://www.justwatch.com/images/poster/286383023/s166/season-3.webp"
+          },
+    
+          {
+            "seasonNumber": 4,
+            "episodes": 10,
+            "posterImage": "https://www.justwatch.com/images/poster/319805788/s166/season-4.webp"
+          },
+        ],
+        "genre": ["Drama", "Comedy", "Fantasy", "Science-Fiction", "Action & adventure"]
+
   },
 
   
@@ -1527,7 +1553,10 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "Ts0N8swyWFI"
+    "videoId": "Ts0N8swyWFI",
+    "type" : "hollywood",
+    "genres": ["Action & Adventure", "Drama"],
+
   },
 
 
@@ -1552,7 +1581,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "v-94Snw-H4o"
+    "videoId": "v-94Snw-H4o",
+    "type" : "hollywood",
+    "genres": ["Action & Adventure", "Fantasy", "Science-Fiction", "Crime", "Drama"]
   },
 
   {
@@ -1580,7 +1611,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "V75dMMIW2B4"
+    "videoId": "V75dMMIW2B4",
+     "type" : "hollywood",
+    "genres": ["Action & Adventure", "Fantasy", "Drama"]
   },
 
   {
@@ -1608,66 +1641,16 @@ let movies = [
     "watchlistText": "List",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "HkZYbOH0ujw"
+    "videoId": "HkZYbOH0ujw",
+    "type" : "hollywood",
+    "genres": ["Horror", "Mystery & Thriller"]
   },
+
+
+
 
   {
     "id":51,
-    "title": "Ridley",
-    "year": 2022,
-    "rank":430,
-    "rankChange": "▲ -21",
-    "rating": 43,
-    "imdbRating": 4.2,
-    "imdbVotes": "293k",
-    "backdropImage": "https://images.justwatch.com/backdrop/300670843/s1440/ridley.webp/ridley.webp",
-    "posterImage": "https://m.media-amazon.com/images/M/MV5BM2NhYWY1ODgtYjU3Ny00ZWIzLTg3NTctMzBhOWIzZGY0YzVkXkEyXkFqcGc@._V1_.jpg",
-    "duration": "  1h 12min",
-    "highestRank": 2,
-    "top10Days": 14,
-    "top100Days":132,
-    "top1000Days": 183,
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ],
-    "likes": "129",
-    "dislikes": "47",
-    "watchlistText": "Watchlist",
-    "seenText": "Seen",
-    "syncText": "Sign in to Sync Watchlist",
-    "videoId": "r97L5PpKk9E"
-  },
-  {
-    "id":52,
-    "title": "Gremlins: Secrets of the Mogwai ",
-    "year": 2023,
-    "rank":130,
-    "rankChange": "▲ +20",
-    "rating": 47,
-    "imdbRating": 7.0,
-    "imdbVotes": "293k",
-    "backdropImage": "https://images.justwatch.com/backdrop/306854096/s1440/gremlins-secrets-of-the-mogwai.webp/gremlins-secrets-of-the-mogwai.webp",
-    "posterImage": "https://images.justwatch.com/poster/318611992/s718/gremlins-secrets-of-the-mogwai.jpg",
-    "duration": "  23min",
-    "highestRank": 1,
-    "top10Days": 14,
-    "top100Days":12,
-    "top1000Days": 183,
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ],
-    "likes": "129",
-    "dislikes": "47",
-    "watchlistText": "Watchlist",
-    "seenText": "Seen",
-    "syncText": "Sign in to Sync Watchlist",
-    "videoId": "rCJ8NjUnSk4"
-  },
-
-  {
-    "id":53,
     "title": "Spin the Bottle",
     "year": 2024,
     "rank":130,
@@ -1691,11 +1674,13 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "KkSk2xG82Zs"
+    "videoId": "KkSk2xG82Zs",
+    "type" : "hollywood",
+    "genres": ["Horror"]
   },
 
   {
-    "id":54,
+    "id":52,
     "title": "Small Things Like These",
     "year": 2024,
     "rank":13,
@@ -1719,11 +1704,13 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "Nqwn5Y_Y4xs"
+    "videoId": "Nqwn5Y_Y4xs",
+    "type" : "hollywood",
+    "genres": ["History"]
   },
 
   {
-    "id":55,
+    "id":53,
     "title": "Brothers",
     "year": 2024,
     "rank":23,
@@ -1747,11 +1734,13 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "QuRSCU0tOKs"
+    "videoId": "QuRSCU0tOKs",
+    "type" : "bollywood",
+    "genres": ["Drama", "Sports", "Action & Adventure"]
   },
 
   {
-    "id":56,
+    "id":54,
     "title": "The Fire Inside",
     "year": 2024,
     "rank":46,
@@ -1775,39 +1764,13 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "Z4EthHjPg-A"
+    "videoId": "Z4EthHjPg-A",
+    "type" : "hollywood",
+    "genres": ["Drama", "Sports", "comedy"]
   },
 
   {
-    "id":57,
-    "title": "Where's Wanda?",
-    "year": 2024,
-    "rank":46,
-    "rankChange": "▲ +10",
-    "rating": 47,
-    "imdbRating": 6.5,
-    "imdbVotes": "46k",
-    "backdropImage": "https://images.justwatch.com/backdrop/320609232/s1440/wheres-wanda.webp/wheres-wanda.webp",
-    "posterImage": "https://cdn.cinematerial.com/p/297x/loqnf0a5/wheres-wanda-movie-poster-md.jpg?v=1726155943",
-    "duration": "  1h 49min",
-    "highestRank": 1,
-    "top10Days": 14,
-    "top100Days":17,
-    "top1000Days": 38,
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ],
-    "likes": "129",
-    "dislikes": "47",
-    "watchlistText": "Watchlist",
-    "seenText": "Seen",
-    "syncText": "Sign in to Sync Watchlist",
-    "videoId": "csKOquHUGiE"
-  },
-
-  {
-    "id":58,
+    "id":55,
     "title": "Salem's Lot ",
     "year": 2024,
     "rank":26,
@@ -1831,13 +1794,13 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "QtVzKkv03ic"
+    "videoId": "QtVzKkv03ic",
+    "type" : "hollywood",
+    "genres": ["Horror","Mystery & Thriller"]
   },
 
- 
-
   {
-    "id":59,
+    "id":56,
     "title": "Howl's Moving Castle",
     "year": 2004,
     "rank":3480,
@@ -1861,11 +1824,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "iwROgK94zcM"
+    "videoId": "iwROgK94zcM",
+    "type" : "anime",
+    "genres": ["Animation","Fantasy","Action & Adventure", "Music & Musical", "Kids & Family"]
+
   },
  
   {
-    "id":60,
+    "id":57,
     "title": "Saripodhaa Sanivaaram",
     "year": 2024,
     "rank":4,
@@ -1889,11 +1855,13 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "dkx07ZvjKE4"
+    "videoId": "dkx07ZvjKE4",
+    "type" : "tollywood",
+    "genres": ["Action & Adventure","Mystery & Thriller", "Drama"]
   },
 
   {
-    "id":61,
+    "id":58,
     "title": "The Greatest of All Time",
     "year": 2024,
     "rank":1,
@@ -1917,11 +1885,13 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "tb37SwBvRoQ"
+    "videoId": "tb37SwBvRoQ",
+     "type" : "tollywood",
+    "genres": ["Action & Adventure","Mystery & Thriller", "Drama"]
   },
   
   {
-    "id":62,
+    "id":59,
     "title": "GHOSTBUSTERS",
     "year": 2016,
     "rank":149,
@@ -1945,11 +1915,13 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "HpOBXh02rVc"
+    "videoId": "HpOBXh02rVc",
+     "type" : "hollywood",
+    "genres": ["Action & Adventure","Science-fiction", "Fantasy", "Comedy"]
   },
 
   {
-    "id":63,
+    "id":60,
     "title": "Double Ismart",
     "year": 2024,
     "rank":39,
@@ -1973,10 +1945,13 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "OOhbzK-BBnc"
+    "videoId": "OOhbzK-BBnc",
+     "type" : "tollywood",
+    "genres": ["Action & Adventure","Mystery & Thriller", "Drama"]
   },
+
   {
-    "id":64,
+    "id":61,
     "title": "Salaar",
     "year": 2023,
     "rank":21,
@@ -1995,17 +1970,77 @@ let movies = [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
     ],
+    "likes": "2.1k",
+    "dislikes": "175",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "HihakYi5M2I",
+     "type" : "tollywood",
+    "genres": ["Action & Adventure","Mystery & Thriller", "Drama", "Crime"]
+  },
+
+  {
+    "id":62,
+    "title": "KGF:Chapter1",
+    "year": 2018,
+    "rank":21,
+    "rankChange": "▲ +947",
+    "rating": 92,
+    "imdbRating": 8.6,
+    "imdbVotes": "101k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/131930909/s1440/k-g-f-chapter-1.webp/k-g-f-chapter-1.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BODQzOTViOTYtMjU2MS00NDk3LWFjOGMtNGJlMDk2YzI3MDQ0XkEyXkFqcGc@._V1_.jpg",
+    "duration": "  2h 36min",
+    "highestRank": 1,
+    "top10Days": 166,
+    "top100Days":506,
+    "top1000Days": 2098,
+    "watchOptions": [
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "2.4k",
+    "dislikes": "175",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "KfsY-qwBS0",
+     "type" : "tollywood",
+    "genres": ["Action & Adventure","Mystery & Thriller", "Drama", "Crime"]
+  },
+
+    {
+    "id":63,
+    "title": "KGF:Chapter2",
+    "year": 2022,
+    "rank":77,
+    "rankChange": "▲ +30",
+    "rating": 98,
+    "imdbRating": 8.3,
+    "imdbVotes": "158k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/259100241/s1440/k-g-f-chapter-2.webp/k-g-f-chapter-2.webp",
+    "posterImage": "https://resizing.flixster.com/qO53dQK8Q2ED_EgNuRKtKGQPODs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEwYTllYmMyLTE5N2EtNDVmYy1iZWUzLWI3NTAwZDEwZGQ2Yi53ZWJw",
+    "duration": "  2h 46min",
+    "highestRank": 1,
+    "top10Days": 179,
+    "top100Days":3490,
+    "top1000Days": 5011,
+    "watchOptions": [
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
     "likes": "371",
     "dislikes": "175",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "HihakYi5M2I"
+    "videoId": "JKa05nyUmuQ",
+     "type" : "tollywood",
+    "genres": ["Action & Adventure","Mystery & Thriller", "Drama", "Crime"]
   },
 
   {
  
-    "id":65,
+    "id":63,
     "title": "Aavesham",
     "year": 2024,
     "rank":43,
@@ -2029,7 +2064,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "UttccYQXpTM"
+    "videoId": "UttccYQXpTM",
+     "type" : "tollywood",
+    "genres": ["Action & Adventure", "Comedy"]
   },
   {
 
