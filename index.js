@@ -1555,7 +1555,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Ts0N8swyWFI",
     "type" : "hollywood",
-    "genres": ["Action & Adventure", "Drama"],
+    "genre": ["Action & Adventure", "Drama"],
 
   },
 
@@ -1583,7 +1583,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "v-94Snw-H4o",
     "type" : "hollywood",
-    "genres": ["Action & Adventure", "Fantasy", "Science-Fiction", "Crime", "Drama"]
+    "genre": ["Action & Adventure", "Fantasy", "Science-Fiction", "Crime", "Drama"]
   },
 
   {
@@ -1613,7 +1613,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "V75dMMIW2B4",
      "type" : "hollywood",
-    "genres": ["Action & Adventure", "Fantasy", "Drama"]
+    "genre": ["Action & Adventure", "Fantasy", "Drama"]
   },
 
   {
@@ -1643,7 +1643,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "HkZYbOH0ujw",
     "type" : "hollywood",
-    "genres": ["Horror", "Mystery & Thriller"]
+    "genre": ["Horror", "Mystery & Thriller"]
   },
 
 
@@ -1676,7 +1676,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "KkSk2xG82Zs",
     "type" : "hollywood",
-    "genres": ["Horror"]
+    "genre": ["Horror"]
   },
 
   {
@@ -1706,7 +1706,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Nqwn5Y_Y4xs",
     "type" : "hollywood",
-    "genres": ["History"]
+    "genre": ["History"]
   },
 
   {
@@ -1736,7 +1736,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "QuRSCU0tOKs",
     "type" : "bollywood",
-    "genres": ["Drama", "Sports", "Action & Adventure"]
+    "genre": ["Drama", "Sports", "Action & Adventure"]
   },
 
   {
@@ -1766,7 +1766,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Z4EthHjPg-A",
     "type" : "hollywood",
-    "genres": ["Drama", "Sports", "comedy"]
+    "genre": ["Drama", "Sports", "comedy"]
   },
 
   {
@@ -1796,7 +1796,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "QtVzKkv03ic",
     "type" : "hollywood",
-    "genres": ["Horror","Mystery & Thriller"]
+    "genre": ["Horror","Mystery & Thriller"]
   },
 
   {
@@ -1826,7 +1826,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "iwROgK94zcM",
     "type" : "anime",
-    "genres": ["Animation","Fantasy","Action & Adventure", "Music & Musical", "Kids & Family"]
+    "genre": ["Animation","Fantasy","Action & Adventure", "Music & Musical", "Kids & Family"]
 
   },
  
@@ -1857,7 +1857,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "dkx07ZvjKE4",
     "type" : "tollywood",
-    "genres": ["Action & Adventure","Mystery & Thriller", "Drama"]
+    "genr": ["Action & Adventure","Mystery & Thriller", "Drama"]
   },
 
   {
@@ -1887,7 +1887,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "tb37SwBvRoQ",
      "type" : "tollywood",
-    "genres": ["Action & Adventure","Mystery & Thriller", "Drama"]
+    "genre": ["Action & Adventure","Mystery & Thriller", "Drama"]
   },
   
   {
@@ -1917,7 +1917,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "HpOBXh02rVc",
      "type" : "hollywood",
-    "genres": ["Action & Adventure","Science-fiction", "Fantasy", "Comedy"]
+    "genre": ["Action & Adventure","Science-fiction", "Fantasy", "Comedy"]
   },
 
   {
@@ -1947,7 +1947,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "OOhbzK-BBnc",
      "type" : "tollywood",
-    "genres": ["Action & Adventure","Mystery & Thriller", "Drama"]
+    "genre": ["Action & Adventure","Mystery & Thriller", "Drama"]
   },
 
   {
@@ -1977,7 +1977,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "HihakYi5M2I",
      "type" : "tollywood",
-    "genres": ["Action & Adventure","Mystery & Thriller", "Drama", "Crime"]
+    "genre": ["Action & Adventure","Mystery & Thriller", "Drama", "Crime"]
   },
 
   {
@@ -2005,8 +2005,8 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "KfsY-qwBS0",
-     "type" : "tollywood",
-    "genres": ["Action & Adventure","Mystery & Thriller", "Drama", "Crime"]
+    "type" : "tollywood",
+    "genre": ["Action & Adventure","Mystery & Thriller", "Drama", "Crime"]
   },
 
     {
@@ -2034,13 +2034,13 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "JKa05nyUmuQ",
-     "type" : "tollywood",
-    "genres": ["Action & Adventure","Mystery & Thriller", "Drama", "Crime"]
+    "type" : "tollywood",
+    "genre": ["Action & Adventure","Mystery & Thriller", "Drama", "Crime"]
   },
 
   {
  
-    "id":63,
+    "id":64,
     "title": "Aavesham",
     "year": 2024,
     "rank":43,
@@ -2066,11 +2066,11 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "UttccYQXpTM",
      "type" : "tollywood",
-    "genres": ["Action & Adventure", "Comedy"]
+    "genre": ["Action & Adventure", "Comedy"]
   },
   {
 
-    "id":66,
+    "id":65,
     "title": "Bhediya",
     "year": 2022,
     "rank":64,
@@ -2094,12 +2094,15 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "d_BPlvbw_ok"
+    "videoId": "d_BPlvbw_ok",
+    "type" : "bollywood",
+    "genre": ["Horror", "Mystery & Thriller", "Comedy"]
+
   },
 
   {
  
-    "id":67,
+    "id":66,
     "title": "Ulajh",
     "year": 2024,
     "rank":8,
@@ -2123,12 +2126,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "Tk1EQD7vGiY"
+    "videoId": "Tk1EQD7vGiY",
+    "type" : "bollywood",
+    "genre": ["Drama", "Mystery & Thriller"]
   },
 
   {
 
-    "id":68,
+    "id":67,
     "title": "Rathnam",
     "year": 2024,
     "rank":30,
@@ -2152,13 +2157,15 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "eeZAC976hjw"
+    "videoId": "eeZAC976hjw",
+    "type" : "tollywood",
+    "genre": ["Romance", "Action & Adventure"]
   },
 
   
   {
 
-    "id":69,
+    "id":68,
     "title": "Tholi Prema",
     "year": 2018,
     "rank":3365,
@@ -2182,12 +2189,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "nS9ZM4R1DJw"
+    "videoId": "nS9ZM4R1DJw",
+    "type" : "tollywood",
+    "genre": ["Romantic"]
   },
 
   {
 
-    "id":70,
+    "id":69,
     "title": "A Aa",
     "year": 2016,
     "rank":3333,
@@ -2211,12 +2220,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "SU7h7Nan_4o"
+    "videoId": "SU7h7Nan_4o",
+    "type" : "tollywood",
+    "genre": ["Romance", "Drama", "Kids & Family", "Comedy"]
   },
 
   {
  
-    "id":71,
+    "id":70,
     "title": "Manjummel Boys",
     "year": 2024,
     "rank":460,
@@ -2240,11 +2251,13 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "rqBuKT_8dMY"
+    "videoId": "rqBuKT_8dMY",
+    "type" : "tollywood",
+    "genre": ["Drama", "Mystery & Thriller", "Action & Adventure"]
   },
   {
 
-    "id":72,
+    "id":71,
     "title": "12th Fail",
     "year": 2023,
     "rank":83,
@@ -2268,12 +2281,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "WeMJo701mvQ"
+    "videoId": "WeMJo701mvQ",
+    "type" : "bollywood",
+    "genre": ["Drama"]
   },
 
   {
  
-    "id":73,
+    "id":72,
     "title": "Bhimaa",
     "year": 2024,
     "rank":235,
@@ -2299,9 +2314,10 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "P3t--CmbibE"
   },
+
   {
 
-    "id":74,
+    "id":73,
     "title": "Pushpa: The Rise",
     "year": 2021,
     "rank":1397,
@@ -2325,11 +2341,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "pKctjlxbFDQ"
+    "videoId": "pKctjlxbFDQ",
+    "type" : "tollywood",
+    "genre": ["Action & Adventure", "Drama", "Mystery & Thriller", "Crime"]
   },
+
   {
 
-    "id":75,
+    "id":74,
     "title": "The Family Star",
     "year": 2024,
     "rank":1123,
@@ -2353,12 +2372,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "jWVbxd80oyc"
+    "videoId": "jWVbxd80oyc",
+    "type" : "bollywood",
+    "genre": ["Drama", "Romance", "action & Adventure", "Comedy"]
   },
 
   {
  
-    "id":76,
+    "id":75,
     "title": "Rockstar",
     "year": 2011,
     "rank":670,
@@ -2382,39 +2403,44 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "bD5FShPZdpw"
+    "videoId": "bD5FShPZdpw",
+    "type" : "bollywood",
+    "genre": ["Drama", "Music & Musical", "Romance"]
   },
-  {
 
-    "id":77,
-    "title": "The Fall Guy",
-    "year": 2024,
-    "rank":53,
-    "rankChange": "▲ +29",
-    "rating": 88,
-    "imdbRating": 6.9,
-    "imdbVotes": "158k",
-    "backdropImage": "https://images.justwatch.com/backdrop/312569653/s1440/the-fall-guy.webp/the-fall-guy.webp",
-    "posterImage": "https://image.tmdb.org/t/p/original/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
-    "duration": "2h 39min",
+    {
+ 
+    "id":76,
+    "title": "War",
+    "year": 2019,
+    "rank":856,
+    "rankChange": "▲ +477",
+    "rating": 70,
+    "imdbRating": 7.8,
+    "imdbVotes": "40k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/151180234/s1440/war-2019.webp/war-2019.webp",
+    "posterImage": "https://lh5.googleusercontent.com/proxy/lU778sl4j3OGp8BzgJV9oX32tIAsJDh-FoNhV_AzIcJhRTgROfY8XHrNcZw2o7sMDHvxU6kGNiDa0Fg-gxabYmdDWaut3SwuwEbpX-GQ9cGmw0BeqWIxF8SZwqqXEL5fack679AG306sz-B5dNc5Thhjy2lZhXm-R1Qs65Bw",
+    "duration": "2h 32min",
     "highestRank": 1,
-    "top10Days": 16,
-    "top100Days":146,
-    "top1000Days": 217,
+    "top10Days": 10,
+    "top100Days":159,
+    "top1000Days": 1424,
     "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Apple Tv+", "price": "Rs1500/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
     ],
-    "likes": "4.4k",
-    "dislikes": "578",
+    "likes": "481",
+    "dislikes": "61",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "M7lc1UVf-VE"
+    "videoId": "tQ0mzXRk",
+    "type" : "bollywood",
+    "genre": ["Mystery & Thriller", "Action & Adventure"]
   },
-  {
 
-    "id":78,
+  {
+    "id":77,
     "title": "Chandu Champion",
     "year": 2024,
     "rank":688,
@@ -2428,7 +2454,7 @@ let movies = [
     "highestRank": 2,
     "top10Days": 13,
     "top100Days":666,
-    "top1000Days": 113,
+    "top1000Days": 1130,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
@@ -2438,12 +2464,74 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "IHQQK_Wn5DM"
+    "videoId": "IHQQK_Wn5DM",
+    "type": "bollywood",
+    "genre": ["Sports", "War & Military", "Action & Adventure", "Drama", "History"]
   },
+
+    {
+    "id":78,
+    "title": "Chhichore",
+    "year": 2019,
+    "rank":754,
+    "rankChange": "▲ +600",
+    "rating": 93,
+    "imdbRating": 8.3,
+    "imdbVotes": "2m",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/306657607/s1440/chhichhore.webp/chhichhore.webp",
+    "posterImage": "https://i.scdn.co/image/ab67616d0000b273eaa6b4bfb5954ee5a5a8ce9e",
+    "duration": "2h 26min",
+    "highestRank": 2,
+    "top10Days": 1,
+    "top100Days":100,
+    "top1000Days": 1608,
+    "watchOptions": [
+      {"platform": "Hotstar", "price": "Rs200/-"}
+    ],
+    "likes": "9.6k",
+    "dislikes": "26",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "t56jPOpGFts",
+    "type": "bollywood",
+    "genre": ["Drama", "Romance", "Comedy"]
+  },
+  
+  {
+    "id":79,
+    "title": "Raees",
+    "year": 2017,
+    "rank":2007,
+    "rankChange": "▲ +1188",
+    "rating": 59,
+    "imdbRating": 6.6,
+    "imdbVotes": "51k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/240523726/s1440/raees.webp/raees.webp",
+    "posterImage": "https://i.pinimg.com/736x/22/ae/81/22ae8160991e1cb4d28b6b1b70579d5b.jpg",
+    "duration": "2h 23min",
+    "highestRank": 2,
+    "top10Days": 13,
+    "top100Days":666,
+    "top1000Days": 113,
+    "watchOptions": [
+      {"platform": "Amazon Prime Video", "price": "Rs200/-"},
+      {"platform": "Netflix", "price": "Rs500/-"},
+    ],
+    "likes": "9.6k",
+    "dislikes": "26",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "t56jPOpGFts",
+    "type": "bollywood",
+    "genre": ["Mystery & Thriller", "Action & Adventure", "Crime", "Drama"]
+  },
+
 
   {
  
-    "id":79,
+    "id":80,
     "title": "Joker",
     "year": 2019,
     "rank":25,
@@ -2467,11 +2555,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "a3B0bePcfl4"
+    "videoId": "a3B0bePcfl4",
+    "type": "hollywood",
+    "genre": ["Mystery & Thriller", "Crime", "Drama"]
   },
+
   {
 
-    "id":80,
+    "id":81,
     "title": "John Wick",
     "year": 2014,
     "rank":295,
@@ -2495,12 +2586,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "C0BMx-qxsP4"
+    "videoId": "C0BMx-qxsP4",
+    "type": "bollywood",
+    "genre": ["Mystery & Thriller", "Action & Adventure", "Crime"]
   },
   
   {
 
-    "id":81,
+    "id":82,
     "title": "777 Charlie",
     "year": 2022,
     "rank":108,
@@ -2524,12 +2617,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "lzr2PJXeHww"
+    "videoId": "lzr2PJXeHww",
+    "type": "tollywood",
+    "genre": ["Action & Adventure", "Comedy", "Drama"]
   },
 
   {
  
-    "id":82,
+    "id":83,
     "title": "Jailer",
     "year": 2023,
     "rank":4010,
@@ -2553,11 +2648,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId":"xenOE1Tma0A"
+    "videoId":"xenOE1Tma0A",
+    "type": "tollywood",
+    "genre": ["Mystery & Thriller", "Action & Adventure", "Crime", "Comedy"]
   },
+
   {
 
-    "id":83,
+    "id":84,
     "title": "Drishyam 2",
     "year": 2022,
     "rank":511,
@@ -2581,12 +2679,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "cxA2y9Tgl7o"
+    "videoId": "cxA2y9Tgl7o",
+    "type": "bollywood",
+    "genre": ["Mystery & Thriller", "Crime", "Drama"]
   },
 
   {
 
-    "id":84,
+    "id":85,
     "title": "Leo",
     "year": 2023,
     "rank":381,
@@ -2610,12 +2710,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "Po3jStA673E"
+    "videoId": "Po3jStA673E",
+    "type": "tollywood",
+    "genre": ["Mystery & Thriller", "Action & Adventure", "Crime", "Drama"]
   },
 
   {
  
-    "id":85,
+    "id":86,
     "title": "Kakuda",
     "year": 2024,
     "rank":290,
@@ -2639,21 +2741,23 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "5V8Z3h9oVMc"
+    "videoId": "5V8Z3h9oVMc",
+    "type": "bollywood",
+    "genre": ["Horror", "Comedy"]
   },
 
   {
 
-    "id":86,
-    "title": "Rudra: The Edge of Darkness",
-    "year": 2022,
+    "id":87,
+    "title": "Yeh Jawaani Hai Deewani",
+    "year": 2013,
     "rank":541,
     "rankChange": "▲ +87",
     "rating": 75,
     "imdbRating": 6.7,
     "imdbVotes": "8.9k",
-    "backdropImage": "https://images.justwatch.com/backdrop/266486963/s1440/rudra-the-edge-of-darkness.webp/rudra-the-edge-of-darkness.webp",
-    "posterImage": "https://m.media-amazon.com/images/M/MV5BZTU4MzUyMjctYTM4NC00Zjc5LThjZjctOTJhMGEwZGRlZGIzXkEyXkFqcGc@._V1_.jpg",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/176326026/s1440/yeh-jawaani-hai-deewani.webp/yeh-jawaani-hai-deewani.webp",
+    "posterImage": "https://i.pinimg.com/originals/34/5f/ec/345fecf5e269212d9a287508648ec173.jpg",
     "duration": "53min",
     "highestRank": 2,
     "top10Days": 17,
@@ -2668,12 +2772,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "FyuODiTjoFs"
+    "videoId": "Rbp2XUSeUNE",
+    "type": "bollywood",
+    "genre": ["Mystery & Thriller", "Crime", "Drama"]
   },
 
   {
 
-    "id":87,
+    "id":88,
     "title": "Teri Baaton Mein Aisa Uljha Jiya",
     "year": 2024,
     "rank":1243,
@@ -2697,40 +2803,46 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "w_N6d4ec79c"
+    "videoId": "w_N6d4ec79c",
+    "type": "bollywood",
+    "genre": ["Science-Fiction", "Comedy", "Romance", "Drama"]
   },
 
   {
  
-    "id":88,
-    "title": "Train to Busan",
-    "year": 2016,
-    "rank":409,
-    "rankChange": "▲ +213",
+    "id":89,
+    "title": "Kabir Singh",
+    "year": 2019,
+    "rank":459,
+    "rankChange": "▲ +1209",
     "rating": 95,
     "imdbRating": 7.6,
-    "imdbVotes": "269k",
-    "backdropImage": "https://images.justwatch.com/backdrop/8836855/s1440/train-to-busan.webp/train-to-busan.webp",
-    "posterImage": "https://picfiles.alphacoders.com/352/thumb-352183.jpg",
+    "imdbVotes": "130k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/134469354/s1440/kabir-singh.webp/kabir-singh.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BNjU5ZTljMDEtNzg5Ny00OTliLWI3NmYtOTE1ZDg3NTNkMDM0XkEyXkFqcGc@._V1_QL75_UX480_.jpg",
     "duration": "1h 58min",
     "highestRank": 1,
-    "top10Days": 12,
-    "top100Days":205,
-    "top1000Days": 2454,
+    "top10Days": 36,
+    "top100Days":247,
+    "top1000Days": 1591,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
+      {"platform": "Apple TV+", "price": "Rs1500/-"}
     ],
     "likes": "17k",
-    "dislikes": "878",
+    "dislikes": "100",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "1ovgxN2VWNc"
+    "videoId": "1ovgxN2VWNc",
+    "type": "bollywood",
+    "genre": ["Drama", "Comedy", "Romance", "Action & Adventure"]
+   
   },
+
   {
 
-    "id":89,
+    "id":90,
     "title": "Yodha",
     "year": 2024,
     "rank":1402,
