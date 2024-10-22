@@ -5023,59 +5023,6 @@ let movies = [
     "genre": ["Drama", "Comedy"] 
   },
 
-  {
-    "id":139,
-    "title": "Succession",
-    "year": 2018,
-    "rank": 177,
-    "rankChange": "▲ +59",
-    "rating": 93,
-    "imdbRating": 8.8,
-    "imdbVotes": "292k",
-    "backdropImage": "https://www.justwatch.com/images/backdrop/304409202/s1440/succession.webp/succession.webp",
-    "posterImage": "https://posterwa.com/cdn/shop/files/SUCCESSION2_f5dd1267-2717-4efe-945b-888af4b3e255.jpg?v=1714543461",
-    "duration": "1h 4min",
-    "highestRank": 1,
-    "top10Days": 115,
-    "top100Days": 1024,
-    "top1000Days": 2327,
-    "watchOptions": [
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ],
-    "likes": "32k",
-    "dislikes": "2.2k",
-    "watchlistText": "List",
-    "seenText": "Seenall",
-    "syncText": "Sign in to Sync Watchlist",
-    "videoId": "ZO-XX1UpsqY",
-    "type" : "series",
-    "seasons": [ // Add season details here
-      {
-        "seasonNumber": 1,
-        "episodes": 10,
-        "posterImage": "https://www.justwatch.com/images/poster/139313185/s166/season-1.webp"
-      },
-
-      {
-        "seasonNumber": 2,
-        "episodes": 10,
-        "posterImage": "https://www.justwatch.com/images/poster/142946493/s166/season-2.webp"
-      },
-
-      {
-        "seasonNumber": 3,
-        "episodes": 9,
-        "posterImage": "https://www.justwatch.com/images/poster/256205397/s166/season-3.webp"
-      },
-
-      {
-        "seasonNumber": 4,
-        "episodes": 10,
-        "posterImage": "https://www.justwatch.com/images/poster/304268634/s166/season-4.webp"
-      },
-    ],
-    "genre": ["Drama", "Comedy"] 
-  },
 
  
 
