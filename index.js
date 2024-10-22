@@ -3702,7 +3702,7 @@ let movies = [
   "seenText": "Seen all",
   "syncText": "Sign in to sync Watch List",
   "videoId" : "VQGCKyvzIM4",
-  "type": "series",
+  "type": "animeseries",
   "seasons": [ // Add season details here
         {
           "seasonNumber": 1,
