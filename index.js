@@ -2373,7 +2373,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "jWVbxd80oyc",
-    "type" : "bollywood",
+    "type" : "tollywood",
     "genre": ["Drama", "Romance", "action & Adventure", "Comedy"]
   },
 
@@ -2587,7 +2587,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "C0BMx-qxsP4",
-    "type": "bollywood",
+    "type": "hollywood",
     "genre": ["Mystery & Thriller", "Action & Adventure", "Crime"]
   },
   
@@ -2774,7 +2774,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Rbp2XUSeUNE",
     "type": "bollywood",
-    "genre": ["Mystery & Thriller", "Crime", "Drama"]
+    "genre": ["Romance", "Comedy", "Drama"]
   },
 
   {
@@ -2866,12 +2866,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "3AuB8RTfBJc"
+    "videoId": "3AuB8RTfBJc",
+    "type": "bollywood",
+    "genre": ["Action & Adventure", "Mystery & Thriller", "Drama"]
   },
 
   {
 
-    "id":90,
+    "id":91,
     "title": "Shaitaan",
     "year": 2024,
     "rank":522,
@@ -2895,12 +2897,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "jLshY-zUfZ4"
+    "videoId": "jLshY-zUfZ4",
+    "type": "bollywood",
+    "genre": ["Mystery & Thriller", "Horror", "Drama"]
   },
   
   {
 
-    "id":91,
+    "id":92,
     "title": "Bhool Bhulaiyaa 2",
     "year": 2022,
     "rank":407,
@@ -2924,13 +2928,15 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "P2KRKxAb2ek"
+    "videoId": "P2KRKxAb2ek",
+    "type": "bollywood",
+    "genre": ["Horro", "Comedy"]
   },
  
   
   {
 
-    "id":92,
+    "id":93,
     "title": "The Kerala Story",
     "year":2023,
     "rank":702,
@@ -2954,12 +2960,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-     "videoId": "hM12KxC3ONA"
+     "videoId": "hM12KxC3ONA",
+     "type": "bollywood",
+    "genre": ["Drama"]
   },
   
   {
 
-    "id":93,
+    "id":94,
     "title": "Shershaah",
     "year":2021,
     "rank":421,
@@ -2983,13 +2991,15 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "Q0FTXnefVBA"
+    "videoId": "Q0FTXnefVBA",
+    "type": "bollywood",
+    "genre": ["War & Miltary", "Action & Adventure", "Mystery & Thriller", "Drama"]
   },
 
   
   {
 
-    "id":94,
+    "id":95,
     "title": "M.S. DHONI: THE UNTOLD STORY",
     "year":2016,
     "rank":861,
@@ -3013,12 +3023,14 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "6L6XqWoS8tw"
+    "videoId": "6L6XqWoS8tw",
+    "type": "bollywood",
+    "genre": ["Drama", "Sport"]
   },
 
   {
 
-    "id":95,
+    "id":96,
     "title": "Tu Jhoothi Mai Makkar",
     "year":2023 ,
     "rank":1399,
@@ -3042,11 +3054,13 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "JzGGF4JPFIQ"
+    "videoId": "JzGGF4JPFIQ",
+    "type": "bollywood",
+    "genre": ["Comedy", "Romance", "Kids & Family"]
   },
 
   {
-    "id": 96,
+    "id": 97,
     "title": "MUNJYA",
     "year": 2024,
     "rank": 15,
@@ -3070,12 +3084,14 @@ let movies = [
     "watchlistText": "WatchList",
     "seenText": "Seen",
     "syncText": "Sign in to sync Watch List",
-    "videoId" : "qGb5aKEYR8Q"
+    "videoId" : "qGb5aKEYR8Q",
+    "type": "bollywood",
+    "genre": ["Comedy", "Horror"]
   },
 
   
   {
-    "id": 97,
+    "id": 98,
     "title": "ANIMAL",
     "year": 2023,
     "rank": 192,
@@ -3099,11 +3115,13 @@ let movies = [
     "watchlistText": "Lists",
     "seenText": "Seen all",
     "syncText": "Sign in to sync Watch List", 
-    "videoId" : "Dydmpfo68DA"
+    "videoId" : "Dydmpfo68DA",
+    "type": "bollywood",
+    "genre": ["Action & Adventure", "Crime", "Mystery & Thriller", "Drama"]
   },
 
   {
-    "id": 98,
+    "id": 99,
     "title": "SANAM TERI KASAM",
     "year": 2016,
     "rank": 214,
@@ -3127,12 +3145,14 @@ let movies = [
     "watchlistText": "Watchlists",
     "seenText": "Seen",
     "syncText": "Sign in to sync Watch List", 
-    "videoId" : "v1Zajpp0aEY"
+    "videoId" : "v1Zajpp0aEY",
+    "type": "bollywood",
+    "genre": ["Drama", "Romance"]
   },
 
 
   {
-    "id": 99,
+    "id": 100,
     "title": "LAILA MAJNU",
     "year": 2018,
     "rank": 12,
@@ -3156,11 +3176,13 @@ let movies = [
     "watchlistText": "Watchlists",
     "seenText": "Seen",
     "syncText": "Sign in to sync Watch List", 
-    "videoId" : "Cv-6cAHanZ8"
+    "videoId" : "Cv-6cAHanZ8",
+    "type": "bollywood",
+    "genre": ["Drama", "Romance"]
   },
 
   {
-    "id": 100,
+    "id": 101,
     "title": "STRANGER THINGS",
     "year": 2016,
     "rank": 82,
@@ -3210,11 +3232,12 @@ let movies = [
             "episodes": 9,
             "posterImage": "https://www.justwatch.com/images/poster/264470916/s166/season-4.webp"
           },
-        ]
+        ],
+        "genres": ["Drama", "Horror", "Science Fiction", "Action & Adventure", "Fantasy"]
 },
 
 {
-  "id": 101,
+  "id": 102,
   "title": "JUJUTSU KAISEN",
   "year": 2020,
   "rank": 175,
@@ -3239,7 +3262,7 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List",  
   "videoId" : "Pm-wNmS9RGI",
-  "type" : "series",
+  "type" : "anime",
   "seasons": [ // Add season details here
     {
       "seasonNumber": 1,
@@ -3258,13 +3281,14 @@ let movies = [
       "episodes": 1,
       "posterImage": "https://www.justwatch.com/images/poster/320955231/s166/season-3.webp"
     },
-  ]
+  ],
+  "genres": ["Action & Adventure", "Animation", "Fantasy", "Mystery & Thriller", "Science-Fiction"]
 },
 
 
 
 {
-  "id": 102,
+  "id": 103,
   "title": "WEDNESDAY",
   "year": 2022,
   "rank": 172,
@@ -3302,11 +3326,12 @@ let movies = [
       "episodes": 3,
       "posterImage": "https://www.justwatch.com/images/poster/300790715/s166/season-1.webp"
     },
-  ]
+  ],
+  "genres": ["Comedy", "Horror", "Mystery & Thriller", "Crime", "Fantasy"]
 },
 
 {
-  "id": 103,
+  "id": 104,
   "title": "MY FAULT",
   "year": 2023,
   "rank": 579,
@@ -3330,11 +3355,44 @@ let movies = [
   "watchlistText": "Lists",
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
-  "videoId" : "e7lvpm13ZN0"
+  "videoId" : "e7lvpm13ZN0",
+  "type": "hollywood",
+  "genre": ["Romance", "Drama"]
 },
 
 {
-  "id": 104,
+  "id": 105,
+  "title": "Your FAULT",
+  "year": 2024,
+  "rank": 579,
+  "rankChange": "▲ +453",
+  "rating": 82,
+  "imdbrating": 6.2,
+  "imdbVotes": "28K",
+  "backdropImage": "https://www.justwatch.com/images/backdrop/313236012/s1440/your-fault.webp/your-fault.webp",
+  "posterImage": "https://assets.gadgets360cdn.com/pricee/assets/product/202308/Your-Fault_1691060840.jpg",
+  "duration": "1h 57min",
+  "highestRank": 3,
+  "top10Days": 17,
+  "top100Days": 82,
+  "top1000Days": 484,
+  "watchOptions": [
+{"platform": "Netflix", "price": "Rs200/-"},
+{"platform": "Amazon Prime", "price": "Rs500/-"}
+],
+  "likes": "30k",
+  "dislikes": "536",
+  "watchlistText": "Lists",
+  "seenText": "Seen",
+  "syncText": "Sign in to sync Watch List", 
+  "videoId" : "Wp4S0-fWgI0",
+  "type": "hollywood",
+  "genre": ["Romance", "Drama"]
+},
+
+
+{
+  "id": 106,
   "title": "YOUR NAME",
   "year": 2016,
   "rank": 596,
@@ -3358,11 +3416,14 @@ let movies = [
   "watchlistText": "Lists",
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
-  "videoId" : "_oWzYOwXn-o"
+  "videoId" : "_oWzYOwXn-o",
+  "type": "anime",
+  "genre": ["Animation", "Romance", "Drama", "Fantasy"]
+
 },
 
 {
-  "id": 106,
+  "id": 107,
   "title": "SUZUME",
   "year": 2022,
   "rank": 82,
@@ -3387,10 +3448,12 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "ciQc8lfvSm0",
+  "type": "anime",
+  "genre": ["Animation", "Romance", "Drama", "Fantasy", "Action & Adventure"]
 },
 
 {
-  "id": 107,
+  "id": 108,
   "title": "MONEY HEIST",
   "year": 2017,
   "rank": 40,
@@ -3446,11 +3509,12 @@ let movies = [
           "episodes": 10,
           "posterImage": "https://www.justwatch.com/images/poster/281044992/s166/season-5.webp"
         },
-      ]
+      ],
+      "genres": ["Action & Adventure", "Crime", "Drama", "Mystery & Thriller"],
 },
 
 {
-  "id": 108,
+  "id": 109,
   "title": "TUMBBAD",
   "year": 2018,
   "rank": 73,
@@ -3475,36 +3539,12 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List",
   "videoId" : "YGIcZrUBY0k",
+  "type": "bollywood",
+  "genre": ["Fantasy", "Horror", "Drama", "Mystery & Thriller"]
 },
 
 
-{
-  "id": 109,
-  "title": "PUT YOUR HEAD ON MY SHOULDER",
-  "year": 2019,
-  "rank": 1411,
-  "rankChange": "▲ +820",
-  "rating": 53,
-  "imdbRating": 8.0,
-  "imdbVotes": "3.4k",
-  "backdropImage": "https://images.justwatch.com/backdrop/150332384/s1440/put-your-head-on-my-shoulder.webp/put-your-head-on-my-shoulder.webp",
-  "posterImage": "https://image.tmdb.org/t/p/original/zVYvodC12ZHGVPHX8LJjZHDERmK.jpg",
-  "duration": "41min",
-  "highestRank": 51,
-  "top10Days":  10,
-  "top100Days": 50,
-  "top1000Days": 239,
-  "watchOptions": [
-{"platform": "Netflix", "price": "Rs200/-"},
-{"platform": "Amazon Prime", "price": "Rs500/-"}
-],
-  "likes": "5k",
-  "dislikes": "34",
-  "watchlistText": "Lists",
-  "seenText": "Seen",
-  "syncText": "Sign in to sync Watch List", 
-  "videoId" : "HMLeGMSeJVM"
-},
+
 
 {
   "id": 110,
@@ -3531,41 +3571,17 @@ let movies = [
   "watchlistText": "Lists",
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
-  "videoId" : "LV-nazLVmgo"
+  "videoId" : "LV-nazLVmgo",
+  "type": "anime",
+  "genre": ["Action & Adventure", "Fantasy", "Drama", "Fantasy", "Science-Fiction"]
 },
+
+
+
 
 
 {
   "id": 111,
-  "title": "LOVE IS SWEET",
-  "year": 2020,
-  "rank": 82,
-  "rankChange": "▲ +67",
-  "rating": 68,
-  "imdbRating": 8.7,
-  "imdbVotes": "18k",
-  "backdropImage": "https://images.justwatch.com/backdrop/305955903/s1440/love-is-sweet.webp/love-is-sweet.webp",
-  "posterImage": "https://m.media-amazon.com/images/M/MV5BYWZiZTQ0ZTMtOTJhNC00NzIzLTlmNjgtZmRmZDc4NTVmNjlmXkEyXkFqcGc@._V1_.jpg",
-  "duration": "44min",
-  "highestRank": 3,
-  "top10Days": 15,
-  "top100Days": 152,
-  "top1000Days": 1025,
-  "watchOptions": [
-{"platform": "Netflix", "price": "Rs200/-"},
-{"platform": "Amazon Prime", "price": "Rs500/-"}
-],
-  "likes": "10k",
-  "dislikes": "1.1k",
-  "watchlistText": "Lists",
-  "seenText": "Seen",
-  "syncText": "Sign in to sync Watch List",
-  "videoId" : "44SPxWJ9Rno" 
-},
-
-
-{
-  "id": 112,
   "title": "THE CONJURING 2",
   "year": 2016,
   "rank": 990.,
@@ -3589,12 +3605,14 @@ let movies = [
   "watchlistText": "WatchList",
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
-  "videoId" : "VFsmuRPClr4"
+  "videoId" : "VFsmuRPClr4",
+  "type" : "hollywood",
+  "genre": ["Horror", "Mystery & Thriller"]
 },
 
 
 {
-  "id": 113,
+  "id": 112,
   "title": "THE KISSING BOOTH 3",
   "year": 2018,
   "rank": 3023.,
@@ -3619,38 +3637,14 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List",
   "videoId" : "5fKn0Dhj64w",
+  "type" : "hollywood",
+  "genre": ["Comedy", "Romance"]
 },
 
-{
-  "id": 114,
-  "title": "MY GIRLFRIEND IS AN ALIEN",
-  "year": 2019,
-  "rank": 12,
-  "rankChange": "▲ +45",
-  "rating": 76,
-  "imdbRating": 8.2,
-  "imdbVotes": "2.7k",
-  "backdropImage": "https://images.justwatch.com/backdrop/300784304/s1440/my-girlfriend-is-an-alien.webp/my-girlfriend-is-an-alien.webp",
-  "posterImage": "https://image.tmdb.org/t/p/original/sOtUZ34xeQiEZh6n0tC8vkaTNQF.jpg",
-  "duration": "44min",
-  "highestRank": 5,
-  "top10Days": 425,
-  "top100Days": 1451,
-  "top1000Days": 2524,
-  "watchOptions": [
-{"platform": "Netflix", "price": "Rs200/-"},
-{"platform": "Amazon Prime", "price": "Rs500/-"}
-],
-  "likes": "4k",
-  "dislikes": "35",
-  "watchlistText": "Lists",
-  "seenText": "Seen",
-  "syncText": "Sign in to sync Watch List", 
-  "videoId" : "m21MWq6wb9Y"
-},
+
 
 {
-  "id": 115,
+  "id": 113,
   "title": "Bad Newz",
   "year": 2024,
   "rank": 61,
@@ -3674,36 +3668,13 @@ let movies = [
   "watchlistText": "Lists",
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
-   "videoId" : "uV50UfcIT68"
+  "videoId" : "uV50UfcIT68",
+  "type" : "bollywood",
+  "genre": ["Romance", "Comedy", "Drama"]
+
+
 },
 
-{
-  "id": 116,
-  "title": "NO GAIN NO LOVE",
-  "year": 2024,
-  "rank": 24,
-  "rankChange": "▲ +12",
-  "rating": 53,
-  "imdbRating": 7.9,
-  "imdbVotes": "1.1k",
-  "backdropImage": "https://images.justwatch.com/backdrop/320106640/s1440/no-gain-no-love.webp/no-gain-no-love.webp",
-  "posterImage": "https://media-cache.cinematerial.com/p/500x/uhwn4hiw/no-gain-no-love-movie-poster.jpg?v=1725059323",
-  "duration": "1h 8min",
-  "highestRank": 12,
-  "top10Days": 0,
-  "top100Days": 27,
-  "top1000Days": 41,
-  "watchOptions": [
-{"platform": "Netflix", "price": "Rs200/-"},
-{"platform": "Amazon Prime", "price": "Rs500/-"}
-],
-  "likes": "520",
-  "dislikes": "45",
-  "watchlistText": "Lists",
-  "seenText": "Seen all",
-  "syncText": "Sign in to sync Watch List", 
-   "videoId" : "NL88DKtfrlY"
-},
 
 {
   "id": 117,
@@ -3762,7 +3733,8 @@ let movies = [
           "episodes": 8,
           "posterImage": "https://www.justwatch.com/images/poster/320272943/s166/season-5.webp"
         },
-      ]
+      ],
+      "genres": ["Action", "Adventure", "Drama"]
 
 },
 
@@ -5288,7 +5260,7 @@ app.get('/api/New-movies/:id', (req, res) => {
 });
 
 // Endpoint to add a new movie
-app.post('/api/movies', (req, res) => {
+app.post('/api/New-movies', (req, res) => {
   const newMovie = { ...req.body, id: movies.length + 1 }; // Simple ID generation
   movies.push(newMovie);
   res.status(201).json(newMovie);
