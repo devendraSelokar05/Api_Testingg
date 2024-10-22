@@ -1106,7 +1106,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId" : "ZlNFpri-Y40"
+    "videoId" : "ZlNFpri-Y40",
+    "type" : "hollywood",
+    "genre" : ["Science-Fiction", "Action & Adventure", "Comedy"]
   },
 
   {
@@ -1134,7 +1136,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "Go8nTmfrQd8"
+    "videoId": "Go8nTmfrQd8",
+    "type" : "hollywood",
+    "genre" : ["Science-Fiction", "Action & Adventure", "Fantasy", "Romance", "Comedy"]
   },
 
   
@@ -1163,7 +1167,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "TcMBFSGVi1c"
+    "videoId": "TcMBFSGVi1c",
+    "type" : "hollywood",
+    "genre" : ["Science-Fiction", "Action & Adventure", "Drama"]
   },
 
  
@@ -1192,7 +1198,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "-FmWuCgJmxo"
+    "videoId": "-FmWuCgJmxo",
+    "type" : "hollywood",
+    "genre" : ["Science-Fiction", "Action & Adventure", "Mystery & Thriller"]
   },
 
 
@@ -1221,7 +1229,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "Div0iP65aZo"
+    "videoId": "Div0iP65aZo",
+    "type" : "hollywood",
+    "genre" : ["Science-Fiction", "Action & Adventure", "Drama", "Mystery & Thriller"]
   },
 
   {
@@ -1249,7 +1259,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "-tnxzJ0SSOw"
+    "videoId": "-tnxzJ0SSOw",
+    "type" : "hollywood",
+    "genre" : ["Science-Fiction", "Action & Adventure"]
   },
   {
     "id":39,
@@ -1276,7 +1288,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "JfVOs4VSpmA"
+    "videoId": "JfVOs4VSpmA",
+    "type" : "hollywood",
+    "genre" : ["Science-Fiction", "Action & Adventure", "Fantasy"]
   },
   
    
@@ -1305,7 +1319,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "aWzlQ2N6qqg"
+    "videoId": "aWzlQ2N6qqg",
+    "type" : "hollywood",
+    "genre" : ["Science-Fiction", "Action & Adventure", "Fantasy"]
   },
   
   {
@@ -1333,7 +1349,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "pOEvuzEVh8g"
+    "videoId": "pOEvuzEVh8g",
+    "type" : "hollywood",
+    "genre" : ["Science-Fiction", "Action & Adventure", "Fantasy"]
   },
 
   {
