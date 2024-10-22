@@ -125,7 +125,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "1uRZ8CFExEY",
-    "type": "Hollywood",
+    "type": "hollywood",
     "seasons": [
       {
         "seasonNumber": 1,
@@ -616,7 +616,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "vidoId" : "tnKhlp6NaVs"
+    "vidoId" : "tnKhlp6NaVs",
+    "type" : "tollywood",
+    "genre" : ["Action & Adventure", "Fantasy", "History", "Drama"]
 
   },
 
@@ -5075,91 +5077,7 @@ let movies = [
     "genre": ["Drama", "Comedy"] 
   },
 
-  {
-    "id":141,
-    "title": "The Office",
-    "year": 2005,
-    "rank": 65,
-    "rankChange": "▲ +40",
-    "rating": 94,
-    "imdbRating": 9.0,
-    "imdbVotes": "741k",
-    "backdropImage": "https://www.justwatch.com/images/backdrop/304433230/s1440/the-office.webp/the-office.webp",
-    "posterImage": "https://m.media-amazon.com/images/I/91gZANzFVKL._AC_UF894,1000_QL80_.jpg",
-    "duration": "24min",
-    "highestRank": 1,
-    "top10Days": 20,
-    "top100Days": 2133,
-    "top1000Days": 3053,
-    "watchOptions": [
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ],
-    "likes": "37k",
-    "dislikes": "2.5k",
-    "watchlistText": "List",
-    "seenText": "Seenall",
-    "syncText": "Sign in to Sync Watchlist",
-    "videoId": "A7qOi8VyxG8",
-    "type" : "series",
-    "seasons": [ // Add season details here
-      {
-        "seasonNumber": 1,
-        "episodes": 6,
-        "posterImage": "https://www.justwatch.com/images/poster/245581596/s166/season-1.webp"
-      },
-
-      {
-        "seasonNumber": 2,
-        "episodes": 22,
-        "posterImage": "https://www.justwatch.com/images/poster/238556208/s166/season-2.webp"
-      },
-
-      {
-        "seasonNumber": 3,
-        "episodes": 23,
-        "posterImage": "https://www.justwatch.com/images/poster/245581579/s166/season-3.webp"
-      },
-
-      {
-        "seasonNumber": 4,
-        "episodes": 14,
-        "posterImage": "https://www.justwatch.com/images/poster/238555997/s166/season-4.webp"
-      },
-
-      {
-        "seasonNumber": 5,
-        "episodes": 26,
-        "posterImage": "https://www.justwatch.com/images/poster/238555958/s166/season-5.webp"
-      },
-
-      {
-        "seasonNumber": 6,
-        "episodes": 26,
-        "posterImage": "https://www.justwatch.com/images/poster/245582099/s166/season-6.webp"
-      },
-
-      {
-        "seasonNumber": 7,
-        "episodes": 24,
-        "posterImage": "https://www.justwatch.com/images/poster/238555894/s166/season-7.webp"
-      },
-
-      {
-        "seasonNumber": 8,
-        "episodes": 24,
-        "posterImage": "https://www.justwatch.com/images/poster/238555860/s166/season-8.webp"
-      },
-
-      {
-        "seasonNumber": 9,
-        "episodes": 23,
-        "posterImage": "https://www.justwatch.com/images/poster/8603758/s166/season-9.webp"
-      },
-    ],
-    "genre": ["Drama", "Comedy"] 
-  },
-
-
+ 
 
 
 ];
