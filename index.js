@@ -4763,7 +4763,7 @@ let movies = [
     "imdbRating": 8.7,
     "imdbVotes": "163k",
     "backdropImage": "https://www.justwatch.com/images/backdrop/84106888/s1440/this-is-us.webp/this-is-us.webp",
-    "posterImage": "https://image.tmdb.org/t/p/original/lllxdNp6sKCmDkPEnQqdbSNsxnu.jpg",
+    "posterImage": "https://image.tmdb.org/t/p/original/2tpHLhHYsBJkiuhnnlMzUBnN7E4.jpg",
     "duration": "43min",
     "highestRank": 3,
     "top10Days": 45,
