@@ -125,7 +125,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "1uRZ8CFExEY",
-    "type": "series",
+    "type": ["series", "hollywood"],
     "seasons": [
       {
         "seasonNumber": 1,
@@ -368,7 +368,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Uc4dE4LJ3xQ",
-    "type" : "hollywoodseries",
+    "type" : "series",
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -411,7 +411,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "WojIv-PVYm8",
-    "type" : "hollywoodseries",
+    "type" : "series",
     "genre" : ["Kids & Family", "Fantasy", "Comedy", "Action & Adventure", "Animation"]
 
   },
@@ -443,7 +443,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "mojZJ7oeD_g",
-    "type" : "bollywoodseries",
+    "type" : "series",
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
