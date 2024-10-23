@@ -44,7 +44,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "bjqEWgDVPe0",
-    "type" : "hollywoodseries",
+    "type" : "series",
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
