@@ -837,57 +837,71 @@ let movies = [
   },
  
 
-  
   {
     "id":22,
-    "title": "The Bikeriders",
-    "year": 2024,
-    "rank":23,
-    "rankChange": "▲ +43",
-    "rating": 82,
-    "imdbRating": 6.7,
-    "imdbVotes": "46k",
-    "backdropImage": "https://images.justwatch.com/backdrop/318653942/s1440/the-bikeriders.webp/the-bikeriders.webp",
-    "posterImage": "https://l450v.alamy.com/450v/2wr9g0j/the-bikeriders-poster-2wr9g0j.jpg",
-    "duration": "  1h 46min",
+    "title": "Jumanji: Welcome to the Jungle ",
+    "year": 2017,
+    "rank":314,
+    "rankChange": "▲ +400",
+    "rating": 93,
+    "imdbRating": 8.0,
+    "imdbVotes": "500k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/37400848/s1440/jumanji-welcome-to-the-jungle.webp/jumanji-welcome-to-the-jungle.webp",
+    "posterImage": "https://image.tmdb.org/t/p/original/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
+    "duration": "  1h 59min",
+    "highestRank": 2,
+    "top10Days": 70,
+    "top100Days": 405,
+    "top1000Days": 2219,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
+      {"platform": "Apple TV+", "price": "Rs1500/-"}
     ],
-    "likes": "801",
-    "dislikes": "151",
+    "likes": "20k",
+    "dislikes": "1.1k",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "-OAywYNvbMo"
-  },
-
-  
-
-  {
-    "id":23,
-    "title": "You Gotta Believe",
-    "year": 2024,
-    "rank":21,
-    "rankChange": "▲ +53",
-    "imdbRating": 5.4,
-    "imdbVotes": "350k",
-    "backdropImage": "https://images.justwatch.com/backdrop/320911483/s1440/you-gotta-believe.webp/you-gotta-believe.webp",
-    "posterImage": "https://m.media-amazon.com/images/M/MV5BZWM0ZjQ0MDgtYTNmNS00Yjc0LWFkNDUtMTM2MjU5NWVkZDRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "duration": "  1h 44min",
-    "watchOptions": [
-      {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
-    ],
-    "likes": "500",
-    "dislikes": "1.3k",
-    "watchlistText": "Watchlist",
-    "seenText": "Seen",
-    "syncText": "Sign in to Sync Watchlist",
-    "videoId": "0r_nbHSOyDE"
+    "videoId": "2QKg5SZ_35I",
+    "type" : "hollywood",
+    "genre": ["Comedy", "Action & Adventure", "Fantasy"],
   },
 
  
+  
+  {
+    "id":23,
+    "title": "Jumanji: The Next Level",
+    "year": 2019,
+    "rank":1291,
+    "rankChange": "▲ +700",
+    "rating": 91,
+    "imdbRating": 6.7,
+    "imdbVotes": "293k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/152188580/s1440/jumanji-the-next-level.webp/jumanji-the-next-level.webp",
+    "posterImage": "https://l450v.alamy.com/450v/2wr9g0j/the-bikeriders-poster-2wr9g0j.jpg",
+    "duration": "  1h 46min",
+    "highestRank": 1,
+    "top10Days": 28,
+    "top100Days": 202,
+    "top1000Days": 1600,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "25k",
+    "dislikes": "200",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "rBxcF-r9Ibs",
+    "type": "hollywood",
+    "genre": ["Action & Adventure", "Comedy", "Drama"],
+  },
+
+  
+
+
 
   
   {
@@ -1581,7 +1595,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "0DAmWHxeoKw",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
          "seasons": [ // Add season details here
           {
             "seasonNumber": 1,
@@ -3012,7 +3026,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "P2KRKxAb2ek",
     "type": "bollywood",
-    "genre": ["Horro", "Comedy"]
+    "genre": ["Horror", "Comedy"]
   },
  
   
@@ -3289,7 +3303,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to sync Watch List",  
     "videoId" : "b9EkMc79ZSU",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
         "seasons": [ // Add season details here
           {
             "seasonNumber": 1,
@@ -3344,7 +3358,7 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List",  
   "videoId" : "Pm-wNmS9RGI",
-  "type" : "anime",
+  "type" : ["hollywood","anime","series"],
   "seasons": [ // Add season details here
     {
       "seasonNumber": 1,
@@ -3395,7 +3409,7 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "DwvQLVAxiKY",
-  "type" : "series",
+  "type" : ["series", "hollywood"],
   "seasons": [ // Add season details here
     {
       "seasonNumber": 1,
@@ -3499,7 +3513,7 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "_oWzYOwXn-o",
-  "type": "anime",
+  "type": ["anime", "hollywood"],
   "genre": ["Animation", "Romance", "Drama", "Fantasy"]
 
 },
@@ -3530,7 +3544,7 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "ciQc8lfvSm0",
-  "type": "anime",
+  "type": ["anime", "hollywood"],
   "genre": ["Animation", "Romance", "Drama", "Fantasy", "Action & Adventure"]
 },
 
@@ -3560,7 +3574,7 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "8QkyLqmJCMM",
-  "type": "series",
+  "type": ["series", "hollywood"],
   "seasons": [ // Add season details here
         {
           "seasonNumber": 1,
@@ -3654,7 +3668,7 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "LV-nazLVmgo",
-  "type": "anime",
+  "type": ["anime", "hollywood"],
   "genre": ["Action & Adventure", "Fantasy", "Drama", "Fantasy", "Science-Fiction"]
 },
 
