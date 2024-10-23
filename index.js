@@ -44,7 +44,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "bjqEWgDVPe0",
-    "type" : "series",
+    "type" : "hollywoodseries",
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -125,7 +125,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "1uRZ8CFExEY",
-    "type": "hollywood",
+    "type": "hollywoodseries",
     "seasons": [
       {
         "seasonNumber": 1,
@@ -267,7 +267,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "ZNeGF-PvRHY",
-    "type" : "series",
+    "type" : "bollywoodseries",
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -318,7 +318,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "dVp0k6PV3Hk",
-    "type" : "series",
+    "type" : "hollywoodseries",
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -367,7 +367,22 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "Uc4dE4LJ3xQ"
+    "videoId": "Uc4dE4LJ3xQ",
+    "type" : "hollywoodseries",
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 8,
+        "posterImage": "https://www.justwatch.com/images/poster/300920866/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 8,
+        "posterImage": "https://www.justwatch.com/images/poster/319802873/s166/season-2.webp"
+      },
+    ],
+    "genres": ["Action & Adventure", "Science-Fiction", "Drama", "Fantasy"],
   },
  
   {
@@ -395,7 +410,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "WojIv-PVYm8?"
+    "videoId": "WojIv-PVYm8",
+    "type" : "hollywoodseries",
+    "genre" : ["Kids & Family", "Fantasy", "Comedy", "Action & Adventure", "Animation"]
 
   },
 
@@ -426,7 +443,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "mojZJ7oeD_g",
-    "type" : "series",
+    "type" : "bollywoodseries",
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -445,7 +462,8 @@ let movies = [
         "episodes": 8,
         "posterImage": "https://images.justwatch.com/poster/319303722/s166/season-3.webp"
       },
-    ]
+    ],
+    "genre" : ["Drama", "Comedy"]
   },
 
   
@@ -482,20 +500,20 @@ let movies = [
 
   {
     "id":12,
-    "title": "Gyaarah Gyaarah ",
-    "year": 2024,
-    "rank":13,
-    "rankChange": "▲ -6",
-    "rating": 84,
+    "title": "Baaghi",
+    "year": 2016,
+    "rank":914,
+    "rankChange": "▲ +411",
+    "rating": 60,
     "imdbRating": 8.2,
     "imdbVotes": "4.9k",
-    "backdropImage": "https://images.justwatch.com/backdrop/319735385/s1440/gyaarah-gyaarah.webp/gyaarah-gyaarah.webp",
-    "posterImage": "https://i.scdn.co/image/ab67616d0000b2731a8592a35a69422ee7c3db58",
-    "duration": "  1h 8min",
-    "highestRank": 1,
+    "backdropImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3y_UhlnujVcgvlscDoOBe88pE6hPVaVzUVQ&s",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BMzczODY2ZmMtYjU4MS00MzFjLTk2YTAtYTMyMmFlNTk3OTIyXkEyXkFqcGc@._V1_.jpg",
+    "duration": "  2h 14min",
+    "highestRank": 28,
     "top10Days": 44,
-    "top100Days": 48,
-    "top1000Days": 52,
+    "top100Days": 105,
+    "top1000Days": 500,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
@@ -505,7 +523,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "qssOLOr5i4c"
+    "videoId": "FV-3avN3Oxc",
+    "type" : "bollywood",
+    "genre": ["Action & Adventure", "Mystery & Thriller", "Romance"]
   },
 
   {
