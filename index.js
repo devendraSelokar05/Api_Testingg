@@ -1220,7 +1220,7 @@ let movies = [
     "imdbRating": 5.5,
     "imdbVotes": "133k",
     "backdropImage": "https://compote.slate.com/images/b3997261-711a-4d26-b18e-e1dd7dc19dd9.jpeg?crop=1560%2C1040%2Cx0%2Cy0",
-    "posterImage": "https://m.media-amazon.com/images/I/91sl9HJtdFL.jpg",
+    "posterImage": "https://jmade.org/Chapter%203/images/captainmarvel.jpg",
     "duration": "  1h 45min",
     "highestRank": 4,
     "top10Days": 5,
