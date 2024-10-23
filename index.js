@@ -175,39 +175,50 @@ let movies = [
 
   {
     "id":4,
-    "title": "SHOGUN",
-    "year": 2024,
-    "rank":25,
-    "rankChange": "▲ -4",
-    "rating": 74,
+    "title": "Daredevil",
+    "year": 2015,
+    "rank":125,
+    "rankChange": "▲ +400",
+    "rating": 96,
     "imdbRating": 8.6,
-    "imdbVotes": "174k",
-    "backdropImage": "https://images.justwatch.com/backdrop/309349707/s1440/shogun-2024.webp/shogun-2024.webp",
-    "posterImage": "https://www.artofvfx.com/wp-content/uploads/2023/11/shogun_ver2_xlg-jpg.webp",
-    "duration": "59min",
+    "imdbVotes": "484k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/301255918/s1440/marvels-daredevil.webp/marvels-daredevil.webp",
+    "posterImage": "https://images.wallpapersden.com/image/download/marvel-daredevil-poster-2022_bWpubmeUmZqaraWkpJRnamtlrWZuZ2U.jpg",
+    "duration": "53min",
     "highestRank": 1,
-    "top10Days": 125,
-    "top100Days": 230,
-    "top1000Days": 255,
+    "top10Days": 195,
+    "top100Days": 805,
+    "top1000Days": 3219,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
     ],
-    "likes": "15k",
-    "dislikes": "959",
+    "likes": "19k",
+    "dislikes": "300",
     "watchlistText": "List",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId" : "yAN5uspO_hk",
-    "type" : "series",
+    "videoId" : "n83s6NO1NE0",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
-        "episodes": 10,
-        "posterImage": "https://images.justwatch.com/poster/309349704/s166/season-1.webp"
+        "episodes": 13,
+        "posterImage": "https://www.justwatch.com/images/poster/158004164/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 13,
+        "posterImage": "https://www.justwatch.com/images/poster/8635981/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 13,
+        "posterImage": "https://www.justwatch.com/images/poster/87981316/s166/season-3.webp"
       },
     ],
-    "genre" : ["Drama", "War & Military", "History"]
+    "genre" : ["Action & Adventure", "Crime", "Drama", "Fantasy", "Science-Fiction", "Mystery & Thriller"]
   },
 
 
@@ -267,7 +278,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "ZNeGF-PvRHY",
-    "type" : "series",
+    "type" : ["series", "bollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
