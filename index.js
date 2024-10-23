@@ -94,7 +94,7 @@ let movies = [
         "posterImage": "https://images.justwatch.com/poster/123167430/s166/season-8.webp"
       },
     ],
-    "genre": ["Science-Fiction", "Drama", "Action & Adventure", "Fantasy"]
+    "genre": ["Science-Fiction", "Drama"," Action & Adventure", "Fantasy"]
 
   },
  
@@ -349,7 +349,7 @@ let movies = [
         "posterImage": "https://images.justwatch.com/poster/260075695/s166/season-3.webp"
       },
     ],
-    "genres": ["Action & Adventure", "Science-Fiction", "Drama", "Romance", "Fantasy"],
+    "genre": ["Action & Adventure", "Science-Fiction", "Drama", "Fantasy", "Romance"],
   },
  
 
@@ -423,7 +423,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "WojIv-PVYm8",
     "type" : "hollywood",
-    "genre" : ["Kids & Family", "Fantasy", "Comedy", "Action & Adventure", "Animation"]
+    "genre" : ["Comedy", "Action & Adventure", "Kids & Family", "Fantasy", "Animation"]
 
   },
 
@@ -505,7 +505,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "LE5QzD_qtxs",
     "type" : "hollywood",
-    "genre": ["Horror", "Science-Fiction", "Mystery & Thriller"]
+    "genre": ["Mystery & Thriller", "Horror", "Science-Fiction"]
   },
 
 
@@ -594,7 +594,7 @@ let movies = [
   
     ],
 
-    "genre": ["Action & Adventure", "Crime", "Drama", "Comedy", "Science Fiction"]
+    "genre": ["Action & Adventure", "Science-Fiction", "Crime", "Drama", "Comedy"]
 
   },
 
@@ -657,7 +657,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "wglmbroElU0"
+    "videoId": "wglmbroElU0",
+    "type" : "hollywood",
+    "genre": ["Mystery & Thriller", "Action & Adventure", "Science-Fiction", "Drama"]
   },
 
   {
@@ -741,7 +743,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "qQlr9-rF32A",
     "type":["series", "anime", "hollywood"],
-    "genre" : ["Kids & Family", "Comedy", "Action & Adventure", "Animation", "Science-Fiction", "Fantasy"]
+    "genre" : ["Kids & Family", "Comedy", "Action & Adventure", "Animation", "Science-Fiction", "Fantasy", "Crime"]
 
   },
 
@@ -799,7 +801,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "LEjhY15eCx0",
     "type": ["hollywood","anime"],
-    "genre": ["Drama", "Animation", "Kids & Family", "Action & Adventure", "Comedy", "Fantasy"],
+    "genre": ["Drama", "Comedy", "Animation", "Kids & Family", "Action & Adventure", "Fantasy"],
 
 
   },
@@ -864,7 +866,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "2QKg5SZ_35I",
     "type" : "hollywood",
-    "genre": ["Comedy", "Action & Adventure", "Fantasy"],
+    "genre": ["Comedy", "Fantasy", "Action & Adventure"],
   },
 
  
