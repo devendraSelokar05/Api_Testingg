@@ -329,7 +329,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "dVp0k6PV3Hk",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -379,7 +379,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Uc4dE4LJ3xQ",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -422,7 +422,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "WojIv-PVYm8",
-    "type" : "series",
+    "type" : "hollywood",
     "genre" : ["Kids & Family", "Fantasy", "Comedy", "Action & Adventure", "Animation"]
 
   },
@@ -454,7 +454,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "mojZJ7oeD_g",
-    "type" : "series",
+    "type" : ["series", "bollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -540,57 +540,95 @@ let movies = [
   },
 
   {
-    "id":13,
-    "title": "Shekhar Home",
-    "year": 2024,
-    "rank":46,
+    "id":14,
+    "title": "The Boys",
+    "year": 2019,
+    "rank":21,
     "rankChange": "▲ +96",
-    "rating": 77,
-    "imdbRating": 8.2,
-    "imdbVotes": "10k",
-    "backdropImage": "https://upload.wikimedia.org/wikipedia/en/7/71/Shekhar_Home.jpg",
-    "posterImage": "https://static.seriesreminder.com/tvdb/sr_posters/shekhar-home/66abbf155a2e6.jpg",
-    "duration": "  1h 8min",
+    "rating": 95,
+    "imdbRating": 8.9,
+    "imdbVotes": "790k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/109745293/s1440/the-boys.webp/the-boys.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BMWJlN2U5MzItNjU4My00NTM2LWFjOWUtOWFiNjg3ZTMxZDY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "duration": "  1h 1min",
     "highestRank": 1,
-    "top10Days": 21,
-    "top100Days": 39,
-    "top1000Days": 46,
+    "top10Days": 172,
+    "top100Days": 1326,
+    "top1000Days": 1922,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
     ],
-    "likes": "52",
-    "dislikes": "7",
-    "watchlistText": "List",
-    "seenText": "Seen",
+    "likes": "68k",
+    "dislikes": "3.2k",
+    "watchlistText": "Lists",
+    "seenText": "Seenall",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "qU5-M1KrEAE"
+    "videoId": "zi0YW9MoQ7w",
+    "type": ["series", "hollywood"],
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 8,
+        "posterImage": "https://www.justwatch.com/images/poster/139452420/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 8,
+        "posterImage": "https://www.justwatch.com/images/poster/203606186/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 8,
+        "posterImage": "https://www.justwatch.com/images/poster/318597532/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes": 8,
+        "posterImage": "https://www.justwatch.com/images/poster/315996798/s166/season-4.webp"
+      },
+
+  
+    ],
+
+    "genre": ["Action & Adventure", "Crime", "Drama", "Comedy", "Science Fiction"]
+
   },
 
   
   {
     "id":14,
-    "title": "TOUCH",
-    "year": 2024,
-    "rank":66,
-    "rankChange": "▲ -3",
-    "rating": 75,
-    "imdbRating": 2.5,
-    "imdbVotes": "10k",
-    "backdropImage": "https://images.justwatch.com/backdrop/316456492/s1440/touch-0.webp/touch-0.webp",
-    "posterImage": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/05/08192348/7azx73Z5nYWgG9c00HH6CHVtgMX.jpg",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "year": 2001,
+    "rank":65,
+    "rankChange": "▲ +130",
+    "rating": 95,
+    "imdbRating": 8.9,
+    "imdbVotes": "900k",
+    "duration": "2h 32min",
+    "highestRank":2,
+    "top10Days": 172,
+    "top100Days": 1326,
+    "top1000Days": 3105,
+    "backdropImage": "https://www.justwatch.com/images/backdrop/179940893/s1440/harry-potter-and-the-philosophers-stone.webp/harry-potter-and-the-philosophers-stone.webp",
+    "posterImage": "https://divinepicturesoftruth.in/cdn/shop/files/HarryPotterandtheSorcerer_sStone_2002.jpg?v=1721127538&width=1445",
     "duration": "  2h 1min",
     
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
     ],
-    "likes": "36",
-    "dislikes": "9",
+    "likes": "50k",
+    "dislikes": "1k",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "y5fXuZ3ns_c"
+    "videoId": "y5fXuZ3ns_c",
+    "type" : "hollywood",
+    "genre": ["Action & Adventure", "Fantasy", "Kids & Family"]
   },
 
   
