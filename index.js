@@ -849,7 +849,7 @@ let movies = [
     "imdbRating": 8.0,
     "imdbVotes": "500k",
     "backdropImage": "https://www.justwatch.com/images/backdrop/37400848/s1440/jumanji-welcome-to-the-jungle.webp/jumanji-welcome-to-the-jungle.webp",
-    "posterImage": "https://image.tmdb.org/t/p/original/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
+    "posterImage": "https://wallpapercat.com/w/full/5/b/8/2087372-2000x3000-phone-hd-jumanji-welcome-to-the-jungle-background-image.jpg",
     "duration": "  1h 59min",
     "highestRank": 2,
     "top10Days": 70,
