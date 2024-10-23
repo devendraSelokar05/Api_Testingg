@@ -830,7 +830,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "UzTm--hNa6Q"
+    "videoId": "UzTm--hNa6Q",
+    "type": "tollywood",
+    "genre": ["Action & Adventure", "Drama", "Mystery & Thriller"],
 
   },
  
