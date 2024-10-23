@@ -1220,7 +1220,7 @@ let movies = [
     "imdbRating": 5.5,
     "imdbVotes": "133k",
     "backdropImage": "https://compote.slate.com/images/b3997261-711a-4d26-b18e-e1dd7dc19dd9.jpeg?crop=1560%2C1040%2Cx0%2Cy0",
-    "posterImage": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/401b3c1b-bd1d-4d3e-97a6-922ad3edd7bc/dfpmcpk-cbea76a3-cf8d-4667-82a2-1c370d588d69.png/v1/fill/w_800,h_1000,q_70,strp/the_marvels__2023__marvel_fan_poster__by_ronniecavalcanteart_dfpmcpk-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI1MCIsInBhdGgiOiJcL2ZcLzQwMWIzYzFiLWJkMWQtNGQzZS05N2E2LTkyMmFkM2VkZDdiY1wvZGZwbWNway1jYmVhNzZhMy1jZjhkLTQ2NjctODJhMi0xYzM3MGQ1ODhkNjkucG5nIiwid2lkdGgiOiI8PTEwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.L9CnrIq9Pn76ERKGaE2CvqJMnriN9mzJnsEt_RKE8Zs",
+    "posterImage": "https://m.media-amazon.com/images/I/91sl9HJtdFL.jpg",
     "duration": "  1h 45min",
     "highestRank": 4,
     "top10Days": 5,
