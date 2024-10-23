@@ -898,7 +898,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "rBxcF-r9Ibs",
     "type": "hollywood",
-    "genre": ["Action & Adventure", "Comedy", "Drama"],
+    "genre": ["Action & Adventure", "Comedy", "Fantasy"],
   },
 
   
@@ -931,7 +931,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "vuvykaDj2dY",
     "type" : "hollywood",
-    "genre" : ["Science-Fiction", "Action & Adventure, Animation", "Mystery & Thriller"]
+    "genre" : ["Mystery & Thriller", "Science-Fiction", "Action & Adventure", "Animation"]
   },
 
   {
@@ -947,7 +947,7 @@ let movies = [
     "posterImage": "https://www.tallengestore.com/cdn/shop/products/Fast_Furious_7_-_Paul_Walker_-_Vin_Diesel_-_Dwayne_Johnson_-_Hollywood_Action_Movie_Poster_92545455-e1d9-436c-9f4c-95143035c41b.jpg?v=1582543219",
     "duration": "  1h 46min",
     "highestRank": 25,
-    "top10Days": 0,
+    "top10Days": 125,
     "top100Days": 51,
     "top1000Days": 1109,
     "watchOptions": [
@@ -961,12 +961,105 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId":"Skpu5HaVkOc",
     "type" : "hollywood",
-    "genre" : ["Action & Adventure",  "Mystery & Thriller", "crime"]
+    "genre" : ["Crime", "Action & Adventure", "Mystery & Thriller"]
   },
-
 
   {
     "id":26,
+    "title": "Fast and the Furious 8",
+    "year": 2017,
+    "rank":3056,
+    "rankChange": "▲ +2230",
+    "rating": 92,
+    "imdbRating": 7.8,
+    "imdbVotes": "426k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/8541005/s1440/the-fate-of-the-furious.webp/the-fate-of-the-furious.webp",
+    "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDv7-fozy8IScJ3ue9McShXCm6UNJVrfZunQbPJMh5w28cdR1I6ti0mRoyK_tNRabXgPA&usqp=CAU",
+    "duration": "  2h 16min",
+    "highestRank": 3,
+    "top10Days": 90,
+    "top100Days": 500,
+    "top1000Days": 2168,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "13k",
+    "dislikes": "100",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId":"uisBaTkQAEs",
+    "type" : "hollywood",
+    "genre" : ["Action & Adventure", "Crime", "Mystery & Thriller"]
+  },
+
+  
+  {
+    "id":27,
+    "title": "Fast and the Furious 9",
+    "year": 2021,
+    "rank":676,
+    "rankChange": "▲ +2230",
+    "rating": 92,
+    "imdbRating": 7.8,
+    "imdbVotes": "726k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/166932455/s1440/f9.webp/f9.webp",
+    "posterImage": "https://www.cinestar.de/media/cache/web_l/media/mmmb/0./0.-614c3fb1ed56d.jpg",
+    "duration": "  2h 16min",
+    "highestRank": 3,
+    "top10Days": 90,
+    "top100Days": 700,
+    "top1000Days": 4168,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "50k",
+    "dislikes": "200",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId":"FUK2kdPsBws",
+    "type" : "hollywood",
+    "genre" : ["Action & Adventure", "Crime", "Mystery & Thriller"]
+  },
+
+  
+  {
+    "id":28,
+    "title": "Fast X",
+    "year": 2023,
+    "rank":649,
+    "rankChange": "▲ +2210",
+    "rating": 92,
+    "imdbRating": 7.8,
+    "imdbVotes": "626k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/305793486/s1440/fast-x.webp/fast-x.webp",
+    "posterImage": "https://image.tmdb.org/t/p/original/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+    "duration": "  2h 16min",
+    "highestRank": 3,
+    "top10Days": 90,
+    "top100Days": 500,
+    "top1000Days": 2168,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "13k",
+    "dislikes": "100",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId":"eoOaKN4qCKw",
+    "type" : "hollywood",
+    "genre" : ["Action & Adventure", "Crime", "Mystery & Thriller"]
+  },
+
+
+
+  {
+    "id":29,
     "title": "Extraction",
     "year": 2020,
     "rank":724,
@@ -992,12 +1085,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId" : "L6P3nI6VnlY",
     "type" : "hollywood",
-    "genre" : ["Action & Adventure", "Crime", "Mystery & Thriller"]
+    "genre" : ["Mystery & Thriller", "Action & Adventure", "Crime"]
   },
 
   
   {
-    "id":27,
+    "id":30,
     "title": "MULAN",
     "year": 2020,
     "rank":722,
@@ -1023,12 +1116,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "KK8FHdFluOQ",
     "type" : "hollywood",
-    "genre" : ["Action & Adventure", "Fantasy", "Kinds & Family", "Drama"]
+    "genre" : ["Action & Adventure", "Fantasy", "Kids & Family", "Drama"]
   },
 
 
   {
-    "id":28,
+    "id":31,
     "title": "Captain America: The First Avenger",
     "year": 2011,
     "rank":768,
@@ -1054,12 +1147,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId" : "ru0MEXIX_ZE",
     "type" : "hollywood",
-    "genre" : ["Science-Fiction", "Action & Adventure"]
+    "genre" : ["Action & Adventure", "Science-Fiction"]
   },
 
   
   {
-    "id":29,
+    "id":32,
     "title": "Deadpool 2",
     "year": 2018,
     "rank":411,
@@ -1085,13 +1178,13 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "D86RtevtfrA",
     "type" : "hollywood",
-    "genre" : ["Science-Fiction", "Action & Adventure", "Comedy"]
+    "genre" : ["Action & Adventure", "Comedy", "Science-Fiction"]
   },
 
 
   
   {
-    "id":30,
+    "id":33,
     "title": "Deadpool & Wolverine",
     "year": 2024,
      "rank":4,
@@ -1113,12 +1206,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId" : "ea94nqoxnVQ",
     "type" : "hollywood",
-    "genre" : ["Science-Fiction", "Action & Adventure", "Comedy"]
+    "genre" : ["Action & Adventure", "Science-Fiction", "Comedy"]
   },
 
   
   {
-    "id":31,
+    "id":34,
     "title": "The Marvels",
     "year": 2023,
     "rank":3046,
@@ -1149,7 +1242,7 @@ let movies = [
 
   
   {
-    "id":32,
+    "id":35,
     "title": "The Guardians of the Galaxy Holiday Special",
     "year": 2022,
     "rank":964,
@@ -1175,12 +1268,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId" : "OYhFFQl4fLs",
     "type" : "hollywood",
-    "genre" : ["Science-Fiction", "Action & Adventure", "Comedy"]
+    "genre" : ["Comedy", "Science-Fiction", "Action & Adventure"]
   },
 
    
   {
-    "id":33,
+    "id":36,
     "title": "Ant-Man and the Wasp: Quantumania",
     "year": 2023,
     "rank":2819,
@@ -1210,7 +1303,7 @@ let movies = [
   },
 
   {
-    "id":34,
+    "id":37,
     "title": "Thor: Love and Thunder",
     "year": 2022,
     "rank":903,
@@ -1236,12 +1329,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Go8nTmfrQd8",
     "type" : "hollywood",
-    "genre" : ["Science-Fiction", "Action & Adventure", "Fantasy", "Romance", "Comedy"]
+    "genre" : ["Fantasy", "Action & Adventure", "Comedy", "Romance", "Science-Fiction"]
   },
 
   
   {
-    "id":35,
+    "id":38,
     "title": "Avengers: Endgame",
     "year": 2019,
     "rank":535,
@@ -1272,7 +1365,7 @@ let movies = [
 
  
   {
-    "id":36,
+    "id":39,
     "title": "Venom: LET THERE BE CARNAGE",
     "year": 2021,
     "rank":343,
@@ -1303,7 +1396,7 @@ let movies = [
 
 
   {
-    "id":37,
+    "id":40,
     "title": "Logan",
     "year": 2017,
     "rank":330,
@@ -1329,11 +1422,11 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Div0iP65aZo",
     "type" : "hollywood",
-    "genre" : ["Science-Fiction", "Action & Adventure", "Drama", "Mystery & Thriller"]
+    "genre" : ["Drama", "Mystery & Thriller", "Action & Adventure", "Science-Fiction"]
   },
 
   {
-    "id":38,
+    "id":41,
     "title": "The Amazing Spider-Man",
     "year": 2012,
     "rank":406,
@@ -1359,10 +1452,10 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "-tnxzJ0SSOw",
     "type" : "hollywood",
-    "genre" : ["Science-Fiction", "Action & Adventure"]
+    "genre" : ["Action & Adventure", "Science-Fiction"]
   },
   {
-    "id":39,
+    "id":42,
     "title": "Spiderman: NO WAY HOME",
     "year": 2021,
     "rank":16,
@@ -1388,12 +1481,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "JfVOs4VSpmA",
     "type" : "hollywood",
-    "genre" : ["Science-Fiction", "Action & Adventure", "Fantasy"]
+    "genre" : ["Action & Adventure", "Science-Fiction", "Fantasy"]
   },
   
    
   {
-    "id":40,
+    "id":43,
     "title": "Doctor Strange In the Multiverse Of Madness",
     "year": 2022,
     "rank":7480,
@@ -1419,11 +1512,49 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "aWzlQ2N6qqg",
     "type" : "hollywood",
-    "genre" : ["Science-Fiction", "Action & Adventure", "Fantasy"]
+    "genre" : ["Fantasy", "Action & Adventure", "Science-Fiction"]
+  },
+
+  {
+    "id": 44,
+    "title": "Agatha All Along",
+    "year": 2024,
+    "rank": 9.,
+    "rankChange": "▲ +4",
+    "rating": 83,
+    "imdbRating": 6.9,
+    "imdbVotes": "28k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/320432746/s1440/agatha-house-of-harkness.webp/agatha-house-of-harkness.webp",
+    "posterImage": "https://pix1.wapkizfile.info/download/be397283a01febdccbba1e58cb69f5ef/filmy4cab+wapkiz+com/Agatha-All-Along-2024-Season-1-Dual-Audio-Hindi-English-Completed-Web-Series-HD-ESub-(filmycab.us).jpg",
+    "duration": "39min",
+    "highestRank": 1,
+    "top10Days": 12,
+    "top100Days": 36,
+    "top1000Days": 73,
+    "watchOptions": [
+  {"platform": "Netflix", "price": "Rs200/-"},
+  {"platform": "Amazon Prime", "price": "Rs500/-"}
+  ],
+    "likes": "1.7",
+    "dislikes": "36",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to sync Watch List",
+    "videoId" : "nfK6UgLra7g",
+    "type" : ["sereis", "hollywood"],
+    "seasons":[
+      {
+        "seasonNumber": 1,
+        "episodes": 8,
+        "posterImage": "https://www.justwatch.com/images/poster/321582835/s166/season-1.webp"
+      }
+
+    ],
+    "genre" : ["Science-Fiction", "Comedy", "Drama", "Fantasy", "Action & Adventure"]
   },
   
   {
-    "id":41,
+    "id":45,
     "title": "Shang-Chi and the Legend of the Ten Rings",
     "year": 2021,
     "rank":790,
@@ -1449,42 +1580,134 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "pOEvuzEVh8g",
     "type" : "hollywood",
-    "genre" : ["Science-Fiction", "Action & Adventure", "Fantasy"]
+    "genre" : ["Action & Adventure", "Fantasy", "Science-Fiction"]
   },
 
   {
-    "id":42,
-    "title": "Annavaram",
-    "year": 2006,
-    "rank":12743,
-    "rankChange": "+20370",
-    "rating": 93,
-    "imdbRating": 4.9,
-    "imdbVotes": "985k",
-    "backdropImage": "https://images.justwatch.com/backdrop/202520478/s1440/annavaram.webp/annavaram.webp",
-    "posterImage": "https://m.media-amazon.com/images/M/MV5BNTUzYTY2ZjQtZDA2Yy00MGJkLWJhODAtYzQ4NWNlYmVkYjU3XkEyXkFqcGc@._V1_.jpg",
-    "duration": "  2h 55min",
-    "highestRank": 213,
-    "top10Days": 0,
-    "top100Days": 0,
-    "top1000Days": 3,
+    "id":46,
+    "title": "Bahubali: The Beginning ",
+    "year": 2015,
+    "rank":300,
+    "rankChange": "+2030",
+    "rating": 89,
+    "imdbRating": 8.0,
+    "imdbVotes": "785k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/37681818/s1440/baahubali-the-beginning.webp/baahubali-the-beginning.webp",
+    "posterImage": "https://rukminim2.flixcart.com/image/850/1000/l0r1j0w0/poster/t/g/x/medium-bahubali-hd-wallpaperes-8-on-fine-art-paper-13x19-original-imagcgwwzb8d67br.jpeg?q=90&crop=false",
+    "duration": "  2h 39min",
+    "highestRank": 1,
+    "top10Days": 213,
+    "top100Days": 1245,
+    "top1000Days": 2100,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
     ],
     "likes": "38k",
-    "dislikes": "2.5k",
+    "dislikes": "200",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "CCL_zth2mms",
+    "videoId": "G62HrubdD6o",
+    "type" : ["tollywood", "bollywood"],
+    "genre" : ["Action & Adventure", "Fantasy", "Drama"]
+  },
+
+  {
+    "id":47,
+    "title": "Bahubali 2: The Conclusion",
+    "year": 2017,
+    "rank":1155,
+    "rankChange": "+5345",
+    "rating": 95,
+    "imdbRating": 9.0,
+    "imdbVotes": "885k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/8710029/s1440/baahubali-2-the-conclusion.webp/baahubali-2-the-conclusion.webp",
+    "posterImage": "https://i.pinimg.com/564x/b2/a3/3d/b2a33d968de0cb600e9d3e8877f230b5.jpg",
+    "duration": "  2h 39min",
+    "highestRank": 1,
+    "top10Days": 213,
+    "top100Days": 1245,
+    "top1000Days": 2100,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "38k",
+    "dislikes": "200",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "G62HrubdD6o",
+    "type" : ["tollywood", "bollywood"],
+    "genre" : ["Action & Adventure", "Fantasy", "Drama"]
+  },
+
+  
+  {
+    "id":48,
+    "title": "Mr. Majnu ",
+    "year": 2019,
+    "rank":1640,
+    "rankChange": "+689",
+    "rating": 85,
+    "imdbRating": 8.3,
+    "imdbVotes": "205k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/106287842/s1440/mr-majnu.webp/mr-majnu.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BNTQ5ODk4ZTItMjM5ZS00NTU0LThkYjgtNWJiNDI1OTJhYmI1XkEyXkFqcGc@._V1_.jpg",
+    "duration": "  2h 25min",
+    "highestRank": 1,
+    "top10Days": 50,
+    "top100Days": 432,
+    "top1000Days": 300,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "2.2",
+    "dislikes": "230",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "ZdHCeHlMcm8",
     "type" : "tollywood",
-    "genre" : ["Drama", "Action & Adventure"]
+    "genre" : ["Drama", "Romance"]
+  },
+
+  
+  {
+    "id":49,
+    "title": "Ala Vaikunthapurramuloo",
+    "year": 2020,
+    "rank":108,
+    "rankChange": "+3000",
+    "rating": 89,
+    "imdbRating": 8.5,
+    "imdbVotes": "506k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/265398402/s1440/ala-vaikunthapurramuloo.webp/ala-vaikunthapurramuloo.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BMDBlNzk1MmEtMWJkNS00NDIyLWIxYjUtYjE5OGIzMDU4MjgwXkEyXkFqcGc@._V1_.jpg",
+    "duration": "  2h 45min",
+    "highestRank": 1,
+    "top10Days": 105,
+    "top100Days": 500,
+    "top1000Days": 1700,
+    "watchOptions": [
+      {"platform": "Netflix", "price": "Rs200/-"},
+      {"platform": "Amazon Prime", "price": "Rs500/-"}
+    ],
+    "likes": "38k",
+    "dislikes": "220",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "G62HrubdD6o",
+    "type" : ["tollywood", "bollywood"],
+    "genre" : ["Comedy, Drama", "Action & Adventure"]
   },
   
   
   {
-    "id":43,
+    "id":50,
     "title": "Ravanasura",
     "year": 2023,
     "rank":605,
