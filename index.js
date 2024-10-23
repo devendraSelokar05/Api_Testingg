@@ -183,7 +183,7 @@ let movies = [
     "imdbRating": 8.6,
     "imdbVotes": "484k",
     "backdropImage": "https://www.justwatch.com/images/backdrop/301255918/s1440/marvels-daredevil.webp/marvels-daredevil.webp",
-    "posterImage": "https://images.wallpapersden.com/image/download/marvel-daredevil-poster-2022_bWpubmeUmZqaraWkpJRnamtlrWZuZ2U.jpg",
+    "posterImage": "https://rare-gallery.com/thumbnail/1402218-daredevil-season-4-daredevil-tv-shows-hd-poster.jpg",
     "duration": "53min",
     "highestRank": 1,
     "top10Days": 195,
