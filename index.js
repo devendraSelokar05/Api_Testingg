@@ -2287,7 +2287,7 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "nS9ZM4R1DJw",
     "type" : "tollywood",
-    "genre": ["Romantic"]
+    "genre": ["Romantic", "Kids & Family", "Comedy"]
   },
 
   {
@@ -2408,7 +2408,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "P3t--CmbibE"
+    "videoId": "P3t--CmbibE",
+    "type": "tollywood",
+    "genre": ["Action & Adventure", "Fantasy"]
   },
 
   {
@@ -3606,7 +3608,7 @@ let movies = [
           "posterImage": "https://www.justwatch.com/images/poster/281044992/s166/season-5.webp"
         },
       ],
-      "genres": ["Action & Adventure", "Crime", "Drama", "Mystery & Thriller"],
+      "genre": ["Action & Adventure", "Crime", "Drama", "Mystery & Thriller"],
 },
 
 {
@@ -3773,7 +3775,7 @@ let movies = [
 
 
 {
-  "id": 117,
+  "id": 114,
   "title": "DEMON SLAYER",
   "year": 2019,
   "rank": 29,
@@ -3798,7 +3800,7 @@ let movies = [
   "seenText": "Seen all",
   "syncText": "Sign in to sync Watch List",
   "videoId" : "VQGCKyvzIM4",
-  "type": "animeseries",
+  "type": ["anime", "hollywood"],
   "seasons": [ // Add season details here
         {
           "seasonNumber": 1,
@@ -3830,12 +3832,12 @@ let movies = [
           "posterImage": "https://www.justwatch.com/images/poster/320272943/s166/season-5.webp"
         },
       ],
-      "genres": ["Action", "Adventure", "Drama"]
+      "genre": ["Action", "Adventure", "Drama"]
 
 },
 
 {
-  "id": 118,
+  "id": 115,
   "title": "FRIENDS",
   "year": 1994,
   "rank": 31,
@@ -3860,7 +3862,7 @@ let movies = [
   "seenText": "Seen all",
   "syncText": "Sign in to sync Watch List", 
    "videoId" : "VQGCKyvzIM4",
-   "type" : "series",
+   "type" : ["series", "hollywood"],
    "seasons": [ // Add season details here
      {
        "seasonNumber": 1,
@@ -3921,11 +3923,12 @@ let movies = [
       "episodes": 18,
       "posterImage": "https://www.justwatch.com/images/poster/252095774/s166/season-10.webp"
     },
-   ]
+   ],
+   "genre": ["Comedy", "Romance"]
 },
 
 {
-  "id": 119,
+  "id": 116,
   "title": "FLAMES",
   "year": 2018,
   "rank": 196,
@@ -3950,7 +3953,7 @@ let movies = [
   "seenText": "Seen all",
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "NkdCgjqQq7s",
-  "type": "series",
+  "type": ["series", "hollywood"],
   "seasons": [ // Add season details here
         {
           "seasonNumber": 1,
@@ -3975,11 +3978,12 @@ let movies = [
           "episodes": 5,
           "posterImage": "https://www.justwatch.com/images/poster/310330522/s166/season-4.webp"
         },
-      ]
+      ],
+      "genre" :["Comedy", "Drama", "Romance"]
 },
 
 {
-  "id": 120,
+  "id": 117,
   "title": "ALICE IN BORDERLAND",
   "year": 2020,
   "rank": 204,
@@ -4004,7 +4008,7 @@ let movies = [
   "seenText": "Seen all",
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "49_44FFKZ1M",
-  "type" : "series",
+  "type" : ["series", "hollywood"],
   "seasons": [ // Add season details here
     {
       "seasonNumber": 1,
@@ -4018,12 +4022,13 @@ let movies = [
       "posterImage": "https://www.justwatch.com/images/poster/302278475/s166/season-2.webp"
     },
 
-  ]
+  ],
+  "genre": ["Science-Fiction", "Mystery & Thriller", "Action & Adventure", "Drama"]
   
 },
 
 {
-  "id": 121,
+  "id": 118,
   "title": "EVIL DEAD RISE",
   "year": 2023,
   "rank": 78,
@@ -4047,11 +4052,13 @@ let movies = [
   "watchlistText": "Lists",
   "seenText": "Seen all",
   "syncText": "Sign in to sync Watch List",
-  "videoId" : "smTK_AeAPHs"
+  "videoId" : "smTK_AeAPHs",
+  "type" : "hollywood",
+  "genre": ["Horror", "Mystery & Thriller"]
 },
 
 {
-  "id": 122,
+  "id": 119,
   "title": "NARUTO",
   "year": 2002,
   "rank": 34,
@@ -4076,7 +4083,7 @@ let movies = [
   "seenText": "Seen all",
   "syncText": "Sign in to sync Watch List",
   "videoId" : "-G9BqkgZXRA",
-  "type": "series",
+  "type": ["series", "hollywood", "anime"],
   "seasons": [ // Add season details here
     {
       "seasonNumber": 1,
@@ -4113,12 +4120,14 @@ let movies = [
       "episodes": 50,
       "posterImage": "https://www.justwatch.com/images/poster/6499522/s166/season-6.webp"
     },
-  ]
+  ],
+  "genre": ["Animation", "Action & Adventure", "Science-Fiction", "Comedy", "Fantasy"]
+
 },
 
 
 {
-  "id": 123,
+  "id": 120,
   "title": "COLLEGE ROMANCE",
   "year": 2018,
   "rank": 126.,
@@ -4143,7 +4152,7 @@ let movies = [
   "seenText": "Seen all",
   "syncText": "Sign in to sync Watch List",
   "videoId" : "zwRhlzrJGxo",
-  "type": "series",
+  "type": ["series", "bollywood"],
   "seasons": [ // Add season details here
     {
       "seasonNumber": 1,
@@ -4168,11 +4177,12 @@ let movies = [
       "episodes": 5,
       "posterImage": "https://www.justwatch.com/images/poster/307436638/s166/season-4.webp"
     },
-  ]
+  ],
+  "genre": ["Comedy", "Drama"],
 },
 
 {
-  "id":124,
+  "id":121,
   "title": "Kalki 2898-AD",
   "year": 2024,
   "rank": 33,
@@ -4196,11 +4206,13 @@ let movies = [
   "watchlistText": "watchlist",
   "seenText": "seen",
   "syncText": "sing in to watch list",
-  "videoId": "aninoDcPWo4" 
+  "videoId": "aninoDcPWo4" ,
+  "type" : ["bolllywood","tollywood"],
+  "genre": ["Drama", "Romance", "Science-Fiction", "Action & Adventure", "Comedy", "Crime", "Mystery & Thriller"],
 },
 
 {
-  "id":125,
+  "id":122,
   "title": "Maharaja",
   "year": 2024,
   "rank": 51,
@@ -4224,11 +4236,13 @@ let movies = [
   "watchlistText": "watchlist",
   "seenText": "seen",
   "syncText": "sing in to watch list",
-  "videoId": "n3ttNeXKPHg"
+  "videoId": "n3ttNeXKPHg",
+  "type" : "tollywood",
+  "genre": ["Drama", "Mystery & Thriller", "Action & Adventure", "Crime"]
 },
 
 {
-    "id":126,
+    "id":123,
     "title": "Lucifer",
     "year": 2016,
     "rank": 384,
@@ -4253,7 +4267,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "X4bF_quwNtw",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -4290,12 +4304,13 @@ let movies = [
         "episodes": 10,
         "posterImage": "https://images.justwatch.com/poster/256495457/s166/season-6.webp"
       },
-    ]
+    ],
+    "genre": ["Science-Fiction", "Fantasy", "Crime", "Drama"],
 },
 
 
 {
-    "id":127,
+    "id":124,
     "title": "The Walking Dead",
     "year": 2010,
     "rank": 94,
@@ -4320,7 +4335,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "sfAc2U20uyg",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -4387,11 +4402,12 @@ let movies = [
         "episodes": 16,
         "posterImage": "https://images.justwatch.com/poster/306348518/s166/season-11.webp"
       },
-    ]
+    ],
+    "genre" : ["Action & Adventure", "Science-Fiction", "Horror", "Mystery & Thriller", "Drama"]
 },
 
 {
-    "id":128,
+    "id":125,
     "title": "Crushed",
     "year": 2022,
     "rank": 111,
@@ -4416,7 +4432,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "3tRiy5OHea4",
-    "type" : "series",
+    "type" : ["series", "bollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -4441,13 +4457,55 @@ let movies = [
         "episodes":6,
         "posterImage": "https://www.justwatch.com/images/poster/316281397/s166/season-4.webp"
       },
-
-
-    ]
+    ], 
+    "genre": ["Comedy", "Drama", "Romance"]
   },
 
   {
-    "id":129,
+    "id":126,
+    "title": "Guttur Gu",
+    "year": 2023,
+    "rank": 111,
+    "rankChange": "▲ +1397",
+    "rating": 85,
+    "imdbRating": 8.4,
+    "imdbVotes": "5.3k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/305701430/s1440/gutar-gu.webp/gutar-gu.webp",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BYzFhYjBmZWQtZGY0My00N2NmLWJiYzUtNzNmNDQ4NGM4MjljXkEyXkFqcGc@._V1_.jpg",
+    "duration": "30min",
+    "highestRank": 64,
+    "top10Days": 9,
+    "top100Days": 89,
+    "top1000Days": 765,
+    "watchOptions": [
+      {"platform": "Amazon Prime", "price": "Rs500/-"},
+      {"platform": "Amazon MiniTv"}
+    ],
+    "likes": "8k",
+    "dislikes": "1k",
+    "watchlistText": "Watchlist",
+    "seenText": "Seen",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "pDZ-9c2vtf4",
+    "type" : ["series", "bollywood"],
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 6,
+        "posterImage": "https://www.justwatch.com/images/poster/307662332/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 6,
+        "posterImage": "https://www.justwatch.com/images/poster/319976871/s166/season-2.webp"
+      },
+    ],
+    "genre": ["Drama", "Romance", "Comedy"]
+  },
+
+  {
+    "id":127,
     "title": "Breaking Bad",
     "year": 2008,
     "rank": 111,
@@ -4471,7 +4529,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "1JLUn2DFW4w",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -4501,13 +4559,14 @@ let movies = [
         "seasonNumber": 5,
         "episodes": 16,
         "posterImage": "https://images.justwatch.com/poster/8594362/s166/season-5.webp"
-      }, 
-    ]
+      },
+    ],
+    "genre": ["Drama", "Crime", "Mystery & Thriller"]
   },
 
   
   {
-    "id":130,
+    "id":128,
     "title": "Peaky Blinders",
     "year": 2013,
     "rank": 138,
@@ -4532,7 +4591,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "1JLUn2DFW4w",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -4569,12 +4628,13 @@ let movies = [
         "episodes": 6,
         "posterImage": "https://images.justwatch.com/poster/265096894/s166/season-6.webp"
       }, 
-    ]
+    ],
+    "genre": ["Drama", "Mystery & Thriller", "Crime"]
   },
 
 
   {
-    "id":131,
+    "id":129,
     "title": "Supernatural",
     "year": 2005,
     "rank": 123,
@@ -4690,11 +4750,12 @@ let movies = [
         "episodes": 20,
         "posterImage": "https://images.justwatch.com/poster/256744176/s166/season-15.webp"
       }, 
-    ]
+    ],
+    "genre": ["Science-Fiction", "Drama", "Mystery & Thriller", "Fantasy", "Horror"]
   },
 
   {
-    "id":132,
+    "id":130,
     "title": "The Office ",
     "year": 2005,
     "rank": 100,
@@ -4719,7 +4780,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Ruyl8_PT_y8",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -4775,13 +4836,14 @@ let movies = [
         "posterImage": "https://images.justwatch.com/poster/8603758/s166/season-9.webp"
       }, 
 
-    ]
+    ],
+    "genres": ["Comedy"],
   },
 
 
 
   {
-    "id":133,
+    "id":131,
     "title": "The Blacklist ",
     "year": 2013,
     "rank": 243,
@@ -4806,7 +4868,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "z-cTuId0rYs",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -4867,12 +4929,13 @@ let movies = [
         "episodes": 22,
         "posterImage": "https://images.justwatch.com/poster/302759152/s166/season-10.webp"
       }, 
-    ]
+    ],
+    "genre": ["Action & adventure", "Mystery & Thriller", "Drama", "Crime"]
   },
 
 
   {
-    "id":134,
+    "id":132,
     "title": "Arrow ",
     "year": 2012,
     "rank": 378,
@@ -4897,7 +4960,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "sKr3mjsVZzU",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -4946,12 +5009,14 @@ let movies = [
         "episodes": 22,
         "posterImage": "https://www.justwatch.com/images/poster/150304764/s166/season-8.webp"
       }, 
-    ]
+    ],
+    "genre": ["Action & Adventure", "Crime", "Drama", "Science-Fiction"]
+    
   },
 
   
   {
-    "id":135,
+    "id":133,
     "title": "Asur",
     "year": 2020,
     "rank": 82,
@@ -4976,7 +5041,7 @@ let movies = [
     "seenText": "Seenall",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "LDirQBvwx7g",
-    "type" : "series",
+    "type" : ["series", "bollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -4989,11 +5054,12 @@ let movies = [
         "episodes": 8,
         "posterImage": "https://www.justwatch.com/images/poster/320137019/s166/season-2.webp"
       },
-    ]
+    ],
+    "genre": ["Crime", "Drama", "Mystery & Thriller", "Action & Adventure"]
   },
 
   {
-    "id":136,
+    "id":134,
     "title": "Guntur Kaaram",
     "year": 2024,
     "rank": 276,
@@ -5023,7 +5089,7 @@ let movies = [
   },
   
   {
-    "id":137,
+    "id":135,
     "title": "This Is Us",
     "year": 2016,
     "rank": 192,
@@ -5090,7 +5156,7 @@ let movies = [
   },
   
   {
-    "id":138,
+    "id":136,
     "title": "The Handmaid's Tale",
     "year": 2017,
     "rank": 225,
@@ -5151,7 +5217,7 @@ let movies = [
   },
 
   {
-    "id":139,
+    "id":137,
     "title": "Succession",
     "year": 2018,
     "rank": 177,
@@ -5205,7 +5271,7 @@ let movies = [
   },
 
   {
-    "id":140,
+    "id":138,
     "title": "The Office",
     "year": 2005,
     "rank": 65,
