@@ -507,7 +507,7 @@ let movies = [
     "rating": 60,
     "imdbRating": 8.2,
     "imdbVotes": "4.9k",
-    "backdropImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3y_UhlnujVcgvlscDoOBe88pE6hPVaVzUVQ&s",
+    "backdropImage": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2016/04/baaghi-review.jpg",
     "posterImage": "https://m.media-amazon.com/images/M/MV5BMzczODY2ZmMtYjU4MS00MzFjLTk2YTAtYTMyMmFlNTk3OTIyXkEyXkFqcGc@._V1_.jpg",
     "duration": "  2h 14min",
     "highestRank": 28,
