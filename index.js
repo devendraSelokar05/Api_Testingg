@@ -694,26 +694,28 @@ let movies = [
  
   {
     "id":17,
-    "title": "Horizon: An American Saga - Chapter 1", 
-    "year": 2024,
-    "rank":79,
-    "rankChange": "▲ +300",
-    "rating": 6.7,
-    "imdbRating": 7.6,
-    "imdbVotes": "26k",
-    "backdropImage": "https://images.justwatch.com/backdrop/318955943/s1440/horizon-an-american-saga-chapter-1.webp/horizon-an-american-saga-chapter-1.webp",
-    "posterImage": "https://preview.redd.it/official-poster-for-kevin-costners-horizon-v0-360r7vytresb1.jpg?width=640&crop=smart&auto=webp&s=45351eb62f67e0a8360d31512e7878c2c88e9c0d",
-    "duration": "3h 1min",
+    "title": "Avatar", 
+    "year": 2009,
+    "rank":2991,
+    "rankChange": "▲ +2128",
+    "rating": 92,
+    "imdbRating": 7.9,
+    "imdbVotes": "1m",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/8730102/s1440/avatar.webp/avatar.webp",
+    "posterImage": "https://m.media-amazon.com/images/I/61O8KP0CYVS.jpg",
+    "duration": "2h 41min",
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
     ],
-    "likes": "544",
-    "dislikes": "3k",
+    "likes": "50k",
+    "dislikes": "1.3k",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "YYsReoZMj1k"
+    "videoId": "d9MyW72ELq0",
+    "type": "hollywood",
+    "genre" : ["Action & Adventure", "Fantasy", "Science-Fiction"]
   },
 
   {
