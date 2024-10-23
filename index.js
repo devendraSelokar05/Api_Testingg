@@ -739,7 +739,10 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "qQlr9-rF32A"
+    "videoId": "qQlr9-rF32A",
+    "type":["series", "anime", "hollywood"],
+    "genre" : ["Kids & Family", "Comedy", "Action & Adventure", "Animation", "Science-Fiction", "Fantasy"]
+
   },
 
   {
@@ -763,7 +766,9 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId":"hJiPAJKjUVg"
+    "videoId":"hJiPAJKjUVg",
+    "type":"hollywood",
+    "genre": ["Crime", "Horror", "Mystery & Thriller"]
   },
 
   
@@ -792,7 +797,11 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "LEjhY15eCx0"
+    "videoId": "LEjhY15eCx0",
+    "type": ["hollywood","anime"],
+    "genre": ["Drama", "Animation", "Kids & Family", "Action & Adventure", "Comedy", "Fantasy"],
+
+
   },
 
   
