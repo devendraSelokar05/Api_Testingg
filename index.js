@@ -974,7 +974,7 @@ let movies = [
     "imdbRating": 7.8,
     "imdbVotes": "426k",
     "backdropImage": "https://www.justwatch.com/images/backdrop/8541005/s1440/the-fate-of-the-furious.webp/the-fate-of-the-furious.webp",
-    "posterImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDv7-fozy8IScJ3ue9McShXCm6UNJVrfZunQbPJMh5w28cdR1I6ti0mRoyK_tNRabXgPA&usqp=CAU",
+    "posterImage": "https://i.pinimg.com/originals/ef/35/40/ef3540498ccfe3e09729a26622d6fa48.jpg",
     "duration": "  2h 16min",
     "highestRank": 3,
     "top10Days": 90,
