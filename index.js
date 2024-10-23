@@ -881,7 +881,7 @@ let movies = [
     "imdbRating": 6.7,
     "imdbVotes": "293k",
     "backdropImage": "https://www.justwatch.com/images/backdrop/152188580/s1440/jumanji-the-next-level.webp/jumanji-the-next-level.webp",
-    "posterImage": "https://l450v.alamy.com/450v/2wr9g0j/the-bikeriders-poster-2wr9g0j.jpg",
+    "posterImage": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/jumanjithenextlevel_onesheet_1400x2100.jpg?itok=1_kQc_Bz",
     "duration": "  1h 46min",
     "highestRank": 1,
     "top10Days": 28,
