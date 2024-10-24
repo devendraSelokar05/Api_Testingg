@@ -5624,7 +5624,7 @@ let movies = [
     {
       "name": "Nellie Bertram",
       "role" : "Chaterine Tate",
-      "photo": "https://64.media.tumblr.com/481eb7fa451b7ced7eaf55a226aa93b8/tumblr_oj900tIKYx1txsfmto1_540.jpg"
+      "photo": "https://d2thvodm3xyo6j.cloudfront.net/media/2022/04/5d528646bb88a244-1200x675.jpg"
     },
 
   ] 
