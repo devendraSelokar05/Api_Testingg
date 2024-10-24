@@ -5558,7 +5558,61 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/8603758/s166/season-9.webp"
       },
     ],
-    "genre": ["Drama", "Comedy"] 
+    "genre": ["Drama", "Comedy"],
+    "description": "The Office (U.S.) is a mockumentary-style comedy television series that premiered in 2005, adapted from the British series of the same name. Set in the mundane offices of Dunder Mifflin Paper Company in Scranton, Pennsylvania, the show follows the daily lives of the employees as they navigate their work environment, personal relationships, and the eccentricities of their boss, Michael Scott, played by Steve Carell. The series features an ensemble cast, including Rainn Wilson as the eccentric and ambitious salesman Dwight Schrute, Jenna Fischer as the sweet and relatable receptionist Pam Beesly, and John Krasinski as the charming paper salesman Jim Halpert. The unique format of the show allows characters to address the camera directly, providing insight into their thoughts and emotions, which adds to the comedic effect.",
+    "cast": [
+    {
+      "name": "Michael Scott",
+      "photo": "https://www.nbc.com/sites/nbcblog/files/2022/07/the-office-how-to-watch.jpg"
+    },
+
+    {
+      "name": "Katsuki Bakugou",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw68ViM2xtn651x4S53U55Xdl2d0JM92iScA&s"
+    },
+
+    {
+      "name": "Ochaco Uraraka",
+      "photo": "https://i.pinimg.com/736x/ae/51/07/ae51074af794a4761444fd32a6907d50.jpg"
+    },
+
+    {
+      "name": "Denki Kaminari",
+      "photo": "https://i.pinimg.com/736x/6a/13/a2/6a13a2b899383e5ea159fd2a868d87ee.jpg"
+    },
+
+    {
+      "name": "Shoto Todoroki",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjluH5LF9s2PdLen8AvMy015b9jpX-gOkJag&s"
+    },
+
+    {
+      "name": "Tsuyu Asui",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCWXIoArqBvtCCuenHnssqrFQNfAiBugFAA&s"
+    },
+
+    {
+      "name": "All Might",
+      "photo": "https://wallpapers.com/images/hd/all-anime-my-hero-academia-sl2elsl50nf0vsrr.jpg"
+    },
+
+    {
+      "name": "Eijiro Kirishima",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVx7mrEaZBNphzZTiOE8gUCTf4ioaP7HaBsQ&s"
+    },
+
+    {
+      "name": "Tenya Iida",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qFNLSb8zVZ4kKJ9CQ1n4ruROgXy3Gjx7PQ&s"
+    },
+
+    {
+      "name": "Momo Yaoyorozu",
+      "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/My-Hero-Academia-Momo-Yaoyorozu-Feature.jpg"
+    },
+
+  ] 
+    
   },
 
   {
