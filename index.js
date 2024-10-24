@@ -6033,7 +6033,26 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/320055932/s166/season-4.webp"
       },
     ],
-    "genre": ["Science-Fiction", "Animation"," Drama", "Action & Adventure", "Fantasy", "Horror", "Mystery & Thriller", "Kids & Family"]
+    "genre": ["Science-Fiction", "Animation"," Drama", "Action & Adventure", "Fantasy", "Horror", "Mystery & Thriller", "Kids & Family"],
+    "description": "Tokyo Ghoul follows the story of a college student who becomes part ghoul after surviving an attack from one. He must now live between the human and ghoul worlds.",
+    "cast": [
+    {
+      "name": "Natsuki Hanae",
+      "photo": "https://example.com/natsuki-hanae.jpg"
+    },
+    {
+      "name": "Sora Amamiya",
+      "photo": "https://example.com/sora-amamiya.jpg"
+    },
+    {
+      "name": "Kana Hanazawa",
+      "photo": "https://example.com/kana-hanazawa.jpg"
+    },
+    {
+      "name": "Mamoru Miyano",
+      "photo": "https://example.com/mamoru-miyano.jpg"
+    }
+  ]
 
     }
 
