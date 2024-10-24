@@ -5563,11 +5563,13 @@ let movies = [
     "cast": [
     {
       "name": "Michael Scott",
+      "role": "John Krasinski",
       "photo": "https://jeprades.github.io/michael-scott-tribute/images/michael-scott-header.png"
     },
 
     {
       "name": "Pam Beesly",
+      "role" : "Jenna Fischer",
       "photo": "https://images.squarespace-cdn.com/content/v1/59321c90b8a79b875d416c51/1597173626096-CDZGXGAX80OCS7SX1H03/IMG_8069.jpg"
     },
 
@@ -5579,6 +5581,7 @@ let movies = [
 
     {
       "name": "jan Levinson",
+      "role" : "Melora Hardin",
       "photo": "https://www.denofgeek.com/wp-content/uploads/2022/09/Jan-Levinson.jpg?fit=1200%2C675"
     },
 
