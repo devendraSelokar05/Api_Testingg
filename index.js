@@ -5644,13 +5644,13 @@ let movies = [
     },
 
     {
-      "name": "Roronona Zoro",
-      "photo": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/04/20/one-piece-zoro-in-wano-arc.jpeg?width=1200&quality=60&format=auto"
+      "name": "Ochaco Uraraka",
+      "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/296d1088-a716-4003-b887-27acd08e9052/width=450/01726-autismmixSDXL_autismmixConfetti20240414223902.jpeg"
     },
 
     {
-      "name": "Nico Robin",
-      "photo": "https://beebom.com/wp-content/uploads/2023/06/Robin-Laughing.jpg?w=432"
+      "name": "Denki Kaminari",
+      "photo": "https://i.pinimg.com/736x/6a/13/a2/6a13a2b899383e5ea159fd2a868d87ee.jpg"
     },
 
     {
