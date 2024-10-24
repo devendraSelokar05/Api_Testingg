@@ -5806,7 +5806,72 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/33474763/s166/season-24.webp"
       },
     ],
-    "genre": ["Animation", "Action & Adventure", "Science-Fiction", "Comedy", "Drama", "Fantasy"] 
+    "genre": ["Animation", "Action & Adventure", "Science-Fiction", "Comedy", "Drama", "Fantasy"],
+    "description": "Naruto Shippuden is the continuation of the original Naruto anime, based on the manga by Masashi Kishimoto. The series picks up approximately two and a half years after the events of the first installment, following the journey of Naruto Uzumaki, a young ninja with dreams of becoming the strongest Hokage (leader) of his village, the Hidden Leaf Village (Konoha).In Shippuden, Naruto returns from his training with Jiraiya, eager to reunite with his friends and continue his quest to bring back his friend Sasuke Uchiha, who has left the village in pursuit of power. The series delves deeper into the complex relationships among the characters, especially the themes of friendship, loyalty, and redemption.",
+    "cast": [
+    {
+      "name": "Uzumaki Naruto",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGr9nqscZBqmD_lc0CGx7ZgMpaHZeTogdLg&s"
+    },
+
+    {
+      "name": "Sasuke Uchiha",
+      "photo": "https://preview.redd.it/r3b2ic3lylw61.jpg?auto=webp&s=6b78275917898bdcd7374fb35a122d6e20e62a14s"
+    },
+
+    {
+      "name": "Roronona Zoro",
+      "photo": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/04/20/one-piece-zoro-in-wano-arc.jpeg?width=1200&quality=60&format=auto"
+    },
+
+    {
+      "name": "Nico Robin",
+      "photo": "https://beebom.com/wp-content/uploads/2023/06/Robin-Laughing.jpg?w=432"
+    },
+
+    {
+      "name": "Shanks",
+      "photo": "https://lh5.googleusercontent.com/zN_gwl5WqKbSjSVxJBMyxgkJjCQiORWEzA00emQcHQs5DFQSxM_GqYgH6DjUfWWSeiRTOCSlgNve4zqulzehAHvSm3HD9ydGXN4YQl5Q5oTf4AYfhvZtlME5Xtca52UaxcrdgNjHOlAl982r2-gOIFI"
+    },
+
+    {
+      "name": "Boa Hancock",
+      "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/Featured-Image-Boa-Hancock-Cropped.jpg"
+    },
+
+    {
+      "name": "Monkey D. Garp",
+      "photo": "https://i.pinimg.com/originals/02/a0/ef/02a0ef57af24aa729ec4128505e1234a.jpg"
+    },
+
+    {
+      "name": "Koby",
+      "photo": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/koby-one-piece.jpg"
+    },
+
+    {
+      "name": "Sanji",
+      "photo": "https://i.pinimg.com/originals/d3/51/84/d351847348dd0dabeac308be8e2bb072.jpg"
+    },
+
+    {
+      "name": "Nefertari Vivi",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpS2YLwoavPJ7_47gNQzUTewiMDMA4dR1KvNGvfN0-u7ZDtDGzqWaQu8HQcT7_gDpXxA&usqp=CAU"
+    },
+
+    
+    {
+      "name": "Monkey D. Dragon",
+      "photo": "https://wallpapers.com/images/hd/monkey-d-dragon-digital-portrait-4eljzh8l5vplhk4j.jpg"
+    },
+
+    
+    {
+      "name": "Tonny Tonny Chopper",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfZnp3E6Rqgo3rO0OneflEfvzqZ74fAmQkg&s"
+    }
+
+  ]
   },
 
   {
