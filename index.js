@@ -5846,7 +5846,7 @@ let movies = [
 
     {
       "name": "Shizune",
-      "photo": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/koby-one-piece.jpg"
+      "photo": "https://go_service.aieasypic.com/?url=https%3A%2F%2Fimage.civitai.com%2FxG1nkqKTMzGDvpLrqFT7WA%2Fed954d93-97b5-4ed4-a5da-b187d55e21b2%2Fwidth%3D450%2F4214000.jpeg&type=webp&width=500&quality=60&civitai=true"
     },
 
     {
