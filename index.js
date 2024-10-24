@@ -5578,7 +5578,9 @@ let movies = [
     "top100Days": 300,
     "top1000Days": 2506,
     "watchOptions": [
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
+      {"platform": "Amazon Prime", "price": "Rs500/-"},
+      {"platform": "Netflix", "price": "Rs 800/-"},
+      {"platform": "Applle TV+", "price": "Rs 1500/-"},
     ],
     "likes": "8.2k",
     "dislikes": "500",
