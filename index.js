@@ -5987,7 +5987,7 @@ let movies = [
 
     {
       "name": "Nami",
-      "photo": "https://static.wikia.nocookie.net/onepiece/images/8/86/Nami_im_Alter_von_20_Jahren_auf_dem_Sabaody-Archipel.jpg/revision/latest?cb=20111002152718&path-prefix=de"
+      "photo": "https://wallpapers-clan.com/wp-content/uploads/2024/03/beautiful-nami-one-piece-desktop-wallpaper-preview.jpg"
     },
 
     {
@@ -6012,7 +6012,7 @@ let movies = [
 
     {
       "name": "Monkey D. Garp",
-      "photo": "https://i.pinimg.com/originals/3e/f0/66/3ef06638ed95626baa5d73cadbe53854.jpg"
+      "photo": "https://wallpapers.com/images/hd/cheerful-monkey-d-garp-706bzirsr2tsa9bn.jpg"
     }
 
   ]
