@@ -5474,7 +5474,76 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/304268634/s166/season-4.webp"
       },
     ],
-    "genre": ["Drama", "Comedy"] 
+    "genre": ["Drama", "Comedy"],
+    "description": "Succession is a critically acclaimed drama television series that premiered in 2018 on HBO. Created by Jesse Armstrong, the show centers around the powerful Roy family, owners of a global media empire, and their internal power struggles as they grapple with the impending retirement of the family patriarch, Logan Roy, portrayed by Brian Cox.The series explores themes of power, family loyalty, betrayal, and the complexities of wealth and privilege. As Logan’s children—Kendall (Jeremy Strong), Shiv (Sarah Snook), Roman (Kieran Culkin), and Connor (Alan Ruck)—jockey for position to inherit their father’s empire, their relationships become increasingly strained. Each character embodies distinct personality traits and ambitions, creating a tense and often darkly comedic atmosphere.",
+    "cast": [
+    {
+      "name": "Jeremy Strong",
+
+      "photo": "https://jeprades.github.io/michael-scott-tribute/images/michael-scott-header.png"
+    },
+
+    {
+      "name": "Pam Beesly",
+      "character" : "Jenna Fischer",
+      "photo": "https://images.squarespace-cdn.com/content/v1/59321c90b8a79b875d416c51/1597173626096-CDZGXGAX80OCS7SX1H03/IMG_8069.jpg"
+    },
+
+    {
+      "name": "Erin Hanon",
+      "character" : "Ellie kamper",
+      "photo": "https://brobible.com/wp-content/uploads/2018/09/best-of-erin-the-office-moments.jpg"
+    },
+
+    {
+      "name": "jan Levinson",
+      "character" : "Melora Hardin",
+      "photo": "https://www.denofgeek.com/wp-content/uploads/2022/09/Jan-Levinson.jpg?fit=1200%2C675"
+    },
+
+    {
+      "name": "Jim Harplet",
+      "character" : "John Krasinski",
+      "photo": "https://parade.com/.image/t_share/MjAzNDg1MjIxMzU2NTc4NjEy/john-krasinski-net-worth.jpg"
+    },
+
+    {
+      "name": "Dwight Schrute",
+      "character" : "Rainn Wilson",
+      "photo": "https://www.myany.city/sites/default/files/styles/scaled_cropped_medium__260x260/public/field/image/node-related-images/sample-dwight-k-schrute.jpg?itok=8TfRscbA"
+    },
+
+    {
+      "name": "Karen Filippelli",
+      "character" : "Rashida Jones",
+      "photo": "https://www.nbc.com/sites/nbcblog/files/2023/07/the-office-karen-filippelli-4.jpg"
+    },
+
+    {
+      "name": "Creed Bratton",
+      "character" : "Creed Bratton",
+      "photo": "https://creedbratton.com/cdn/shop/files/about_3024x.jpg?v=1702927857"
+    },
+
+    {
+      "name": "Kevin Malone",
+      "character" : "Brian Baumgartner",
+      "photo": "https://people.com/thmb/uOz-W_vRpGFK4ttzVaGLkmoGdcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(639x0:641x2)/GettyImages-915596304-0247dbf9c44544abbe1e8b7ebab010db.jpg"
+    },
+
+    {
+      "name": "Angela Martin",
+      "character" : "Angela Kinsey",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRw5aSuIzKe4qe0GDTiGLwq8W5ToZrhqmfGA&s"
+    },
+
+    {
+      "name": "Nellie Bertram",
+      "character" : "Chaterine Tate",
+      "photo": "https://d2thvodm3xyo6j.cloudfront.net/media/2022/04/5d528646bb88a244-1200x675.jpg"
+    },
+
+  ] 
   },
 
   {
@@ -5563,67 +5632,67 @@ let movies = [
     "cast": [
     {
       "name": "Michael Scott",
-      "role": "Steve Carell",
+      "character": "Steve Carell",
       "photo": "https://jeprades.github.io/michael-scott-tribute/images/michael-scott-header.png"
     },
 
     {
       "name": "Pam Beesly",
-      "role" : "Jenna Fischer",
+      "character" : "Jenna Fischer",
       "photo": "https://images.squarespace-cdn.com/content/v1/59321c90b8a79b875d416c51/1597173626096-CDZGXGAX80OCS7SX1H03/IMG_8069.jpg"
     },
 
     {
       "name": "Erin Hanon",
-      "role" : "Ellie kamper",
+      "character" : "Ellie kamper",
       "photo": "https://brobible.com/wp-content/uploads/2018/09/best-of-erin-the-office-moments.jpg"
     },
 
     {
       "name": "jan Levinson",
-      "role" : "Melora Hardin",
+      "character" : "Melora Hardin",
       "photo": "https://www.denofgeek.com/wp-content/uploads/2022/09/Jan-Levinson.jpg?fit=1200%2C675"
     },
 
     {
       "name": "Jim Harplet",
-      "role" : "John Krasinski",
+      "character" : "John Krasinski",
       "photo": "https://parade.com/.image/t_share/MjAzNDg1MjIxMzU2NTc4NjEy/john-krasinski-net-worth.jpg"
     },
 
     {
       "name": "Dwight Schrute",
-      "role" : "Rainn Wilson",
+      "character" : "Rainn Wilson",
       "photo": "https://www.myany.city/sites/default/files/styles/scaled_cropped_medium__260x260/public/field/image/node-related-images/sample-dwight-k-schrute.jpg?itok=8TfRscbA"
     },
 
     {
       "name": "Karen Filippelli",
-      "role" : "Rashida Jones",
+      "character" : "Rashida Jones",
       "photo": "https://www.nbc.com/sites/nbcblog/files/2023/07/the-office-karen-filippelli-4.jpg"
     },
 
     {
       "name": "Creed Bratton",
-      "role" : "Creed Bratton",
+      "character" : "Creed Bratton",
       "photo": "https://creedbratton.com/cdn/shop/files/about_3024x.jpg?v=1702927857"
     },
 
     {
       "name": "Kevin Malone",
-      "role" : "Brian Baumgartner",
+      "character" : "Brian Baumgartner",
       "photo": "https://people.com/thmb/uOz-W_vRpGFK4ttzVaGLkmoGdcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(639x0:641x2)/GettyImages-915596304-0247dbf9c44544abbe1e8b7ebab010db.jpg"
     },
 
     {
       "name": "Angela Martin",
-      "role" : "Angela Kinsey",
+      "character" : "Angela Kinsey",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRw5aSuIzKe4qe0GDTiGLwq8W5ToZrhqmfGA&s"
     },
 
     {
       "name": "Nellie Bertram",
-      "role" : "Chaterine Tate",
+      "character" : "Chaterine Tate",
       "photo": "https://d2thvodm3xyo6j.cloudfront.net/media/2022/04/5d528646bb88a244-1200x675.jpg"
     },
 
@@ -5706,61 +5775,61 @@ let movies = [
     "description": "My Hero Academia (Boku no Hero Academia) is a popular anime and manga series created by Kohei Horikoshi. Set in a world where the majority of the population possesses superpowers known as Quirks, the story follows a young boy named Izuku Midoriya. Born without a Quirk, Izuku dreams of becoming a hero like his idol, All Might, the world's greatest hero.When he unexpectedly inherits All Might's powerful Quirk, One For All, Izuku is granted the chance to attend U.A. High School, a prestigious academy for aspiring heroes. Here, he trains alongside a diverse group of classmates, each with unique abilities and personalities, including the fiery Shoto Todoroki and the determined Ochaco Uraraka.",
     "cast": [
     {
-      "role": "Izuku Midoriya",
+      "character": "Izuku Midoriya",
       "name": "Justin Briner",
       "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a5258082-3128-475e-ab92-1a5eae6eb35b/width=450/pixai-1648288826444539350-0.jpeg"
     },
 
     {
-      "role": "Katsuki Bakugou",
+      "character": "Katsuki Bakugou",
       "name": "Clifford Chapin",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw68ViM2xtn651x4S53U55Xdl2d0JM92iScA&s"
     },
 
     {
-      "role": "Ochaco Uraraka",
+      "character": "Ochaco Uraraka",
       "name": "Ayane Sakura",
       "photo": "https://i.pinimg.com/736x/ae/51/07/ae51074af794a4761444fd32a6907d50.jpg"
     },
 
     {
-      "role": "Denki Kaminari",
+      "character": "Denki Kaminari",
       "name": "Kyle Phillips",
       "photo": "https://i.pinimg.com/736x/6a/13/a2/6a13a2b899383e5ea159fd2a868d87ee.jpg"
     },
 
     {
-      "role": "Shoto Todoroki",
+      "character": "Shoto Todoroki",
       "name": "David Matranga",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjluH5LF9s2PdLen8AvMy015b9jpX-gOkJag&s"
     },
 
     {
-      "role": "Tsuyu Asui",
+      "character": "Tsuyu Asui",
       "name": "Monica Rial",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCWXIoArqBvtCCuenHnssqrFQNfAiBugFAA&s"
     },
 
     {
-      "role": "All Might",
+      "character": "All Might",
       "name": "Kenta Miyake",
       "photo": "https://wallpapers.com/images/hd/all-anime-my-hero-academia-sl2elsl50nf0vsrr.jpg"
     },
 
     {
-      "role": "Eijiro Kirishima",
+      "character": "Eijiro Kirishima",
       "name": "Justin Cook",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVx7mrEaZBNphzZTiOE8gUCTf4ioaP7HaBsQ&s"
     },
 
     {
-      "role": "Tenya Iida",
+      "character": "Tenya Iida",
       "name": "Kaito Ishikawa",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qFNLSb8zVZ4kKJ9CQ1n4ruROgXy3Gjx7PQ&s"
     },
 
     {
-      "role": "Momo Yaoyorozu",
+      "character": "Momo Yaoyorozu",
       "name": "Colleen Clinkenbeared",
       "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/My-Hero-Academia-Momo-Yaoyorozu-Feature.jpg"
     },
@@ -5945,61 +6014,61 @@ let movies = [
     "description": "Naruto Shippuden is the continuation of the original Naruto anime, based on the manga by Masashi Kishimoto. The series picks up approximately two and a half years after the events of the first installment, following the journey of Naruto Uzumaki, a young ninja with dreams of becoming the strongest Hokage (leader) of his village, the Hidden Leaf Village (Konoha).In Shippuden, Naruto returns from his training with Jiraiya, eager to reunite with his friends and continue his quest to bring back his friend Sasuke Uchiha, who has left the village in pursuit of power. The series delves deeper into the complex relationships among the characters, especially the themes of friendship, loyalty, and redemption.",
     "cast": [
     {
-      "role": "Uzumaki Naruto",
+      "character": "Uzumaki Naruto",
       "name" : "Junko Takeuchi",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGr9nqscZBqmD_lc0CGx7ZgMpaHZeTogdLg&s"
     },
 
     {
-      "role": "Sasuke Uchiha",
+      "character": "Sasuke Uchiha",
       "name" : "Noriaki Sugiyama",
       "photo": "https://imgix.ranker.com/list_img_v2/1377/2681377/original/best-sasuke-uchiha-quotes?fit=crop&fm=pjpg&q=80&dpr=2&w=1200&h=720"
     },
 
     {
-      "role": "Kakashi Hatake",
+      "character": "Kakashi Hatake",
       "name" : "Kenichi Suzumura",
       "photo": "https://wallshub.com/uploads/posts/2024-05/462cee137f_epic-kakashi-hatake.webp"
     },
 
     {
-      "role": "Itachi Uchiha",
+      "character": "Itachi Uchiha",
       "name" : "Hideo Ishikawa",
       "photo": "https://i.pinimg.com/736x/9a/63/06/9a6306db28f70d27f39249e0044da128.jpg"
     },
 
     {
-      "role": "Deidara",
+      "character": "Deidara",
       "name" : "Katsuhiko Kawamoto",
       "photo": "https://i.pinimg.com/originals/15/64/d9/1564d9c329586d3f3064110a7dac5331.jpg"
     },
 
     {
-      "role": "Kushina Uzumaki",
+      "character": "Kushina Uzumaki",
       "name" : "Emi Shinohara",
       "photo": "https://e1.pxfuel.com/desktop-wallpaper/222/853/desktop-wallpaper-kushina-uzumaki-by-lunasaki10-kushina-uzumaki.jpg"
     },
 
     {
-      "role": "karin",
+      "character": "karin",
       "name" : "Kanako Toujô",
       "photo": "https://image.cdn2.seaart.ai/2024-02-07/cn1mvtde878c73bg0f10/82340e34d58721257beb8b2719f46574bc9f59bf_high.webp"
     },
 
     {
-      "role": "Shizune",
+      "character": "Shizune",
       "name" : "Keiko Nemoto",
       "photo": "https://go_service.aieasypic.com/?url=https%3A%2F%2Fimage.civitai.com%2FxG1nkqKTMzGDvpLrqFT7WA%2Fed954d93-97b5-4ed4-a5da-b187d55e21b2%2Fwidth%3D450%2F4214000.jpeg&type=webp&width=500&quality=60&civitai=true"
     },
 
     {
-      "role": "Temari Romi Park",
+      "character": "Temari Romi Park",
       "name" : "Romi Park",
       "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ddcf4700-3167-4b8e-a172-8e0b990b0692/width=450/00756-649156240.jpeg"
     },
 
     {
-      "role": "Tenten",
+      "character": "Tenten",
       "name" : "Yukari Tamura",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAwQFs8JiSwfjc-OvJyeU4VIQTfzktT5XrBg&s"
     },
@@ -6178,75 +6247,75 @@ let movies = [
     "description": "One Piece is a legendary adventure anime based on the manga by Eiichiro Oda. It follows the journey of Monkey D. Luffy, a young pirate with the dream of becoming the Pirate King by finding the mysterious and coveted treasure known as the One Piece. Set in a vast world filled with dangerous seas, mythical creatures, and powerful pirates, the story is full of excitement, humor, and heartwarming moments.Luffy, who gains rubber-like abilities after eating a Devil Fruit, assembles a diverse crew known as the Straw Hat Pirates, each member with their unique dreams and backstories. Together, they sail across the Grand Line, facing dangerous enemies, powerful marine forces, and other pirates who are also searching for the One Piece.",
     "cast": [
     {
-      "role": "Monkey D. Luffy",
+      "character": "Monkey D. Luffy",
       "name" : "Iñaki Godoy",
       "photo": "https://i.pinimg.com/564x/b7/27/58/b7275872bc129499881522ce5e50af92.jpg"
     },
 
     {
-      "role": "Nami",
+      "character": "Nami",
       "name" : "Emily Rudd",
       "photo": "https://imagedelivery.net/LBWXYQ-XnKSYxbZ-NuYGqQ/e3626abf-41c9-4d6e-a4ed-b920e30dda00/avatarhd"
     },
 
     {
-      "role": "Roronona Zoro",
+      "character": "Roronona Zoro",
       "name" : "Mackenyu",
       "photo": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/04/20/one-piece-zoro-in-wano-arc.jpeg?width=1200&quality=60&format=auto"
     },
 
     {
-      "role": "Nico Robin",
+      "character": "Nico Robin",
       "name" : "Stephanie Young",
       "photo": "https://beebom.com/wp-content/uploads/2023/06/Robin-Laughing.jpg?w=432"
     },
 
     {
-      "role": "Shanks",
+      "character": "Shanks",
       "name" : "Peter Gadot",
       "photo": "https://lh5.googleusercontent.com/zN_gwl5WqKbSjSVxJBMyxgkJjCQiORWEzA00emQcHQs5DFQSxM_GqYgH6DjUfWWSeiRTOCSlgNve4zqulzehAHvSm3HD9ydGXN4YQl5Q5oTf4AYfhvZtlME5Xtca52UaxcrdgNjHOlAl982r2-gOIFI"
     },
 
     {
-      "role": "Boa Hancock",
+      "character": "Boa Hancock",
       "name" : "Lydia Mackay",
       "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/Featured-Image-Boa-Hancock-Cropped.jpg"
     },
 
     {
-      "role": "Monkey D. Garp",
+      "character": "Monkey D. Garp",
       "name" : "Vincent Regan",
       "photo": "https://i.pinimg.com/originals/02/a0/ef/02a0ef57af24aa729ec4128505e1234a.jpg"
     },
 
     {
-      "role": "Koby",
+      "character": "Koby",
       "name" : "Mika Doi",
       "photo": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/koby-one-piece.jpg"
     },
 
     {
-      "role": "Sanji",
+      "character": "Sanji",
       "name" : "Taz Skylar",
       "photo": "https://i.pinimg.com/originals/d3/51/84/d351847348dd0dabeac308be8e2bb072.jpg"
     },
 
     {
-      "role": "Nefertari Vivi",
+      "character": "Nefertari Vivi",
       "name" : "Misa Watanabe",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpS2YLwoavPJ7_47gNQzUTewiMDMA4dR1KvNGvfN0-u7ZDtDGzqWaQu8HQcT7_gDpXxA&usqp=CAU"
     },
 
     
     {
-      "role": "Monkey D. Dragon",
+      "character": "Monkey D. Dragon",
       "name" : "Richard Epcar",
       "photo": "https://wallpapers.com/images/hd/monkey-d-dragon-digital-portrait-4eljzh8l5vplhk4j.jpg"
     },
 
     
     {
-      "role": "Tonny Tonny Chopper",
+      "character": "Tonny Tonny Chopper",
       "name" : "Hiroshi Kamiya",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfZnp3E6Rqgo3rO0OneflEfvzqZ74fAmQkg&s"
     }
@@ -6313,43 +6382,43 @@ let movies = [
     "description": "Tokyo Ghoul is a dark fantasy anime series based on the manga by Sui Ishida. The story is set in a world where flesh-eating ghouls secretly live among humans. These ghouls possess superhuman abilities and can only survive by consuming human flesh. The plot follows Ken Kaneki, a shy college student who becomes a half-ghoul after a near-fatal encounter with one of these creatures.After a life-saving surgery that involves the transplant of ghoul organs into his body, Kaneki struggles to adjust to his new identity, torn between his human and ghoul natures. The series explores themes of survival, identity, morality, and what it means to be human. It delves into the emotional and physical toll Kaneki endures as he navigates the dangerous world of ghouls while trying to protect his loved ones",
     "cast": [
     {
-      "role": "Koutarou Amon",
+      "character": "Koutarou Amon",
       "name": "Mike McFarland",
       "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3ad6f880-c77e-4e7d-acc6-abb75033b11c/width=1200/3ad6f880-c77e-4e7d-acc6-abb75033b11c.jpeg"
     },
 
     {
-      "role": "Hinami Fueguchi",
+      "character": "Hinami Fueguchi",
       "name": "Sumire Morohoshi",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIok1DL1rOHCLyu7hZo5EFYwEYXIWh5RFgYg&s"
     },
 
     {
-      "role": "Nishio Nishiki",
+      "character": "Nishio Nishiki",
       "name": "Shunya Shiraishi",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaWnGpOtkn4H_fT5lWGJ-uSQbPMkDqeClDg&s"
     },
 
     {
-      "role": "Renji Yemo",
+      "character": "Renji Yemo",
       "name": "Shuntarō Yanagi",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs0O2Shk0B7GLiKcMbpWHNfSfnoA3PBhfQgw&s"
     },
 
     {
-      "role": "Itori",
+      "character": "Itori",
       "name": "jamie Marchi",
       "photo": "https://i.pinimg.com/236x/3e/4f/3f/3e4f3f27cdb811344a9e2b67676250cd.jpg"
     },
 
     {
-      "role": "Enji Koma",
+      "character": "Enji Koma",
       "name": "Kenta Hamano",
       "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5fad0c18-84e0-4ab1-953f-64d5ec6a1b94/width=1200/5fad0c18-84e0-4ab1-953f-64d5ec6a1b94.jpeg"
     },
 
     {
-      "role": "Kimi Nishino",
+      "character": "Kimi Nishino",
       "name": "Caitlin Glass",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CMV0tbhWKR8bx-HKXrvEMcK9jW445Bmq-g3vXyoz97WubFNSceTp-KLvPLS86pOqqfc&usqp=CAU"
     }
