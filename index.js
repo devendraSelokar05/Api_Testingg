@@ -5573,12 +5573,12 @@ let movies = [
 
     {
       "name": "Erin Hanon",
-      "photo": "https://i.pinimg.com/736x/ae/51/07/ae51074af794a4761444fd32a6907d50.jpg"
+      "photo": "https://i.pinimg.com/originals/ae/b5/0c/aeb50c7c1a667d3bb387c30c80105e55.jpg"
     },
 
     {
       "name": "jan Levinson",
-      "photo": "https://i.pinimg.com/736x/6a/13/a2/6a13a2b899383e5ea159fd2a868d87ee.jpg"
+      "photo": "https://www.denofgeek.com/wp-content/uploads/2022/09/Jan-Levinson.jpg?fit=1200%2C675"
     },
 
     {
