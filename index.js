@@ -5645,7 +5645,7 @@ let movies = [
 
     {
       "name": "Ochaco Uraraka",
-      "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/296d1088-a716-4003-b887-27acd08e9052/width=450/01726-autismmixSDXL_autismmixConfetti20240414223902.jpeg"
+      "photo": "https://i.pinimg.com/736x/ae/51/07/ae51074af794a4761444fd32a6907d50.jpg"
     },
 
     {
@@ -5654,13 +5654,13 @@ let movies = [
     },
 
     {
-      "name": "Shanks",
-      "photo": "https://lh5.googleusercontent.com/zN_gwl5WqKbSjSVxJBMyxgkJjCQiORWEzA00emQcHQs5DFQSxM_GqYgH6DjUfWWSeiRTOCSlgNve4zqulzehAHvSm3HD9ydGXN4YQl5Q5oTf4AYfhvZtlME5Xtca52UaxcrdgNjHOlAl982r2-gOIFI"
+      "name": "Shoto Todoroki",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjluH5LF9s2PdLen8AvMy015b9jpX-gOkJag&s"
     },
 
     {
-      "name": "Boa Hancock",
-      "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/Featured-Image-Boa-Hancock-Cropped.jpg"
+      "name": "Tsuyu Asui",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCWXIoArqBvtCCuenHnssqrFQNfAiBugFAA&s"
     },
 
     {
