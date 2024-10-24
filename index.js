@@ -5563,21 +5563,21 @@ let movies = [
     "cast": [
     {
       "name": "Michael Scott",
-      "photo": "https://www.nbc.com/sites/nbcblog/files/2022/07/the-office-how-to-watch.jpg"
+      "photo": "https://jeprades.github.io/michael-scott-tribute/images/michael-scott-header.png"
     },
 
     {
-      "name": "Katsuki Bakugou",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw68ViM2xtn651x4S53U55Xdl2d0JM92iScA&s"
+      "name": "Pam Beesly",
+      "photo": "https://images.squarespace-cdn.com/content/v1/59321c90b8a79b875d416c51/1597173626096-CDZGXGAX80OCS7SX1H03/IMG_8069.jpg"
     },
 
     {
-      "name": "Ochaco Uraraka",
+      "name": "Erin Hanon",
       "photo": "https://i.pinimg.com/736x/ae/51/07/ae51074af794a4761444fd32a6907d50.jpg"
     },
 
     {
-      "name": "Denki Kaminari",
+      "name": "jan Levinson",
       "photo": "https://i.pinimg.com/736x/6a/13/a2/6a13a2b899383e5ea159fd2a868d87ee.jpg"
     },
 
