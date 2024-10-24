@@ -6038,7 +6038,7 @@ let movies = [
     "cast": [
     {
       "name": "Koutarou Amon",
-      "photo": "https://image.tensorartassets.com/model_showcase/654653930732599205/3b6cf3f4-d508-0f70-e429-a6c3f84dc0dd.jpeg"
+      "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3ad6f880-c77e-4e7d-acc6-abb75033b11c/width=1200/3ad6f880-c77e-4e7d-acc6-abb75033b11c.jpeg"
     },
     {
       "name": "Hinami Fueguchi",
