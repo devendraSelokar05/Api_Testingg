@@ -5980,6 +5980,63 @@ let movies = [
     "genre": ["Animation", "Action & Adventure", "Science-Fiction", "Comedy", "Drama", "Fantasy"] 
   },
 
+  {
+    "id":149,
+    "title": "Tokyo Ghoul",
+    "year": 2014,
+    "rank": 1100,
+    "rankChange": "▲ +569",
+    "rating": 82,
+    "imdbRating": 7.7,
+    "imdbVotes": "301k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/309016903/s1440/tokyo-ghoul.webp/tokyo-ghoul.webp",
+    "posterImage": "https://i.pinimg.com/736x/bb/d5/9b/bbd59b6cbfb0d1a2a1b64da1accd76a8.jpg",
+    "duration": "24min",
+    "highestRank": 17,
+    "top10Days": 30,
+    "top100Days": 331,
+    "top1000Days": 1190,
+    "watchOptions": [
+
+      {"platform": "Amazon Prime", "price": "Rs500/-"},
+      {"platform": "Netflix", "price": "Rs 800/-"},
+    ],
+    "likes": "7.7k",
+    "dislikes": "1k",
+    "watchlistText": "List",
+    "seenText": "Seenall",
+    "syncText": "Sign in to Sync Watchlist",
+    "videoId": "UUeqpuZobBw",
+    "type" : ["series", "hollywood", "anime"],
+    "seasons": [ // Add season details here
+      {
+        "seasonNumber": 1,
+        "episodes": 12,
+        "posterImage": "https://www.justwatch.com/images/poster/199427082/s166/season-1.webp"
+      },
+
+      {
+        "seasonNumber": 2,
+        "episodes": 12,
+        "posterImage": "https://www.justwatch.com/images/poster/79604567/s166/season-2.webp"
+      },
+
+      {
+        "seasonNumber": 3,
+        "episodes": 12,
+        "posterImage": "https://www.justwatch.com/images/poster/199427057/s166/season-3.webp"
+      },
+
+      {
+        "seasonNumber": 4,
+        "episodes": 12,
+        "posterImage": "https://www.justwatch.com/images/poster/320055932/s166/season-4.webp"
+      },
+    ],
+    "genre": ["Science-Fiction", "Animation"," Drama", "Action & Adventure", "Fantasy", "Horror", "Mystery & Thriller"]
+
+    }
+
 
  
 
