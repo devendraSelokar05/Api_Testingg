@@ -6168,64 +6168,76 @@ let movies = [
     "description": "One Piece is a legendary adventure anime based on the manga by Eiichiro Oda. It follows the journey of Monkey D. Luffy, a young pirate with the dream of becoming the Pirate King by finding the mysterious and coveted treasure known as the One Piece. Set in a vast world filled with dangerous seas, mythical creatures, and powerful pirates, the story is full of excitement, humor, and heartwarming moments.Luffy, who gains rubber-like abilities after eating a Devil Fruit, assembles a diverse crew known as the Straw Hat Pirates, each member with their unique dreams and backstories. Together, they sail across the Grand Line, facing dangerous enemies, powerful marine forces, and other pirates who are also searching for the One Piece.",
     "cast": [
     {
-      "name": "Monkey D. Luffy",
+      "role": "Monkey D. Luffy",
+      "name" : "Iñaki Godoy",
       "photo": "https://i.pinimg.com/564x/b7/27/58/b7275872bc129499881522ce5e50af92.jpg"
     },
 
     {
-      "name": "Nami",
+      "role": "Nami",
+      "name" : "Emily Rudd",
       "photo": "https://imagedelivery.net/LBWXYQ-XnKSYxbZ-NuYGqQ/e3626abf-41c9-4d6e-a4ed-b920e30dda00/avatarhd"
     },
 
     {
-      "name": "Roronona Zoro",
+      "role": "Roronona Zoro",
+      "name" : "Mackenyu",
       "photo": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/04/20/one-piece-zoro-in-wano-arc.jpeg?width=1200&quality=60&format=auto"
     },
 
     {
-      "name": "Nico Robin",
+      "role": "Nico Robin",
+      "name" : "Stephanie Young",
       "photo": "https://beebom.com/wp-content/uploads/2023/06/Robin-Laughing.jpg?w=432"
     },
 
     {
-      "name": "Shanks",
+      "role": "Shanks",
+      "name" : "Peter Gadot",
       "photo": "https://lh5.googleusercontent.com/zN_gwl5WqKbSjSVxJBMyxgkJjCQiORWEzA00emQcHQs5DFQSxM_GqYgH6DjUfWWSeiRTOCSlgNve4zqulzehAHvSm3HD9ydGXN4YQl5Q5oTf4AYfhvZtlME5Xtca52UaxcrdgNjHOlAl982r2-gOIFI"
     },
 
     {
-      "name": "Boa Hancock",
+      "role": "Boa Hancock",
+      "name" : "Lydia Mackay",
       "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/Featured-Image-Boa-Hancock-Cropped.jpg"
     },
 
     {
-      "name": "Monkey D. Garp",
+      "role": "Monkey D. Garp",
+      "name" : "Vincent Regan",
       "photo": "https://i.pinimg.com/originals/02/a0/ef/02a0ef57af24aa729ec4128505e1234a.jpg"
     },
 
     {
-      "name": "Koby",
+      "role": "Koby",
+      "name" : "Mika Doi",
       "photo": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/koby-one-piece.jpg"
     },
 
     {
-      "name": "Sanji",
+      "role": "Sanji",
+      "name" : "Taz Skylar",
       "photo": "https://i.pinimg.com/originals/d3/51/84/d351847348dd0dabeac308be8e2bb072.jpg"
     },
 
     {
-      "name": "Nefertari Vivi",
+      "role": "Nefertari Vivi",
+      "name" : "Misa Watanabe",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpS2YLwoavPJ7_47gNQzUTewiMDMA4dR1KvNGvfN0-u7ZDtDGzqWaQu8HQcT7_gDpXxA&usqp=CAU"
     },
 
     
     {
-      "name": "Monkey D. Dragon",
+      "role": "Monkey D. Dragon",
+      "name" : "Richard Epcar",
       "photo": "https://wallpapers.com/images/hd/monkey-d-dragon-digital-portrait-4eljzh8l5vplhk4j.jpg"
     },
 
     
     {
-      "name": "Tonny Tonny Chopper",
+      "role": "Tonny Tonny Chopper",
+      "name" : "Hiroshi Kamiya",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfZnp3E6Rqgo3rO0OneflEfvzqZ74fAmQkg&s"
     }
 
