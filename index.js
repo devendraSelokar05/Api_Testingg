@@ -5816,36 +5816,36 @@ let movies = [
 
     {
       "name": "Sasuke Uchiha",
-      "photo": "https://images-ng.pixai.art/images/orig/d5a1e3b8-1e38-4ae9-904f-2cd8e605802e"
+      "photo": "https://imgix.ranker.com/list_img_v2/1377/2681377/original/best-sasuke-uchiha-quotes?fit=crop&fm=pjpg&q=80&dpr=2&w=1200&h=720"
     },
 
     {
-      "name": "Roronona Zoro",
-      "photo": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/04/20/one-piece-zoro-in-wano-arc.jpeg?width=1200&quality=60&format=auto"
+      "name": "Kakashi Hatake",
+      "photo": "https://wallshub.com/uploads/posts/2024-05/462cee137f_epic-kakashi-hatake.webp"
     },
 
     {
-      "name": "Nico Robin",
-      "photo": "https://beebom.com/wp-content/uploads/2023/06/Robin-Laughing.jpg?w=432"
+      "name": "Itachi Uchiha",
+      "photo": "https://i.pinimg.com/736x/9a/63/06/9a6306db28f70d27f39249e0044da128.jpg"
     },
 
     {
-      "name": "Shanks",
-      "photo": "https://lh5.googleusercontent.com/zN_gwl5WqKbSjSVxJBMyxgkJjCQiORWEzA00emQcHQs5DFQSxM_GqYgH6DjUfWWSeiRTOCSlgNve4zqulzehAHvSm3HD9ydGXN4YQl5Q5oTf4AYfhvZtlME5Xtca52UaxcrdgNjHOlAl982r2-gOIFI"
+      "name": "Deidara",
+      "photo": "https://i.pinimg.com/originals/15/64/d9/1564d9c329586d3f3064110a7dac5331.jpg"
     },
 
     {
-      "name": "Boa Hancock",
+      "name": "Kushina Uzumaki",
       "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/Featured-Image-Boa-Hancock-Cropped.jpg"
     },
 
     {
-      "name": "Monkey D. Garp",
+      "name": "karin",
       "photo": "https://i.pinimg.com/originals/02/a0/ef/02a0ef57af24aa729ec4128505e1234a.jpg"
     },
 
     {
-      "name": "Koby",
+      "name": "Shizune",
       "photo": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/koby-one-piece.jpg"
     },
 
