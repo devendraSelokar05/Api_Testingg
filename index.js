@@ -5717,12 +5717,6 @@ let movies = [
       },
 
       {
-        "seasonNumber": 9,
-        "episodes": 42,
-        "posterImage": "https://www.justwatch.com/images/poster/304636849/s166/season-9.webp"
-      },
-
-      {
         "seasonNumber": 10,
         "episodes": 50,
         "posterImage": "https://www.justwatch.com/images/poster/304123742/s166/season-10.webp"
@@ -5732,6 +5726,12 @@ let movies = [
         "seasonNumber": 11,
         "episodes": 45,
         "posterImage": "https://www.justwatch.com/images/poster/304201961/s166/season-11.webp"
+      },
+
+      {
+        "seasonNumber": 12,
+        "episodes": 66,
+        "posterImage": "https://www.justwatch.com/images/poster/304202001/s166/season-12.webp"
       },
 
       {
@@ -5757,92 +5757,227 @@ let movies = [
         "episodes": 26,
         "posterImage": "https://www.justwatch.com/images/poster/304237425/s166/season-16.webp"
       },
+
+      {
+        "seasonNumber": 17,
+        "episodes": 24,
+        "posterImage": "https://www.justwatch.com/images/poster/307613717/s166/season-17.webp"
+      },
+
+      {
+        "seasonNumber": 18,
+        "episodes": 42,
+        "posterImage": "https://www.justwatch.com/images/poster/304637016/s166/season-18.webp"
+      },
+
+      {
+        "seasonNumber": 19,
+        "episodes": 77,
+        "posterImage": "https://www.justwatch.com/images/poster/304637023/s166/season-19.webp"
+      },
+
+      {
+        "seasonNumber": 20,
+        "episodes": 141,
+        "posterImage": "https://www.justwatch.com/images/poster/304637039/s166/season-20.webp"
+      },
+
+      {
+        "seasonNumber": 21,
+        "episodes": 68,
+        "posterImage": "https://www.justwatch.com/images/poster/125146126/s166/season-21.webp"
+      },
+
+      {
+        "seasonNumber": 22,
+        "episodes": 63,
+        "posterImage": "https://www.justwatch.com/images/poster/8603953/s166/season-22.webp"
+      },
+
+      {
+        "seasonNumber": 23,
+        "episodes": 50,
+        "posterImage": "https://www.justwatch.com/images/poster/8603952/s166/season-23.webp"
+      },
+
+      {
+        "seasonNumber": 24,
+        "episodes": 21,
+        "posterImage": "https://www.justwatch.com/images/poster/33474763/s166/season-24.webp"
+      },
     ],
     "genre": ["Animation", "Action & Adventure", "Science-Fiction", "Comedy", "Drama", "Fantasy"] 
   },
 
   {
-    "id":145,
-    "title": "The Office",
-    "year": 2005,
-    "rank": 65,
-    "rankChange": "▲ +40",
-    "rating": 94,
+    "id":148,
+    "title": "One Piece",
+    "year": 2000,
+    "rank": 13,
+    "rankChange": "▲ +400",
+    "rating": 88,
     "imdbRating": 9.0,
-    "imdbVotes": "741k",
-    "backdropImage": "https://www.justwatch.com/images/backdrop/304433230/s1440/the-office.webp/the-office.webp",
-    "posterImage": "https://m.media-amazon.com/images/I/91gZANzFVKL._AC_UF894,1000_QL80_.jpg",
+    "imdbVotes": "541k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/310515850/s1440/one-piece.webp/one-piece.webp",
+    "posterImage": "https://m.media-amazon.com/images/I/81xE8iFmK2L._AC_UF894,1000_QL80_.jpg",
     "duration": "24min",
-    "highestRank": 1,
-    "top10Days": 20,
-    "top100Days": 2133,
-    "top1000Days": 3053,
+    "highestRank": 5,
+    "top10Days": 30,
+    "top100Days": 531,
+    "top1000Days": 2890,
     "watchOptions": [
-      {"platform": "Amazon Prime", "price": "Rs500/-"}
+
+      {"platform": "Amazon Prime", "price": "Rs500/-"},
+      {"platform": "Netflix", "price": "Rs 800/-"},
     ],
-    "likes": "37k",
-    "dislikes": "2.5k",
+    "likes": "9.7k",
+    "dislikes": "1k",
     "watchlistText": "List",
     "seenText": "Seenall",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "A7qOi8VyxG8",
-    "type" : ["series", "hollywood"],
+    "videoId": "dzvoS1gA80s",
+    "type" : ["series", "hollywood", "anime"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
-        "episodes": 6,
-        "posterImage": "https://www.justwatch.com/images/poster/245581596/s166/season-1.webp"
+        "episodes": 930,
+        "posterImage": "https://www.justwatch.com/images/poster/301574476/s166/season-1.webp"
       },
 
       {
         "seasonNumber": 2,
-        "episodes": 22,
-        "posterImage": "https://www.justwatch.com/images/poster/238556208/s166/season-2.webp"
+        "episodes": 38,
+        "posterImage": "https://www.justwatch.com/images/poster/304428670/s166/season-2.webp"
       },
 
       {
         "seasonNumber": 3,
-        "episodes": 23,
-        "posterImage": "https://www.justwatch.com/images/poster/245581579/s166/season-3.webp"
+        "episodes": 31,
+        "posterImage": "https://www.justwatch.com/images/poster/304340004/s166/season-3.webp"
       },
 
       {
         "seasonNumber": 4,
-        "episodes": 14,
-        "posterImage": "https://www.justwatch.com/images/poster/238555997/s166/season-4.webp"
+        "episodes": 78,
+        "posterImage": "https://www.justwatch.com/images/poster/304340006/s166/season-4.webp"
       },
 
       {
         "seasonNumber": 5,
         "episodes": 26,
-        "posterImage": "https://www.justwatch.com/images/poster/238555958/s166/season-5.webp"
+        "posterImage": "https://www.justwatch.com/images/poster/304428668/s166/season-5.webp"
       },
 
       {
         "seasonNumber": 6,
-        "episodes": 26,
-        "posterImage": "https://www.justwatch.com/images/poster/245582099/s166/season-6.webp"
+        "episodes": 104,
+        "posterImage": "https://www.justwatch.com/images/poster/304340154/s166/season-6.webp"
       },
 
       {
         "seasonNumber": 7,
-        "episodes": 24,
-        "posterImage": "https://www.justwatch.com/images/poster/238555894/s166/season-7.webp"
+        "episodes": 72,
+        "posterImage": "https://www.justwatch.com/images/poster/304340155/s166/season-7.webp"
       },
 
       {
         "seasonNumber": 8,
-        "episodes": 24,
-        "posterImage": "https://www.justwatch.com/images/poster/238555860/s166/season-8.webp"
+        "episodes": 70,
+        "posterImage": "https://www.justwatch.com/images/poster/304340156/s166/season-8.webp"
       },
 
       {
         "seasonNumber": 9,
-        "episodes": 23,
-        "posterImage": "https://www.justwatch.com/images/poster/8603758/s166/season-9.webp"
+        "episodes": 147,
+        "posterImage": "https://www.justwatch.com/images/poster/304340157/s166/season-9.webp"
+      },
+
+    
+      {
+        "seasonNumber": 10,
+        "episodes": 90,
+        "posterImage": "https://www.justwatch.com/images/poster/304346873/s166/season-10.webp"
+      },
+
+      {
+        "seasonNumber": 11,
+        "episodes": 125,
+        "posterImage": "https://www.justwatch.com/images/poster/304340169/s166/season-11.webp"
+      },
+
+      {
+        "seasonNumber": 12,
+        "episodes": 70,
+        "posterImage": "https://www.justwatch.com/images/poster/304340184/s166/season-12.webp"
+      },
+
+      {
+        "seasonNumber": 13,
+        "episodes": 201,
+        "posterImage": "https://www.justwatch.com/images/poster/304153856/s166/season-13.webp"
+      },
+
+      {
+        "seasonNumber": 14,
+        "episodes": 116,
+        "posterImage": "https://www.justwatch.com/images/poster/304346876/s166/season-14.webp"
+      },
+
+      {
+        "seasonNumber": 15,
+        "episodes": 124,
+        "posterImage": "https://www.justwatch.com/images/poster/304153857/s166/season-15.webp"
+      },
+
+      {
+        "seasonNumber": 16,
+        "episodes": 100,
+        "posterImage": "https://www.justwatch.com/images/poster/304340207/s166/season-16.webp"
+      },
+
+      {
+        "seasonNumber": 17,
+        "episodes": 174,
+        "posterImage": "https://www.justwatch.com/images/poster/304340232/s166/season-17.webp"
+      },
+
+      {
+        "seasonNumber": 18,
+        "episodes": 59,
+        "posterImage": "https://www.justwatch.com/images/poster/304340055/s166/season-18.webp"
+      },
+
+      {
+        "seasonNumber": 19,
+        "episodes": 76,
+        "posterImage": "https://www.justwatch.com/images/poster/304340279/s166/season-19.webp"
+      },
+
+      {
+        "seasonNumber": 20,
+        "episodes": 28,
+        "posterImage": "https://www.justwatch.com/images/poster/304340298/s166/season-20.webp"
+      },
+
+      {
+        "seasonNumber": 21,
+        "episodes": 213,
+        "posterImage": "https://www.justwatch.com/images/poster/304340302/s166/season-21.webp"
+      },
+
+      {
+        "seasonNumber": 22,
+        "episodes": 38,
+        "posterImage": "https://www.justwatch.com/images/poster/313689452/s166/season-22.webp"
+      },
+
+      {
+        "seasonNumber": 23,
+        "episodes": 50,
+        "posterImage": "https://www.justwatch.com/images/poster/8603952/s166/season-23.webp"
       },
     ],
-    "genre": ["Drama", "Comedy"] 
+    "genre": ["Animation", "Action & Adventure", "Science-Fiction", "Comedy", "Drama", "Fantasy"] 
   },
 
 
