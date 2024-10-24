@@ -5992,12 +5992,12 @@ let movies = [
 
     {
       "name": "Roronona Zoro",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaWnGpOtkn4H_fT5lWGJ-uSQbPMkDqeClDg&s"
+      "photo": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/04/20/one-piece-zoro-in-wano-arc.jpeg?width=1200&quality=60&format=auto"
     },
 
     {
       "name": "Nico Robin",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs0O2Shk0B7GLiKcMbpWHNfSfnoA3PBhfQgw&s"
+      "photo": "https://i.pinimg.com/736x/51/de/0e/51de0e8dcf32d0cd327d20a3927795e1.jpg"
     },
 
     {
