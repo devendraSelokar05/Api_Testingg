@@ -5997,7 +5997,7 @@ let movies = [
 
     {
       "name": "Nico Robin",
-      "photo": "https://i.pinimg.com/736x/51/de/0e/51de0e8dcf32d0cd327d20a3927795e1.jpg"
+      "photo": "https://beebom.com/wp-content/uploads/2023/06/Robin-Laughing.jpg?w=432"
     },
 
     {
