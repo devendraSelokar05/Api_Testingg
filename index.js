@@ -5665,12 +5665,12 @@ let movies = [
 
     {
       "name": "All Might",
-      "photo": "https://i.pinimg.com/originals/3f/3a/14/3f3a1439a52489daff07b47446642e1f.jpg"
+      "photo": "https://wallpapersmug.com/download/1024x768/c06b3c/my-hero-academia-all-might-23.jpg"
     },
 
     {
       "name": "Eijiro Kirishima",
-      "photo": "https://i.pinimg.com/736x/28/99/f1/2899f11ff132787bf6f783483d945239.jpg"
+      "photo": "https://images.wallpapersden.com/image/download/red-riot-eijiro-kirishima_a21sZW6UmZqaraWkpJRmaWllrWdqa2U.jpg"
     },
 
     {
