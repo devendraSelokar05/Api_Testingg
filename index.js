@@ -5563,7 +5563,7 @@ let movies = [
     "cast": [
     {
       "name": "Michael Scott",
-      "role": "John Krasinski",
+      "role": "Steve Carell",
       "photo": "https://jeprades.github.io/michael-scott-tribute/images/michael-scott-header.png"
     },
 
@@ -5586,13 +5586,15 @@ let movies = [
     },
 
     {
-      "name": "Shoto Todoroki",
+      "name": "Jim Harplet",
+      "role" : "John Krasinski",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjluH5LF9s2PdLen8AvMy015b9jpX-gOkJag&s"
     },
 
     {
-      "name": "Tsuyu Asui",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCWXIoArqBvtCCuenHnssqrFQNfAiBugFAA&s"
+      "name": "Dwight Schrute",
+      "role" : "Rainn Wilson",
+      "photo": "https://www.myany.city/sites/default/files/styles/scaled_cropped_medium__260x260/public/field/image/node-related-images/sample-dwight-k-schrute.jpg?itok=8TfRscbA"
     },
 
     {
