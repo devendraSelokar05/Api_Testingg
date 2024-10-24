@@ -5621,6 +5621,12 @@ let movies = [
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRw5aSuIzKe4qe0GDTiGLwq8W5ToZrhqmfGA&s"
     },
 
+    {
+      "name": "Nellie Bertram",
+      "role" : "Chaterine Tate",
+      "photo": "https://64.media.tumblr.com/481eb7fa451b7ced7eaf55a226aa93b8/tumblr_oj900tIKYx1txsfmto1_540.jpg"
+    },
+
   ] 
     
   },
