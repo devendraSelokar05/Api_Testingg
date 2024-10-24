@@ -5987,12 +5987,12 @@ let movies = [
 
     {
       "name": "Nami",
-      "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eea8cbba-6ef6-4aea-a6f6-9a19b9fe2b65/width=1200/eea8cbba-6ef6-4aea-a6f6-9a19b9fe2b65.jpeg"
+      "photo": "https://imagedelivery.net/LBWXYQ-XnKSYxbZ-NuYGqQ/e3626abf-41c9-4d6e-a4ed-b920e30dda00/avatarhd"
     },
 
     {
       "name": "Roronona Zoro",
-      "photo": "https://imagedelivery.net/LBWXYQ-XnKSYxbZ-NuYGqQ/e3626abf-41c9-4d6e-a4ed-b920e30dda00/avatarhd"
+      "photo": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/04/20/one-piece-zoro-in-wano-arc.jpeg?width=1200&quality=60&format=auto"
     },
 
     {
