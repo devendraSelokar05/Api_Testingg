@@ -5573,7 +5573,7 @@ let movies = [
 
     {
       "name": "Erin Hanon",
-      "photo": "https://i.pinimg.com/originals/ae/b5/0c/aeb50c7c1a667d3bb387c30c80105e55.jpg"
+      "photo": "https://www.nbc.com/sites/nbcblog/files/2023/07/erin-hannon-the-office.jpg"
     },
 
     {
