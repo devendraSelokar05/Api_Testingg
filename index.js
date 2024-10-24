@@ -5816,7 +5816,7 @@ let movies = [
 
     {
       "name": "Sasuke Uchiha",
-      "photo": "https://preview.redd.it/r3b2ic3lylw61.jpg?auto=webp&s=6b78275917898bdcd7374fb35a122d6e20e62a14s"
+      "photo": "https://images-ng.pixai.art/images/orig/d5a1e3b8-1e38-4ae9-904f-2cd8e605802e"
     },
 
     {
