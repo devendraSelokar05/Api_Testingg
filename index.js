@@ -5664,13 +5664,13 @@ let movies = [
     },
 
     {
-      "name": "Monkey D. Garp",
-      "photo": "https://i.pinimg.com/originals/02/a0/ef/02a0ef57af24aa729ec4128505e1234a.jpg"
+      "name": "All Might",
+      "photo": "https://wallpapers.com/images/featured/all-might-background-8m43xrtmvrtl8177.jpg"
     },
 
     {
-      "name": "Koby",
-      "photo": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/koby-one-piece.jpg"
+      "name": "Eijiro Kirishima",
+      "photo": "https://static.wikia.nocookie.net/bnha-weasy-au/images/c/c6/Eijiro_Kirishima_3.png/revision/latest?cb=20220130111053"
     },
 
     {
