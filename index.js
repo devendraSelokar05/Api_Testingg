@@ -5987,7 +5987,7 @@ let movies = [
 
     {
       "name": "Nami",
-      "photo": "https://i.redd.it/t9qp8kpwzflb1.jpg"
+      "photo": "https://static.wikia.nocookie.net/onepiece/images/8/86/Nami_im_Alter_von_20_Jahren_auf_dem_Sabaody-Archipel.jpg/revision/latest?cb=20111002152718&path-prefix=de"
     },
 
     {
@@ -6007,12 +6007,12 @@ let movies = [
 
     {
       "name": "Boa Hancock",
-      "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5fad0c18-84e0-4ab1-953f-64d5ec6a1b94/width=1200/5fad0c18-84e0-4ab1-953f-64d5ec6a1b94.jpeg"
+      "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/Featured-Image-Boa-Hancock-Cropped.jpg"
     },
 
     {
       "name": "Monkey D. Garp",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CMV0tbhWKR8bx-HKXrvEMcK9jW445Bmq-g3vXyoz97WubFNSceTp-KLvPLS86pOqqfc&usqp=CAU"
+      "photo": "https://i.pinimg.com/originals/3e/f0/66/3ef06638ed95626baa5d73cadbe53854.jpg"
     }
 
   ]
