@@ -5977,17 +5977,20 @@ let movies = [
     },
 
     {
-      "name": "Shizune",
+      "role": "Shizune",
+      "name" : "Keiko Nemoto",
       "photo": "https://go_service.aieasypic.com/?url=https%3A%2F%2Fimage.civitai.com%2FxG1nkqKTMzGDvpLrqFT7WA%2Fed954d93-97b5-4ed4-a5da-b187d55e21b2%2Fwidth%3D450%2F4214000.jpeg&type=webp&width=500&quality=60&civitai=true"
     },
 
     {
-      "name": "Temari Romi Park",
+      "role": "Temari Romi Park",
+      "name" : "Romi Park",
       "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ddcf4700-3167-4b8e-a172-8e0b990b0692/width=450/00756-649156240.jpeg"
     },
 
     {
-      "name": "Tenten",
+      "role": "Tenten",
+      "name" : "Yukari Tamura",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAwQFs8JiSwfjc-OvJyeU4VIQTfzktT5XrBg&s"
     },
   ]
