@@ -6002,7 +6002,7 @@ let movies = [
 
     {
       "name": "Shanks",
-      "photo": "https://i.pinimg.com/236x/3e/4f/3f/3e4f3f27cdb811344a9e2b67676250cd.jpg"
+      "photo": "https://lh5.googleusercontent.com/zN_gwl5WqKbSjSVxJBMyxgkJjCQiORWEzA00emQcHQs5DFQSxM_GqYgH6DjUfWWSeiRTOCSlgNve4zqulzehAHvSm3HD9ydGXN4YQl5Q5oTf4AYfhvZtlME5Xtca52UaxcrdgNjHOlAl982r2-gOIFI"
     },
 
     {
