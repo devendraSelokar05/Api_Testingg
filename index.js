@@ -6013,8 +6013,17 @@ let movies = [
     {
       "name": "Monkey D. Garp",
       "photo": "https://i.pinimg.com/originals/02/a0/ef/02a0ef57af24aa729ec4128505e1234a.jpg"
-    }
+    },
 
+    {
+      "name": "Koby",
+      "photo": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/koby-one-piece.jpg"
+    },
+
+    {
+      "name": "Sanji",
+      "photo": "https://i.pinimg.com/originals/d3/51/84/d351847348dd0dabeac308be8e2bb072.jpg"
+    }
   ]
 
     
