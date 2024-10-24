@@ -5630,7 +5630,72 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/320446097/s166/season-7.webp"
       },
     ],
-    "genre": ["Science-Fiction", "Action & Adventure", "Animation", "Fantasy", "Comedy"] 
+    "genre": ["Science-Fiction", "Action & Adventure", "Animation", "Fantasy", "Comedy"],
+    "description": "My Hero Academia (Boku no Hero Academia) is a popular anime and manga series created by Kohei Horikoshi. Set in a world where the majority of the population possesses superpowers known as Quirks, the story follows a young boy named Izuku Midoriya. Born without a Quirk, Izuku dreams of becoming a hero like his idol, All Might, the world's greatest hero.When he unexpectedly inherits All Might's powerful Quirk, One For All, Izuku is granted the chance to attend U.A. High School, a prestigious academy for aspiring heroes. Here, he trains alongside a diverse group of classmates, each with unique abilities and personalities, including the fiery Shoto Todoroki and the determined Ochaco Uraraka.",
+    "cast": [
+    {
+      "name": "Izuku Midoriya",
+      "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a5258082-3128-475e-ab92-1a5eae6eb35b/width=450/pixai-1648288826444539350-0.jpeg"
+    },
+
+    {
+      "name": "Katsuki Bakugou",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw68ViM2xtn651x4S53U55Xdl2d0JM92iScA&s"
+    },
+
+    {
+      "name": "Roronona Zoro",
+      "photo": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/04/20/one-piece-zoro-in-wano-arc.jpeg?width=1200&quality=60&format=auto"
+    },
+
+    {
+      "name": "Nico Robin",
+      "photo": "https://beebom.com/wp-content/uploads/2023/06/Robin-Laughing.jpg?w=432"
+    },
+
+    {
+      "name": "Shanks",
+      "photo": "https://lh5.googleusercontent.com/zN_gwl5WqKbSjSVxJBMyxgkJjCQiORWEzA00emQcHQs5DFQSxM_GqYgH6DjUfWWSeiRTOCSlgNve4zqulzehAHvSm3HD9ydGXN4YQl5Q5oTf4AYfhvZtlME5Xtca52UaxcrdgNjHOlAl982r2-gOIFI"
+    },
+
+    {
+      "name": "Boa Hancock",
+      "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/Featured-Image-Boa-Hancock-Cropped.jpg"
+    },
+
+    {
+      "name": "Monkey D. Garp",
+      "photo": "https://i.pinimg.com/originals/02/a0/ef/02a0ef57af24aa729ec4128505e1234a.jpg"
+    },
+
+    {
+      "name": "Koby",
+      "photo": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/09/koby-one-piece.jpg"
+    },
+
+    {
+      "name": "Sanji",
+      "photo": "https://i.pinimg.com/originals/d3/51/84/d351847348dd0dabeac308be8e2bb072.jpg"
+    },
+
+    {
+      "name": "Nefertari Vivi",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpS2YLwoavPJ7_47gNQzUTewiMDMA4dR1KvNGvfN0-u7ZDtDGzqWaQu8HQcT7_gDpXxA&usqp=CAU"
+    },
+
+    
+    {
+      "name": "Monkey D. Dragon",
+      "photo": "https://wallpapers.com/images/hd/monkey-d-dragon-digital-portrait-4eljzh8l5vplhk4j.jpg"
+    },
+
+    
+    {
+      "name": "Tonny Tonny Chopper",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfZnp3E6Rqgo3rO0OneflEfvzqZ74fAmQkg&s"
+    }
+
+  ] 
   },
 
   {
