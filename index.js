@@ -6303,37 +6303,44 @@ let movies = [
     "description": "Tokyo Ghoul is a dark fantasy anime series based on the manga by Sui Ishida. The story is set in a world where flesh-eating ghouls secretly live among humans. These ghouls possess superhuman abilities and can only survive by consuming human flesh. The plot follows Ken Kaneki, a shy college student who becomes a half-ghoul after a near-fatal encounter with one of these creatures.After a life-saving surgery that involves the transplant of ghoul organs into his body, Kaneki struggles to adjust to his new identity, torn between his human and ghoul natures. The series explores themes of survival, identity, morality, and what it means to be human. It delves into the emotional and physical toll Kaneki endures as he navigates the dangerous world of ghouls while trying to protect his loved ones",
     "cast": [
     {
-      "name": "Koutarou Amon",
+      "role": "Koutarou Amon",
+      "name": "Mike McFarland",
       "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3ad6f880-c77e-4e7d-acc6-abb75033b11c/width=1200/3ad6f880-c77e-4e7d-acc6-abb75033b11c.jpeg"
     },
 
     {
-      "name": "Hinami Fueguchi",
+      "role": "Hinami Fueguchi",
+      "name": "Sumire Morohoshi",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIok1DL1rOHCLyu7hZo5EFYwEYXIWh5RFgYg&s"
     },
 
     {
-      "name": "Nishio Nishiki",
+      "role": "Nishio Nishiki",
+      "name": "Shunya Shiraishi",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaWnGpOtkn4H_fT5lWGJ-uSQbPMkDqeClDg&s"
     },
 
     {
-      "name": "Renji Yemo",
+      "role": "Renji Yemo",
+      "name": "Shuntarō Yanagi",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs0O2Shk0B7GLiKcMbpWHNfSfnoA3PBhfQgw&s"
     },
 
     {
-      "name": "Itori",
+      "role": "Itori",
+      "name": "jamie Marchi",
       "photo": "https://i.pinimg.com/236x/3e/4f/3f/3e4f3f27cdb811344a9e2b67676250cd.jpg"
     },
 
     {
-      "name": "Enji Koma",
+      "role": "Enji Koma",
+      "name": "Kenta Hamano",
       "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5fad0c18-84e0-4ab1-953f-64d5ec6a1b94/width=1200/5fad0c18-84e0-4ab1-953f-64d5ec6a1b94.jpeg"
     },
 
     {
-      "name": "Kimi Nishino",
+      "role": "Kimi Nishino",
+      "name": "Caitlin Glass",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CMV0tbhWKR8bx-HKXrvEMcK9jW445Bmq-g3vXyoz97WubFNSceTp-KLvPLS86pOqqfc&usqp=CAU"
     }
 
