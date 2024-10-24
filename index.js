@@ -5610,13 +5610,15 @@ let movies = [
     },
 
     {
-      "name": "Tenya Iida",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qFNLSb8zVZ4kKJ9CQ1n4ruROgXy3Gjx7PQ&s"
+      "name": "Kevin Malone",
+      "role" : "Brian Baumgartner",
+      "photo": "https://people.com/thmb/uOz-W_vRpGFK4ttzVaGLkmoGdcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(639x0:641x2)/GettyImages-915596304-0247dbf9c44544abbe1e8b7ebab010db.jpg"
     },
 
     {
-      "name": "Momo Yaoyorozu",
-      "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/My-Hero-Academia-Momo-Yaoyorozu-Feature.jpg"
+      "name": "Angela Martin",
+      "role" : "Angela Kinsey",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRw5aSuIzKe4qe0GDTiGLwq8W5ToZrhqmfGA&s"
     },
 
   ] 
