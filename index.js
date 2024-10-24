@@ -5935,37 +5935,44 @@ let movies = [
     "description": "Naruto Shippuden is the continuation of the original Naruto anime, based on the manga by Masashi Kishimoto. The series picks up approximately two and a half years after the events of the first installment, following the journey of Naruto Uzumaki, a young ninja with dreams of becoming the strongest Hokage (leader) of his village, the Hidden Leaf Village (Konoha).In Shippuden, Naruto returns from his training with Jiraiya, eager to reunite with his friends and continue his quest to bring back his friend Sasuke Uchiha, who has left the village in pursuit of power. The series delves deeper into the complex relationships among the characters, especially the themes of friendship, loyalty, and redemption.",
     "cast": [
     {
-      "name": "Uzumaki Naruto",
+      "role": "Uzumaki Naruto",
+      "name" : "Junko Takeuchi",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGr9nqscZBqmD_lc0CGx7ZgMpaHZeTogdLg&s"
     },
 
     {
-      "name": "Sasuke Uchiha",
+      "role": "Sasuke Uchiha",
+      "name" : "Noriaki Sugiyama",
       "photo": "https://imgix.ranker.com/list_img_v2/1377/2681377/original/best-sasuke-uchiha-quotes?fit=crop&fm=pjpg&q=80&dpr=2&w=1200&h=720"
     },
 
     {
-      "name": "Kakashi Hatake",
+      "role": "Kakashi Hatake",
+      "name" : "Kenichi Suzumura",
       "photo": "https://wallshub.com/uploads/posts/2024-05/462cee137f_epic-kakashi-hatake.webp"
     },
 
     {
-      "name": "Itachi Uchiha",
+      "role": "Itachi Uchiha",
+      "name" : "Hideo Ishikawa",
       "photo": "https://i.pinimg.com/736x/9a/63/06/9a6306db28f70d27f39249e0044da128.jpg"
     },
 
     {
-      "name": "Deidara",
+      "role": "Deidara",
+      "name" : "Katsuhiko Kawamoto",
       "photo": "https://i.pinimg.com/originals/15/64/d9/1564d9c329586d3f3064110a7dac5331.jpg"
     },
 
     {
-      "name": "Kushina Uzumaki",
+      "role": "Kushina Uzumaki",
+      "name" : "Emi Shinohara",
       "photo": "https://e1.pxfuel.com/desktop-wallpaper/222/853/desktop-wallpaper-kushina-uzumaki-by-lunasaki10-kushina-uzumaki.jpg"
     },
 
     {
-      "name": "karin",
+      "role": "karin",
+      "name" : "Kanako Toujô",
       "photo": "https://image.cdn2.seaart.ai/2024-02-07/cn1mvtde878c73bg0f10/82340e34d58721257beb8b2719f46574bc9f59bf_high.webp"
     },
 
