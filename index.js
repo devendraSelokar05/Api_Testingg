@@ -5598,13 +5598,15 @@ let movies = [
     },
 
     {
-      "name": "All Might",
+      "name": "Karen Filippelli",
+      "role" : "Rashida Jones",
       "photo": "https://wallpapers.com/images/hd/all-anime-my-hero-academia-sl2elsl50nf0vsrr.jpg"
     },
 
     {
-      "name": "Eijiro Kirishima",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVx7mrEaZBNphzZTiOE8gUCTf4ioaP7HaBsQ&s"
+      "name": "Creed Bratton",
+      "role" : "Creed Bratton",
+      "photo": "https://creedbratton.com/cdn/shop/files/about_3024x.jpg?v=1702927857"
     },
 
     {
