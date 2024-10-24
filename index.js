@@ -6045,12 +6045,12 @@ let movies = [
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynqcN8DxlgBUgXK4c33hW3VByCwcIDGzd8f7FoFHdVWbMmOS0cl5G_d0&s=10"
     },
     {
-      "name": "Kana Hanazawa",
-      "photo": "https://example.com/kana-hanazawa.jpg"
+      "name": "Nishio Nishiki",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaWnGpOtkn4H_fT5lWGJ-uSQbPMkDqeClDg&s"
     },
     {
-      "name": "Mamoru Miyano",
-      "photo": "https://example.com/mamoru-miyano.jpg"
+      "name": "Renji Yemo",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs0O2Shk0B7GLiKcMbpWHNfSfnoA3PBhfQgw&s"
     }
   ]
 
