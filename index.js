@@ -5819,7 +5819,7 @@ let movies = [
     "imdbRating": 9.0,
     "imdbVotes": "541k",
     "backdropImage": "https://www.justwatch.com/images/backdrop/310515850/s1440/one-piece.webp/one-piece.webp",
-    "posterImage": "https://m.media-amazon.com/images/I/81xE8iFmK2L._AC_UF894,1000_QL80_.jpg",
+    "posterImage": "https://wallpapers.com/images/hd/straw-hat-pirates-and-luffy-smile-0u0nk3umxrdm889h.jpg",
     "duration": "24min",
     "highestRank": 5,
     "top10Days": 30,
