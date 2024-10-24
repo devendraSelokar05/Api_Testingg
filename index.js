@@ -5706,52 +5706,62 @@ let movies = [
     "description": "My Hero Academia (Boku no Hero Academia) is a popular anime and manga series created by Kohei Horikoshi. Set in a world where the majority of the population possesses superpowers known as Quirks, the story follows a young boy named Izuku Midoriya. Born without a Quirk, Izuku dreams of becoming a hero like his idol, All Might, the world's greatest hero.When he unexpectedly inherits All Might's powerful Quirk, One For All, Izuku is granted the chance to attend U.A. High School, a prestigious academy for aspiring heroes. Here, he trains alongside a diverse group of classmates, each with unique abilities and personalities, including the fiery Shoto Todoroki and the determined Ochaco Uraraka.",
     "cast": [
     {
-      "name": "Izuku Midoriya",
+      "role": "Izuku Midoriya",
+      "name": "Justin Briner",
       "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a5258082-3128-475e-ab92-1a5eae6eb35b/width=450/pixai-1648288826444539350-0.jpeg"
     },
 
     {
-      "name": "Katsuki Bakugou",
+      "role": "Katsuki Bakugou",
+      "name": "Clifford Chapin",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw68ViM2xtn651x4S53U55Xdl2d0JM92iScA&s"
     },
 
     {
-      "name": "Ochaco Uraraka",
+      "role": "Ochaco Uraraka",
+      "name": "Ayane Sakura",
       "photo": "https://i.pinimg.com/736x/ae/51/07/ae51074af794a4761444fd32a6907d50.jpg"
     },
 
     {
-      "name": "Denki Kaminari",
+      "role": "Denki Kaminari",
+      "name": "Kyle Phillips",
       "photo": "https://i.pinimg.com/736x/6a/13/a2/6a13a2b899383e5ea159fd2a868d87ee.jpg"
     },
 
     {
-      "name": "Shoto Todoroki",
+      "role": "Shoto Todoroki",
+      "name": "David Matranga",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjluH5LF9s2PdLen8AvMy015b9jpX-gOkJag&s"
     },
 
     {
-      "name": "Tsuyu Asui",
+      "role": "Tsuyu Asui",
+      "name": "Monica Rial",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCWXIoArqBvtCCuenHnssqrFQNfAiBugFAA&s"
     },
 
     {
-      "name": "All Might",
+      "role": "All Might",
+      "name": "Kenta Miyake",
       "photo": "https://wallpapers.com/images/hd/all-anime-my-hero-academia-sl2elsl50nf0vsrr.jpg"
     },
 
     {
-      "name": "Eijiro Kirishima",
+      "role": "Eijiro Kirishima",
+      "name": "Justin Cook",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVx7mrEaZBNphzZTiOE8gUCTf4ioaP7HaBsQ&s"
     },
 
     {
-      "name": "Tenya Iida",
+      "role": "Tenya Iida",
+      "name": "Kaito Ishikawa",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qFNLSb8zVZ4kKJ9CQ1n4ruROgXy3Gjx7PQ&s"
     },
 
     {
-      "name": "Momo Yaoyorozu",
+      "role": "Momo Yaoyorozu",
+      "name": "Colleen Clinkenbeared",
       "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/My-Hero-Academia-Momo-Yaoyorozu-Feature.jpg"
     },
 
