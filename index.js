@@ -5588,7 +5588,7 @@ let movies = [
     {
       "name": "Jim Harplet",
       "role" : "John Krasinski",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjluH5LF9s2PdLen8AvMy015b9jpX-gOkJag&s"
+      "photo": "https://parade.com/.image/t_share/MjAzNDg1MjIxMzU2NTc4NjEy/john-krasinski-net-worth.jpg"
     },
 
     {
