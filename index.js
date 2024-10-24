@@ -540,7 +540,7 @@ let movies = [
   },
 
   {
-    "id":14,
+    "id":13,
     "title": "The Boys",
     "year": 2019,
     "rank":21,
@@ -1454,6 +1454,7 @@ let movies = [
     "type" : "hollywood",
     "genre" : ["Action & Adventure", "Science-Fiction"]
   },
+
   {
     "id":42,
     "title": "Spiderman: NO WAY HOME",
@@ -1700,7 +1701,7 @@ let movies = [
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
-    "videoId": "G62HrubdD6o",
+    "videoId": "52xDIeNaNtw",
     "type" : ["tollywood", "bollywood"],
     "genre" : ["Comedy, Drama", "Action & Adventure"]
   },
@@ -1733,13 +1734,13 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "qLGZbo_YjqE",
     "type" : "tollywood",
-    "genre" : ["Mystery & Thrilller", "Action & Adventure", "Comedy", "Crime", "Drama"]
+    "genre" : ["Mystery & Thriller", "Comedy", "Drama", "Action & Adventure", "Crime"]
   },
 
 
   
   {
-    "id":44,
+    "id":51,
     "title": "Bholaa",
     "year": 2024,
     "rank":3262,
@@ -1769,7 +1770,7 @@ let movies = [
   
   
   {
-    "id":45,
+    "id":52,
     "title": "DEVARA PART 1",
     "year": 2024,
     "rank":1,
@@ -1787,15 +1788,13 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Xg0vBOxV2to",
-     "type" : "bollywood",
-    "genre" : ["Drama", "Mystery & Thriller", "Action & Adventure"]
+     "type" : ["tollywood", "bollywood"],
+    "genre" : ["Mystery & Thriller", "Action & Adventure", "Drama"]
   },
 
 
-
-
   {
-    "id":46,
+    "id":53,
     "title": "The Umbrella Academy",
     "year": 2019,
     "rank":143,
@@ -1846,15 +1845,13 @@ let movies = [
             "posterImage": "https://www.justwatch.com/images/poster/319805788/s166/season-4.webp"
           },
         ],
-        "genre": ["Drama", "Comedy", "Fantasy", "Science-Fiction", "Action & adventure"]
+        "genre": ["Action & Adventure", "Comedy", "Drama", "Fantasy", "Science-Fiction"]
 
   },
 
   
-
-
   {
-    "id":47,
+    "id":54,
     "title": "Gladiator II",
     "year": 2024,
     "rating": 85,
@@ -1876,13 +1873,13 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Ts0N8swyWFI",
     "type" : "hollywood",
-    "genre": ["Action & Adventure", "Drama"],
+    "genre": ["Drama", "Action & Adventure"],
 
   },
 
 
   {
-    "id":48,
+    "id":55,
     "title": "Thunderbolts*",
     "year": 2025,
     "rank":123,
@@ -1904,11 +1901,11 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "v-94Snw-H4o",
     "type" : "hollywood",
-    "genre": ["Action & Adventure", "Fantasy", "Science-Fiction", "Crime", "Drama"]
+    "genre": ["Action & Adventure", "Crime", "Drama", "Fantasy", "Science-Fiction"]
   },
 
   {
-    "id":49,
+    "id":56,
     "title": "The Lord of the Rings: The Fellowship of the Ring",
     "year": 2001,
     "rank":123,
@@ -1938,7 +1935,7 @@ let movies = [
   },
 
   {
-    "id":50,
+    "id":57,
     "title": "It Follows",
     "year": 2015,
     "rank":234,
@@ -1971,7 +1968,7 @@ let movies = [
 
 
   {
-    "id":51,
+    "id":58,
     "title": "Spin the Bottle",
     "year": 2024,
     "rank":130,
@@ -2001,7 +1998,7 @@ let movies = [
   },
 
   {
-    "id":52,
+    "id":59,
     "title": "Small Things Like These",
     "year": 2024,
     "rank":13,
@@ -2027,11 +2024,11 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Nqwn5Y_Y4xs",
     "type" : "hollywood",
-    "genre": ["History"]
+    "genre": ["Drama", "History"]
   },
 
   {
-    "id":53,
+    "id":60,
     "title": "Brothers",
     "year": 2024,
     "rank":23,
@@ -2061,7 +2058,7 @@ let movies = [
   },
 
   {
-    "id":54,
+    "id":61,
     "title": "The Fire Inside",
     "year": 2024,
     "rank":46,
@@ -2091,7 +2088,7 @@ let movies = [
   },
 
   {
-    "id":55,
+    "id":62,
     "title": "Salem's Lot ",
     "year": 2024,
     "rank":26,
@@ -2121,7 +2118,7 @@ let movies = [
   },
 
   {
-    "id":56,
+    "id":63,
     "title": "Howl's Moving Castle",
     "year": 2004,
     "rank":3480,
@@ -2147,12 +2144,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "iwROgK94zcM",
     "type" : "anime",
-    "genre": ["Animation","Fantasy","Action & Adventure", "Music & Musical", "Kids & Family"]
+    "genre": ["Fantasy", "Animation", "Action & Adventure", "Music & Musical, Drama", "Kids & Family"]
 
   },
  
   {
-    "id":57,
+    "id":64,
     "title": "Saripodhaa Sanivaaram",
     "year": 2024,
     "rank":4,
@@ -2182,7 +2179,7 @@ let movies = [
   },
 
   {
-    "id":58,
+    "id":65,
     "title": "The Greatest of All Time",
     "year": 2024,
     "rank":1,
@@ -2208,11 +2205,11 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "tb37SwBvRoQ",
      "type" : "tollywood",
-    "genre": ["Action & Adventure","Mystery & Thriller", "Drama"]
+    "genre": ["Drama", "Mystery & Thriller", "Action & Adventure"]
   },
   
   {
-    "id":59,
+    "id":66,
     "title": "GHOSTBUSTERS",
     "year": 2016,
     "rank":149,
@@ -2242,7 +2239,7 @@ let movies = [
   },
 
   {
-    "id":60,
+    "id":67,
     "title": "Double Ismart",
     "year": 2024,
     "rank":39,
@@ -2272,7 +2269,7 @@ let movies = [
   },
 
   {
-    "id":61,
+    "id":68,
     "title": "Salaar",
     "year": 2023,
     "rank":21,
@@ -2298,11 +2295,11 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "HihakYi5M2I",
      "type" : "tollywood",
-    "genre": ["Action & Adventure","Mystery & Thriller", "Drama", "Crime"]
+    "genre": ["Crime", "Drama", "Mystery & Thriller", "Action & Adventure"]
   },
 
   {
-    "id":62,
+    "id":69,
     "title": "KGF:Chapter1",
     "year": 2018,
     "rank":21,
@@ -2327,11 +2324,11 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "KfsY-qwBS0",
     "type" : "tollywood",
-    "genre": ["Action & Adventure","Mystery & Thriller", "Drama", "Crime"]
+    "genre": ["Action & Adventure", "Crime", "Mystery & Thriller", "Drama"]
   },
 
     {
-    "id":63,
+    "id":70,
     "title": "KGF:Chapter2",
     "year": 2022,
     "rank":77,
@@ -2356,12 +2353,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "JKa05nyUmuQ",
     "type" : "tollywood",
-    "genre": ["Action & Adventure","Mystery & Thriller", "Drama", "Crime"]
+    "genre": ["Crime", "Drama", "Mystery & Thriller", "Action & Adventure"]
   },
 
   {
  
-    "id":64,
+    "id":71,
     "title": "Aavesham",
     "year": 2024,
     "rank":43,
@@ -2387,11 +2384,11 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "UttccYQXpTM",
      "type" : "tollywood",
-    "genre": ["Action & Adventure", "Comedy"]
+    "genre": ["Comedy", "Action & Adventure"]
   },
   {
 
-    "id":65,
+    "id":72,
     "title": "Bhediya",
     "year": 2022,
     "rank":64,
@@ -2417,13 +2414,13 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "d_BPlvbw_ok",
     "type" : "bollywood",
-    "genre": ["Horror", "Mystery & Thriller", "Comedy"]
+    "genre": ["Comedy", "Horror", "Mystery & Thriller"]
 
   },
 
   {
  
-    "id":66,
+    "id":73,
     "title": "Ulajh",
     "year": 2024,
     "rank":8,
@@ -2454,7 +2451,7 @@ let movies = [
 
   {
 
-    "id":67,
+    "id":74,
     "title": "Rathnam",
     "year": 2024,
     "rank":30,
@@ -2480,13 +2477,13 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "eeZAC976hjw",
     "type" : "tollywood",
-    "genre": ["Romance", "Action & Adventure"]
+    "genre": ["Action & Adventure", "Romance",]
   },
 
   
   {
 
-    "id":68,
+    "id":75,
     "title": "Tholi Prema",
     "year": 2018,
     "rank":3365,
@@ -2517,7 +2514,7 @@ let movies = [
 
   {
 
-    "id":69,
+    "id":76,
     "title": "A Aa",
     "year": 2016,
     "rank":3333,
@@ -2548,7 +2545,7 @@ let movies = [
 
   {
  
-    "id":70,
+    "id":77,
     "title": "Manjummel Boys",
     "year": 2024,
     "rank":460,
@@ -2578,7 +2575,7 @@ let movies = [
   },
   {
 
-    "id":71,
+    "id":78,
     "title": "12th Fail",
     "year": 2023,
     "rank":83,
@@ -2609,7 +2606,7 @@ let movies = [
 
   {
  
-    "id":72,
+    "id":79,
     "title": "Bhimaa",
     "year": 2024,
     "rank":235,
@@ -2640,7 +2637,7 @@ let movies = [
 
   {
 
-    "id":73,
+    "id":80,
     "title": "Pushpa: The Rise",
     "year": 2021,
     "rank":1397,
@@ -2671,7 +2668,7 @@ let movies = [
 
   {
 
-    "id":74,
+    "id":81,
     "title": "The Family Star",
     "year": 2024,
     "rank":1123,
@@ -2697,12 +2694,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "jWVbxd80oyc",
     "type" : "tollywood",
-    "genre": ["Drama", "Romance", "action & Adventure", "Comedy"]
+    "genre": ["Action & Adventure", "Drama", "Romance", "Comedy"]
   },
 
   {
  
-    "id":75,
+    "id":82,
     "title": "Rockstar",
     "year": 2011,
     "rank":670,
@@ -2733,7 +2730,7 @@ let movies = [
 
     {
  
-    "id":76,
+    "id":83,
     "title": "War",
     "year": 2019,
     "rank":856,
@@ -2763,7 +2760,7 @@ let movies = [
   },
 
   {
-    "id":77,
+    "id":84,
     "title": "Chandu Champion",
     "year": 2024,
     "rank":688,
@@ -2789,11 +2786,11 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "IHQQK_Wn5DM",
     "type": "bollywood",
-    "genre": ["Sports", "War & Military", "Action & Adventure", "Drama", "History"]
+    "genre": ["War & Military", "Action & Adventure", "Drama", "History", "Sport"]
   },
 
     {
-    "id":78,
+    "id":85,
     "title": "Chhichore",
     "year": 2019,
     "rank":754,
@@ -2822,7 +2819,7 @@ let movies = [
   },
   
   {
-    "id":79,
+    "id":86,
     "title": "Raees",
     "year": 2017,
     "rank":2007,
@@ -2854,7 +2851,7 @@ let movies = [
 
   {
  
-    "id":80,
+    "id":87,
     "title": "Joker",
     "year": 2019,
     "rank":25,
@@ -2880,12 +2877,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "a3B0bePcfl4",
     "type": "hollywood",
-    "genre": ["Mystery & Thriller", "Crime", "Drama"]
+    "genre": ["Crime", "Mystery & Thriller", "Drama"]
   },
 
   {
 
-    "id":81,
+    "id":88,
     "title": "John Wick",
     "year": 2014,
     "rank":295,
@@ -2911,12 +2908,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "C0BMx-qxsP4",
     "type": "hollywood",
-    "genre": ["Mystery & Thriller", "Action & Adventure", "Crime"]
+    "genre": ["Action & Adventure", "Mystery & Thriller", "Crime"]
   },
   
   {
 
-    "id":82,
+    "id":89,
     "title": "777 Charlie",
     "year": 2022,
     "rank":108,
@@ -2947,7 +2944,7 @@ let movies = [
 
   {
  
-    "id":83,
+    "id":90,
     "title": "Jailer",
     "year": 2023,
     "rank":4010,
@@ -2973,12 +2970,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId":"xenOE1Tma0A",
     "type": "tollywood",
-    "genre": ["Mystery & Thriller", "Action & Adventure", "Crime", "Comedy"]
+    "genre": ["Action & Adventure", "Crime", "Mystery & Thriller", "Comedy"]
   },
 
   {
 
-    "id":84,
+    "id":91,
     "title": "Drishyam 2",
     "year": 2022,
     "rank":511,
@@ -3009,7 +3006,7 @@ let movies = [
 
   {
 
-    "id":85,
+    "id":92,
     "title": "Leo",
     "year": 2023,
     "rank":381,
@@ -3040,7 +3037,7 @@ let movies = [
 
   {
  
-    "id":86,
+    "id":93,
     "title": "Kakuda",
     "year": 2024,
     "rank":290,
@@ -3071,7 +3068,7 @@ let movies = [
 
   {
 
-    "id":87,
+    "id":94,
     "title": "Yeh Jawaani Hai Deewani",
     "year": 2013,
     "rank":541,
@@ -3102,7 +3099,7 @@ let movies = [
 
   {
 
-    "id":88,
+    "id":95,
     "title": "Teri Baaton Mein Aisa Uljha Jiya",
     "year": 2024,
     "rank":1243,
@@ -3128,12 +3125,12 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "w_N6d4ec79c",
     "type": "bollywood",
-    "genre": ["Science-Fiction", "Comedy", "Romance", "Drama"]
+    "genre": ["Comedy", "Drama", "Romance", "Science-Fiction"]
   },
 
   {
  
-    "id":89,
+    "id":96,
     "title": "Kabir Singh",
     "year": 2019,
     "rank":459,
@@ -3159,13 +3156,13 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "1ovgxN2VWNc",
     "type": "bollywood",
-    "genre": ["Drama", "Comedy", "Romance", "Action & Adventure"]
+    "genre": ["Drama", "Romance", "Action & Adventure"]
    
   },
 
   {
 
-    "id":90,
+    "id":97,
     "title": "Yodha",
     "year": 2024,
     "rank":1402,
@@ -3196,7 +3193,7 @@ let movies = [
 
   {
 
-    "id":91,
+    "id":98,
     "title": "Shaitaan",
     "year": 2024,
     "rank":522,
@@ -3227,7 +3224,7 @@ let movies = [
   
   {
 
-    "id":92,
+    "id":99,
     "title": "Bhool Bhulaiyaa 2",
     "year": 2022,
     "rank":407,
@@ -3259,7 +3256,7 @@ let movies = [
   
   {
 
-    "id":93,
+    "id":100,
     "title": "The Kerala Story",
     "year":2023,
     "rank":702,
@@ -3290,7 +3287,7 @@ let movies = [
   
   {
 
-    "id":94,
+    "id":101,
     "title": "Shershaah",
     "year":2021,
     "rank":421,
@@ -3316,13 +3313,13 @@ let movies = [
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "Q0FTXnefVBA",
     "type": "bollywood",
-    "genre": ["War & Miltary", "Action & Adventure", "Mystery & Thriller", "Drama"]
+    "genre": ["War & Military", "Action & Adventure", "Drama", "Mystery & Thriller"]
   },
 
   
   {
 
-    "id":95,
+    "id":102,
     "title": "M.S. DHONI: THE UNTOLD STORY",
     "year":2016,
     "rank":861,
@@ -3353,7 +3350,7 @@ let movies = [
 
   {
 
-    "id":96,
+    "id":103,
     "title": "Tu Jhoothi Mai Makkar",
     "year":2023 ,
     "rank":1399,
@@ -3383,7 +3380,7 @@ let movies = [
   },
 
   {
-    "id": 97,
+    "id": 104,
     "title": "MUNJYA",
     "year": 2024,
     "rank": 15,
@@ -3414,7 +3411,7 @@ let movies = [
 
   
   {
-    "id": 98,
+    "id": 105,
     "title": "ANIMAL",
     "year": 2023,
     "rank": 192,
@@ -3444,7 +3441,7 @@ let movies = [
   },
 
   {
-    "id": 99,
+    "id": 106,
     "title": "SANAM TERI KASAM",
     "year": 2016,
     "rank": 214,
@@ -3475,7 +3472,7 @@ let movies = [
 
 
   {
-    "id": 100,
+    "id": 107,
     "title": "LAILA MAJNU",
     "year": 2018,
     "rank": 12,
@@ -3505,7 +3502,7 @@ let movies = [
   },
 
   {
-    "id": 101,
+    "id": 108,
     "title": "STRANGER THINGS",
     "year": 2016,
     "rank": 82,
@@ -3560,7 +3557,7 @@ let movies = [
 },
 
 {
-  "id": 102,
+  "id": 109,
   "title": "JUJUTSU KAISEN",
   "year": 2020,
   "rank": 175,
@@ -3611,7 +3608,7 @@ let movies = [
 
 
 {
-  "id": 103,
+  "id": 110,
   "title": "WEDNESDAY",
   "year": 2022,
   "rank": 172,
@@ -3654,7 +3651,7 @@ let movies = [
 },
 
 {
-  "id": 104,
+  "id": 111,
   "title": "MY FAULT",
   "year": 2023,
   "rank": 579,
@@ -3684,7 +3681,7 @@ let movies = [
 },
 
 {
-  "id": 105,
+  "id": 112,
   "title": "Your FAULT",
   "year": 2024,
   "rank": 579,
@@ -3715,7 +3712,7 @@ let movies = [
 
 
 {
-  "id": 106,
+  "id": 113,
   "title": "YOUR NAME",
   "year": 2016,
   "rank": 596,
@@ -3746,7 +3743,7 @@ let movies = [
 },
 
 {
-  "id": 107,
+  "id": 114,
   "title": "SUZUME",
   "year": 2022,
   "rank": 82,
@@ -3776,7 +3773,7 @@ let movies = [
 },
 
 {
-  "id": 108,
+  "id": 115,
   "title": "MONEY HEIST",
   "year": 2017,
   "rank": 40,
@@ -3837,7 +3834,7 @@ let movies = [
 },
 
 {
-  "id": 109,
+  "id": 116,
   "title": "TUMBBAD",
   "year": 2018,
   "rank": 73,
@@ -3870,7 +3867,7 @@ let movies = [
 
 
 {
-  "id": 110,
+  "id": 117,
   "title": "ATTACK ON TITAN",
   "year": 2013,
   "rank": 46,
@@ -3904,7 +3901,7 @@ let movies = [
 
 
 {
-  "id": 111,
+  "id": 118,
   "title": "THE CONJURING 2",
   "year": 2016,
   "rank": 990.,
@@ -3935,7 +3932,7 @@ let movies = [
 
 
 {
-  "id": 112,
+  "id": 119,
   "title": "THE KISSING BOOTH 3",
   "year": 2018,
   "rank": 3023.,
@@ -3967,7 +3964,7 @@ let movies = [
 
 
 {
-  "id": 113,
+  "id": 120,
   "title": "Bad Newz",
   "year": 2024,
   "rank": 61,
@@ -4000,7 +3997,7 @@ let movies = [
 
 
 {
-  "id": 114,
+  "id": 121,
   "title": "DEMON SLAYER",
   "year": 2019,
   "rank": 29,
@@ -4062,7 +4059,7 @@ let movies = [
 },
 
 {
-  "id": 115,
+  "id": 122,
   "title": "FRIENDS",
   "year": 1994,
   "rank": 31,
@@ -4153,7 +4150,7 @@ let movies = [
 },
 
 {
-  "id": 116,
+  "id": 123,
   "title": "FLAMES",
   "year": 2018,
   "rank": 196,
@@ -4208,7 +4205,7 @@ let movies = [
 },
 
 {
-  "id": 117,
+  "id": 124,
   "title": "ALICE IN BORDERLAND",
   "year": 2020,
   "rank": 204,
@@ -4253,7 +4250,7 @@ let movies = [
 },
 
 {
-  "id": 118,
+  "id": 125,
   "title": "EVIL DEAD RISE",
   "year": 2023,
   "rank": 78,
@@ -4283,7 +4280,7 @@ let movies = [
 },
 
 {
-  "id": 119,
+  "id": 126,
   "title": "NARUTO",
   "year": 2002,
   "rank": 34,
@@ -4352,7 +4349,7 @@ let movies = [
 
 
 {
-  "id": 120,
+  "id": 127,
   "title": "COLLEGE ROMANCE",
   "year": 2018,
   "rank": 126.,
@@ -4407,7 +4404,7 @@ let movies = [
 },
 
 {
-  "id":121,
+  "id":128,
   "title": "Kalki 2898-AD",
   "year": 2024,
   "rank": 33,
@@ -4437,7 +4434,7 @@ let movies = [
 },
 
 {
-  "id":122,
+  "id":129,
   "title": "Maharaja",
   "year": 2024,
   "rank": 51,
@@ -4467,7 +4464,7 @@ let movies = [
 },
 
 {
-    "id":123,
+    "id":130,
     "title": "Lucifer",
     "year": 2016,
     "rank": 384,
@@ -4535,7 +4532,7 @@ let movies = [
 
 
 {
-    "id":124,
+    "id":131,
     "title": "The Walking Dead",
     "year": 2010,
     "rank": 94,
@@ -4632,7 +4629,7 @@ let movies = [
 },
 
 {
-    "id":125,
+    "id":132,
     "title": "Crushed",
     "year": 2022,
     "rank": 111,
@@ -4687,7 +4684,7 @@ let movies = [
   },
 
   {
-    "id":126,
+    "id":133,
     "title": "Guttur Gu",
     "year": 2023,
     "rank": 111,
@@ -4730,7 +4727,7 @@ let movies = [
   },
 
   {
-    "id":127,
+    "id":134,
     "title": "Breaking Bad",
     "year": 2008,
     "rank": 111,
@@ -4791,7 +4788,7 @@ let movies = [
 
   
   {
-    "id":128,
+    "id":135,
     "title": "Peaky Blinders",
     "year": 2013,
     "rank": 138,
@@ -4859,7 +4856,7 @@ let movies = [
 
 
   {
-    "id":129,
+    "id":136,
     "title": "Supernatural",
     "year": 2005,
     "rank": 123,
@@ -4980,7 +4977,7 @@ let movies = [
   },
 
   {
-    "id":130,
+    "id":137,
     "title": "The Office ",
     "year": 2005,
     "rank": 100,
@@ -5068,7 +5065,7 @@ let movies = [
 
 
   {
-    "id":131,
+    "id":138,
     "title": "The Blacklist ",
     "year": 2013,
     "rank": 243,
@@ -5160,7 +5157,7 @@ let movies = [
 
 
   {
-    "id":132,
+    "id":139,
     "title": "Arrow ",
     "year": 2012,
     "rank": 378,
@@ -5241,7 +5238,7 @@ let movies = [
 
   
   {
-    "id":133,
+    "id":140,
     "title": "Asur",
     "year": 2020,
     "rank": 82,
@@ -5284,7 +5281,7 @@ let movies = [
   },
 
   {
-    "id":134,
+    "id":141,
     "title": "Guntur Kaaram",
     "year": 2024,
     "rank": 276,
@@ -5314,7 +5311,7 @@ let movies = [
   },
   
   {
-    "id":135,
+    "id":142,
     "title": "This Is Us",
     "year": 2016,
     "rank": 192,
@@ -5381,7 +5378,7 @@ let movies = [
   },
   
   {
-    "id":136,
+    "id":143,
     "title": "The Handmaid's Tale",
     "year": 2017,
     "rank": 225,
@@ -5442,7 +5439,7 @@ let movies = [
   },
 
   {
-    "id":137,
+    "id":144,
     "title": "Succession",
     "year": 2018,
     "rank": 177,
@@ -5496,7 +5493,7 @@ let movies = [
   },
 
   {
-    "id":138,
+    "id":145,
     "title": "The Office",
     "year": 2005,
     "rank": 65,
