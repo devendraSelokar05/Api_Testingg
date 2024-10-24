@@ -6040,18 +6040,37 @@ let movies = [
       "name": "Koutarou Amon",
       "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3ad6f880-c77e-4e7d-acc6-abb75033b11c/width=1200/3ad6f880-c77e-4e7d-acc6-abb75033b11c.jpeg"
     },
+
     {
       "name": "Hinami Fueguchi",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynqcN8DxlgBUgXK4c33hW3VByCwcIDGzd8f7FoFHdVWbMmOS0cl5G_d0&s=10"
     },
+
     {
       "name": "Nishio Nishiki",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaWnGpOtkn4H_fT5lWGJ-uSQbPMkDqeClDg&s"
     },
+
     {
       "name": "Renji Yemo",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs0O2Shk0B7GLiKcMbpWHNfSfnoA3PBhfQgw&s"
+    },
+
+    {
+      "name": "Itori",
+      "photo": "https://i.pinimg.com/236x/3e/4f/3f/3e4f3f27cdb811344a9e2b67676250cd.jpg"
+    },
+
+    {
+      "name": "Enji Koma",
+      "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5fad0c18-84e0-4ab1-953f-64d5ec6a1b94/width=1200/5fad0c18-84e0-4ab1-953f-64d5ec6a1b94.jpeg"
+    },
+
+    {
+      "name": "Kimi Nishino",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CMV0tbhWKR8bx-HKXrvEMcK9jW445Bmq-g3vXyoz97WubFNSceTp-KLvPLS86pOqqfc&usqp=CAU"
     }
+
   ]
 
     }
