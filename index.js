@@ -5987,7 +5987,7 @@ let movies = [
 
     {
       "name": "Nami",
-      "photo": "https://wallpapers-clan.com/wp-content/uploads/2024/03/beautiful-nami-one-piece-desktop-wallpaper-preview.jpg"
+      "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eea8cbba-6ef6-4aea-a6f6-9a19b9fe2b65/width=1200/eea8cbba-6ef6-4aea-a6f6-9a19b9fe2b65.jpeg"
     },
 
     {
@@ -6012,7 +6012,7 @@ let movies = [
 
     {
       "name": "Monkey D. Garp",
-      "photo": "https://wallpapers.com/images/hd/cheerful-monkey-d-garp-706bzirsr2tsa9bn.jpg"
+      "photo": "https://i.pinimg.com/originals/02/a0/ef/02a0ef57af24aa729ec4128505e1234a.jpg"
     }
 
   ]
