@@ -5850,27 +5850,14 @@ let movies = [
     },
 
     {
-      "name": "Sanji",
-      "photo": "https://i.pinimg.com/originals/d3/51/84/d351847348dd0dabeac308be8e2bb072.jpg"
+      "name": "Temari Romi Park",
+      "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ddcf4700-3167-4b8e-a172-8e0b990b0692/width=450/00756-649156240.jpeg"
     },
 
     {
-      "name": "Nefertari Vivi",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpS2YLwoavPJ7_47gNQzUTewiMDMA4dR1KvNGvfN0-u7ZDtDGzqWaQu8HQcT7_gDpXxA&usqp=CAU"
+      "name": "Tenten",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAwQFs8JiSwfjc-OvJyeU4VIQTfzktT5XrBg&s"
     },
-
-    
-    {
-      "name": "Monkey D. Dragon",
-      "photo": "https://wallpapers.com/images/hd/monkey-d-dragon-digital-portrait-4eljzh8l5vplhk4j.jpg"
-    },
-
-    
-    {
-      "name": "Tonny Tonny Chopper",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfZnp3E6Rqgo3rO0OneflEfvzqZ74fAmQkg&s"
-    }
-
   ]
   },
 
