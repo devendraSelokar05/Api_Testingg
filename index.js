@@ -3437,7 +3437,7 @@ let movies = [
     "syncText": "Sign in to sync Watch List", 
     "videoId" : "Dydmpfo68DA",
     "type": "bollywood",
-    "genre": ["Action & Adventure", "Crime", "Mystery & Thriller", "Drama"]
+    "genre": ["Drama", "Action & Adventure", "Crime", "Mystery & Thriller"]
   },
 
   {
@@ -3553,7 +3553,7 @@ let movies = [
             "posterImage": "https://www.justwatch.com/images/poster/264470916/s166/season-4.webp"
           },
         ],
-        "genres": ["Drama", "Horror", "Science Fiction", "Action & Adventure", "Fantasy"]
+        "genres": ["Science-Fiction", "Action & Adventure", "Mystery & Thriller", "Drama", "Fantasy", "Horror"]
 },
 
 {
@@ -3602,7 +3602,7 @@ let movies = [
       "posterImage": "https://www.justwatch.com/images/poster/320955231/s166/season-3.webp"
     },
   ],
-  "genres": ["Action & Adventure", "Animation", "Fantasy", "Mystery & Thriller", "Science-Fiction"]
+  "genres": ["Animation", "Action & Adventure", "Fantasy", "Mystery & Thriller", "Science-Fiction"]
 },
 
 
@@ -3647,7 +3647,7 @@ let movies = [
       "posterImage": "https://www.justwatch.com/images/poster/300790715/s166/season-1.webp"
     },
   ],
-  "genres": ["Comedy", "Horror", "Mystery & Thriller", "Crime", "Fantasy"]
+  "genres": ["Comedy", "Science-Fiction", "Mystery & Thriller", "Crime", "Fantasy"]
 },
 
 {
