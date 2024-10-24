@@ -5665,7 +5665,7 @@ let movies = [
 
     {
       "name": "All Might",
-      "photo": "https://wallpapers.com/images/featured/all-might-background-8m43xrtmvrtl8177.jpg"
+      "photo": "https://i.pinimg.com/originals/3f/3a/14/3f3a1439a52489daff07b47446642e1f.jpg"
     },
 
     {
