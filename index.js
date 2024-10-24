@@ -5670,17 +5670,17 @@ let movies = [
 
     {
       "name": "Eijiro Kirishima",
-      "photo": "https://static.wikia.nocookie.net/bnha-weasy-au/images/c/c6/Eijiro_Kirishima_3.png/revision/latest?cb=20220130111053"
+      "photo": "https://i.pinimg.com/736x/28/99/f1/2899f11ff132787bf6f783483d945239.jpg"
     },
 
     {
-      "name": "Sanji",
-      "photo": "https://i.pinimg.com/originals/d3/51/84/d351847348dd0dabeac308be8e2bb072.jpg"
+      "name": "Tenya Iida",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1qFNLSb8zVZ4kKJ9CQ1n4ruROgXy3Gjx7PQ&s"
     },
 
     {
-      "name": "Nefertari Vivi",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpS2YLwoavPJ7_47gNQzUTewiMDMA4dR1KvNGvfN0-u7ZDtDGzqWaQu8HQcT7_gDpXxA&usqp=CAU"
+      "name": "Momo Yaoyorozu",
+      "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/My-Hero-Academia-Momo-Yaoyorozu-Feature.jpg"
     },
 
     
