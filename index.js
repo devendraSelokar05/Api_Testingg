@@ -3738,7 +3738,7 @@ let movies = [
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "_oWzYOwXn-o",
   "type": ["anime", "hollywood"],
-  "genre": ["Animation", "Romance", "Drama", "Fantasy"]
+  "genre": ["Animation", "Drama", "Fantasy", "Romance"]
 
 },
 
@@ -3769,7 +3769,7 @@ let movies = [
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "ciQc8lfvSm0",
   "type": ["anime", "hollywood"],
-  "genre": ["Animation", "Romance", "Drama", "Fantasy", "Action & Adventure"]
+  "genre": ["Animation", "Drama", "Action & Adventure", "Fantasy"]
 },
 
 {
@@ -3830,7 +3830,7 @@ let movies = [
           "posterImage": "https://www.justwatch.com/images/poster/281044992/s166/season-5.webp"
         },
       ],
-      "genre": ["Action & Adventure", "Crime", "Drama", "Mystery & Thriller"],
+      "genre": ["Mystery & Thriller", "Action & Adventure", "Crime", "Drama"]
 },
 
 {
@@ -3863,9 +3863,6 @@ let movies = [
   "genre": ["Fantasy", "Horror", "Drama", "Mystery & Thriller"]
 },
 
-
-
-
 {
   "id": 117,
   "title": "ATTACK ON TITAN",
@@ -3892,8 +3889,33 @@ let movies = [
   "seenText": "Seen",
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "LV-nazLVmgo",
-  "type": ["anime", "hollywood"],
-  "genre": ["Action & Adventure", "Fantasy", "Drama", "Fantasy", "Science-Fiction"]
+  "type": ["anime", "hollywood","series"],
+  "seasons": [ // Add season details here
+    {
+      "seasonNumber": 1,
+      "episodes": 25,
+      "posterImage": "https://www.justwatch.com/images/poster/130288291/s166/season-1.webp"
+    },
+
+    {
+      "seasonNumber": 2,
+      "episodes": 12,
+      "posterImage": "https://www.justwatch.com/images/poster/130288324/s166/season-2.webp"
+    },
+
+    {
+      "seasonNumber": 3,
+      "episodes": 22,
+      "posterImage": "https://www.justwatch.com/images/poster/241158061/s166/season-3.webp"
+    },
+
+    {
+      "seasonNumber": 4,
+      "episodes": 30,
+      "posterImage": "https://www.justwatch.com/images/poster/307580701/s166/season-4.webp"
+    }
+  ],
+  "genre": ["Animation", "Action & Adventure", "Drama", "Fantasy", "Horror", "Science-Fiction"]
 },
 
 
@@ -3958,7 +3980,7 @@ let movies = [
   "syncText": "Sign in to sync Watch List",
   "videoId" : "5fKn0Dhj64w",
   "type" : "hollywood",
-  "genre": ["Comedy", "Romance"]
+  "genre": ["Drama", "Comedy", "Romance"]
 },
 
 
@@ -3990,7 +4012,7 @@ let movies = [
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "uV50UfcIT68",
   "type" : "bollywood",
-  "genre": ["Romance", "Comedy", "Drama"]
+  "genre": ["Drama", "Comedy", "Romance"]
 
 
 },
@@ -3998,7 +4020,7 @@ let movies = [
 
 {
   "id": 121,
-  "title": "DEMON SLAYER",
+  "title": "DEMON SLAYER: Kimetsu no Yaiba",
   "year": 2019,
   "rank": 29,
   "rankChange": "▲ +6",
@@ -4054,7 +4076,7 @@ let movies = [
           "posterImage": "https://www.justwatch.com/images/poster/320272943/s166/season-5.webp"
         },
       ],
-      "genre": ["Action", "Adventure", "Drama"]
+      "genre": ["Action & Adventure", "Science-Fiction", "Fantasy", "Mystery & Thriller", "Animation"]
 
 },
 
@@ -4175,7 +4197,7 @@ let movies = [
   "seenText": "Seen all",
   "syncText": "Sign in to sync Watch List", 
   "videoId" : "NkdCgjqQq7s",
-  "type": ["series", "hollywood"],
+  "type": ["series", "bollywood"],
   "seasons": [ // Add season details here
         {
           "seasonNumber": 1,
@@ -4201,7 +4223,7 @@ let movies = [
           "posterImage": "https://www.justwatch.com/images/poster/310330522/s166/season-4.webp"
         },
       ],
-      "genre" :["Comedy", "Drama", "Romance"]
+      "genre" :[ "Drama", "Comedy", "Romance"]
 },
 
 {
@@ -4245,7 +4267,7 @@ let movies = [
     },
 
   ],
-  "genre": ["Science-Fiction", "Mystery & Thriller", "Action & Adventure", "Drama"]
+  "genre": ["Action & Adventure", "Drama", "Science-Fiction", "Mystery & Thriller"]
   
 },
 
@@ -4400,7 +4422,7 @@ let movies = [
       "posterImage": "https://www.justwatch.com/images/poster/307436638/s166/season-4.webp"
     },
   ],
-  "genre": ["Comedy", "Drama"],
+  "genre": ["Drama", "Comedy", "Romance"]
 },
 
 {
@@ -4430,7 +4452,7 @@ let movies = [
   "syncText": "sing in to watch list",
   "videoId": "aninoDcPWo4" ,
   "type" : ["bolllywood","tollywood"],
-  "genre": ["Drama", "Romance", "Science-Fiction", "Action & Adventure", "Comedy", "Crime", "Mystery & Thriller"],
+  "genre": ["Action & Adventure"," Drama", "Fantasy", "Science-Fiction", "Mystery & Thriller"]
 },
 
 {
@@ -4460,7 +4482,7 @@ let movies = [
   "syncText": "sing in to watch list",
   "videoId": "n3ttNeXKPHg",
   "type" : "tollywood",
-  "genre": ["Drama", "Mystery & Thriller", "Action & Adventure", "Crime"]
+  "genre": ["Mystery & Thriller", "Action & Adventure", "Crime", "Drama"]
 },
 
 {
@@ -4527,7 +4549,7 @@ let movies = [
         "posterImage": "https://images.justwatch.com/poster/256495457/s166/season-6.webp"
       },
     ],
-    "genre": ["Science-Fiction", "Fantasy", "Crime", "Drama"],
+    "genre": ["Science-Fiction", "Crime", "Drama", "Fantasy"]
 },
 
 
@@ -4625,7 +4647,7 @@ let movies = [
         "posterImage": "https://images.justwatch.com/poster/306348518/s166/season-11.webp"
       },
     ],
-    "genre" : ["Action & Adventure", "Science-Fiction", "Horror", "Mystery & Thriller", "Drama"]
+    "genre" : ["Science-Fiction", "Action & Adventure", "Drama", "Horror", "Mystery & Thriller"]
 },
 
 {
@@ -4680,7 +4702,7 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/316281397/s166/season-4.webp"
       },
     ], 
-    "genre": ["Comedy", "Drama", "Romance"]
+    "genre": ["Drama", "Romance", "Comedy"]
   },
 
   {
@@ -4693,7 +4715,7 @@ let movies = [
     "imdbRating": 8.4,
     "imdbVotes": "5.3k",
     "backdropImage": "https://www.justwatch.com/images/backdrop/305701430/s1440/gutar-gu.webp/gutar-gu.webp",
-    "posterImage": "https://m.media-amazon.com/images/M/MV5BYzFhYjBmZWQtZGY0My00N2NmLWJiYzUtNzNmNDQ4NGM4MjljXkEyXkFqcGc@._V1_.jpg",
+    "posterImage": "https://m.media-amazon.com/images/M/MV5BODk2MzUzYjEtNGU4Mi00N2EyLWFlNzUtZjk1YjQ2MWMzOGE4XkEyXkFqcGc@._V1_.jpg",
     "duration": "30min",
     "highestRank": 64,
     "top10Days": 9,
@@ -4783,7 +4805,7 @@ let movies = [
         "posterImage": "https://images.justwatch.com/poster/8594362/s166/season-5.webp"
       },
     ],
-    "genre": ["Drama", "Crime", "Mystery & Thriller"]
+    "genre": ["Crime", "Drama", "Mystery & Thriller"]
   },
 
   
@@ -4851,7 +4873,7 @@ let movies = [
         "posterImage": "https://images.justwatch.com/poster/265096894/s166/season-6.webp"
       }, 
     ],
-    "genre": ["Drama", "Mystery & Thriller", "Crime"]
+    "genre": ["Crime", "Drama", "Mystery & Thriller"]
   },
 
 
@@ -4881,7 +4903,7 @@ let movies = [
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "1JLUn2DFW4w",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -4973,31 +4995,31 @@ let movies = [
         "posterImage": "https://images.justwatch.com/poster/256744176/s166/season-15.webp"
       }, 
     ],
-    "genre": ["Science-Fiction", "Drama", "Mystery & Thriller", "Fantasy", "Horror"]
+    "genre": ["Mystery & Thriller", "Science-Fiction", "Drama", "Fantasy", "Horror"]
   },
 
   {
     "id":137,
-    "title": "The Office ",
-    "year": 2005,
-    "rank": 100,
-    "rankChange": "▲ +12",
+    "title": "Dark",
+    "year": 2017,
+    "rank": 66,
+    "rankChange": "▲ +320",
     "rating": 94,
-    "imdbRating": 9.0,
-    "imdbVotes": "739k",
-    "backdropImage": "https://www.justwatch.com/images/backdrop/304433230/s1440/the-office.webp/the-office.webp",
-    "posterImage": "https://picfiles.alphacoders.com/401/thumb-401551.jpg",
-    "duration": "24min",
-    "highestRank": 2,
-    "top10Days": 20,
-    "top100Days": 2127,
-    "top1000Days": 3040,
+    "imdbRating": 8.7,
+    "imdbVotes": "464k",
+    "backdropImage": "https://www.justwatch.com/images/backdrop/34479143/s1440/dark.webp/dark.webp",
+    "posterImage": "https://m.media-amazon.com/images/I/91-tOC-2EQL._AC_UF1000,1000_QL80_.jpg",
+    "duration": "56min",
+    "highestRank": 1,
+    "top10Days": 87,
+    "top100Days": 738,
+    "top1000Days": 2517,
     "watchOptions": [
       {"platform": "Netflix", "price": "Rs200/-"},
       {"platform": "Amazon Prime", "price": "Rs500/-"}
     ],
-    "likes": "37k",
-    "dislikes": "2.5k",
+    "likes": "30k",
+    "dislikes": "1k",
     "watchlistText": "Watchlist",
     "seenText": "Seen",
     "syncText": "Sign in to Sync Watchlist",
@@ -5006,60 +5028,23 @@ let movies = [
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
-        "episodes": 6,
-        "posterImage": "https://images.justwatch.com/poster/245581596/s166/season-1.webp"
+        "episodes": 10,
+        "posterImage": "https://www.justwatch.com/images/poster/32769879/s166/season-1.webp"
       },
 
       {
         "seasonNumber": 2,
-        "episodes": 22,
-        "posterImage": "https://images.justwatch.com/poster/238556208/s166/season-2.webp"
+        "episodes": 8,
+        "posterImage": "https://www.justwatch.com/images/poster/272652674/s166/season-2.webp"
       },
 
       {
         "seasonNumber": 3,
-        "episodes": 23,
-        "posterImage": "https://images.justwatch.com/poster/245581579/s166/season-3.webp"
+        "episodes": 8,
+        "posterImage": "https://www.justwatch.com/images/poster/191377514/s166/season-3.webp"
       },
-
-      {
-        "seasonNumber": 4,
-        "episodes":14,
-        "posterImage": "https://images.justwatch.com/poster/238555997/s166/season-4.webp"
-      },
-
-      {
-        "seasonNumber": 5,
-        "episodes": 26,
-        "posterImage": "https://images.justwatch.com/poster/238555958/s166/season-5.webp"
-      }, 
-
-      {
-        "seasonNumber": 6,
-        "episodes": 26,
-        "posterImage": "https://images.justwatch.com/poster/245582099/s166/season-6.webp"
-      }, 
-
-      {
-        "seasonNumber": 7,
-        "episodes": 24,
-        "posterImage": "https://images.justwatch.com/poster/238555894/s166/season-7.webp"
-      }, 
-
-      {
-        "seasonNumber": 8,
-        "episodes": 24,
-        "posterImage": "https://images.justwatch.com/poster/238555860/s166/season-8.webp"
-      }, 
-
-      {
-        "seasonNumber": 9,
-        "episodes": 23,
-        "posterImage": "https://images.justwatch.com/poster/8603758/s166/season-9.webp"
-      }, 
-
     ],
-    "genres": ["Comedy"],
+    "genres": ["Science-Fiction", "Mystery & Thriller", "Crime", "Drama"],
   },
 
 
@@ -5152,7 +5137,7 @@ let movies = [
         "posterImage": "https://images.justwatch.com/poster/302759152/s166/season-10.webp"
       }, 
     ],
-    "genre": ["Action & adventure", "Mystery & Thriller", "Drama", "Crime"]
+    "genre": ["Mystery & Thriller", "Drama", "Crime"]
   },
 
 
@@ -5232,7 +5217,7 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/150304764/s166/season-8.webp"
       }, 
     ],
-    "genre": ["Action & Adventure", "Crime", "Drama", "Science-Fiction"]
+    "genre": ["Crime", "Drama", "Action & Adventure", "Science-Fiction"]
     
   },
 
@@ -5277,7 +5262,7 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/320137019/s166/season-2.webp"
       },
     ],
-    "genre": ["Crime", "Drama", "Mystery & Thriller", "Action & Adventure"]
+    "genre": ["Drama", "Mystery & Thriller", "Crime"]
   },
 
   {
@@ -5336,7 +5321,7 @@ let movies = [
     "seenText": "Seenall",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "hljQfJLQmaI",
-    "type" : "series",
+    "type" :["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -5402,7 +5387,7 @@ let movies = [
     "seenText": "Seenall",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "81PyH5TH-NQ",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -5463,7 +5448,7 @@ let movies = [
     "seenText": "Seenall",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "ZO-XX1UpsqY",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -5517,7 +5502,7 @@ let movies = [
     "seenText": "Seenall",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "A7qOi8VyxG8",
-    "type" : "series",
+    "type" : ["series", "hollywood"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
