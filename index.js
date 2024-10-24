@@ -5836,12 +5836,12 @@ let movies = [
 
     {
       "name": "Kushina Uzumaki",
-      "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/Featured-Image-Boa-Hancock-Cropped.jpg"
+      "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/617a2871-8317-49db-9847-3e15ea2c3f21/width=1200/617a2871-8317-49db-9847-3e15ea2c3f21.jpeg"
     },
 
     {
       "name": "karin",
-      "photo": "https://i.pinimg.com/originals/02/a0/ef/02a0ef57af24aa729ec4128505e1234a.jpg"
+      "photo": "https://image.cdn2.seaart.ai/2024-02-07/cn1mvtde878c73bg0f10/82340e34d58721257beb8b2719f46574bc9f59bf_high.webp"
     },
 
     {
