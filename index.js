@@ -5977,7 +5977,47 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/8603952/s166/season-23.webp"
       },
     ],
-    "genre": ["Animation", "Action & Adventure", "Science-Fiction", "Comedy", "Drama", "Fantasy", "Kids & Family"] 
+    "genre": ["Animation", "Action & Adventure", "Science-Fiction", "Comedy", "Drama", "Fantasy", "Kids & Family"] ,
+    "description": "One Piece is a legendary adventure anime based on the manga by Eiichiro Oda. It follows the journey of Monkey D. Luffy, a young pirate with the dream of becoming the Pirate King by finding the mysterious and coveted treasure known as the One Piece. Set in a vast world filled with dangerous seas, mythical creatures, and powerful pirates, the story is full of excitement, humor, and heartwarming moments.Luffy, who gains rubber-like abilities after eating a Devil Fruit, assembles a diverse crew known as the Straw Hat Pirates, each member with their unique dreams and backstories. Together, they sail across the Grand Line, facing dangerous enemies, powerful marine forces, and other pirates who are also searching for the One Piece.",
+    "cast": [
+    {
+      "name": "Monkey D. Luffy",
+      "photo": "https://i.pinimg.com/564x/b7/27/58/b7275872bc129499881522ce5e50af92.jpg"
+    },
+
+    {
+      "name": "Nami",
+      "photo": "https://i.redd.it/t9qp8kpwzflb1.jpg"
+    },
+
+    {
+      "name": "Roronona Zoro",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCaWnGpOtkn4H_fT5lWGJ-uSQbPMkDqeClDg&s"
+    },
+
+    {
+      "name": "Nico Robin",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs0O2Shk0B7GLiKcMbpWHNfSfnoA3PBhfQgw&s"
+    },
+
+    {
+      "name": "Shanks",
+      "photo": "https://i.pinimg.com/236x/3e/4f/3f/3e4f3f27cdb811344a9e2b67676250cd.jpg"
+    },
+
+    {
+      "name": "Boa Hancock",
+      "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/5fad0c18-84e0-4ab1-953f-64d5ec6a1b94/width=1200/5fad0c18-84e0-4ab1-953f-64d5ec6a1b94.jpeg"
+    },
+
+    {
+      "name": "Monkey D. Garp",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CMV0tbhWKR8bx-HKXrvEMcK9jW445Bmq-g3vXyoz97WubFNSceTp-KLvPLS86pOqqfc&usqp=CAU"
+    }
+
+  ]
+
+    
   },
 
   {
