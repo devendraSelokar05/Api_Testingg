@@ -94,7 +94,7 @@ let movies = [
         "posterImage": "https://images.justwatch.com/poster/123167430/s166/season-8.webp"
       },
     ],
-    "genre": ["Science-Fiction", "Drama"," Action & Adventure", "Fantasy"]
+    "genre": ["Science-Fiction", "Drama","Action & Adventure", "Fantasy"]
 
   },
  
@@ -5977,7 +5977,7 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/8603952/s166/season-23.webp"
       },
     ],
-    "genre": ["Animation", "Action & Adventure", "Science-Fiction", "Comedy", "Drama", "Fantasy"] 
+    "genre": ["Animation", "Action & Adventure", "Science-Fiction", "Comedy", "Drama", "Fantasy", "Kids & Family"] 
   },
 
   {
@@ -6007,7 +6007,7 @@ let movies = [
     "seenText": "Seenall",
     "syncText": "Sign in to Sync Watchlist",
     "videoId": "UUeqpuZobBw",
-    "type" : ["series", "hollywood", "anime"],
+    "type" : ["series", "hollywood", "anime", "Kids & Family"],
     "seasons": [ // Add season details here
       {
         "seasonNumber": 1,
@@ -6033,7 +6033,7 @@ let movies = [
         "posterImage": "https://www.justwatch.com/images/poster/320055932/s166/season-4.webp"
       },
     ],
-    "genre": ["Science-Fiction", "Animation"," Drama", "Action & Adventure", "Fantasy", "Horror", "Mystery & Thriller"]
+    "genre": ["Science-Fiction", "Animation"," Drama", "Action & Adventure", "Fantasy", "Horror", "Mystery & Thriller", "Kids & Family"]
 
     }
 
@@ -6065,28 +6065,45 @@ app.get('/api/New-movies', (req, res) => {
     }
 
     // Filter by type if present
-    if (typeQuery) {
-      console.log('Filtering by type:', typeQuery); // Debug log for typeQuery
-      filteredMovies = filteredMovies.filter(movie => {
-        console.log('Checking movie type:', movie.type); // Debug log for movie type
-        return movie.type && movie.type.toLowerCase() === typeQuery; // Check if movie.type exists
-      });
+    // Filter by type if present
+if (typeQuery) {
+  console.log('Filtering by type:', typeQuery); // Debug log for typeQuery
+  filteredMovies = filteredMovies.filter(movie => {
+    console.log('Checking movie type:', movie.type); // Debug log for movie type
 
-      if (filteredMovies.length === 0) {
-        return res.status(404).json({ message: 'No movies found for this type' });
-      }
+    // Handle both string and array types for movie.type
+    if (Array.isArray(movie.type)) {
+      return movie.type.some(t => t.toLowerCase() === typeQuery); // Check if any type matches the query
+    } else {
+      return movie.type.toLowerCase() === typeQuery; // Handle string case
     }
+  });
+
+  if (filteredMovies.length === 0) {
+    return res.status(404).json({ message: 'No movies found for this type' });
+  }
+}
+
 
     // Filter by genre if present
-    if (genreQuery) {
-      console.log('Filtering by genre:', genreQuery); // Debug log for genreQuery
-      filteredMovies = filteredMovies.filter(movie => 
-        movie.genre && movie.genre.some(g => g.toLowerCase() === genreQuery)
+    if (req.query.genre) {
+      const genreQueries = Array.isArray(req.query.genre) ? req.query.genre : [req.query.genre];
+      const normalizedGenres = genreQueries.map(g => g.toLowerCase().trim());
+    
+      console.log('Filtering by genres:', normalizedGenres); // Debug log for genres
+      filteredMovies = filteredMovies.filter(movie =>
+        movie.genre && movie.genre.some(g => normalizedGenres.includes(g.toLowerCase()))
       );
+    
+      // Check if no movies were found after filtering
+      if (filteredMovies.length === 0) {
+        return res.status(404).json({ message: 'No movies found for these genres' });
+      }
     }
-
+    
     // Return filtered movies or all if none matched
     res.json(filteredMovies.length > 0 ? filteredMovies : movies);
+    
   } catch (error) {
     console.error('Error occurred:', error);
     res.status(500).json({ message: 'Internal Server Error', error: error.message });
