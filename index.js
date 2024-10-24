@@ -5992,7 +5992,7 @@ let movies = [
 
     {
       "name": "Roronona Zoro",
-      "photo": "https://www.dexerto.com/cdn-image/wp-content/uploads/2023/04/20/one-piece-zoro-in-wano-arc.jpeg?width=1200&quality=60&format=auto"
+      "photo": "https://imagedelivery.net/LBWXYQ-XnKSYxbZ-NuYGqQ/e3626abf-41c9-4d6e-a4ed-b920e30dda00/avatarhd"
     },
 
     {
