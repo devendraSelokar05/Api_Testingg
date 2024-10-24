@@ -5665,7 +5665,7 @@ let movies = [
 
     {
       "name": "All Might",
-      "photo": "https://wallpapersmug.com/download/1024x768/c06b3c/my-hero-academia-all-might-23.jpg"
+      "photo": "https://wallpapers.com/images/hd/all-anime-my-hero-academia-sl2elsl50nf0vsrr.jpg"
     },
 
     {
