@@ -5643,7 +5643,7 @@ let movies = [
     "imdbRating": 8.7,
     "imdbVotes": "541k",
     "backdropImage": "https://www.justwatch.com/images/backdrop/186994372/s1440/naruto-shippuden.webp/naruto-shippuden.webp",
-    "posterImage": "https://m.media-amazon.com/images/I/91gZANzFVKL._AC_UF894,1000_QL80_.jpg",
+    "posterImage": "https://m.media-amazon.com/images/I/810Xo+d8xlL._AC_UF1000,1000_QL80_.jpg",
     "duration": "24min",
     "highestRank": 1,
     "top10Days": 24,
