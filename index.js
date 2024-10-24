@@ -5576,7 +5576,7 @@ let movies = [
     {
       "name": "Erin Hanon",
       "role" : "Ellie kamper",
-      "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9b168765-6ef5-49c5-bc51-ec922fb5f6f5/width=450/00097-3698261222-,%203R1nH,%20office,%20sitting,%20sexy,%20beautiful,%20cute,%20realistic,%20soft%20focus,%20black%20skirt,%20pink%20blouse,%20hd,%20best%20quality,%20masterpiece.jpeg"
+      "photo": "https://brobible.com/wp-content/uploads/2018/09/best-of-erin-the-office-moments.jpg"
     },
 
     {
@@ -5600,7 +5600,7 @@ let movies = [
     {
       "name": "Karen Filippelli",
       "role" : "Rashida Jones",
-      "photo": "https://wallpapers.com/images/hd/all-anime-my-hero-academia-sl2elsl50nf0vsrr.jpg"
+      "photo": "https://www.nbc.com/sites/nbcblog/files/2023/07/the-office-karen-filippelli-4.jpg"
     },
 
     {
