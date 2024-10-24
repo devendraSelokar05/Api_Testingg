@@ -5836,7 +5836,7 @@ let movies = [
 
     {
       "name": "Kushina Uzumaki",
-      "photo": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/617a2871-8317-49db-9847-3e15ea2c3f21/width=1200/617a2871-8317-49db-9847-3e15ea2c3f21.jpeg"
+      "photo": "https://imgix.ranker.com/list_img_v2/2543/2742543/original/best-kushina-uzumaki-quotes?fit=crop&fm=pjpg&q=80&dpr=2&w=1200&h=720"
     },
 
     {
