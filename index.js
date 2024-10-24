@@ -5670,7 +5670,7 @@ let movies = [
 
     {
       "name": "Eijiro Kirishima",
-      "photo": "https://images.wallpapersden.com/image/download/red-riot-eijiro-kirishima_a21sZW6UmZqaraWkpJRmaWllrWdqa2U.jpg"
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVx7mrEaZBNphzZTiOE8gUCTf4ioaP7HaBsQ&s"
     },
 
     {
@@ -5682,18 +5682,6 @@ let movies = [
       "name": "Momo Yaoyorozu",
       "photo": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/03/My-Hero-Academia-Momo-Yaoyorozu-Feature.jpg"
     },
-
-    
-    {
-      "name": "Monkey D. Dragon",
-      "photo": "https://wallpapers.com/images/hd/monkey-d-dragon-digital-portrait-4eljzh8l5vplhk4j.jpg"
-    },
-
-    
-    {
-      "name": "Tonny Tonny Chopper",
-      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfZnp3E6Rqgo3rO0OneflEfvzqZ74fAmQkg&s"
-    }
 
   ] 
   },
